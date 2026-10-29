@@ -1,12 +1,14 @@
 name: Medios para publicar
 
-# Claude sube a la rama "medios" una carpeta NN/ con el MP4 final y la portada.
-# Esta acción los publica como release "video-NN" para que Metricool tenga un enlace público:
-#   https://github.com/<dueño>/<repo>/releases/download/video-NN/<archivo>
-# Después deja la rama "medios" vacía para que el repositorio no crezca con cada video.
+# 1. Claude sube a la rama "medios" una carpeta NN/ con el MP4 final y la portada.
+# 2. Después sube a main videos/NN-tema/medios.json: {"numero": "NN", "archivos": ["FlashDatos_NN.mp4", "FlashDatos_NN_portada.jpg"]}
+# 3. Esta acción publica esos archivos como release "video-NN", para que Metricool tenga un enlace público:
+#      https://github.com/<dueño>/<repo>/releases/download/video-NN/<archivo>
+#    Escribe videos/NN-tema/medios_estado.json con los enlaces y deja la rama "medios" vacía.
 on:
   push:
-    branches: [medios]
+    branches: [main]
+    paths: ["videos/*/medios.json"]
 
 permissions:
   contents: write
@@ -23,35 +25,30 @@ jobs:
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           ref: medios
+          path: _medios
       - name: Crear o actualizar los releases
+        run: python3 .github/scripts/medios.py
+      - name: Guardar los enlaces en main
         run: |
-          shopt -s nullglob
-          : > enlaces.txt
-          for d in */; do
-            n="${d%/}"
-            files=("$n"/*.mp4 "$n"/*.jpg "$n"/*.png)
-            [ ${#files[@]} -eq 0 ] && continue
-            tag="video-$n"
-            if gh release view "$tag" >/dev/null 2>&1; then
-              gh release upload "$tag" "${files[@]}" --clobber
-            else
-              gh release create "$tag" "${files[@]}" --target main --title "Video $n" --notes "Archivos del video $n de Flash Datos, listos para publicar."
-            fi
-            for f in "${files[@]}"; do
-              url="https://github.com/${GITHUB_REPOSITORY}/releases/download/$tag/$(basename "$f")"
-              code=$(curl -sIL -o /dev/null -w '%{http_code} %{content_type} %{size_download}' "$url")
-              echo "$url $code" | tee -a enlaces.txt
-            done
-          done
+          git config user.name "flashdatos-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add videos/*/medios_estado.json
+          if ! git diff --cached --quiet; then
+            git commit -qm "Medios publicados"
+            for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
+          fi
       - name: Vaciar la rama medios
+        working-directory: _medios
         run: |
           git config user.name "flashdatos-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -q --orphan vacia
-          git rm -rq --cached . || true
-          printf "Rama temporal: aquí Claude sube el video del día y la acción lo convierte en release.\n" > LEEME.md
+          git rm -rq --cached . >/dev/null 2>&1 || true
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          printf "Rama temporal: aquí Claude sube el video del día y la acción medios.yml lo convierte en release.\n" > LEEME.md
           git add LEEME.md
-          git commit -qm "Medios publicados como release"
+          git commit -qm "Rama medios vacía"
           git push -f origin vacia:medios
