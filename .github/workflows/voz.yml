@@ -1,0 +1,33 @@
+name: Voz (ElevenLabs)
+
+# Claude sube videos/NN-tema/voz/pedido.json y esta acción deja voz/narracion.mp3 y voz/estado.json en el repositorio.
+on:
+  push:
+    branches: [main]
+    paths: ["videos/*/voz/pedido.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: voz
+  cancel-in-progress: false
+
+jobs:
+  voz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generar o descargar la narración
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python3 .github/scripts/voz.py
+      - name: Guardar en el repositorio
+        run: |
+          git config user.name "flashdatos-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add videos/*/voz/
+          if git diff --cached --quiet; then echo "nada nuevo"; exit 0; fi
+          git commit -m "Voz lista"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

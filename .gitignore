@@ -1,0 +1,10 @@
+# Se regeneran en cada sesión
+motor/tex/
+tex/
+out/
+frames_test/
+review/
+__pycache__/
+*.pyc
+# Los MP4 finales no van en main: se publican como release desde la rama "medios"
+*.mp4
