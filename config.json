@@ -1,0 +1,23 @@
+{
+ "canal": "Flash Datos",
+ "zona_horaria": "America/Mexico_City",
+ "utc_offset": "-06:00",
+ "hora_publicacion": "17:00",
+ "repo": "gaelcuenta209-byte/flashdatos",
+ "release_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-{NN}/{archivo}",
+ "metricool": {
+  "blogId": "7723504",
+  "redes": {"youtube": "UCQT5xP9oDSvMOSEB3lgRJLg", "instagram": "flash_datos", "tiktok": "TurboDatos"},
+  "borrador_de_prueba": {"id": 410512237, "uuid": "-7795350070181869143", "nota": "Borrador del 2026-12-31 creado para probar el sistema. Nunca publicarlo; el dueño puede borrarlo."}
+ },
+ "elevenlabs": {
+  "voice_id": "HS7W0ly7cmPolP5WMyz9",
+  "voz": "Carlos Garza - Mexican Narrator",
+  "model_id": "eleven_v4"
+ },
+ "metricas": {
+  "youtube": ["YTVV17", "YTVV02", "YTVV05", "YTVV06", "YTVV08", "YTVV09", "YTVV11", "YTVV12", "YTEV01", "YTEV05"],
+  "instagram_reels": ["IGRE02", "IGRE03", "IGRE06", "IGRE23", "IGRE11", "IGRE24", "IGRE27", "IGRE28", "IGRE12", "IGRE21", "IGRE10"],
+  "tiktok": ["TKPO02", "TKPO03", "TKPO05", "TKPO07", "TKPO11", "TKPO13", "TKPO15", "TKPO08", "TKPO10", "TKPO16"]
+ }
+}

@@ -8,8 +8,13 @@
    "titulo": "¿Cuántas Tierras caben en el Sol? 🌍☀️ #shorts",
    "fecha_publicacion": "YouTube 2026-10-28 17:20 (CDMX); Instagram 2026-10-28 17:43 (CDMX)",
    "estado": "publicado",
-   "youtube": "https://youtube.com/shorts/b4X-BySGnY0",
-   "instagram": "Reel de @flash_datos publicado el 2026-10-28 a las 17:43 (ver Meta Business Suite > Contenido)"
+   "enlaces": {
+    "youtube": "https://youtube.com/shorts/b4X-BySGnY0",
+    "instagram": "Reel de @flash_datos (2026-10-28 17:43)",
+    "tiktok": null
+   },
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-01/FlashDatos_01.mp4",
+   "metricool": null
   }
  ]
 }
