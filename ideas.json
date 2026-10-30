@@ -98,14 +98,6 @@
    ]
   }
  ],
- "pedidos": [
-  {
-   "fecha": "2026-10-30",
-   "hora_publicacion": "12:00",
-   "tema": "Parte 2 del Apolo 11: la primera misión espacial y el camino a la Luna — Sputnik 1 (1957), Yuri Gagarin (1961) y otros personajes de la carrera espacial",
-   "titulo_sugerido": "⚡ Antes del Apolo 11: la primera misión espacial (Parte 2)",
-   "nota": "Pedido del dueño el 2026-10-29. Es la continuación del video 03; no repetir lo del Apolo 11 (tripulación, Saturno V, Eagle). Mencionar al inicio o al final que es la parte 2."
-  }
- ],
+ "pedidos": [],
  "elegida": null
 }
