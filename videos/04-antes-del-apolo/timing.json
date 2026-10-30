@@ -1,0 +1,114 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 44.04,
+ "segments": [
+  {
+   "id": "hook1",
+   "t0": 0.1,
+   "t1": 3.34,
+   "say": "Antes de pisar la Luna, había que salir de la Tierra.",
+   "parts": [
+    [
+     0.1,
+     3.34,
+     "Antes de la LUNA… había que SALIR de la Tierra"
+    ]
+   ]
+  },
+  {
+   "id": "hook2",
+   "t0": 3.97,
+   "t1": 5.72,
+   "say": "Parte dos del Apolo once.",
+   "parts": [
+    [
+     3.97,
+     5.72,
+     "PARTE 2 del Apolo 11"
+    ]
+   ]
+  },
+  {
+   "id": "sputnik",
+   "t0": 6.65,
+   "t1": 15.29,
+   "say": "En mil novecientos cincuenta y siete, la Unión Soviética lanzó el Sputnik uno: el primer satélite, una esfera que solo hacía bip.",
+   "parts": [
+    [
+     6.65,
+     11.37,
+     "1957: la URSS lanza el SPUTNIK 1"
+    ],
+    [
+     11.9,
+     15.29,
+     "El primer SATÉLITE: una esfera que hacía “BIP”"
+    ]
+   ]
+  },
+  {
+   "id": "gagarin",
+   "t0": 15.54,
+   "t1": 24.85,
+   "say": "En mil novecientos sesenta y uno, Yuri Gagarin fue el primer humano en el espacio. Le dio la vuelta a la Tierra en ciento ocho minutos.",
+   "parts": [
+    [
+     15.54,
+     21.31,
+     "1961: Yuri GAGARIN, primer humano en el espacio"
+    ],
+    [
+     21.77,
+     24.85,
+     "1 vuelta a la Tierra en 108 MINUTOS"
+    ]
+   ]
+  },
+  {
+   "id": "kennedy",
+   "t0": 25.51,
+   "t1": 29.9,
+   "say": "Semanas después, Kennedy prometió llegar a la Luna en esa misma década.",
+   "parts": [
+    [
+     25.51,
+     29.9,
+     "KENNEDY: a la Luna en esa misma DÉCADA"
+    ]
+   ]
+  },
+  {
+   "id": "pioneros",
+   "t0": 30.5,
+   "t1": 38.36,
+   "say": "Luego vinieron Valentina Tereshkova, la primera mujer en el espacio, y Alexéi Leonov, el primero en caminar fuera de su nave.",
+   "parts": [
+    [
+     30.5,
+     34.41,
+     "1963: TERESHKOVA, primera mujer en el espacio"
+    ],
+    [
+     34.78,
+     38.36,
+     "1965: LEONOV, primera caminata espacial"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 38.94,
+   "t1": 43.89,
+   "say": "Menos de doce años después del primer bip, dos humanos pisaron la Luna.",
+   "parts": [
+    [
+     38.94,
+     43.89,
+     "Menos de 12 años después del “BIP”… ¡la LUNA!"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 44.72
+}
