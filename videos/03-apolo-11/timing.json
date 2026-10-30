@@ -1,0 +1,147 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 49.55,
+ "segments": [
+  {
+   "id": "hook1",
+   "t0": 0.1,
+   "t1": 5.14,
+   "say": "El veinte de julio de mil novecientos sesenta y nueve, dos humanos pisaron la Luna.",
+   "parts": [
+    [
+     0.1,
+     5.14,
+     "20 de julio de 1969: dos HUMANOS pisan la LUNA"
+    ]
+   ]
+  },
+  {
+   "id": "hook2",
+   "t0": 5.79,
+   "t1": 6.43,
+   "say": "¿Cómo llegaron?",
+   "parts": [
+    [
+     5.79,
+     6.43,
+     "¿Cómo LLEGARON?"
+    ]
+   ]
+  },
+  {
+   "id": "cohete",
+   "t0": 6.97,
+   "t1": 11.23,
+   "say": "Despegaron en el Saturno Cinco, un cohete de ciento diez metros.",
+   "parts": [
+    [
+     6.97,
+     8.71,
+     "Despegaron en el SATURNO V"
+    ],
+    [
+     9.14,
+     11.23,
+     "un cohete de 110 metros"
+    ]
+   ]
+  },
+  {
+   "id": "tripulacion",
+   "t0": 11.72,
+   "t1": 20.63,
+   "say": "Eran tres: Neil Armstrong, el comandante. Buzz Aldrin, piloto del módulo lunar. Y Michael Collins, piloto del módulo de mando.",
+   "parts": [
+    [
+     11.72,
+     14.56,
+     "Neil ARMSTRONG: comandante"
+    ],
+    [
+     15.13,
+     17.46,
+     "Buzz ALDRIN: piloto del módulo lunar"
+    ],
+    [
+     17.98,
+     20.63,
+     "Michael COLLINS: piloto del módulo de mando"
+    ]
+   ]
+  },
+  {
+   "id": "viaje",
+   "t0": 21.21,
+   "t1": 25.39,
+   "say": "Viajaron trescientos ochenta y cuatro mil kilómetros en cuatro días.",
+   "parts": [
+    [
+     21.21,
+     25.39,
+     "384,000 km en 4 días"
+    ]
+   ]
+  },
+  {
+   "id": "separacion",
+   "t0": 25.85,
+   "t1": 32.43,
+   "say": "Armstrong y Aldrin bajaron en el módulo Eagle. Collins los esperó en órbita, solo, en el Columbia.",
+   "parts": [
+    [
+     25.85,
+     28.4,
+     "Armstrong y Aldrin bajan en el EAGLE"
+    ],
+    [
+     28.94,
+     32.43,
+     "Collins los espera en órbita, SOLO"
+    ]
+   ]
+  },
+  {
+   "id": "paso",
+   "t0": 32.94,
+   "t1": 41.55,
+   "say": "Armstrong bajó primero. Un pequeño paso para el hombre, un gran salto para la humanidad. Aldrin lo siguió diecinueve minutos después.",
+   "parts": [
+    [
+     32.94,
+     34.16,
+     "Armstrong bajó PRIMERO"
+    ],
+    [
+     34.67,
+     38.6,
+     "“Un pequeño paso para el hombre…”"
+    ],
+    [
+     39.05,
+     41.55,
+     "Aldrin, 19 minutos después"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 41.93,
+   "t1": 49.43,
+   "say": "Y así, unos seiscientos millones de personas vieron en vivo cómo, el veinte de julio de mil novecientos sesenta y nueve...",
+   "parts": [
+    [
+     41.93,
+     46.11,
+     "~600 millones lo vieron EN VIVO"
+    ],
+    [
+     46.46,
+     49.43,
+     "el 20 de julio de 1969…"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 50.26
+}
