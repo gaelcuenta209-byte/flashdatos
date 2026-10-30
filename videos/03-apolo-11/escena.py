@@ -316,7 +316,7 @@ def scene(t):
 
 
 # ---------------- textos ----------------
-HL_WORDS = {"humanos", "luna", "llegaron?", "saturno", "v", "armstrong", "aldrin", "collins", "eagle", "solo", "primero", "vivo", "km"}
+HL_WORDS = {"humanos", "luna", "llegaron?", "saturno", "v", "armstrong", "aldrin", "collins", "eagle", "solo", "primero", "vivo", "km", "otro", "mundo"}
 
 
 def groups_for_part(t0, t1, text):
@@ -646,7 +646,7 @@ def overlays(frame_u8, t, name, O, ex):
     draw_label(layer, t, 0.15, H2 - 0.05, "20 JUL 1969", ["2 humanos en la Luna"], YELLOW, 124)
     draw_label(layer, t, H2 - 0.05, FL[0], "¿CÓMO?", ["384,000 km de distancia"], WHITE, 140)
     draw_label(layer, t, CIE0 + 0.1, CIE_P2 - 0.05, "~600 MILLONES", ["lo vieron en vivo"], YELLOW, 112)
-    draw_label(layer, t, CIE_P2 - 0.05, FL[6], "20 JUL 1969", ["2 humanos en la Luna"], YELLOW, 124)
+    draw_label(layer, t, CIE_P2 - 0.05, FL[6], "20 JUL 1969", ["la humanidad,", "en otro mundo"], YELLOW, 124)
     draw_caption(layer, t)
     draw_watermark(layer)
     im.alpha_composite(layer)

@@ -2,29 +2,106 @@
  "id": "03",
  "title": "Así llegamos a la Luna: Apolo 11",
  "segments": [
-  {"id": "hook1", "parts": [
-   {"say": "El veinte de julio de mil novecientos sesenta y nueve, dos humanos pisaron la Luna.", "cap": "20 de julio de 1969: dos HUMANOS pisan la LUNA"}]},
-  {"id": "hook2", "parts": [
-   {"say": "¿Cómo llegaron?", "cap": "¿Cómo LLEGARON?"}]},
-  {"id": "cohete", "parts": [
-   {"say": "Despegaron en el Saturno Cinco,", "cap": "Despegaron en el SATURNO V"},
-   {"say": "un cohete de ciento diez metros.", "cap": "un cohete de 110 metros"}]},
-  {"id": "tripulacion", "parts": [
-   {"say": "Eran tres: Neil Armstrong, el comandante.", "cap": "Neil ARMSTRONG: comandante"},
-   {"say": "Buzz Aldrin, piloto del módulo lunar.", "cap": "Buzz ALDRIN: piloto del módulo lunar"},
-   {"say": "Y Michael Collins, piloto del módulo de mando.", "cap": "Michael COLLINS: piloto del módulo de mando"}]},
-  {"id": "viaje", "parts": [
-   {"say": "Viajaron trescientos ochenta y cuatro mil kilómetros en cuatro días.", "cap": "384,000 km en 4 días"}]},
-  {"id": "separacion", "parts": [
-   {"say": "Armstrong y Aldrin bajaron en el módulo Eagle.", "cap": "Armstrong y Aldrin bajan en el EAGLE"},
-   {"say": "Collins los esperó en órbita, solo, en el Columbia.", "cap": "Collins los espera en órbita, SOLO"}]},
-  {"id": "paso", "parts": [
-   {"say": "Armstrong bajó primero.", "cap": "Armstrong bajó PRIMERO"},
-   {"say": "Un pequeño paso para el hombre, un gran salto para la humanidad.", "cap": "“Un pequeño paso para el hombre…”"},
-   {"say": "Aldrin lo siguió diecinueve minutos después.", "cap": "Aldrin, 19 minutos después"}]},
-  {"id": "cierre", "parts": [
-   {"say": "Y así, unos seiscientos millones de personas vieron en vivo cómo,", "cap": "~600 millones lo vieron EN VIVO"},
-   {"say": "el veinte de julio de mil novecientos sesenta y nueve...", "cap": "el 20 de julio de 1969…"}]}
+  {
+   "id": "hook1",
+   "parts": [
+    {
+     "say": "El veinte de julio de mil novecientos sesenta y nueve, dos humanos pisaron la Luna.",
+     "cap": "20 de julio de 1969: dos HUMANOS pisan la LUNA"
+    }
+   ]
+  },
+  {
+   "id": "hook2",
+   "parts": [
+    {
+     "say": "¿Cómo llegaron?",
+     "cap": "¿Cómo LLEGARON?"
+    }
+   ]
+  },
+  {
+   "id": "cohete",
+   "parts": [
+    {
+     "say": "Despegaron en el Saturno Cinco,",
+     "cap": "Despegaron en el SATURNO V"
+    },
+    {
+     "say": "un cohete de ciento diez metros.",
+     "cap": "un cohete de 110 metros"
+    }
+   ]
+  },
+  {
+   "id": "tripulacion",
+   "parts": [
+    {
+     "say": "Eran tres: Neil Armstrong, el comandante.",
+     "cap": "Neil ARMSTRONG: comandante"
+    },
+    {
+     "say": "Buzz Aldrin, piloto del módulo lunar.",
+     "cap": "Buzz ALDRIN: piloto del módulo lunar"
+    },
+    {
+     "say": "Y Michael Collins, piloto del módulo de mando.",
+     "cap": "Michael COLLINS: piloto del módulo de mando"
+    }
+   ]
+  },
+  {
+   "id": "viaje",
+   "parts": [
+    {
+     "say": "Viajaron trescientos ochenta y cuatro mil kilómetros en cuatro días.",
+     "cap": "384,000 km en 4 días"
+    }
+   ]
+  },
+  {
+   "id": "separacion",
+   "parts": [
+    {
+     "say": "Armstrong y Aldrin bajaron en el módulo Eagle.",
+     "cap": "Armstrong y Aldrin bajan en el EAGLE"
+    },
+    {
+     "say": "Collins los esperó en órbita, solo, en el Columbia.",
+     "cap": "Collins los espera en órbita, SOLO"
+    }
+   ]
+  },
+  {
+   "id": "paso",
+   "parts": [
+    {
+     "say": "Armstrong bajó primero.",
+     "cap": "Armstrong bajó PRIMERO"
+    },
+    {
+     "say": "Un pequeño paso para el hombre, un gran salto para la humanidad.",
+     "cap": "“Un pequeño paso para el hombre…”"
+    },
+    {
+     "say": "Aldrin lo siguió diecinueve minutos después.",
+     "cap": "Aldrin, 19 minutos después"
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Unos seiscientos millones de personas lo vieron en vivo.",
+     "cap": "~600 millones lo vieron EN VIVO"
+    },
+    {
+     "say": "Ese día, por primera vez, la humanidad caminó en otro mundo.",
+     "cap": "Ese día, la humanidad caminó en OTRO MUNDO"
+    }
+   ]
+  }
  ],
  "ring_words": []
 }
