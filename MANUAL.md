@@ -61,12 +61,12 @@ Identidad visual: fondo espacial azul noche, subtítulos en Inter Black blanco c
 
 ## Flujo B — Video del día (9:00)
 
-1. `git pull`. Usar la idea de `ideas.json` cuyo número diga `elegida`; si no hay, la primera que no repita tema de `historial.json`. Número del video: el siguiente en `historial.json` (dos dígitos).
+1. `git pull`. **Si `historial.json` ya tiene un video con `fecha_programada` de hoy** (programado o esperando aprobación), no producir otro: avisar al dueño en un mensaje corto y terminar. Si no, usar la idea de `ideas.json` cuyo número diga `elegida`; si no hay, la primera que no repita tema de `historial.json`. Número del video: el siguiente en `historial.json` (dos dígitos).
 2. Verificar los datos (regla 5). Escribir `videos/NN-tema/script.json` con el formato del video 01:
    - segmentos → partes con `say` (cómo se dice, con números en palabras) y `cap` (el subtítulo, con cifras);
    - gancho en la primera frase;
    - un final que conecte con el inicio para que el video se repita solo.
-   Escribir también `guion.md` con las fuentes.
+   Escribir también `guion.md` con las fuentes. Si el dueño pidió otra hora de publicación, guardarla en `historial.json` (`fecha_programada`) y usarla en lugar de las 17:00.
 3. **Voz**: `creative_generate_speech` con `voice_id` y `model_id` de `config.json`. Como `prompt` va todo el texto (`say` de todas las partes) en un solo párrafo, sin saltos de línea. Esperar con `creative_get_flow_run_status`. De las dos tomas, elegir la más clara: en caso de duda, la primera.
 4. Escribir `videos/NN-tema/voz/pedido.json` con `{"url": "<content_url de la toma>", "generation_id": "...", "flow_id": "...", "voice_id": "...", "model_id": "..."}`, hacer commit y push. La acción **Voz (ElevenLabs)** baja el MP3 en menos de un minuto. Hacer `git pull` cada 15 s, hasta 5 minutos, hasta que exista `voz/narracion.mp3`, y leer `voz/estado.json`.
    - Si `ok` es false porque el enlace caducó (dura 2 h), pedir un enlace nuevo con `creative_get_flow_run_status`, borrar `estado.json`, actualizar `url` y hacer push otra vez.

@@ -15,6 +15,22 @@
    },
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-01/FlashDatos_01.mp4",
    "metricool": null
+  },
+  {
+   "numero": 2,
+   "tema": "Venus: un día dura más que un año",
+   "carpeta": "videos/02-venus-dia-y-anio",
+   "titulo": "En Venus, un día dura más que un año 🤯🪐 #shorts",
+   "fecha_programada": "2026-10-30 16:20 (CDMX)",
+   "estado": "esperando aprobación",
+   "enlaces": {
+    "youtube": null,
+    "instagram": null,
+    "tiktok": null
+   },
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-02/FlashDatos_02.mp4",
+   "metricool": null,
+   "nota": "Video de prueba del sistema en la nube; el dueño pidió publicarlo a las 4:20 p. m."
   }
  ]
 }

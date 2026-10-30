@@ -110,3 +110,18 @@ b2 = fbm(X * 11, Y * 11, Z * 11, 4, seed=53)
 bet = 0.65 + 0.55 * (b1 - 0.5) * 2 * 0.6 + 0.25 * (b2 - 0.5)
 np.save(os.path.join(OUT, "betelgeuse.npy"), bet.astype(np.float32))
 print("betelgeuse lista")
+
+# ---------- Venus (nubes amarillentas con bandas y forma de "Y") ----------
+w1 = fbm(X * 2.2, Y * 2.2, Z * 2.2, 4, seed=61) - 0.5
+streak = fbm(X * 3.0, Y * 14.0, Z * 3.0, 5, seed=63) - 0.5
+fine = fbm(X * 9.0, Y * 22.0, Z * 9.0, 3, seed=65) - 0.5
+chev = np.abs(lat) * 2.4 - 0.55 * np.cos(lon - 0.6)          # "Y" acostada que apunta al oeste
+phase = chev + w1 * 1.4 + streak * 0.9
+band = 0.5 + 0.5 * np.sin(phase * np.pi * 1.6)
+light_c = (0.99, 0.93, 0.76); mid_c = (0.93, 0.80, 0.55); dark_c = (0.76, 0.58, 0.34)
+ven = mix(light_c, mid_c, band)
+ven = mix(ven, dark_c, smooth(0.62, 0.95, band) * smooth(-0.1, 0.25, streak + 0.1) * 0.75)
+ven = ven * (1 + 0.10 * fine[..., None])
+ven = mix(ven, (0.99, 0.95, 0.85), smooth(0.85, 1.35, np.abs(lat)) * 0.8)   # polos más claros
+np.save(os.path.join(OUT, "venus.npy"), np.clip(ven, 0, 1).astype(np.float32))
+print("venus lista")

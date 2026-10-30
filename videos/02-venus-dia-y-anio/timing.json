@@ -1,0 +1,147 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 35.16,
+ "segments": [
+  {
+   "id": "hook1",
+   "t0": 0.1,
+   "t1": 2.74,
+   "say": "En Venus, un día dura más que un año.",
+   "parts": [
+    [
+     0.1,
+     2.74,
+     "En Venus, un DÍA dura más que un AÑO"
+    ]
+   ]
+  },
+  {
+   "id": "hook2",
+   "t0": 3.23,
+   "t1": 4.22,
+   "say": "Y no es un error.",
+   "parts": [
+    [
+     3.23,
+     4.22,
+     "Y no es un error."
+    ]
+   ]
+  },
+  {
+   "id": "dia",
+   "t0": 4.8,
+   "t1": 11.15,
+   "say": "Venus gira tan lento, que tarda doscientos cuarenta y tres días en dar una sola vuelta sobre sí mismo.",
+   "parts": [
+    [
+     4.8,
+     6.39,
+     "Venus gira tan lento"
+    ],
+    [
+     6.61,
+     11.15,
+     "que tarda 243 días en dar una sola vuelta"
+    ]
+   ]
+  },
+  {
+   "id": "anio",
+   "t0": 11.47,
+   "t1": 15.17,
+   "say": "Pero en darle la vuelta al Sol, solo tarda doscientos veinticinco.",
+   "parts": [
+    [
+     11.47,
+     13.17,
+     "Pero en darle la vuelta al Sol,"
+    ],
+    [
+     13.42,
+     15.17,
+     "solo tarda 225"
+    ]
+   ]
+  },
+  {
+   "id": "carrera",
+   "t0": 15.82,
+   "t1": 18.56,
+   "say": "Su año se termina... antes que su día.",
+   "parts": [
+    [
+     15.82,
+     17.1,
+     "Su año se termina…"
+    ],
+    [
+     17.56,
+     18.56,
+     "antes que su día"
+    ]
+   ]
+  },
+  {
+   "id": "reversa",
+   "t0": 19.06,
+   "t1": 24.97,
+   "say": "Y hay algo más raro: gira al revés. Allá, el Sol sale por el oeste.",
+   "parts": [
+    [
+     19.06,
+     20.5,
+     "Y hay algo más raro:"
+    ],
+    [
+     21.02,
+     22.3,
+     "gira AL REVÉS"
+    ],
+    [
+     22.92,
+     24.97,
+     "Allá, el Sol sale por el OESTE"
+    ]
+   ]
+  },
+  {
+   "id": "lento",
+   "t0": 25.44,
+   "t1": 30.75,
+   "say": "Su ecuador avanza a seis kilómetros y medio por hora. Trotando, le podrías ganar.",
+   "parts": [
+    [
+     25.44,
+     28.56,
+     "Su ecuador avanza a 6.5 km/h"
+    ],
+    [
+     29.03,
+     30.75,
+     "Trotando, le podrías ganar"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 31.35,
+   "t1": 35.07,
+   "say": "Así que en Venus... cumples años antes de que se acabe el día.",
+   "parts": [
+    [
+     31.35,
+     32.43,
+     "Así que en Venus…"
+    ],
+    [
+     32.78,
+     35.07,
+     "cumples años antes de que se acabe el día"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 35.9
+}
