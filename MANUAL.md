@@ -81,7 +81,8 @@ Identidad visual: fondo espacial azul noche, subtítulos en Inter Black blanco c
    - Después escribir en `main` el archivo `videos/NN-tema/medios.json` con `{"numero": "NN", "archivos": ["FlashDatos_NN.mp4", "FlashDatos_NN_portada.jpg"]}` y hacer push.
    - La acción **Medios para publicar** crea el release `video-NN` y escribe `medios_estado.json`. Esperar con `git pull` hasta que exista y diga `"ok": true`. El enlace queda así: `https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-NN/FlashDatos_NN.mp4`.
 10. Agregar el video a `historial.json` con `"estado": "esperando aprobación"` y hacer push.
-11. Mandar el video al dueño (SendUserFile) con:
+11. Mandar el video al dueño (SendUserFile) con los textos siguientes. **El rayo ⚡ es el símbolo del canal:** el título de YouTube, la descripción y el título de TikTok empiezan con ⚡ (ver `perfiles.md`).
+    Textos:
     - el título de YouTube (máximo 100 caracteres, con #shorts);
     - la descripción (2–3 líneas, la fuente y 4–6 hashtags);
     - el texto para Instagram y TikTok.
