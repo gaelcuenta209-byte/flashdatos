@@ -1,0 +1,8 @@
+{
+ "url": "https://storage.googleapis.com/xi-backend/database/workspace/ec2dd626b7064bf19989241152e45ff4/content_generation/BFuNpe19CvYuQPmtghFS/TuckJa70sWLhtMEUjtzl/content.mp3?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261030T144037Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=1791ed5e58c947f9da4ab262c4e63770ecdae7aecc64db5948332c4b6e9565a3fe6b84f441ea7fe058acf4245c1343fe0adcb752e6c1f78fea25a72861e868dd9c06464c4c9353ea180a75b6c3d21b1cb899f67c8c89f62e9be26ff4251d128ea3b090db4f931d6954f480258abc2f23b500106c187ead5b299e5bdb6a1ca431aee5581ffd7964faa2b48f946015e5178612806ba828e0c9a2179f9e4f1815f3b34b744383431135d8b8c8f67b31d81118d28864440402f23f321b3dacd401fb89f514be8816edf18cb3c53da9eb0f6a12424265ebf3ade48835438e61ab004afac2416299bbe999c9c76d0f36902105f9ba987aba6ebbceb6a8de2daaa05b9c",
+ "generation_id": "TuckJa70sWLhtMEUjtzl",
+ "flow_id": "xZQ4ZlnocHgXrnqY0EWM",
+ "voice_id": "HS7W0ly7cmPolP5WMyz9",
+ "model_id": "eleven_v4",
+ "toma": 1
+}

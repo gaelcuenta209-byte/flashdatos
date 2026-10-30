@@ -1,0 +1,24 @@
+{
+ "id": "04",
+ "title": "Antes del Apolo 11: la primera misión espacial (Parte 2)",
+ "segments": [
+  {"id": "hook1", "parts": [
+   {"say": "Antes de pisar la Luna, había que salir de la Tierra.", "cap": "Antes de la LUNA… había que SALIR de la Tierra"}]},
+  {"id": "hook2", "parts": [
+   {"say": "Parte dos del Apolo once.", "cap": "PARTE 2 del Apolo 11"}]},
+  {"id": "sputnik", "parts": [
+   {"say": "En mil novecientos cincuenta y siete, la Unión Soviética lanzó el Sputnik uno:", "cap": "1957: la URSS lanza el SPUTNIK 1"},
+   {"say": "el primer satélite, una esfera que solo hacía bip.", "cap": "El primer SATÉLITE: una esfera que hacía “BIP”"}]},
+  {"id": "gagarin", "parts": [
+   {"say": "En mil novecientos sesenta y uno, Yuri Gagarin fue el primer humano en el espacio.", "cap": "1961: Yuri GAGARIN, primer humano en el espacio"},
+   {"say": "Le dio la vuelta a la Tierra en ciento ocho minutos.", "cap": "1 vuelta a la Tierra en 108 MINUTOS"}]},
+  {"id": "kennedy", "parts": [
+   {"say": "Semanas después, Kennedy prometió llegar a la Luna en esa misma década.", "cap": "KENNEDY: a la Luna en esa misma DÉCADA"}]},
+  {"id": "pioneros", "parts": [
+   {"say": "Luego vinieron Valentina Tereshkova, la primera mujer en el espacio,", "cap": "1963: TERESHKOVA, primera mujer en el espacio"},
+   {"say": "y Alexéi Leonov, el primero en caminar fuera de su nave.", "cap": "1965: LEONOV, primera caminata espacial"}]},
+  {"id": "cierre", "parts": [
+   {"say": "Menos de doce años después del primer bip, dos humanos pisaron la Luna.", "cap": "Menos de 12 años después del “BIP”… ¡la LUNA!"}]}
+ ],
+ "ring_words": []
+}
