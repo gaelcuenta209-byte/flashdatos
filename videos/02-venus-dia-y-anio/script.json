@@ -1,0 +1,107 @@
+{
+ "id": "02",
+ "title": "En Venus, un día dura más que un año",
+ "segments": [
+  {
+   "id": "hook1",
+   "parts": [
+    {
+     "say": "En Venus, un día dura más que un año.",
+     "cap": "En Venus, un DÍA dura más que un AÑO"
+    }
+   ]
+  },
+  {
+   "id": "hook2",
+   "parts": [
+    {
+     "say": "Y no es un error.",
+     "cap": "Y no es un error."
+    }
+   ]
+  },
+  {
+   "id": "dia",
+   "parts": [
+    {
+     "say": "Venus gira tan lento,",
+     "cap": "Venus gira tan lento"
+    },
+    {
+     "say": "que tarda doscientos cuarenta y tres días en dar una sola vuelta sobre sí mismo.",
+     "cap": "que tarda 243 días en dar una sola vuelta"
+    }
+   ]
+  },
+  {
+   "id": "anio",
+   "parts": [
+    {
+     "say": "Pero en darle la vuelta al Sol,",
+     "cap": "Pero en darle la vuelta al Sol,"
+    },
+    {
+     "say": "solo tarda doscientos veinticinco.",
+     "cap": "solo tarda 225"
+    }
+   ]
+  },
+  {
+   "id": "carrera",
+   "parts": [
+    {
+     "say": "Su año se termina...",
+     "cap": "Su año se termina…"
+    },
+    {
+     "say": "antes que su día.",
+     "cap": "antes que su día"
+    }
+   ]
+  },
+  {
+   "id": "reversa",
+   "parts": [
+    {
+     "say": "Y hay algo más raro:",
+     "cap": "Y hay algo más raro:"
+    },
+    {
+     "say": "gira al revés.",
+     "cap": "gira AL REVÉS"
+    },
+    {
+     "say": "Allá, el Sol sale por el oeste.",
+     "cap": "Allá, el Sol sale por el OESTE"
+    }
+   ]
+  },
+  {
+   "id": "lento",
+   "parts": [
+    {
+     "say": "Su ecuador avanza a seis kilómetros y medio por hora.",
+     "cap": "Su ecuador avanza a 6.5 km/h"
+    },
+    {
+     "say": "Trotando, le podrías ganar.",
+     "cap": "Trotando, le podrías ganar"
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Así que en Venus...",
+     "cap": "Así que en Venus…"
+    },
+    {
+     "say": "cumples años antes de que se acabe el día.",
+     "cap": "cumples años antes de que se acabe el día"
+    }
+   ]
+  }
+ ],
+ "ring_words": []
+}
