@@ -1,0 +1,13 @@
+{
+ "numero": "03",
+ "fecha_utc": "2026-10-30T05:20:58Z",
+ "enlaces": {
+  "FlashDatos_03_final.mp4": {
+   "url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-03/FlashDatos_03_final.mp4",
+   "http": 206,
+   "tipo": "application/octet-stream",
+   "total": "bytes 0-1023/14416244"
+  }
+ },
+ "ok": true
+}
