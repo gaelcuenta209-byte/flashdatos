@@ -1,6 +1,103 @@
 {
- "actualizado": null,
- "ideas": [],
+ "actualizado": "2026-10-30",
+ "ideas": [
+  {
+   "numero": 1,
+   "tema": "Posible nuevo planeta enano más allá de Plutón (2026 ED138)",
+   "gancho": "Plutón podría tener un nuevo vecino… y es enorme.",
+   "por_que_viral": "Noticia de esta semana (28 de oct), en todos los medios; Plutón siempre genera nostalgia y debate (‘¿cuántos planetas hay?’).",
+   "dato_principal": "El observatorio Vera Rubin halló su primer candidato a planeta enano; si se confirma, podría medir hasta 1,500 km de diámetro, uno de los mayores más allá de Neptuno.",
+   "escena_3d": "Viaje desde el Sol hasta el cinturón de Kuiper; comparación de tamaño con Plutón y la Luna.",
+   "fuentes": [
+    "https://news.stanford.edu/stories/2026/10/rubin-observatory-dwarf-planet-candidate",
+    "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate"
+   ]
+  },
+  {
+   "numero": 2,
+   "tema": "La primera estrella verde",
+   "gancho": "No existen estrellas verdes… hasta ahora.",
+   "por_que_viral": "Rompe una creencia popular (‘no hay estrellas verdes’) y es muy visual; llegó justo antes de Halloween.",
+   "dato_principal": "Astrónomos hallaron la primera estrella conocida que se vería verde al ojo humano: una enana blanca.",
+   "escena_3d": "Paleta de colores de estrellas (roja, amarilla, azul) y aparición de la enana blanca verde.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
+    "https://www.thedailybeast.com/university-of-warwick-astronomers-find-the-universes-first-ever-green-star"
+   ]
+  },
+  {
+   "numero": 3,
+   "tema": "Los meteoros no se queman: explotan (y las Leónidas del 17 de noviembre)",
+   "gancho": "Te mintieron: las estrellas fugaces no se queman.",
+   "por_que_viral": "Corrige algo que todos aprendimos y da una fecha útil para salir a ver el cielo.",
+   "dato_principal": "Un estudio describe 7 etapas violentas (fundirse y fragmentarse) en lugar de ‘quemarse’. Las Leónidas tienen su máximo el 17–18 de noviembre, con unas 15 por hora.",
+   "escena_3d": "Roca entrando a la atmósfera en cámara lenta, fragmentándose en etapas.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+    "https://farmersalmanac.com/2026-astronomy-calendar-the-biggest-sky-events-from-june-through-december"
+   ]
+  },
+  {
+   "numero": 4,
+   "tema": "Tres agujeros negros gigantes en una sola galaxia",
+   "gancho": "Una galaxia con TRES monstruos en su centro.",
+   "por_que_viral": "Agujeros negros = tema estrella en Shorts; es la primera vez que se ven tres en una galaxia y podrían chocar.",
+   "dato_principal": "Webb detectó tres agujeros negros supermasivos activos en una galaxia a más de 12,500 millones de años luz.",
+   "escena_3d": "Tres discos de acreción girando dentro de una galaxia joven.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+    "https://www.mpg.de/26904239/three-black-holes-discovered-in-a-young-galaxy"
+   ]
+  },
+  {
+   "numero": 5,
+   "tema": "Serpientes que ruedan para escapar",
+   "gancho": "Esta serpiente no repta… rueda como llanta.",
+   "por_que_viral": "Animal raro + movimiento inesperado; muy compartible y fácil de entender sin audio.",
+   "dato_principal": "Serpientes enanas del sudeste asiático ruedan hasta 4 veces más rápido de lo que reptan.",
+   "escena_3d": "Serpiente que se enrolla en aro y baja rodando por una pendiente.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
+    "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video"
+   ]
+  },
+  {
+   "numero": 6,
+   "tema": "Superluna del 24 de noviembre y Marte junto a Júpiter el 16",
+   "gancho": "Apunta estas dos fechas: el cielo de noviembre se pone bueno.",
+   "por_que_viral": "Contenido útil con fechas cercanas; la gente lo guarda y lo comparte.",
+   "dato_principal": "El 16 de noviembre Marte y Júpiter quedan a ~1.2° uno del otro; el 24 hay luna llena (superluna), hasta ~7 % más grande y 15 % más brillante.",
+   "escena_3d": "Órbitas que se alinean vistas desde la Tierra; Luna acercándose en su perigeo.",
+   "fuentes": [
+    "https://forecastbar.com/astronomy/calendar/2026/11/",
+    "https://ondatravel.pl/en/sky-events-november-2026/"
+   ]
+  },
+  {
+   "numero": 7,
+   "tema": "La ‘cola de gato’ de Beta Pictoris: choque de planetas enanos",
+   "gancho": "Dos planetas chocaron y dejaron una cola de 1,000 veces la distancia Tierra–Sol.",
+   "por_que_viral": "Choques cósmicos son muy visuales; sistema joven ‘como el nuestro hace millones de años’.",
+   "dato_principal": "Beta Pictoris está a ~63 años luz y tiene ~23 millones de años; su ‘cola de gato’ de polvo mide ~1,000 UA.",
+   "escena_3d": "Choque de dos planetas enanos y estela de polvo curvándose.",
+   "fuentes": [
+    "https://www.universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long",
+    "https://esawebb.org/images/weic2401a/"
+   ]
+  },
+  {
+   "numero": 8,
+   "tema": "‘D-Rex’: el hongo gigante con raíces de 65 millones de años",
+   "gancho": "Encontraron un hongo con nombre de dinosaurio… y tamaño de uno.",
+   "por_que_viral": "Nombre llamativo y conexión con dinosaurios.",
+   "dato_principal": "Crece hasta ~50 cm de alto y pesa casi 2.3 kg; el mayor conocido de su tipo, con un linaje de 65 millones de años.",
+   "escena_3d": "Hongo creciendo en cámara rápida junto a siluetas de dinosaurios.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+    "https://www.sciencenews.org/article/d-rex-fungus-mushroom-dinosaurs-china"
+   ]
+  }
+ ],
  "pedidos": [
   {
    "fecha": "2026-10-30",
@@ -9,5 +106,6 @@
    "titulo_sugerido": "⚡ Antes del Apolo 11: la primera misión espacial (Parte 2)",
    "nota": "Pedido del dueño el 2026-10-29. Es la continuación del video 03; no repetir lo del Apolo 11 (tripulación, Saturno V, Eagle). Mencionar al inicio o al final que es la parte 2."
   }
- ]
+ ],
+ "elegida": null
 }
