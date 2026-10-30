@@ -21,16 +21,22 @@
    "tema": "Venus: un día dura más que un año",
    "carpeta": "videos/02-venus-dia-y-anio",
    "titulo": "En Venus, un día dura más que un año 🤯🪐 #shorts",
-   "fecha_programada": "2026-10-30 16:20 (CDMX)",
-   "estado": "esperando aprobación",
+   "fecha_programada": "2026-10-29 21:00 (CDMX)",
+   "estado": "programado",
    "enlaces": {
     "youtube": null,
     "instagram": null,
     "tiktok": null
    },
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-02/FlashDatos_02.mp4",
-   "metricool": null,
-   "nota": "Video de prueba del sistema en la nube; el dueño pidió publicarlo a las 4:20 p. m."
+   "metricool": {
+    "id": 410746252,
+    "uuid": "-8896716926805063127",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-8896716926805063127"
+   },
+   "nota": "Video de prueba del sistema en la nube. El dueño lo aprobó (título y textos incluidos) y pidió publicarlo el 2026-10-29 a las 9:00 p. m.",
+   "descripcion": "En Venus, una vuelta sobre sí mismo tarda 243 días terrestres, pero darle la vuelta al Sol solo 225. Además gira al revés: allá el Sol sale por el oeste. 🪐\nFuentes: NASA (Venus Fact Sheet) y BIRA-IASB.\n#venus #espacio #astronomia #ciencia #datoscuriosos",
+   "titulo_tiktok": "En Venus un día dura más que un año 🤯"
   }
  ]
 }
