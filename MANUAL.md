@@ -56,12 +56,12 @@ Identidad visual: fondo espacial azul noche, subtítulos en Inter Black blanco c
    - Si Metricool todavía no tiene datos (los primeros días tarda en importar), decirlo tal cual y no inventar cifras.
 2. Explicar **qué video funcionó mejor y por qué**: comparar gancho, tema, duración y retención entre videos y redes. Ser concreto, por ejemplo: "retuvo 82 % porque abre con un número".
 3. Revisar el video de ayer con `getScheduledPosts`: si sigue pendiente después de su hora, es un fallo (regla 4).
-4. Investigar tendencias (búsqueda web: noticias de ciencia y espacio de la semana, efemérides, lo que se comparte en Shorts y Reels de ciencia en español) y proponer **8 ideas**. Cada idea lleva gancho, por qué puede ser viral, dato principal y dos fuentes. Ordenarlas por potencial y guardarlas en `ideas.json` con `"elegida": null`.
+4. Investigar tendencias (búsqueda web: noticias de ciencia y espacio de la semana, efemérides, lo que se comparte en Shorts y Reels de ciencia en español) y proponer **8 ideas**. Cada idea lleva gancho, por qué puede ser viral, dato principal y dos fuentes. Ordenarlas por potencial y guardarlas en `ideas.json` con `"elegida": null`. **No borrar la lista `pedidos` de `ideas.json`** (temas que el dueño pidió para un día y hora).
 5. Guardar `reportes/AAAA-MM-DD.md`, hacer commit y push, mandar el reporte con SendUserMessage y avisar con push: "Tu reporte está listo; responde con el número de idea si quieres otra que no sea la 1". Si el dueño responde un número antes de las 9, escribirlo en `elegida` y hacer push.
 
 ## Flujo B — Video del día (9:00)
 
-1. `git pull`. **Si `historial.json` ya tiene un video con `fecha_programada` de hoy** (programado o esperando aprobación), no producir otro: avisar al dueño en un mensaje corto y terminar. Si no, usar la idea de `ideas.json` cuyo número diga `elegida`; si no hay, la primera que no repita tema de `historial.json`. Número del video: el siguiente en `historial.json` (dos dígitos).
+1. `git pull`. **Si `historial.json` ya tiene un video con `fecha_programada` de hoy** (programado o esperando aprobación), no producir otro: avisar al dueño en un mensaje corto y terminar. Si no, **primero** usar el pedido de `ideas.json` → `pedidos` con la `fecha` de hoy (y su `hora_publicacion` en lugar de las 17:00; al terminar, quitarlo de `pedidos`); si no hay, la idea cuyo número diga `elegida`; si no hay, la primera que no repita tema de `historial.json`. Número del video: el siguiente en `historial.json` (dos dígitos).
 2. Verificar los datos (regla 5). Escribir `videos/NN-tema/script.json` con el formato del video 01:
    - segmentos → partes con `say` (cómo se dice, con números en palabras) y `cap` (el subtítulo, con cifras);
    - gancho en la primera frase;

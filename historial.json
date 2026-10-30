@@ -44,16 +44,22 @@
    "tema": "Apolo 11: cómo llegamos a la Luna",
    "carpeta": "videos/03-apolo-11",
    "titulo": "⚡ Así llegamos a la Luna: Apolo 11 🚀🌕 #shorts",
-   "fecha_programada": "2026-10-29 23:00 (CDMX)",
-   "estado": "esperando aprobación",
+   "fecha_programada": "2026-10-29 23:32 (CDMX)",
+   "estado": "programado",
    "enlaces": {
     "youtube": null,
     "instagram": null,
     "tiktok": null
    },
-   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-03/FlashDatos_03.mp4",
-   "metricool": null,
-   "nota": "El dueño pidió este video para hoy a las 11:00 p. m. (segundo video del día)."
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-03/FlashDatos_03_final.mp4",
+   "metricool": {
+    "id": 410834770,
+    "uuid": "-2706328879011248238",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-2706328879011248238"
+   },
+   "nota": "Aprobado por el dueño (\"súbelo\") después de cambiar el cierre, que dejaba el video inconcluso. Se programó a las 23:32 en lugar de las 23:00 por el cambio. Parte 1 de 2; la parte 2 va el 2026-10-30 a las 12:00.",
+   "descripcion": "⚡ El 20 de julio de 1969, Armstrong y Aldrin pisaron la Luna mientras Collins los esperaba en órbita. Así fue el viaje del Apolo 11: Saturno V, 384,000 km y 4 días. 🚀🌕\nFuentes: NASA y Smithsonian.\n#apolo11 #luna #espacio #nasa #historia #ciencia",
+   "titulo_tiktok": "⚡ Así llegamos a la Luna 🚀"
   }
  ]
 }
