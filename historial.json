@@ -90,12 +90,17 @@
    "tema": "El robo de Binance: 6,300 millones en 20 minutos",
    "carpeta": "videos/05-robo-binance",
    "fecha_programada": "2026-10-31 08:00 (CDMX)",
-   "estado": "esperando aprobación",
-   "nota": "Pedido del dueño del 2026-10-31 a las 7:08: tres videos hoy (8:00, 15:00 y 22:00). Se publican solo con su aprobación.",
+   "estado": "programado",
+   "nota": "Pedido del dueño del 2026-10-31 a las 7:08: tres videos hoy (8:00, 15:00 y 22:00). Aprobado por el dueño a las 7:46 (\"Sí\") y programado a las 8:00 en YouTube, Instagram y TikTok.",
    "titulo": "⚡ Robaron $6,300 millones… casi todo en 20 minutos 😱💰 #shorts",
    "descripcion": "⚡ Unos 6,300 millones de dólares salieron de Binance por 10 blockchains, casi todo en unos 20 minutos: el robo cripto más grande de la historia. Firmas de análisis blockchain apuntan a TraderTraitor, de Corea del Norte. 💰\nFuentes: TRM Labs (vía CBS News y NPR) y CNBC.\n#binance #cripto #hackers #ciberseguridad #tecnologia #bitcoin",
    "titulo_tiktok": "⚡ Robaron $6,300 millones en 20 minutos 😱",
-   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-05/FlashDatos_05.mp4"
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-05/FlashDatos_05.mp4",
+   "metricool": {
+    "id": 412169540,
+    "uuid": "1840692309721828581",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=1840692309721828581"
+   }
   },
   {
    "numero": 6,
