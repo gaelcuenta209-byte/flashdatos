@@ -1,0 +1,9 @@
+{
+ "url": "https://storage.googleapis.com/xi-backend/database/workspace/ec2dd626b7064bf19989241152e45ff4/content_generation/9YHeK1ApIETGwKcGC8kS/SSrXkWEFaEhu5Dqee2Bs/content.mp3?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261031%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261031T135911Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=001086c1c32b68bad2a4c473c1d5d257157fcd84ab232c7139f40d8cf886d427d1d6fe88b915426d2d7f359234d4035743f1949c32034b322e8a09f55b6845cb53a6fdbec61d72d42f78d7df0a8915ae9a70fdd1b60fe0c2a8c9614ec1c84e49273841f5741ae5e0351fc5225b24fec9b4b93da1f8137f01108f71419053fddc4305d3d554ea16d79f617244c8d46665561f9ad940fa078df66b8fd054176e69454a7608a3d0ea34e417f2685e83cf22aa9e7d15b1da5daa588ed6cfa2be16be4900592ca76d4c4a29dca2d6a04c85cd47a07d0e65939cd72b3358719d8eed4299b12fa49e156d94780d395ef0c800c38f9754429ec777a1e3d7bedd9b5a116d",
+ "generation_id": "SSrXkWEFaEhu5Dqee2Bs",
+ "flow_id": "jvYp7ZtiL7NAnhAzYCmA",
+ "voice_id": "HS7W0ly7cmPolP5WMyz9",
+ "model_id": "eleven_v4",
+ "toma": 1,
+ "nota": "Nuevo cierre del video 07 (el dueño pidió que termine bien)"
+}
