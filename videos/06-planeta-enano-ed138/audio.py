@@ -178,6 +178,9 @@ place(sfx, shutter(), RUB_P2 + 0.15, 0.45)
 place(sfx, ding(1760.0, 0.7), RUB_P2 + 0.35, 0.14)
 for k in range(3):
     place(sfx, whoosh(1.3, 120, 900, 150), MIS0 + 0.4 + 1.3 * k, 0.16, pan=-0.3 if k % 2 else 0.3)
+place(sfx, ding(1046.5, 1.6), P("cierre", 1)[1] + 0.15, 0.22)
+place(sfx, ding(1318.5, 1.6), P("cierre", 1)[1] + 0.2, 0.18)
+place(sfx, ding(1568.0, 1.6), P("cierre", 1)[1] + 0.25, 0.14)
 for k, tt in enumerate(NEIGH_T):
     place(sfx, ding(1000 + 90 * (k % 7), 0.6), tt, 0.10, pan=-0.7 + 0.09 * k)
 

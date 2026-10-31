@@ -1,6 +1,6 @@
 {
  "voice_offset": 0.1,
- "voice_duration": 43.15,
+ "voice_duration": 45.79,
  "segments": [
   {
    "id": "hook1",
@@ -105,18 +105,23 @@
   },
   {
    "id": "cierre",
-   "t0": 39.5,
-   "t1": 43.05,
+   "t0": 39.35,
+   "t1": 45.69,
    "say": "Los astrónomos dicen que no será el último. Así que pronto…",
    "parts": [
     [
-     39.5,
-     43.05,
-     "No será el ÚLTIMO… así que pronto…"
+     39.35,
+     41.82,
+     "No será el ÚLTIMO:"
+    ],
+    [
+     42.25,
+     45.69,
+     "el vecindario de PLUTÓN apenas empieza a revelarse."
     ]
    ]
   }
  ],
  "rings": [],
- "end": 43.88
+ "end": 47.5
 }

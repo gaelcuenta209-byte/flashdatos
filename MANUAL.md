@@ -65,7 +65,7 @@ Identidad visual: fondo espacial azul noche, subtítulos en Inter Black blanco c
 2. Verificar los datos (regla 5). Escribir `videos/NN-tema/script.json` con el formato del video 01:
    - segmentos → partes con `say` (cómo se dice, con números en palabras) y `cap` (el subtítulo, con cifras);
    - gancho en la primera frase;
-   - un final que conecte con el inicio para que el video se repita solo.
+   - **un final que cierre la idea con una frase completa y concluyente**. Nunca terminar en suspenso ("Así que pronto…", "Porque en el mundo cripto…") ni con una frase cortada: el dueño lo ha pedido varias veces (videos 03, 06 y 07). Después de la última frase, 1–2 s de tarjeta final (rayo ⚡, "FLASH DATOS" y "Síguenos…"). La última imagen puede parecerse a la primera para que el video se repita bien, pero la narración debe terminar.
    Escribir también `guion.md` con las fuentes. Si el dueño pidió otra hora de publicación, guardarla en `historial.json` (`fecha_programada`) y usarla en lugar de las 17:00.
 3. **Voz**: `creative_generate_speech` con `voice_id` y `model_id` de `config.json`. Como `prompt` va todo el texto (`say` de todas las partes) en un solo párrafo, sin saltos de línea. Esperar con `creative_get_flow_run_status`. De las dos tomas, elegir la más clara: en caso de duda, la primera.
 4. Escribir `videos/NN-tema/voz/pedido.json` con `{"url": "<content_url de la toma>", "generation_id": "...", "flow_id": "...", "voice_id": "...", "model_id": "..."}`, hacer commit y push. La acción **Voz (ElevenLabs)** baja el MP3 en menos de un minuto. Hacer `git pull` cada 15 s, hasta 5 minutos, hasta que exista `voz/narracion.mp3`, y leer `voz/estado.json`.

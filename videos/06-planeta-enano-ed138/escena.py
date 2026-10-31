@@ -646,6 +646,22 @@ def draw_misterio(layer, t, O, ph):
     txt(d, (W / 2, 1560), "depende de cuánta LUZ refleje", 50, WHITE, A, "Inter-ExtraBold.otf", sw=6)
 
 
+def draw_endcard(layer, t, t0):
+    """Cierre del video: marca y llamada a seguir el canal."""
+    al = fade(t, t0, END - 0.3, 0.3)
+    if al <= 0:
+        return
+    A = int(255 * al)
+    dim = Image.new("RGBA", (W, H), (6, 8, 18, int(150 * al)))
+    layer.alpha_composite(dim)
+    d = ImageDraw.Draw(layer)
+    k = ease_out((t - t0) / 0.4)
+    d.polygon(bolt(W / 2, 780, 230 + 40 * k), fill=YELLOW + (A,))
+    txt(d, (W / 2, 1010), "FLASH DATOS", 104, WHITE, A, sw=8)
+    txt(d, (W / 2, 1120), "Síguenos para más datos", 52, CYAN, A, "Inter-ExtraBold.otf", sw=6)
+    txt(d, (W / 2, 1185), "del espacio", 52, CYAN, A, "Inter-ExtraBold.otf", sw=6)
+
+
 def draw_cierre(layer, t, O):
     d = ImageDraw.Draw(layer)
     for k, p in enumerate(NEIGH):
@@ -653,7 +669,10 @@ def draw_cierre(layer, t, O):
             x, y = project(O, p)
             A = int(255 * min(1.0, (t - NEIGH_T[k]) / 0.3) * fade(t, CIE0, END - 0.35, 0.2))
             ring_marker(d, x, y, t + k * 0.2, YELLOW, int(A * 0.7), 50)
-    draw_label(layer, t, CIE0 + 0.1, END - 0.4, "NO SERÁ EL ÚLTIMO", ["Plutón podría tener", "muchos vecinos más"], YELLOW, 104)
+    p2 = P("cierre", 1)
+    draw_label(layer, t, CIE0 + 0.1, p2[0] - 0.05, "NO SERÁ EL ÚLTIMO", ["dicen los astrónomos"], YELLOW, 104)
+    draw_label(layer, t, p2[0] - 0.05, p2[1] + 0.25, "EL VECINDARIO", ["de Plutón apenas", "empieza a revelarse"], YELLOW, 120)
+    draw_endcard(layer, t, p2[1] + 0.15)
 
 
 def overlays(frame_u8, t, name, O, bodies):
