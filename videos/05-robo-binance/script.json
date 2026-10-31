@@ -1,0 +1,25 @@
+{
+ "id": "05",
+ "title": "El robo de Binance: 6,300 millones en 20 minutos",
+ "segments": [
+  {"id": "hook1", "parts": [
+   {"say": "Desaparecieron seis mil trescientos millones de dólares… casi todo en veinte minutos.", "cap": "Desaparecieron $6,300 MILLONES… casi todo en 20 MINUTOS"}]},
+  {"id": "hook2", "parts": [
+   {"say": "Y no fue un banco.", "cap": "Y NO fue un banco…"}]},
+  {"id": "binance", "parts": [
+   {"say": "Fue Binance, la casa de criptomonedas más grande del mundo.", "cap": "Fue BINANCE: la casa de cripto más grande del mundo"},
+   {"say": "El dinero salió por diez blockchains distintas.", "cap": "El dinero salió por 10 BLOCKCHAINS distintas"}]},
+  {"id": "record", "parts": [
+   {"say": "Es el robo cripto más grande de la historia: más de cuatro veces el récord anterior.", "cap": "El ROBO CRIPTO más grande de la historia: más de 4× el récord"}]},
+  {"id": "giro", "parts": [
+   {"say": "Pero lo más raro no es cuánto se llevaron. Es quién.", "cap": "Lo más raro no es CUÁNTO… es QUIÉN"}]},
+  {"id": "corea", "parts": [
+   {"say": "Los rastreadores de blockchain apuntan a TraderTraitor, una unidad de hackers de élite de Corea del Norte.", "cap": "Apuntan a TRADERTRAITOR: hackers de élite de COREA DEL NORTE"},
+   {"say": "Según los expertos, ese país usa estos robos para pagar su programa nuclear.", "cap": "Usaría estos robos para pagar su PROGRAMA NUCLEAR"}]},
+  {"id": "carrera", "parts": [
+   {"say": "Ya congelaron más de tres mil millones… ¿y el resto?", "cap": "Ya CONGELARON más de $3,000 MILLONES… ¿y el RESTO?"}]},
+  {"id": "cierre", "parts": [
+   {"say": "Los hackers intentan esconderlo antes de que alguien los alcance. Porque en el mundo cripto…", "cap": "Intentan ESCONDERLO… porque en el mundo cripto…"}]}
+ ],
+ "ring_words": []
+}

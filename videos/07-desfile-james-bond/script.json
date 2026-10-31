@@ -1,0 +1,24 @@
+{
+ "id": "07",
+ "title": "El desfile de Día de Muertos que inventó James Bond",
+ "segments": [
+  {"id": "hook1", "parts": [
+   {"say": "Este desfile existe gracias a una película de James Bond.", "cap": "Este DESFILE existe gracias a JAMES BOND"}]},
+  {"id": "hook2", "parts": [
+   {"say": "Y no es broma.", "cap": "Y NO es broma…"}]},
+  {"id": "spectre", "parts": [
+   {"say": "En dos mil quince, Spectre abrió con un desfile de Día de Muertos en el Centro Histórico de la Ciudad de México,", "cap": "2015: SPECTRE abre con un desfile en la CDMX"},
+   {"say": "con más de mil quinientos extras.", "cap": "Más de 1,500 EXTRAS"}]},
+  {"id": "problema", "parts": [
+   {"say": "El problema: ese desfile nunca había existido.", "cap": "El problema: ese desfile NUNCA había existido"}]},
+  {"id": "pregunta", "parts": [
+   {"say": "¿Y qué hizo la ciudad?", "cap": "¿Y qué hizo la CIUDAD?"}]},
+  {"id": "realidad", "parts": [
+   {"say": "En dos mil dieciséis, lo hizo realidad.", "cap": "2016: ¡lo hizo REALIDAD!"}]},
+  {"id": "hoy", "parts": [
+   {"say": "Hoy cumplió su décima edición, y en los últimos años ha reunido a más de un millón de personas.", "cap": "Hoy: su 10.ª EDICIÓN… y más de 1 MILLÓN de personas"}]},
+  {"id": "cierre", "parts": [
+   {"say": "Ojo: el Día de Muertos es una tradición antiquísima; lo que nació en el cine fue el desfile. Así que sí…", "cap": "La tradición es ANTIQUÍSIMA; el DESFILE nació en el cine. Así que sí…"}]}
+ ],
+ "ring_words": []
+}

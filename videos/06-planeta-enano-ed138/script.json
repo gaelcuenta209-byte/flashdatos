@@ -1,0 +1,25 @@
+{
+ "id": "06",
+ "title": "Plutón podría tener un nuevo vecino: 2026 ED138",
+ "segments": [
+  {"id": "hook1", "parts": [
+   {"say": "Plutón podría tener un nuevo vecino… y nadie lo había visto.", "cap": "PLUTÓN podría tener un NUEVO VECINO…"}]},
+  {"id": "nombre", "parts": [
+   {"say": "Se llama dos mil veintiséis, E, D, ciento treinta y ocho, y está más allá de Neptuno.", "cap": "Se llama 2026 ED138… y está más allá de NEPTUNO"}]},
+  {"id": "tamano", "parts": [
+   {"say": "Podría medir hasta mil quinientos kilómetros: más de la mitad que Plutón.", "cap": "Hasta 1,500 KM: más de la MITAD de Plutón"}]},
+  {"id": "club", "parts": [
+   {"say": "Hoy solo hay cinco planetas enanos reconocidos.", "cap": "Solo hay 5 PLANETAS ENANOS reconocidos"},
+   {"say": "Este sería el sexto.", "cap": "Este sería el SEXTO"}]},
+  {"id": "pregunta", "parts": [
+   {"say": "¿Y por qué nadie lo vio antes?", "cap": "¿Por qué NADIE lo vio antes?"}]},
+  {"id": "rubin", "parts": [
+   {"say": "Porque es lejanísimo y muy tenue. Lo encontró el observatorio Vera Rubin, en Chile,", "cap": "Lejanísimo y TENUE: lo halló el observatorio VERA RUBIN"},
+   {"say": "con la cámara más grande jamás construida para astronomía.", "cap": "La CÁMARA más grande jamás hecha para astronomía"}]},
+  {"id": "misterio", "parts": [
+   {"say": "Y su tamaño real sigue siendo un misterio: depende de cuánta luz refleje.", "cap": "Su tamaño real es un MISTERIO: depende de cuánta LUZ refleje"}]},
+  {"id": "cierre", "parts": [
+   {"say": "Los astrónomos dicen que no será el último. Así que pronto…", "cap": "No será el ÚLTIMO… así que pronto…"}]}
+ ],
+ "ring_words": []
+}
