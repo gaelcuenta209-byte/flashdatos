@@ -1,0 +1,122 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 47.88,
+ "segments": [
+  {
+   "id": "hook1",
+   "t0": 0.1,
+   "t1": 6.29,
+   "say": "Desaparecieron seis mil trescientos millones de dólares… casi todo en veinte minutos.",
+   "parts": [
+    [
+     0.1,
+     6.29,
+     "Desaparecieron $6,300 MILLONES… casi todo en 20 MINUTOS"
+    ]
+   ]
+  },
+  {
+   "id": "hook2",
+   "t0": 6.83,
+   "t1": 7.62,
+   "say": "Y no fue un banco.",
+   "parts": [
+    [
+     6.83,
+     7.62,
+     "Y NO fue un banco…"
+    ]
+   ]
+  },
+  {
+   "id": "binance",
+   "t0": 8.17,
+   "t1": 15.68,
+   "say": "Fue Binance, la casa de criptomonedas más grande del mundo. El dinero salió por diez blockchains distintas.",
+   "parts": [
+    [
+     8.17,
+     12.22,
+     "Fue BINANCE: la casa de cripto más grande del mundo"
+    ],
+    [
+     13.03,
+     15.68,
+     "El dinero salió por 10 BLOCKCHAINS distintas"
+    ]
+   ]
+  },
+  {
+   "id": "record",
+   "t0": 16.28,
+   "t1": 21.46,
+   "say": "Es el robo cripto más grande de la historia: más de cuatro veces el récord anterior.",
+   "parts": [
+    [
+     16.28,
+     21.46,
+     "El ROBO CRIPTO más grande de la historia: más de 4× el récord"
+    ]
+   ]
+  },
+  {
+   "id": "giro",
+   "t0": 22.2,
+   "t1": 24.63,
+   "say": "Pero lo más raro no es cuánto se llevaron. Es quién.",
+   "parts": [
+    [
+     22.2,
+     24.63,
+     "Lo más raro no es CUÁNTO… es QUIÉN"
+    ]
+   ]
+  },
+  {
+   "id": "corea",
+   "t0": 25.16,
+   "t1": 37.79,
+   "say": "Los rastreadores de blockchain apuntan a TraderTraitor, una unidad de hackers de élite de Corea del Norte. Según los expertos, ese país usa estos robos para pagar su programa nuclear.",
+   "parts": [
+    [
+     25.16,
+     32.64,
+     "Apuntan a TRADERTRAITOR: hackers de élite de COREA DEL NORTE"
+    ],
+    [
+     33.27,
+     37.79,
+     "Usaría estos robos para pagar su PROGRAMA NUCLEAR"
+    ]
+   ]
+  },
+  {
+   "id": "carrera",
+   "t0": 38.49,
+   "t1": 40.83,
+   "say": "Ya congelaron más de tres mil millones… ¿y el resto?",
+   "parts": [
+    [
+     38.49,
+     40.83,
+     "Ya CONGELARON más de $3,000 MILLONES… ¿y el RESTO?"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 41.35,
+   "t1": 47.71,
+   "say": "Los hackers intentan esconderlo antes de que alguien los alcance. Porque en el mundo cripto…",
+   "parts": [
+    [
+     41.35,
+     47.71,
+     "Intentan ESCONDERLO… porque en el mundo cripto…"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 48.54
+}
