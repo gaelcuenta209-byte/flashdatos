@@ -1,24 +1,36 @@
 {
- "actualizado": "2026-10-30",
+ "actualizado": "2026-10-31",
  "ideas": [
   {
    "numero": 1,
+   "tema": "Hera llega al asteroide que la NASA golpeó (DART)",
+   "gancho": "En 2022 la NASA chocó una nave contra un asteroide… y ahora vamos a ver qué le hizo.",
+   "por_que_viral": "Llegada en noviembre, con primeras imágenes de esta semana; ‘defensa planetaria’ y ‘chocar un asteroide’ son ganchos fuertísimos.",
+   "dato_principal": "DART golpeó a Dimorphos a unos 6 km/s y acortó su órbita alrededor de Didymos unos 32 minutos; la sonda Hera de la ESA ya distingue los dos asteroides por separado y llega en noviembre.",
+   "escena_3d": "Choque de DART en cámara lenta, la órbita que se encoge y Hera acercándose al par de asteroides.",
+   "fuentes": [
+    "https://www.esa.int/Safety_Security/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one",
+    "https://www.space.com/astronomy/asteroids/like-accelerating-from-stationary-to-supersonic-flight-europes-hera-probe-boosts-speed-stays-on-course-for-november-asteroid-rendezvous"
+   ]
+  },
+  {
+   "numero": 2,
    "tema": "Posible nuevo planeta enano más allá de Plutón (2026 ED138)",
    "gancho": "Plutón podría tener un nuevo vecino… y es enorme.",
-   "por_que_viral": "Noticia de esta semana (28 de oct), en todos los medios; Plutón siempre genera nostalgia y debate (‘¿cuántos planetas hay?’).",
-   "dato_principal": "El observatorio Vera Rubin halló su primer candidato a planeta enano; si se confirma, podría medir hasta 1,500 km de diámetro, uno de los mayores más allá de Neptuno.",
-   "escena_3d": "Viaje desde el Sol hasta el cinturón de Kuiper; comparación de tamaño con Plutón y la Luna.",
+   "por_que_viral": "Noticia del 28 de octubre que sigue en medios; Plutón siempre genera nostalgia y debate (‘¿cuántos planetas hay?’).",
+   "dato_principal": "El observatorio Vera Rubin halló su primer candidato a planeta enano; podría medir hasta 1,500 km de diámetro.",
+   "escena_3d": "Viaje del Sol al cinturón de Kuiper; comparación de tamaño con Plutón y la Luna.",
    "fuentes": [
     "https://news.stanford.edu/stories/2026/10/rubin-observatory-dwarf-planet-candidate",
     "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate"
    ]
   },
   {
-   "numero": 2,
+   "numero": 3,
    "tema": "La primera estrella verde",
    "gancho": "No existen estrellas verdes… hasta ahora.",
-   "por_que_viral": "Rompe una creencia popular (‘no hay estrellas verdes’) y es muy visual; llegó justo antes de Halloween.",
-   "dato_principal": "Astrónomos hallaron la primera estrella conocida que se vería verde al ojo humano: una enana blanca.",
+   "por_que_viral": "Rompe una creencia popular y es muy visual; se entiende sin audio.",
+   "dato_principal": "Astrónomos de la Universidad de Warwick hallaron la primera estrella conocida que se vería verde al ojo humano: una enana blanca.",
    "escena_3d": "Paleta de colores de estrellas (roja, amarilla, azul) y aparición de la enana blanca verde.",
    "fuentes": [
     "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
@@ -26,23 +38,23 @@
    ]
   },
   {
-   "numero": 3,
+   "numero": 4,
    "tema": "Los meteoros no se queman: explotan (y las Leónidas del 17 de noviembre)",
    "gancho": "Te mintieron: las estrellas fugaces no se queman.",
-   "por_que_viral": "Corrige algo que todos aprendimos y da una fecha útil para salir a ver el cielo.",
+   "por_que_viral": "Corrige algo que todos aprendimos y da una fecha cercana para salir a ver el cielo.",
    "dato_principal": "Un estudio describe 7 etapas violentas (fundirse y fragmentarse) en lugar de ‘quemarse’. Las Leónidas tienen su máximo el 17–18 de noviembre, con unas 15 por hora.",
-   "escena_3d": "Roca entrando a la atmósfera en cámara lenta, fragmentándose en etapas.",
+   "escena_3d": "Roca entrando a la atmósfera en cámara lenta, fragmentándose por etapas.",
    "fuentes": [
     "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
     "https://farmersalmanac.com/2026-astronomy-calendar-the-biggest-sky-events-from-june-through-december"
    ]
   },
   {
-   "numero": 4,
+   "numero": 5,
    "tema": "Tres agujeros negros gigantes en una sola galaxia",
    "gancho": "Una galaxia con TRES monstruos en su centro.",
-   "por_que_viral": "Agujeros negros = tema estrella en Shorts; es la primera vez que se ven tres en una galaxia y podrían chocar.",
-   "dato_principal": "Webb detectó tres agujeros negros supermasivos activos en una galaxia a más de 12,500 millones de años luz.",
+   "por_que_viral": "Agujeros negros = tema estrella en Shorts; primera vez que se ven tres activos en una galaxia y podrían fusionarse.",
+   "dato_principal": "Webb detectó tres agujeros negros supermasivos activos en una galaxia joven a más de 12,500 millones de años luz.",
    "escena_3d": "Tres discos de acreción girando dentro de una galaxia joven.",
    "fuentes": [
     "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
@@ -50,35 +62,23 @@
    ]
   },
   {
-   "numero": 5,
-   "tema": "Serpientes que ruedan para escapar",
-   "gancho": "Esta serpiente no repta… rueda como llanta.",
-   "por_que_viral": "Animal raro + movimiento inesperado; muy compartible y fácil de entender sin audio.",
-   "dato_principal": "Serpientes enanas del sudeste asiático ruedan hasta 4 veces más rápido de lo que reptan.",
-   "escena_3d": "Serpiente que se enrolla en aro y baja rodando por una pendiente.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
-    "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video"
-   ]
-  },
-  {
    "numero": 6,
-   "tema": "Superluna del 24 de noviembre y Marte junto a Júpiter el 16",
-   "gancho": "Apunta estas dos fechas: el cielo de noviembre se pone bueno.",
-   "por_que_viral": "Contenido útil con fechas cercanas; la gente lo guarda y lo comparte.",
-   "dato_principal": "El 16 de noviembre Marte y Júpiter quedan a ~1.2° uno del otro; el 24 hay luna llena (superluna), hasta ~7 % más grande y 15 % más brillante.",
-   "escena_3d": "Órbitas que se alinean vistas desde la Tierra; Luna acercándose en su perigeo.",
+   "tema": "El planeta de lava con ‘protector solar’ (TOI-561 b)",
+   "gancho": "Este planeta es un océano de lava… y aun así tiene ‘bloqueador solar’.",
+   "por_que_viral": "Mundo infernal + giro inesperado (una atmósfera que no debería existir); muy visual.",
+   "dato_principal": "Webb halló una atmósfera gruesa en TOI-561 b, un planeta rocoso a unos 280 años luz que da la vuelta a su estrella en menos de 11 horas y está cubierto de magma.",
+   "escena_3d": "Planeta incandescente pegado a su estrella con una capa de gas que lo envuelve.",
    "fuentes": [
-    "https://forecastbar.com/astronomy/calendar/2026/11/",
-    "https://ondatravel.pl/en/sky-events-november-2026/"
+    "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+    "https://www.sciencenews.org/article/lava-planet-toi561b-atmosphere-tess/embed"
    ]
   },
   {
    "numero": 7,
    "tema": "La ‘cola de gato’ de Beta Pictoris: choque de planetas enanos",
    "gancho": "Dos planetas chocaron y dejaron una cola de 1,000 veces la distancia Tierra–Sol.",
-   "por_que_viral": "Choques cósmicos son muy visuales; sistema joven ‘como el nuestro hace millones de años’.",
-   "dato_principal": "Beta Pictoris está a ~63 años luz y tiene ~23 millones de años; su ‘cola de gato’ de polvo mide ~1,000 UA.",
+   "por_que_viral": "Los choques cósmicos son muy visuales; es un sistema joven ‘como el nuestro hace millones de años’.",
+   "dato_principal": "Beta Pictoris está a ~63 años luz, tiene ~23 millones de años y su ‘cola de gato’ de polvo mide ~1,000 UA.",
    "escena_3d": "Choque de dos planetas enanos y estela de polvo curvándose.",
    "fuentes": [
     "https://www.universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long",
@@ -87,14 +87,14 @@
   },
   {
    "numero": 8,
-   "tema": "‘D-Rex’: el hongo gigante con raíces de 65 millones de años",
-   "gancho": "Encontraron un hongo con nombre de dinosaurio… y tamaño de uno.",
-   "por_que_viral": "Nombre llamativo y conexión con dinosaurios.",
-   "dato_principal": "Crece hasta ~50 cm de alto y pesa casi 2.3 kg; el mayor conocido de su tipo, con un linaje de 65 millones de años.",
-   "escena_3d": "Hongo creciendo en cámara rápida junto a siluetas de dinosaurios.",
+   "tema": "Por qué los cocodrilos sobrevivieron a los dinosaurios",
+   "gancho": "El asteroide acabó con los dinosaurios… pero no con ellos.",
+   "por_que_viral": "Dinosaurios + animal conocido; responde una pregunta que mucha gente se hace. Agrega variedad (no todo es espacio).",
+   "dato_principal": "Un estudio del University College London muestra que los parientes de los cocodrilos llevan unos 250 millones de años ‘siguiendo’ los climas cálidos, y eso los ayudó a superar las extinciones.",
+   "escena_3d": "Mapa de la Tierra antigua con zonas cálidas que se mueven y cocodrilos que las siguen; impacto del asteroide.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
-    "https://www.sciencenews.org/article/d-rex-fungus-mushroom-dinosaurs-china"
+    "https://www.ucl.ac.uk/news/2026/oct/keeping-warm-climates-helped-crocodiles-outlast-dinosaurs",
+    "https://www.sci.news/paleontology/warm-climate-pseudosuchians-15146.html"
    ]
   }
  ],
