@@ -1,0 +1,122 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 43.15,
+ "segments": [
+  {
+   "id": "hook1",
+   "t0": 0.1,
+   "t1": 4.27,
+   "say": "Plutón podría tener un nuevo vecino… y nadie lo había visto.",
+   "parts": [
+    [
+     0.1,
+     4.27,
+     "PLUTÓN podría tener un NUEVO VECINO…"
+    ]
+   ]
+  },
+  {
+   "id": "nombre",
+   "t0": 4.7,
+   "t1": 8.85,
+   "say": "Se llama dos mil veintiséis, E, D, ciento treinta y ocho, y está más allá de Neptuno.",
+   "parts": [
+    [
+     4.7,
+     8.85,
+     "Se llama 2026 ED138… y está más allá de NEPTUNO"
+    ]
+   ]
+  },
+  {
+   "id": "tamano",
+   "t0": 9.15,
+   "t1": 14.22,
+   "say": "Podría medir hasta mil quinientos kilómetros: más de la mitad que Plutón.",
+   "parts": [
+    [
+     9.15,
+     14.22,
+     "Hasta 1,500 KM: más de la MITAD de Plutón"
+    ]
+   ]
+  },
+  {
+   "id": "club",
+   "t0": 14.47,
+   "t1": 21.43,
+   "say": "Hoy solo hay cinco planetas enanos reconocidos. Este sería el sexto.",
+   "parts": [
+    [
+     14.47,
+     19.61,
+     "Solo hay 5 PLANETAS ENANOS reconocidos"
+    ],
+    [
+     20.07,
+     21.43,
+     "Este sería el SEXTO"
+    ]
+   ]
+  },
+  {
+   "id": "pregunta",
+   "t0": 22.09,
+   "t1": 23.73,
+   "say": "¿Y por qué nadie lo vio antes?",
+   "parts": [
+    [
+     22.09,
+     23.73,
+     "¿Por qué NADIE lo vio antes?"
+    ]
+   ]
+  },
+  {
+   "id": "rubin",
+   "t0": 24.16,
+   "t1": 33.61,
+   "say": "Porque es lejanísimo y muy tenue. Lo encontró el observatorio Vera Rubin, en Chile, con la cámara más grande jamás construida para astronomía.",
+   "parts": [
+    [
+     24.16,
+     29.86,
+     "Lejanísimo y TENUE: lo halló el observatorio VERA RUBIN"
+    ],
+    [
+     30.29,
+     33.61,
+     "La CÁMARA más grande jamás hecha para astronomía"
+    ]
+   ]
+  },
+  {
+   "id": "misterio",
+   "t0": 34.17,
+   "t1": 38.82,
+   "say": "Y su tamaño real sigue siendo un misterio: depende de cuánta luz refleje.",
+   "parts": [
+    [
+     34.17,
+     38.82,
+     "Su tamaño real es un MISTERIO: depende de cuánta LUZ refleje"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 39.5,
+   "t1": 43.05,
+   "say": "Los astrónomos dicen que no será el último. Así que pronto…",
+   "parts": [
+    [
+     39.5,
+     43.05,
+     "No será el ÚLTIMO… así que pronto…"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 43.88
+}
