@@ -2,7 +2,7 @@
 
 Pedido del dueño (2026-10-31, 7:08): tercero de tres videos del día, publicación a las 22:00 (CDMX), después del Gran Desfile de Día de Muertos (hoy, 14:00, de la Diana Cazadora al Zócalo).
 
-**Gancho:** "Este desfile existe gracias a una película de James Bond. Y no es broma." Pregunta abierta: "¿Y qué hizo la ciudad?". El cierre aclara que la tradición es antigua y lo nuevo es el desfile, y termina con "Así que sí…", que enlaza con la primera frase.
+**Gancho:** "Este desfile existe gracias a una película de James Bond. Y no es broma." Pregunta abierta: "¿Y qué hizo la ciudad?". El cierre aclara que la tradición es antigua y lo nuevo es el desfile, y termina (a pedido del dueño, con final completo) en "Así que esta vez, la realidad le copió al cine." + tarjeta final ⚡ FLASH DATOS. La frase nueva se generó aparte (videos/07-desfile-james-bond-cierre) y se unió en la pausa de 35.95 s. El letrero inicial dice "inspiró este desfile" (lo organizó la ciudad, inspirada en la película).
 
 ## Datos y fuentes
 

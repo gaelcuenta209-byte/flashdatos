@@ -2,7 +2,7 @@
 
 Pedido del dueño (2026-10-31, 7:08): segundo de tres videos del día, publicación a las 15:00 (CDMX). Idea 2 del reporte de hoy.
 
-**Gancho:** "Plutón podría tener un nuevo vecino… y nadie lo había visto." Preguntas abiertas: "¿el sexto?", "¿por qué nadie lo vio antes?" y "¿600 o 1,500 km?". El cierre ("Así que pronto…") enlaza con "Plutón podría tener un nuevo vecino" y el último cuadro regresa al encuadre del inicio.
+**Gancho:** "Plutón podría tener un nuevo vecino… y nadie lo había visto." Preguntas abiertas: "¿el sexto?", "¿por qué nadie lo vio antes?" y "¿600 o 1,500 km?". Cierre (cambiado a pedido del dueño, 7:56): "Los astrónomos dicen que no será el último: el vecindario de Plutón apenas empieza a revelarse." + tarjeta final ⚡ FLASH DATOS. El último cuadro regresa al encuadre del inicio. La frase nueva se generó aparte (videos/06-planeta-enano-ed138-cierre) y se unió a la narración en la pausa de 39.1 s.
 
 ## Datos y fuentes
 
