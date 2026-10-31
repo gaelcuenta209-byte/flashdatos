@@ -119,8 +119,12 @@
    "tema": "El desfile de Día de Muertos que inventó James Bond",
    "carpeta": "videos/07-desfile-james-bond",
    "fecha_programada": "2026-10-31 22:00 (CDMX)",
-   "estado": "en producción",
-   "nota": "Pedido del dueño del 2026-10-31 a las 7:08: tres videos hoy (8:00, 15:00 y 22:00). Se publican solo con su aprobación."
+   "estado": "esperando aprobación",
+   "nota": "Pedido del dueño del 2026-10-31 a las 7:08: tres videos hoy (8:00, 15:00 y 22:00). Se publican solo con su aprobación.",
+   "titulo": "⚡ El desfile de Día de Muertos nació en una película de James Bond 💀🎬 #shorts",
+   "descripcion": "⚡ En 2015, Spectre abrió con un desfile de Día de Muertos en el Centro Histórico de la CDMX que no existía. En 2016 la ciudad lo hizo realidad y hoy cumplió su 10.ª edición. La tradición es antiquísima; el desfile, nuevo. 💀🌼\nFuentes: México Desconocido, Xataka México y Gobierno de la CDMX.\n#diademuertos #cdmx #jamesbond #cine #mexico #curiosidades",
+   "titulo_tiktok": "⚡ Este desfile nació en una película 💀🎬",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-07/FlashDatos_07.mp4"
   }
  ]
 }
