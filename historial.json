@@ -67,16 +67,20 @@
    "tema": "Antes del Apolo 11: Sputnik, Gagarin, Kennedy, Tereshkova y Leonov (Parte 2)",
    "carpeta": "videos/04-antes-del-apolo",
    "titulo": "⚡ Antes del Apolo 11: la primera misión espacial (Parte 2) 🛰️ #shorts",
-   "fecha_programada": "2026-10-30 12:00 (CDMX)",
-   "estado": "esperando aprobación",
+   "fecha_programada": "2026-10-30 22:30 (CDMX)",
+   "estado": "programado",
    "enlaces": {
     "youtube": null,
     "instagram": null,
     "tiktok": null
    },
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-04/FlashDatos_04.mp4",
-   "metricool": null,
-   "nota": "Pedido del dueño del 2026-10-29: parte 2 del video 03, para publicarse el 2026-10-30 a las 12:00.",
+   "metricool": {
+    "id": 411904287,
+    "uuid": "-1385846192223662766",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-1385846192223662766"
+   },
+   "nota": "Pedido del dueño del 2026-10-29: parte 2 del video 03, para publicarse el 2026-10-30 a las 12:00. Aprobado por el dueño el 2026-10-30 a las 22:09 (\"Súbelo a las 10:30\"); se programó a las 22:30 porque no se aprobó a tiempo para las 12:00.",
    "descripcion": "⚡ Antes de pisar la Luna había que salir de la Tierra: Sputnik 1 (1957), Yuri Gagarin (1961), la promesa de Kennedy, Valentina Tereshkova y Alexéi Leonov. Parte 2 del Apolo 11. 🚀🛰️\nFuentes: NASA y ESA.\n#sputnik #gagarin #carreraespacial #espacio #historia #ciencia",
    "titulo_tiktok": "⚡ Antes del Apolo 11 (Parte 2) 🛰️"
   }
