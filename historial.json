@@ -147,6 +147,18 @@
     "uuid": "-6684585911388323088",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-6684585911388323088"
    }
+  },
+  {
+   "numero": 9,
+   "tema": "Hera llega al asteroide que la NASA golpeó (DART y Dimorphos)",
+   "carpeta": "videos/09-hera-dart",
+   "fecha_programada": "2026-11-01 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "nota": "Video del día del 2026-11-01 (idea 1 del reporte; \"elegida\" estaba en null). Se publica solo con aprobación del dueño.",
+   "titulo": "⚡ La NASA chocó una nave contra un asteroide… ¿y qué le hizo? ☄️ #shorts",
+   "descripcion": "⚡ En 2022, la nave DART de la NASA chocó a propósito contra el asteroide Dimorphos y acortó su órbita más de media hora. Este mes llega Hera, de la Agencia Espacial Europea, para medir el cráter, pesar el asteroide y ver su interior. ☄️🛰️\nFuentes: NASA, ESA y DLR (Centro Aeroespacial Alemán).\n#asteroide #nasa #esa #espacio #ciencia #defensaplanetaria",
+   "titulo_tiktok": "⚡ La NASA chocó contra un asteroide ☄️",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-09/FlashDatos_09.mp4"
   }
  ]
 }
