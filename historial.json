@@ -135,13 +135,18 @@
    "numero": 8,
    "tema": "¿Sobrevivirías a un apocalipsis zombi en tu ciudad? (Cornell, Ottawa y el hongo Ophiocordyceps)",
    "carpeta": "videos/08-apocalipsis-zombi",
-   "fecha_programada": "2026-11-01 02:00 (CDMX)",
-   "estado": "esperando aprobación",
-   "nota": "Pedido del dueño del 2026-11-01 a las 0:46: video de terror, como sobrevivir a un apocalipsis zombi en tu ciudad, para las 2:00 a. m. Se publica solo con su aprobación.",
+   "fecha_programada": "2026-11-02 02:00 (CDMX)",
+   "estado": "programado",
+   "nota": "Pedido del dueño del 2026-11-01 a las 0:46 (video de terror para las 2:00 a. m.). No salió el 1 de noviembre porque faltó la aprobación. El 2026-11-01 a las 6:44 el dueño pidió \"súbelo a las 2 de la mañana\": programado para el lunes 2 de noviembre a las 2:00 en YouTube, Instagram y TikTok.",
    "titulo": "⚡ ¿Sobrevivirías a un apocalipsis zombi en tu ciudad? 🧟 #shorts",
    "descripcion": "⚡ La Universidad Cornell simuló un brote zombi con 300 millones de personas: las ciudades caen primero. Un modelo de Ottawa advierte que la cuarentena no basta. Y los zombis existen… en las hormigas. 🧟🍄\nFuentes: Universidad Cornell (ScienceDaily), Universidad de Ottawa y Carleton, NPR e INEGI.\n#zombis #apocalipsiszombi #terror #ciencia #datoscuriosos #cdmx",
    "titulo_tiktok": "⚡ ¿Sobrevivirías a un apocalipsis zombi? 🧟",
-   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-08/FlashDatos_08.mp4"
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-08/FlashDatos_08.mp4",
+   "metricool": {
+    "id": 412886464,
+    "uuid": "-6684585911388323088",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-6684585911388323088"
+   }
   }
  ]
 }
