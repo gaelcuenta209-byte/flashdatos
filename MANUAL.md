@@ -77,6 +77,7 @@ Identidad visual: fondo espacial azul noche, subtítulos en Inter Black blanco c
 8. Copiar al repositorio `escena.py`, `timing.json` y la portada (`out/FlashDatos_NN_portada.jpg` como `portada.jpg`), hacer commit y push a `main`.
 9. **Enlace público para Metricool**:
    - Clonar la rama `medios` (`git clone --depth 1 -b medios ...` en una carpeta aparte).
+   - GitHub rechaza archivos de más de 100 MB. Si el MP4 pasa de 90 MB (pasa con grano o mucho detalle: el video 08 salió de 640 MB), recomprimirlo antes de subirlo: `ffmpeg -i in.mp4 -c:v libx264 -preset veryfast -b:v 9M -maxrate 12M -bufsize 18M -pix_fmt yuv420p -c:a copy -movflags +faststart out.mp4` (≈60 MB para 50 s).
    - Agregar `NN/FlashDatos_NN.mp4` y `NN/FlashDatos_NN_portada.jpg`, y hacer commit y push a `medios`.
    - Después escribir en `main` el archivo `videos/NN-tema/medios.json` con `{"numero": "NN", "archivos": ["FlashDatos_NN.mp4", "FlashDatos_NN_portada.jpg"]}` y hacer push.
    - La acción **Medios para publicar** crea el release `video-NN` y escribe `medios_estado.json`. Esperar con `git pull` hasta que exista y diga `"ok": true`. El enlace queda así: `https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-NN/FlashDatos_NN.mp4`.
