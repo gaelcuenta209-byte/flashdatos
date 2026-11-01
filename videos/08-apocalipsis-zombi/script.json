@@ -1,0 +1,27 @@
+{
+ "id": "08",
+ "title": "¿Sobrevivirías a un apocalipsis zombi en tu ciudad?",
+ "segments": [
+  {"id": "hook1", "parts": [
+   {"say": "Son las dos de la mañana. Tu ciudad está en silencio… demasiado silencio.", "cap": "2:00 AM… tu ciudad está en SILENCIO… demasiado SILENCIO"}]},
+  {"id": "hook2", "parts": [
+   {"say": "¿Sobrevivirías a un apocalipsis zombi?", "cap": "¿SOBREVIVIRÍAS a un APOCALIPSIS ZOMBI?"}]},
+  {"id": "cornell", "parts": [
+   {"say": "La Universidad Cornell lo simuló con trescientos millones de personas.", "cap": "CORNELL lo simuló con 300 MILLONES de personas"}]},
+  {"id": "ciudades", "parts": [
+   {"say": "Resultado: las grandes ciudades caen primero.", "cap": "Resultado: las GRANDES CIUDADES caen PRIMERO"},
+   {"say": "Entre más gente junta, más rápido se propaga.", "cap": "Más gente junta = contagio más RÁPIDO"}]},
+  {"id": "cdmx", "parts": [
+   {"say": "Y en la Ciudad de México viven más de nueve millones.", "cap": "Y en la CDMX viven más de 9 MILLONES"}]},
+  {"id": "huir", "parts": [
+   {"say": "¿Tu salida? Huir: el brote tarda semanas en llegar al campo… y meses a las montañas.", "cap": "¿Tu salida? HUIR: SEMANAS al campo… MESES a las montañas"}]},
+  {"id": "ottawa", "parts": [
+   {"say": "Otro modelo, de Ottawa, advierte que la cuarentena no basta: hay que actuar rápido.", "cap": "Modelo de OTTAWA: la CUARENTENA no basta"}]},
+  {"id": "hongo", "parts": [
+   {"say": "Lo más escalofriante: los zombis ya existen. Un hongo controla a las hormigas y las usa para regar sus esporas.", "cap": "Los ZOMBIS ya existen: un HONGO controla a las HORMIGAS"}]},
+  {"id": "cierre", "parts": [
+   {"say": "Por suerte, no puede infectarte: el calor de tu cuerpo lo destruye.", "cap": "Por suerte, el CALOR de tu cuerpo lo DESTRUYE"},
+   {"say": "Así que esta noche, puedes dormir tranquilo.", "cap": "Así que esta noche… puedes DORMIR TRANQUILO."}]}
+ ],
+ "ring_words": []
+}
