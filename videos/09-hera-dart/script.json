@@ -1,0 +1,87 @@
+{
+ "id": "09",
+ "title": "La NASA chocó una nave contra un asteroide… y ahora vamos a ver qué le hizo",
+ "segments": [
+  {
+   "id": "hook1",
+   "parts": [
+    {
+     "say": "En dos mil veintidós, la NASA estrelló una nave contra un asteroide… a propósito.",
+     "cap": "En 2022 la NASA ESTRELLÓ una nave contra un ASTEROIDE… a PROPÓSITO"
+    }
+   ]
+  },
+  {
+   "id": "hook2",
+   "parts": [
+    {
+     "say": "Y este mes, por fin vamos a ver qué le hizo.",
+     "cap": "Y este mes vamos a VER qué le hizo"
+    }
+   ]
+  },
+  {
+   "id": "dart",
+   "parts": [
+    {
+     "say": "La nave DART golpeó a Dimorphos, una roca de ciento sesenta metros, a más de veinte mil kilómetros por hora.",
+     "cap": "DART golpeó a DIMORPHOS (160 m) a más de 20,000 KM/H"
+    }
+   ]
+  },
+  {
+   "id": "orbita",
+   "parts": [
+    {
+     "say": "Dimorphos gira alrededor de otro asteroide, Didymos: tardaba casi doce horas por vuelta.",
+     "cap": "Gira alrededor de DIDYMOS: 11 H 55 MIN por vuelta"
+    }
+   ]
+  },
+  {
+   "id": "golpe",
+   "parts": [
+    {
+     "say": "Tras el choque, tarda más de media hora menos.",
+     "cap": "Después del choque: ¡MÁS DE MEDIA HORA menos!"
+    },
+    {
+     "say": "Fue la primera vez que movimos un objeto del espacio.",
+     "cap": "La 1.ª VEZ que MOVEMOS un objeto del espacio"
+    }
+   ]
+  },
+  {
+   "id": "hera",
+   "parts": [
+    {
+     "say": "Ahora llega Hera, una nave europea, con dos mininaves del tamaño de una maleta.",
+     "cap": "Llega HERA, nave EUROPEA, con 2 mininaves del tamaño de una MALETA"
+    }
+   ]
+  },
+  {
+   "id": "mision",
+   "parts": [
+    {
+     "say": "Medirán el cráter, pesarán el asteroide y verán su interior con radar.",
+     "cap": "Medirán el CRÁTER, PESARÁN el asteroide y verán su INTERIOR"
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "¿Para qué? Para saber cuánto empujar si un asteroide viene hacia nosotros.",
+     "cap": "Para saber cuánto EMPUJAR si un asteroide viene hacia la TIERRA"
+    },
+    {
+     "say": "Así aprende la humanidad a defender su planeta.",
+     "cap": "Así la HUMANIDAD aprende a DEFENDER su planeta."
+    }
+   ]
+  }
+ ],
+ "ring_words": []
+}
