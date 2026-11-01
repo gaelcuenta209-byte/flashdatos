@@ -1,0 +1,135 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 51.57,
+ "segments": [
+  {
+   "id": "hook1",
+   "t0": 0.1,
+   "t1": 5.8,
+   "say": "Son las dos de la mañana. Tu ciudad está en silencio… demasiado silencio.",
+   "parts": [
+    [
+     0.1,
+     5.8,
+     "2:00 AM… tu ciudad está en SILENCIO… demasiado SILENCIO"
+    ]
+   ]
+  },
+  {
+   "id": "hook2",
+   "t0": 6.42,
+   "t1": 8.68,
+   "say": "¿Sobrevivirías a un apocalipsis zombi?",
+   "parts": [
+    [
+     6.42,
+     8.68,
+     "¿SOBREVIVIRÍAS a un APOCALIPSIS ZOMBI?"
+    ]
+   ]
+  },
+  {
+   "id": "cornell",
+   "t0": 9.22,
+   "t1": 13.32,
+   "say": "La Universidad Cornell lo simuló con trescientos millones de personas.",
+   "parts": [
+    [
+     9.22,
+     13.32,
+     "CORNELL lo simuló con 300 MILLONES de personas"
+    ]
+   ]
+  },
+  {
+   "id": "ciudades",
+   "t0": 13.76,
+   "t1": 20.29,
+   "say": "Resultado: las grandes ciudades caen primero. Entre más gente junta, más rápido se propaga.",
+   "parts": [
+    [
+     13.76,
+     16.91,
+     "Resultado: las GRANDES CIUDADES caen PRIMERO"
+    ],
+    [
+     17.37,
+     20.29,
+     "Más gente junta = contagio más RÁPIDO"
+    ]
+   ]
+  },
+  {
+   "id": "cdmx",
+   "t0": 20.69,
+   "t1": 23.75,
+   "say": "Y en la Ciudad de México viven más de nueve millones.",
+   "parts": [
+    [
+     20.69,
+     23.75,
+     "Y en la CDMX viven más de 9 MILLONES"
+    ]
+   ]
+  },
+  {
+   "id": "huir",
+   "t0": 24.21,
+   "t1": 30.43,
+   "say": "¿Tu salida? Huir: el brote tarda semanas en llegar al campo… y meses a las montañas.",
+   "parts": [
+    [
+     24.21,
+     30.43,
+     "¿Tu salida? HUIR: SEMANAS al campo… MESES a las montañas"
+    ]
+   ]
+  },
+  {
+   "id": "ottawa",
+   "t0": 30.89,
+   "t1": 36.0,
+   "say": "Otro modelo, de Ottawa, advierte que la cuarentena no basta: hay que actuar rápido.",
+   "parts": [
+    [
+     30.89,
+     36.0,
+     "Modelo de OTTAWA: la CUARENTENA no basta"
+    ]
+   ]
+  },
+  {
+   "id": "hongo",
+   "t0": 36.51,
+   "t1": 44.02,
+   "say": "Lo más escalofriante: los zombis ya existen. Un hongo controla a las hormigas y las usa para regar sus esporas.",
+   "parts": [
+    [
+     36.51,
+     44.02,
+     "Los ZOMBIS ya existen: un HONGO controla a las HORMIGAS"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 44.42,
+   "t1": 51.43,
+   "say": "Por suerte, no puede infectarte: el calor de tu cuerpo lo destruye. Así que esta noche, puedes dormir tranquilo.",
+   "parts": [
+    [
+     44.42,
+     48.07,
+     "Por suerte, el CALOR de tu cuerpo lo DESTRUYE"
+    ],
+    [
+     48.53,
+     51.43,
+     "Así que esta noche… puedes DORMIR TRANQUILO."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 53.4
+}
