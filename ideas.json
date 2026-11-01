@@ -1,56 +1,32 @@
 {
- "actualizado": "2026-10-31",
+ "actualizado": "2026-11-01",
  "ideas": [
   {
    "numero": 1,
    "tema": "Hera llega al asteroide que la NASA golpeó (DART)",
    "gancho": "En 2022 la NASA chocó una nave contra un asteroide… y ahora vamos a ver qué le hizo.",
-   "por_que_viral": "Llegada en noviembre, con primeras imágenes de esta semana; ‘defensa planetaria’ y ‘chocar un asteroide’ son ganchos fuertísimos.",
-   "dato_principal": "DART golpeó a Dimorphos a unos 6 km/s y acortó su órbita alrededor de Didymos unos 32 minutos; la sonda Hera de la ESA ya distingue los dos asteroides por separado y llega en noviembre.",
+   "por_que_viral": "La llegada de Hera a Didymos es este mes (noviembre de 2026, un mes antes de lo previsto): primeras imágenes de cerca de un asteroide golpeado a propósito. ‘Defensa planetaria’ y ‘chocar un asteroide’ son ganchos fuertísimos.",
+   "dato_principal": "DART golpeó a Dimorphos a unos 6 km/s en 2022 y acortó su órbita alrededor de Didymos unos 32 minutos; Hera, de la ESA, llega en noviembre de 2026 con dos CubeSats (Milani y Juventas) para medir el cráter.",
    "escena_3d": "Choque de DART en cámara lenta, la órbita que se encoge y Hera acercándose al par de asteroides.",
    "fuentes": [
-    "https://www.esa.int/Safety_Security/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one",
+    "https://www.esa.int/Space_Safety/Hera/ESA_s_Hera_targets_early_arrival_at_Didymos_asteroids",
     "https://www.space.com/astronomy/asteroids/like-accelerating-from-stationary-to-supersonic-flight-europes-hera-probe-boosts-speed-stays-on-course-for-november-asteroid-rendezvous"
    ]
   },
   {
    "numero": 2,
-   "tema": "Posible nuevo planeta enano más allá de Plutón (2026 ED138)",
-   "gancho": "Plutón podría tener un nuevo vecino… y es enorme.",
-   "por_que_viral": "Noticia del 28 de octubre que sigue en medios; Plutón siempre genera nostalgia y debate (‘¿cuántos planetas hay?’).",
-   "dato_principal": "El observatorio Vera Rubin halló su primer candidato a planeta enano; podría medir hasta 1,500 km de diámetro.",
-   "escena_3d": "Viaje del Sol al cinturón de Kuiper; comparación de tamaño con Plutón y la Luna.",
+   "tema": "Los meteoros no se queman: explotan (y las Leónidas del 17 de noviembre)",
+   "gancho": "Te mintieron: las estrellas fugaces no se queman.",
+   "por_que_viral": "Corrige algo que todos aprendimos y da una fecha cercana para salir a ver el cielo.",
+   "dato_principal": "Un estudio describe 7 etapas violentas (fundirse y fragmentarse) en lugar de ‘quemarse’. Las Leónidas se ven mejor la noche del 17 al 18 de noviembre, con 10–15 meteoros por hora en buenas condiciones.",
+   "escena_3d": "Roca entrando a la atmósfera en cámara lenta, fragmentándose por etapas.",
    "fuentes": [
-    "https://news.stanford.edu/stories/2026/10/rubin-observatory-dwarf-planet-candidate",
-    "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate"
+    "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+    "https://ondatravel.pl/es/eventos-astronomicos-noviembre-2026/"
    ]
   },
   {
    "numero": 3,
-   "tema": "La primera estrella verde",
-   "gancho": "No existen estrellas verdes… hasta ahora.",
-   "por_que_viral": "Rompe una creencia popular y es muy visual; se entiende sin audio.",
-   "dato_principal": "Astrónomos de la Universidad de Warwick hallaron la primera estrella conocida que se vería verde al ojo humano: una enana blanca.",
-   "escena_3d": "Paleta de colores de estrellas (roja, amarilla, azul) y aparición de la enana blanca verde.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
-    "https://www.thedailybeast.com/university-of-warwick-astronomers-find-the-universes-first-ever-green-star"
-   ]
-  },
-  {
-   "numero": 4,
-   "tema": "Los meteoros no se queman: explotan (y las Leónidas del 17 de noviembre)",
-   "gancho": "Te mintieron: las estrellas fugaces no se queman.",
-   "por_que_viral": "Corrige algo que todos aprendimos y da una fecha cercana para salir a ver el cielo.",
-   "dato_principal": "Un estudio describe 7 etapas violentas (fundirse y fragmentarse) en lugar de ‘quemarse’. Las Leónidas tienen su máximo el 17–18 de noviembre, con unas 15 por hora.",
-   "escena_3d": "Roca entrando a la atmósfera en cámara lenta, fragmentándose por etapas.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
-    "https://farmersalmanac.com/2026-astronomy-calendar-the-biggest-sky-events-from-june-through-december"
-   ]
-  },
-  {
-   "numero": 5,
    "tema": "Tres agujeros negros gigantes en una sola galaxia",
    "gancho": "Una galaxia con TRES monstruos en su centro.",
    "por_que_viral": "Agujeros negros = tema estrella en Shorts; primera vez que se ven tres activos en una galaxia y podrían fusionarse.",
@@ -62,7 +38,19 @@
    ]
   },
   {
-   "numero": 6,
+   "numero": 4,
+   "tema": "La primera estrella verde",
+   "gancho": "No existen estrellas verdes… hasta ahora.",
+   "por_que_viral": "Rompe una creencia popular y es muy visual; se entiende sin audio.",
+   "dato_principal": "Astrónomos de la Universidad de Warwick hallaron la primera estrella conocida que se vería verde al ojo humano: una enana blanca.",
+   "escena_3d": "Paleta de colores de estrellas (roja, amarilla, azul) y aparición de la enana blanca verde.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
+    "https://www.thedailybeast.com/university-of-warwick-astronomers-find-the-universes-first-ever-green-star"
+   ]
+  },
+  {
+   "numero": 5,
    "tema": "El planeta de lava con ‘protector solar’ (TOI-561 b)",
    "gancho": "Este planeta es un océano de lava… y aun así tiene ‘bloqueador solar’.",
    "por_que_viral": "Mundo infernal + giro inesperado (una atmósfera que no debería existir); muy visual.",
@@ -71,6 +59,18 @@
    "fuentes": [
     "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
     "https://www.sciencenews.org/article/lava-planet-toi561b-atmosphere-tess/embed"
+   ]
+  },
+  {
+   "numero": 6,
+   "tema": "Por qué los cocodrilos sobrevivieron a los dinosaurios",
+   "gancho": "El asteroide acabó con los dinosaurios… pero no con ellos.",
+   "por_que_viral": "Dinosaurios + animal conocido; responde una pregunta que mucha gente se hace. Agrega variedad (no todo es espacio).",
+   "dato_principal": "Un estudio del University College London muestra que los parientes de los cocodrilos llevan unos 250 millones de años ‘siguiendo’ los climas cálidos, y eso los ayudó a superar las extinciones.",
+   "escena_3d": "Mapa de la Tierra antigua con zonas cálidas que se mueven y cocodrilos que las siguen; impacto del asteroide.",
+   "fuentes": [
+    "https://www.ucl.ac.uk/news/2026/oct/keeping-warm-climates-helped-crocodiles-outlast-dinosaurs",
+    "https://www.sciencedaily.com/releases/2026/10/261030002922.htm"
    ]
   },
   {
@@ -87,14 +87,14 @@
   },
   {
    "numero": 8,
-   "tema": "Por qué los cocodrilos sobrevivieron a los dinosaurios",
-   "gancho": "El asteroide acabó con los dinosaurios… pero no con ellos.",
-   "por_que_viral": "Dinosaurios + animal conocido; responde una pregunta que mucha gente se hace. Agrega variedad (no todo es espacio).",
-   "dato_principal": "Un estudio del University College London muestra que los parientes de los cocodrilos llevan unos 250 millones de años ‘siguiendo’ los climas cálidos, y eso los ayudó a superar las extinciones.",
-   "escena_3d": "Mapa de la Tierra antigua con zonas cálidas que se mueven y cocodrilos que las siguen; impacto del asteroide.",
+   "tema": "Los metales que no se rompen a −253 °C",
+   "gancho": "A −253 °C casi cualquier metal se rompe como vidrio… estos no.",
+   "por_que_viral": "Tecnología con aplicación clara (cohetes, tanques de hidrógeno, viajes al espacio) y un experimento visual: congelar y estirar un metal hasta el límite. Da variedad al canal.",
+   "dato_principal": "Oxford y UC Berkeley probaron dos aleaciones de niobio y titanio a 20 kelvin (−253 °C) y no se volvieron frágiles: sus cristales se ‘maclan’ y cambian de estructura para absorber la fuerza. Publicado en Nature el 14 de octubre de 2026.",
+   "escena_3d": "Barra de metal enfriándose con escarcha y vista al nivel de los átomos: una red cristalina que se dobla en espejo (macla) en lugar de partirse; comparación con un metal común que se quiebra.",
    "fuentes": [
-    "https://www.ucl.ac.uk/news/2026/oct/keeping-warm-climates-helped-crocodiles-outlast-dinosaurs",
-    "https://www.sci.news/paleontology/warm-climate-pseudosuchians-15146.html"
+    "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+    "https://doi.org/10.1038/s41586-026-11065-7"
    ]
   }
  ],
