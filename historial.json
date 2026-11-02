@@ -136,8 +136,8 @@
    "tema": "¿Sobrevivirías a un apocalipsis zombi en tu ciudad? (Cornell, Ottawa y el hongo Ophiocordyceps)",
    "carpeta": "videos/08-apocalipsis-zombi",
    "fecha_programada": "2026-11-02 02:00 (CDMX)",
-   "estado": "programado",
-   "nota": "Pedido del dueño del 2026-11-01 a las 0:46 (video de terror para las 2:00 a. m.). No salió el 1 de noviembre porque faltó la aprobación. El 2026-11-01 a las 6:44 el dueño pidió \"súbelo a las 2 de la mañana\": programado para el lunes 2 de noviembre a las 2:00 en YouTube, Instagram y TikTok.",
+   "estado": "publicado",
+   "nota": "Pedido del dueño del 2026-11-01 a las 0:46 (video de terror para las 2:00 a. m.). No salió el 1 de noviembre porque faltó la aprobación. El 2026-11-01 a las 6:44 el dueño pidió \"súbelo a las 2 de la mañana\": programado para el lunes 2 de noviembre a las 2:00 en YouTube, Instagram y TikTok. Verificado el 2026-11-02 en el reporte de la mañana: publicado en las tres redes (getScheduledPosts: PUBLISHED).",
    "titulo": "⚡ ¿Sobrevivirías a un apocalipsis zombi en tu ciudad? 🧟 #shorts",
    "descripcion": "⚡ La Universidad Cornell simuló un brote zombi con 300 millones de personas: las ciudades caen primero. Un modelo de Ottawa advierte que la cuarentena no basta. Y los zombis existen… en las hormigas. 🧟🍄\nFuentes: Universidad Cornell (ScienceDaily), Universidad de Ottawa y Carleton, NPR e INEGI.\n#zombis #apocalipsiszombi #terror #ciencia #datoscuriosos #cdmx",
    "titulo_tiktok": "⚡ ¿Sobrevivirías a un apocalipsis zombi? 🧟",
@@ -146,6 +146,12 @@
     "id": 412886464,
     "uuid": "-6684585911388323088",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-6684585911388323088"
+   },
+   "fecha_publicacion": "2026-11-02 02:00 (CDMX), YouTube, Instagram y TikTok",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/5Ycch8-Brtg",
+    "instagram": "https://www.instagram.com/reel/DfO1R2BD4TV/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7703481599173725460"
    }
   },
   {
