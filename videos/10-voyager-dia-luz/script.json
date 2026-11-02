@@ -1,0 +1,92 @@
+{
+ "id": "10",
+ "title": "Voyager 1 llega a un día luz de la Tierra",
+ "segments": [
+  {
+   "id": "hook1",
+   "parts": [
+    {
+     "say": "Este mes, un mensaje a la nave más lejana de la humanidad tardará un día entero en llegar.",
+     "cap": "Un mensaje a la nave MÁS LEJANA tardará UN DÍA ENTERO en llegar"
+    }
+   ]
+  },
+  {
+   "id": "voyager",
+   "parts": [
+    {
+     "say": "Es la Voyager uno.",
+     "cap": "Es la VOYAGER 1"
+    },
+    {
+     "say": "Despegó en mil novecientos setenta y siete y nunca ha dejado de alejarse.",
+     "cap": "Despegó en 1977 y NUNCA ha dejado de ALEJARSE"
+    }
+   ]
+  },
+  {
+   "id": "velocidad",
+   "parts": [
+    {
+     "say": "Viaja a sesenta y un mil kilómetros por hora.",
+     "cap": "Viaja a 61,000 KM/H"
+    }
+   ]
+  },
+  {
+   "id": "dialuz",
+   "parts": [
+    {
+     "say": "El dieciocho de noviembre llegará a un día luz: unos veinticinco mil novecientos millones de kilómetros.",
+     "cap": "El 18 DE NOVIEMBRE llega a 1 DÍA LUZ: ≈25,900 MILLONES de km"
+    }
+   ]
+  },
+  {
+   "id": "luz",
+   "parts": [
+    {
+     "say": "La luz, lo más rápido que existe, tardará veinticuatro horas en alcanzarla.",
+     "cap": "La LUZ tardará 24 HORAS en alcanzarla"
+    }
+   ]
+  },
+  {
+   "id": "respuesta",
+   "parts": [
+    {
+     "say": "Si le preguntas algo hoy, su respuesta llega pasado mañana.",
+     "cap": "Si le preguntas algo HOY, responde PASADO MAÑANA"
+    }
+   ]
+  },
+  {
+   "id": "silencio",
+   "parts": [
+    {
+     "say": "Y en octubre se quedó callada dos días… hasta que volvió a hablar.",
+     "cap": "En OCTUBRE se quedó CALLADA 2 DÍAS… y VOLVIÓ a hablar"
+    }
+   ]
+  },
+  {
+   "id": "disco",
+   "parts": [
+    {
+     "say": "Lleva un disco de oro con imágenes y saludos de la Tierra.",
+     "cap": "Lleva un DISCO DE ORO con imágenes y SALUDOS de la Tierra"
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Cuando se apague, seguirá viajando como nuestra carta al universo.",
+     "cap": "Cuando se apague, seguirá viajando: nuestra CARTA al UNIVERSO."
+    }
+   ]
+  }
+ ],
+ "ring_words": []
+}
