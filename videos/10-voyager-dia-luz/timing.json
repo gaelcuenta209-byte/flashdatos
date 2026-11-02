@@ -1,0 +1,130 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 45.64,
+ "segments": [
+  {
+   "id": "hook1",
+   "t0": 0.1,
+   "t1": 6.03,
+   "say": "Este mes, un mensaje a la nave más lejana de la humanidad tardará un día entero en llegar.",
+   "parts": [
+    [
+     0.1,
+     6.03,
+     "Un mensaje a la nave MÁS LEJANA tardará UN DÍA ENTERO en llegar"
+    ]
+   ]
+  },
+  {
+   "id": "voyager",
+   "t0": 6.62,
+   "t1": 12.68,
+   "say": "Es la Voyager uno. Despegó en mil novecientos setenta y siete y nunca ha dejado de alejarse.",
+   "parts": [
+    [
+     6.62,
+     7.83,
+     "Es la VOYAGER 1"
+    ],
+    [
+     8.4,
+     12.68,
+     "Despegó en 1977 y NUNCA ha dejado de ALEJARSE"
+    ]
+   ]
+  },
+  {
+   "id": "velocidad",
+   "t0": 13.18,
+   "t1": 15.92,
+   "say": "Viaja a sesenta y un mil kilómetros por hora.",
+   "parts": [
+    [
+     13.18,
+     15.92,
+     "Viaja a 61,000 KM/H"
+    ]
+   ]
+  },
+  {
+   "id": "dialuz",
+   "t0": 16.42,
+   "t1": 23.38,
+   "say": "El dieciocho de noviembre llegará a un día luz: unos veinticinco mil novecientos millones de kilómetros.",
+   "parts": [
+    [
+     16.42,
+     23.38,
+     "El 18 DE NOVIEMBRE llega a 1 DÍA LUZ: ≈25,900 MILLONES de km"
+    ]
+   ]
+  },
+  {
+   "id": "luz",
+   "t0": 23.85,
+   "t1": 28.86,
+   "say": "La luz, lo más rápido que existe, tardará veinticuatro horas en alcanzarla.",
+   "parts": [
+    [
+     23.85,
+     28.86,
+     "La LUZ tardará 24 HORAS en alcanzarla"
+    ]
+   ]
+  },
+  {
+   "id": "respuesta",
+   "t0": 29.27,
+   "t1": 32.99,
+   "say": "Si le preguntas algo hoy, su respuesta llega pasado mañana.",
+   "parts": [
+    [
+     29.27,
+     32.99,
+     "Si le preguntas algo HOY, responde PASADO MAÑANA"
+    ]
+   ]
+  },
+  {
+   "id": "silencio",
+   "t0": 33.46,
+   "t1": 36.13,
+   "say": "Y en octubre se quedó callada dos días… hasta que volvió a hablar.",
+   "parts": [
+    [
+     33.46,
+     36.13,
+     "En OCTUBRE se quedó CALLADA 2 DÍAS… y VOLVIÓ a hablar"
+    ]
+   ]
+  },
+  {
+   "id": "disco",
+   "t0": 36.62,
+   "t1": 41.26,
+   "say": "Lleva un disco de oro con imágenes y saludos de la Tierra.",
+   "parts": [
+    [
+     36.62,
+     41.26,
+     "Lleva un DISCO DE ORO con imágenes y SALUDOS de la Tierra"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 41.7,
+   "t1": 45.44,
+   "say": "Cuando se apague, seguirá viajando como nuestra carta al universo.",
+   "parts": [
+    [
+     41.7,
+     45.44,
+     "Cuando se apague, seguirá viajando: nuestra CARTA al UNIVERSO."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 47.6
+}
