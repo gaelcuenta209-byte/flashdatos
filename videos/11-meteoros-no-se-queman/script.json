@@ -1,0 +1,88 @@
+{
+ "id": "11",
+ "title": "Las estrellas fugaces no se queman: se derriten y revientan",
+ "segments": [
+  {
+   "id": "hook1",
+   "parts": [
+    {
+     "say": "Te dijeron que las estrellas fugaces se queman. No es fuego: se derriten y revientan.",
+     "cap": "Las estrellas fugaces NO se QUEMAN: se DERRITEN y REVIENTAN"
+    }
+   ]
+  },
+  {
+   "id": "estudio",
+   "parts": [
+    {
+     "say": "La NASA y el Instituto SETI analizaron setenta y cinco caídas de meteoritos.",
+     "cap": "La NASA y el INSTITUTO SETI analizaron 75 CAÍDAS de meteoritos"
+    }
+   ]
+  },
+  {
+   "id": "choque",
+   "parts": [
+    {
+     "say": "Primero choca con el aire tan rápido que la roca y el gas brillan.",
+     "cap": "Choca con el AIRE tan rápido que la roca y el gas BRILLAN"
+    }
+   ]
+  },
+  {
+   "id": "derrite",
+   "parts": [
+    {
+     "say": "Luego se derrite: solo eso le puede quitar hasta el cuarenta por ciento de su masa.",
+     "cap": "Se DERRITE: solo eso le quita hasta 40 % de su MASA"
+    }
+   ]
+  },
+  {
+   "id": "rompe",
+   "parts": [
+    {
+     "say": "Después se rompe en pedazos con destellos; el último suele ser rojo.",
+     "cap": "Se ROMPE en pedazos con DESTELLOS… el último, ROJO"
+    }
+   ]
+  },
+  {
+   "id": "caida",
+   "parts": [
+    {
+     "say": "Los pedazos se apagan y caen como meteoritos.",
+     "cap": "Los pedazos se APAGAN y caen como METEORITOS"
+    }
+   ]
+  },
+  {
+   "id": "tauridas",
+   "parts": [
+    {
+     "say": "Míralo tú: las Táuridas del Sur, con bolas de fuego, llegan a su máximo la noche del cuatro al cinco de noviembre.",
+     "cap": "TÁURIDAS: BOLAS DE FUEGO la noche del 4 al 5 DE NOVIEMBRE"
+    }
+   ]
+  },
+  {
+   "id": "leonidas",
+   "parts": [
+    {
+     "say": "Y del diecisiete al dieciocho, las Leónidas: hasta quince por hora.",
+     "cap": "LEÓNIDAS: noche del 17 al 18, hasta 15 POR HORA"
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Cuando veas una, no es una roca quemándose: se está derritiendo y estallando.",
+     "cap": "No es una roca QUEMÁNDOSE: se DERRITE y ESTALLA."
+    }
+   ]
+  }
+ ],
+ "ring_words": []
+}
