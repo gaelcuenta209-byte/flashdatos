@@ -180,13 +180,18 @@
    "numero": 10,
    "tema": "Voyager 1 llega a un día luz de la Tierra (18 de noviembre de 2026)",
    "carpeta": "videos/10-voyager-dia-luz",
-   "fecha_programada": "2026-11-02 17:00 (CDMX)",
-   "estado": "esperando aprobación",
-   "nota": "Video del día del 2026-11-02 (idea 1 del reporte; \"elegida\" estaba en null). Se publica solo con aprobación del dueño.",
+   "fecha_programada": "2026-11-02 21:00 (CDMX)",
+   "estado": "programado",
+   "nota": "Video del día del 2026-11-02 (idea 1 del reporte; \"elegida\" estaba en null). Se publica solo con aprobación del dueño. El dueño aprobó a las 20:41 (\"Si\"); como ya habían pasado las 16:45, se programó para hoy a las 21:00 en YouTube, Instagram y TikTok.",
    "titulo": "⚡ Un mensaje a esta nave tarda UN DÍA en llegar 🛰️ #shorts",
    "descripcion": "⚡ El 18 de noviembre, la Voyager 1 llega a un día luz de la Tierra: unos 25,900 millones de km. Una señal tarda 24 horas en llegar y otras 24 en volver. Lanzada en 1977, lleva el disco de oro con saludos de la Tierra. 🛰️✨\nFuentes: NASA/JPL (vía Astrobiology.com), EarthSky e IFLScience.\n#voyager1 #nasa #espacio #astronomia #ciencia #datoscuriosos",
    "titulo_tiktok": "⚡ Esta nave está a 1 día luz 🛰️",
-   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-10/FlashDatos_10.mp4"
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-10/FlashDatos_10.mp4",
+   "metricool": {
+    "id": 414772378,
+    "uuid": "-5439800131088334299",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-5439800131088334299"
+   }
   }
  ]
 }
