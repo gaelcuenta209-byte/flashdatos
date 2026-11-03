@@ -1,20 +1,32 @@
 {
- "actualizado": "2026-11-02",
+ "actualizado": "2026-11-03",
  "ideas": [
   {
    "numero": 1,
-   "tema": "Voyager 1 llega a un día luz de la Tierra",
-   "gancho": "Este mes, un mensaje a la nave más lejana de la humanidad tardará un día entero en llegar.",
-   "por_que_viral": "Hito histórico con fecha exacta (17–18 de noviembre de 2026), nostalgia (lanzada en 1977) y noticia fresca: el 30 de octubre la NASA la recuperó de una pausa de comunicaciones para ahorrar energía.",
-   "dato_principal": "Voyager 1 cruza un día luz (≈25,900 millones de km) alrededor del 18 de noviembre de 2026: la luz tarda 24 horas en ir de la Tierra a la nave.",
-   "escena_3d": "Rayo de luz que sale de la Tierra y cruza el sistema solar con un reloj de 24 h; Voyager con su antena apuntando de regreso.",
+   "tema": "Los meteoros no se queman: explotan (Táuridas este 4–5 de nov y Leónidas el 17–18)",
+   "gancho": "Te mintieron: las estrellas fugaces no se queman.",
+   "por_que_viral": "Corrige algo que todos aprendimos y es de hoy: las Táuridas del Sur tienen su máximo mañana y pasado (4–5 de nov), así que el público puede salir a verlas esta semana.",
+   "dato_principal": "Un estudio describe 7 etapas violentas (fundirse y fragmentarse) en lugar de ‘quemarse’. Las Leónidas se ven mejor la noche del 17 al 18 de noviembre, con 10–15 meteoros por hora en buenas condiciones. Además, las Táuridas del Sur tienen su máximo el 4–5 de noviembre (5–10 por hora).",
+   "escena_3d": "Roca entrando a la atmósfera en cámara lenta, fragmentándose por etapas.",
    "fuentes": [
-    "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/",
-    "https://iflscience.com/its-official-voyager-1-will-cross-the-1-light-day-threshold-on-november-18-2026-82733"
+    "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+    "https://ondatravel.pl/es/eventos-astronomicos-noviembre-2026/"
    ]
   },
   {
    "numero": 2,
+   "tema": "El cielo real de 'La noche estrellada' de Van Gogh",
+   "gancho": "Van Gogh no inventó este cielo: lo pintó tal como estaba el 22 de julio de 1889.",
+   "por_que_viral": "Mezcla arte famosísimo con astronomía; noticia del 2 de noviembre (Scientific Reports) y se entiende sin audio comparando la pintura con el cielo reconstruido.",
+   "dato_principal": "Un estudio reconstruyó el cielo antes del amanecer sobre Saint-Rémy: la 'estrella' brillante sería Venus, el cúmulo serían las Híades y la Luna menguante coincide con la madrugada del 22 de julio de 1889 aprox.",
+   "escena_3d": "Esfera celeste 3D girando hasta la madrugada de 1889 sobre un pueblo; Venus, las Híades y la Luna se alinean con los remolinos de la pintura (estilizados, sin copiar el cuadro).",
+   "fuentes": [
+    "https://www.nature.com/articles/s41598-026-73025-5",
+    "https://www.universetoday.com/articles/new-research-resolves-the-mystery-behind-van-goghs-the-starry-night"
+   ]
+  },
+  {
+   "numero": 3,
    "tema": "Tres agujeros negros gigantes en una sola galaxia",
    "gancho": "Una galaxia con TRES monstruos en su centro.",
    "por_que_viral": "Agujeros negros = tema estrella en Shorts; primera vez que se ven tres activos en una galaxia y podrían fusionarse.",
@@ -26,31 +38,7 @@
    ]
   },
   {
-   "numero": 3,
-   "tema": "Los meteoros no se queman: explotan (y las Leónidas del 17 de noviembre)",
-   "gancho": "Te mintieron: las estrellas fugaces no se queman.",
-   "por_que_viral": "Corrige algo que todos aprendimos y da una fecha cercana para salir a ver el cielo.",
-   "dato_principal": "Un estudio describe 7 etapas violentas (fundirse y fragmentarse) en lugar de ‘quemarse’. Las Leónidas se ven mejor la noche del 17 al 18 de noviembre, con 10–15 meteoros por hora en buenas condiciones. Además, las Táuridas del Sur tienen su máximo el 4–5 de noviembre (5–10 por hora).",
-   "escena_3d": "Roca entrando a la atmósfera en cámara lenta, fragmentándose por etapas.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
-    "https://ondatravel.pl/es/eventos-astronomicos-noviembre-2026/"
-   ]
-  },
-  {
    "numero": 4,
-   "tema": "La primera estrella verde",
-   "gancho": "No existen estrellas verdes… hasta ahora.",
-   "por_que_viral": "Rompe una creencia popular y es muy visual; se entiende sin audio.",
-   "dato_principal": "Astrónomos de la Universidad de Warwick hallaron la primera estrella conocida que se vería verde al ojo humano: una enana blanca.",
-   "escena_3d": "Paleta de colores de estrellas (roja, amarilla, azul) y aparición de la enana blanca verde.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
-    "https://www.thedailybeast.com/university-of-warwick-astronomers-find-the-universes-first-ever-green-star"
-   ]
-  },
-  {
-   "numero": 5,
    "tema": "Desfile de 4 planetas antes del amanecer (13–22 de noviembre)",
    "gancho": "Cuatro planetas en fila y los puedes ver sin telescopio.",
    "por_que_viral": "Evento que el público puede ver en persona con fecha cercana; ‘alineación de planetas’ siempre se comparte mucho.",
@@ -62,15 +50,27 @@
    ]
   },
   {
-   "numero": 6,
-   "tema": "El planeta de lava con ‘protector solar’ (TOI-561 b)",
-   "gancho": "Este planeta es un océano de lava… y aun así tiene ‘bloqueador solar’.",
-   "por_que_viral": "Mundo infernal + giro inesperado (una atmósfera que no debería existir); muy visual.",
-   "dato_principal": "Webb halló una atmósfera gruesa en TOI-561 b, un planeta rocoso a unos 280 años luz que da la vuelta a su estrella en menos de 11 horas y está cubierto de magma.",
-   "escena_3d": "Planeta incandescente pegado a su estrella con una capa de gas que lo envuelve.",
+   "numero": 5,
+   "tema": "Perseverance rompe el récord de manejo en otro mundo",
+   "gancho": "Este robot ya manejó más que ningún vehículo fuera de la Tierra… y lo hizo casi solo.",
+   "por_que_viral": "Récord histórico (supera a Opportunity), noticia de esta semana y gancho de autonomía/IA: el rover planea gran parte de su ruta sin humanos.",
+   "dato_principal": "Perseverance superó las 28 millas (≈45 km) recorridas en Marte, la mayor distancia manejada en otro mundo, superando el récord de Opportunity.",
+   "escena_3d": "Rover en terreno marciano con la ruta trazada desde el cráter Jezero; contador de km y la silueta de Opportunity quedándose atrás.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-    "https://www.sciencenews.org/article/lava-planet-toi561b-atmosphere-tess/embed"
+    "https://www.jpl.nasa.gov/news/nasas-perseverance-sets-off-world-record-for-total-distance-driven/",
+    "https://www.sciencedaily.com/releases/2026/11/261101010536.htm"
+   ]
+  },
+  {
+   "numero": 6,
+   "tema": "La primera estrella verde",
+   "gancho": "No existen estrellas verdes… hasta ahora.",
+   "por_que_viral": "Rompe una creencia popular y es muy visual; se entiende sin audio.",
+   "dato_principal": "Astrónomos de la Universidad de Warwick hallaron la primera estrella conocida que se vería verde al ojo humano: una enana blanca.",
+   "escena_3d": "Paleta de colores de estrellas (roja, amarilla, azul) y aparición de la enana blanca verde.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
+    "https://www.thedailybeast.com/university-of-warwick-astronomers-find-the-universes-first-ever-green-star"
    ]
   },
   {
@@ -87,14 +87,14 @@
   },
   {
    "numero": 8,
-   "tema": "Por qué los cocodrilos sobrevivieron a los dinosaurios",
-   "gancho": "El asteroide acabó con los dinosaurios… pero no con ellos.",
-   "por_que_viral": "Dinosaurios + animal conocido; responde una pregunta que mucha gente se hace. Agrega variedad (no todo es espacio).",
-   "dato_principal": "Un estudio del University College London muestra que los parientes de los cocodrilos llevan unos 250 millones de años ‘siguiendo’ los climas cálidos, y eso los ayudó a superar las extinciones.",
-   "escena_3d": "Mapa de la Tierra antigua con zonas cálidas que se mueven y cocodrilos que las siguen; impacto del asteroide.",
+   "tema": "El planeta de lava con ‘protector solar’ (TOI-561 b)",
+   "gancho": "Este planeta es un océano de lava… y aun así tiene ‘bloqueador solar’.",
+   "por_que_viral": "Mundo infernal + giro inesperado (una atmósfera que no debería existir); muy visual.",
+   "dato_principal": "Webb halló una atmósfera gruesa en TOI-561 b, un planeta rocoso a unos 280 años luz que da la vuelta a su estrella en menos de 11 horas y está cubierto de magma.",
+   "escena_3d": "Planeta incandescente pegado a su estrella con una capa de gas que lo envuelve.",
    "fuentes": [
-    "https://www.ucl.ac.uk/news/2026/oct/keeping-warm-climates-helped-crocodiles-outlast-dinosaurs",
-    "https://www.sciencedaily.com/releases/2026/10/261030002922.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+    "https://www.sciencenews.org/article/lava-planet-toi561b-atmosphere-tess/embed"
    ]
   }
  ],
