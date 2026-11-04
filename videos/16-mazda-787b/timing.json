@@ -1,0 +1,212 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 142.21,
+ "segments": [
+  {
+   "id": "dato",
+   "t0": 0.1,
+   "t1": 14.36,
+   "say": "Respondiendo a Nacho: el Mazda siete ochenta y siete B es el único auto sin pistones que ha ganado las veinticuatro horas de Le Mans. Fue en mil novecientos noventa y uno, y además fue la primera victoria de una marca japonesa.",
+   "parts": [
+    [
+     0.1,
+     8.28,
+     "Respondiendo a @_nachozn_: el MAZDA 787B es el ÚNICO auto SIN PISTONES que ha ganado las 24 HORAS DE LE MANS."
+    ],
+    [
+     8.81,
+     14.36,
+     "Fue en 1991, y además fue la PRIMERA victoria de una marca JAPONESA."
+    ]
+   ]
+  },
+  {
+   "id": "motor",
+   "t0": 15.08,
+   "t1": 20.48,
+   "say": "El secreto está en su motor: un rotativo de cuatro rotores llamado R veintiséis B.",
+   "parts": [
+    [
+     15.08,
+     20.48,
+     "El secreto está en su MOTOR: un ROTATIVO de 4 ROTORES llamado R26B."
+    ]
+   ]
+  },
+  {
+   "id": "rotor",
+   "t0": 21.23,
+   "t1": 39.39,
+   "say": "En lugar de pistones que suben y bajan, un rotor con forma de triángulo gira dentro de una cámara ovalada. Cada cara del triángulo hace los cuatro tiempos: admisión, compresión, explosión y escape. Por eso no necesita válvulas, tiene menos piezas y gira muy suave.",
+   "parts": [
+    [
+     21.23,
+     27.32,
+     "En lugar de PISTONES que suben y bajan, un ROTOR en forma de TRIÁNGULO gira dentro de una cámara OVALADA."
+    ],
+    [
+     28.03,
+     34.48,
+     "Cada CARA del triángulo hace los 4 TIEMPOS: ADMISIÓN, COMPRESIÓN, EXPLOSIÓN y ESCAPE."
+    ],
+    [
+     35.21,
+     39.39,
+     "Por eso NO necesita VÁLVULAS, tiene MENOS piezas y gira muy SUAVE."
+    ]
+   ]
+  },
+  {
+   "id": "r26b",
+   "t0": 40.33,
+   "t1": 55.41,
+   "say": "Mazda puso cuatro rotores en fila, de seiscientos cincuenta y cuatro centímetros cúbicos cada uno, con la misma forma que el del RX siete de calle. Juntos daban setecientos caballos a nueve mil revoluciones. Vamos a desarmarlo.",
+   "parts": [
+    [
+     40.33,
+     49.39,
+     "Mazda puso 4 ROTORES en fila, de 654 cc cada uno, con la misma forma que el del RX-7 de CALLE."
+    ],
+    [
+     50.06,
+     55.41,
+     "Juntos daban 700 CABALLOS a 9,000 RPM. Vamos a DESARMARLO."
+    ]
+   ]
+  },
+  {
+   "id": "pbujias",
+   "t0": 56.13,
+   "t1": 60.05,
+   "say": "Uno: tres bujías por rotor, para quemar mejor la gasolina.",
+   "parts": [
+    [
+     56.13,
+     60.05,
+     "1: 3 BUJÍAS por rotor, para quemar MEJOR la gasolina."
+    ]
+   ]
+  },
+  {
+   "id": "padmision",
+   "t0": 60.73,
+   "t1": 69.56,
+   "say": "Dos: admisión variable. Sus trompetas se alargan y se acortan solas: largas dan fuerza abajo, cortas dan potencia arriba.",
+   "parts": [
+    [
+     60.73,
+     69.56,
+     "2: ADMISIÓN VARIABLE. Sus trompetas se ALARGAN y se ACORTAN solas: largas dan FUERZA abajo, cortas dan POTENCIA arriba."
+    ]
+   ]
+  },
+  {
+   "id": "ppuertos",
+   "t0": 70.27,
+   "t1": 77.55,
+   "say": "Tres: puertos periféricos. El aire entra por la orilla de la cámara, para respirar a muy altas revoluciones.",
+   "parts": [
+    [
+     70.27,
+     77.55,
+     "3: PUERTOS PERIFÉRICOS. El aire entra por la ORILLA de la cámara, para respirar a muy ALTAS RPM."
+    ]
+   ]
+  },
+  {
+   "id": "psellos",
+   "t0": 78.17,
+   "t1": 87.24,
+   "say": "Cuatro: sellos de cerámica en las puntas del rotor, el punto débil de todo rotativo, hechos para aguantar el calor durante veinticuatro horas.",
+   "parts": [
+    [
+     78.17,
+     87.24,
+     "4: SELLOS DE CERÁMICA en las puntas del rotor, el punto DÉBIL de todo rotativo, hechos para aguantar el CALOR 24 horas."
+    ]
+   ]
+  },
+  {
+   "id": "psonido",
+   "t0": 87.84,
+   "t1": 92.08,
+   "say": "Y cinco: el sonido. Un grito agudo que lo volvió leyenda.",
+   "parts": [
+    [
+     87.84,
+     92.08,
+     "Y 5: el SONIDO. Un GRITO agudo que lo volvió LEYENDA."
+    ]
+   ]
+  },
+  {
+   "id": "chasis",
+   "t0": 92.76,
+   "t1": 100.08,
+   "say": "Todo iba en un chasis de carbono y kevlar de solo ochocientos treinta kilos, cuando los Jaguar y los Mercedes debían pesar mil.",
+   "parts": [
+    [
+     92.76,
+     100.08,
+     "Todo iba en un chasis de CARBONO y KEVLAR de solo 830 KG, cuando los JAGUAR y los MERCEDES debían pesar 1,000."
+    ]
+   ]
+  },
+  {
+   "id": "pilotos",
+   "t0": 100.82,
+   "t1": 112.49,
+   "say": "Lo manejaron Volker Weidler, Johnny Herbert y Bertrand Gachot. Salieron en el lugar diecinueve, con una orden: ir lo más rápido posible gastando la menor gasolina posible.",
+   "parts": [
+    [
+     100.82,
+     104.47,
+     "Lo manejaron VOLKER WEIDLER, JOHNNY HERBERT y BERTRAND GACHOT."
+    ],
+    [
+     105.25,
+     112.49,
+     "Salieron en el lugar 19, con una orden: ir lo más RÁPIDO posible gastando la MENOR gasolina posible."
+    ]
+   ]
+  },
+  {
+   "id": "carrera",
+   "t0": 113.21,
+   "t1": 125.73,
+   "say": "A poco más de dos horas del final, el Mercedes que iba primero se rompió, y el Mazda cincuenta y cinco tomó la punta. Herbert manejó hasta la meta, y terminó tan deshidratado que no pudo subir al podio.",
+   "parts": [
+    [
+     113.21,
+     119.98,
+     "A poco más de 2 HORAS del final, el MERCEDES que iba primero se ROMPIÓ, y el MAZDA 55 tomó la PUNTA."
+    ],
+    [
+     120.69,
+     125.73,
+     "HERBERT manejó hasta la META, y terminó tan DESHIDRATADO que no pudo subir al PODIO."
+    ]
+   ]
+  },
+  {
+   "id": "final",
+   "t0": 126.48,
+   "t1": 142.02,
+   "say": "Después de mil novecientos noventa y uno, las reglas cambiaron y el motor rotativo quedó fuera de Le Mans. Por eso el siete ochenta y siete B es único: es el único triunfo de un motor sin pistones en Le Mans, y lo consiguió en su última oportunidad.",
+   "parts": [
+    [
+     126.48,
+     132.22,
+     "Después de 1991 las REGLAS cambiaron y el motor ROTATIVO quedó FUERA de Le Mans."
+    ],
+    [
+     132.92,
+     142.02,
+     "Por eso el 787B es ÚNICO: es el único TRIUNFO de un motor SIN PISTONES en Le Mans, y lo consiguió en su ÚLTIMA oportunidad."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 144.32
+}
