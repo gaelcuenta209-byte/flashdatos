@@ -1,0 +1,15 @@
+{
+ "id": "14",
+ "title": "El telescopio Swift de la NASA cae hoy a la Tierra",
+ "segments": [
+  {"id": "hook1", "parts": [{"say": "Hoy, un telescopio de la NASA se cae del cielo… y nadie pudo salvarlo.", "cap": "HOY un telescopio de la NASA se CAE del cielo… y nadie pudo SALVARLO"}]},
+  {"id": "swift", "parts": [{"say": "Se llama Swift. Despegó en dos mil cuatro para cazar las explosiones más poderosas del universo: los estallidos de rayos gamma.", "cap": "SWIFT despegó en 2004 para cazar las EXPLOSIONES más poderosas del universo"}]},
+  {"id": "record", "parts": [{"say": "Lo diseñaron para dos años. Aguantó casi veintidós.", "cap": "Lo diseñaron para 2 AÑOS. Aguantó casi 22"}]},
+  {"id": "frenado", "parts": [{"say": "Pero Swift no tiene motor. El Sol, muy activo, infló la atmósfera, y ese aire lo fue frenando hasta bajar kilómetros cada día.", "cap": "No tiene MOTOR: el SOL infló la atmósfera y el aire lo fue FRENANDO"}]},
+  {"id": "rescate", "parts": [{"say": "La NASA contrató un robot de rescate para engancharlo y subirlo. Pero el robot perdió el control, y en agosto se canceló la misión.", "cap": "Un ROBOT de rescate iba a SUBIRLO… pero perdió el CONTROL"}]},
+  {"id": "reentrada", "parts": [{"say": "Así que hoy, casi mil quinientos kilos entran a la atmósfera a más de veintisiete mil kilómetros por hora.", "cap": "Casi 1,500 KILOS a más de 27,000 KM/H"}]},
+  {"id": "riesgo", "parts": [{"say": "Casi todo se quema. La probabilidad de que algún trozo lastime a alguien es de una en dos mil cien.", "cap": "Casi todo se QUEMA. Riesgo para alguien: 1 en 2,100"}]},
+  {"id": "cierre", "parts": [{"say": "Swift se apaga, pero todo lo que descubrió se queda con nosotros.", "cap": "Swift se APAGA, pero lo que DESCUBRIÓ se queda con nosotros."}]}
+ ],
+ "ring_words": []
+}
