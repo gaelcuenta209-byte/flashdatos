@@ -111,13 +111,18 @@
    "numero": 6,
    "tema": "Posible nuevo planeta enano más allá de Plutón (2026 ED138)",
    "carpeta": "videos/06-planeta-enano-ed138",
-   "fecha_programada": "2026-10-31 15:00 (CDMX)",
-   "estado": "esperando aprobación",
-   "nota": "Pedido del dueño del 2026-10-31 a las 7:08 (publicación 15:00). A las 7:56 respondió \"sí, pero no tiene final\": se cambió el cierre por una frase completa y se agregó tarjeta final; falta su aprobación de esta versión.",
+   "fecha_programada": "2026-11-03 22:50 (CDMX)",
+   "estado": "programado",
+   "nota": "Pedido del dueño del 2026-10-31 a las 7:08 (publicación 15:00). A las 7:56 respondió \"sí, pero no tiene final\": se cambió el cierre por una frase completa y se agregó tarjeta final. No salió el 31 por falta de aprobación de esa versión. El 2026-11-03 a las 22:33 el dueño eligió \"Ahora mismo\": programado a las 22:50 en YouTube, Instagram y TikTok.",
    "titulo": "⚡ ¿Plutón tiene un nuevo vecino? 2026 ED138 🪐 #shorts",
    "descripcion": "⚡ El observatorio Vera Rubin, en Chile, halló 2026 ED138: un objeto helado más allá de Neptuno que podría medir hasta 1,500 km. Si se confirma, sería el sexto planeta enano reconocido. 🪐\nFuentes: Rubin Observatory (Universidad de Stanford), Reuters y Universe Today.\n#pluton #planetaenano #espacio #astronomia #ciencia #verarubin",
    "titulo_tiktok": "⚡ ¿Plutón tiene un nuevo vecino? 🪐",
-   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-06/FlashDatos_06_final.mp4"
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-06/FlashDatos_06_final.mp4",
+   "metricool": {
+    "id": 416083340,
+    "uuid": "3658459588350132224",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=3658459588350132224"
+   }
   },
   {
    "numero": 7,
