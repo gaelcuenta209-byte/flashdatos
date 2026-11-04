@@ -235,6 +235,25 @@
    "estado": "en producción",
    "extra": true,
    "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-02 ('súbelo a las 11'). No es el video del día: no reemplaza el de las 17:00 y el Flujo B debe producir el video del día normalmente. Dura más de un minuto a petición del dueño."
+  },
+  {
+   "numero": 12,
+   "serie": "metodo",
+   "parte": 1,
+   "tema": "El método Flash Datos · Parte 1/5: el primer mensaje (cómo nació el canal)",
+   "carpeta": "videos/12-metodo-parte-1",
+   "titulo": "⚡ Así hacemos este canal con IA: el primer mensaje (Parte 1/5) #shorts",
+   "titulo_tiktok": "⚡ Así hacemos este canal con IA (1/5) 🤖",
+   "descripcion": "⚡ Parte 1 de 5 de El método Flash Datos: cómo un solo mensaje a Claude se convirtió en un canal de ciencia hecho con inteligencia artificial. Mañana a las 10 p. m., la parte 2: la voz. 🤖🎙️\n#inteligenciaartificial #ia #claude #creadordecontenido #ciencia #flashdatos",
+   "estado": "programado",
+   "fecha_programada": "2026-11-03 23:02 (CDMX)",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-12/FlashDatos_12.mp4",
+   "metricool": {
+    "id": 416087703,
+    "uuid": "-4107776336398236886",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-4107776336398236886"
+   },
+   "nota": "Serie El método, parte 1. El dueño pidió a las 21:01 publicarla a las 22:00 y las siguientes a las 22:00 cada día sin pedir aprobación. El contenedor se reinició a mitad del render; se programó a las 23:02 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres)."
   }
  ]
 }
