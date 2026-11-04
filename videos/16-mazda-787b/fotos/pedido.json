@@ -1,0 +1,11 @@
+{
+ "ancho": 1600,
+ "fotos": [
+  {"nombre": "m787b", "wiki": "Mazda_787B"},
+  {"nombre": "lm1991", "wiki": "1991_24_Hours_of_Le_Mans"},
+  {"nombre": "wankel", "wiki": "Mazda_Wankel_engine"},
+  {"nombre": "rotary", "wiki": "Wankel_engine"},
+  {"nombre": "m767", "wiki": "Mazda_767"},
+  {"nombre": "furai", "wiki": "Mazda_Furai"}
+ ]
+}
