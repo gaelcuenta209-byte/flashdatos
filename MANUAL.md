@@ -4,7 +4,7 @@ Este manual lo siguen las tareas programadas de Claude. **Todo funciona sin la c
 
 ## Reglas que nunca cambian
 
-1. **Nada se publica sin la aprobación explícita del dueño en el chat** ("sí", "aprobado", "publícalo"). Una aprobación vale solo para ese video. Nunca programar en Metricool un video sin aprobar, ni siquiera como borrador para "adelantar".
+1. **Nada se publica sin la aprobación explícita del dueño en el chat** ("sí", "aprobado", "publícalo"). Una aprobación vale solo para ese video. Nunca programar en Metricool un video sin aprobar, ni siquiera como borrador para "adelantar". **Única excepción:** las 5 partes de la serie "El método" (ver `serie-metodo.json`), que el dueño pidió el 3 de noviembre de 2026 publicar solas a las 22:00 sin preguntarle.
 2. Antes de publicar, el dueño también aprueba el título y la descripción. Si pide cambios, se aplican y se vuelve a pedir aprobación.
 3. Nunca escribir contraseñas, datos de tarjeta ni claves. Si algo pide iniciar sesión o reconectar una cuenta, avisarle al dueño qué tiene que hacer.
 4. **Si algo falla en cualquier paso**: notificación push (PushNotification, una línea) y mensaje (SendUserMessage) que diga qué paso falló, qué se intentó y qué necesita hacer el dueño. Dos intentos como máximo por paso.
@@ -61,7 +61,7 @@ Identidad visual: fondo espacial azul noche, subtítulos en Inter Black blanco c
 
 ## Flujo B — Video del día (9:00)
 
-1. `git pull`. **Si `historial.json` ya tiene un video con `fecha_programada` de hoy** (programado o esperando aprobación), no producir otro: avisar al dueño en un mensaje corto y terminar. Si no, **primero** usar el pedido de `ideas.json` → `pedidos` con la `fecha` de hoy (y su `hora_publicacion` en lugar de las 17:00; al terminar, quitarlo de `pedidos`); si no hay, la idea cuyo número diga `elegida`; si no hay, la primera que no repita tema de `historial.json`. Número del video: el siguiente en `historial.json` (dos dígitos).
+1. `git pull`. **Si `historial.json` ya tiene un video con `fecha_programada` de hoy** (programado o esperando aprobación) (sin contar las partes de la serie "El método", que tienen `"serie": "metodo"`), no producir otro: avisar al dueño en un mensaje corto y terminar. Si no, **primero** usar el pedido de `ideas.json` → `pedidos` con la `fecha` de hoy (y su `hora_publicacion` en lugar de las 17:00; al terminar, quitarlo de `pedidos`); si no hay, la idea cuyo número diga `elegida`; si no hay, la primera que no repita tema de `historial.json`. Número del video: el siguiente en `historial.json` (dos dígitos).
 2. Verificar los datos (regla 5). Escribir `videos/NN-tema/script.json` con el formato del video 01:
    - segmentos → partes con `say` (cómo se dice, con números en palabras) y `cap` (el subtítulo, con cifras);
    - gancho en la primera frase;
@@ -122,3 +122,12 @@ Identidad visual: fondo espacial azul noche, subtítulos en Inter Black blanco c
    - Si todavía no aparecen, decir que se agregarán en el reporte de mañana.
    - Actualizar `historial.json` (estado `"publicado"` y enlaces) y hacer push.
 4. Mensaje corto al dueño con lo que salió.
+
+## Serie "El método" (del 3 al 7 de noviembre de 2026)
+
+Serie de 5 Shorts contada por nosotros (el dueño y Claude): del primer mensaje a cómo conectamos las IAs. El plan, los puntos de cada parte y su estado están en `serie-metodo.json`.
+
+- La tarea programada "Flash Datos · serie El método (22:00)" produce cada día la siguiente parte pendiente y la programa en Metricool para las **22:00**, **sin pedir aprobación** (lo pidió el dueño). Cuando ya no quedan partes, la tarea se desactiva sola.
+- Se produce igual que el Flujo B (voz, escena 3D nueva, audio, mezcla, release). La base visual es `videos/12-metodo-parte-1/escena.py` con la etiqueta "EL MÉTODO · PARTE N/5", pero cada parte necesita una escena distinta.
+- Las partes 1 a 4 terminan con el avance de la siguiente y "Estén atentos para conocer el método". La parte 5 cierra la serie sin suspenso.
+- En `historial.json` cada parte lleva `"serie": "metodo"` y `"parte": N`. El reporte de la mañana revisa que la parte de la noche anterior haya salido.

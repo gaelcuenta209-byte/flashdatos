@@ -1,0 +1,104 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 44.59,
+ "segments": [
+  {
+   "id": "hook",
+   "t0": 0.1,
+   "t1": 6.54,
+   "say": "Cada video de este canal lo hacen inteligencias artificiales. Y todo empezó con un solo mensaje.",
+   "parts": [
+    [
+     0.1,
+     6.54,
+     "Cada video lo hacen INTELIGENCIAS ARTIFICIALES… y empezó con UN MENSAJE"
+    ]
+   ]
+  },
+  {
+   "id": "prompt",
+   "t0": 7.02,
+   "t1": 14.15,
+   "say": "Le escribimos a Claude: queremos un canal de ciencia y tecnología, con animaciones en tres dimensiones y sonidos originales.",
+   "parts": [
+    [
+     7.02,
+     14.15,
+     "Le pedimos a CLAUDE un canal de CIENCIA con animación 3D y SONIDOS propios"
+    ]
+   ]
+  },
+  {
+   "id": "descarte",
+   "t0": 14.67,
+   "t1": 17.81,
+   "say": "Pensamos en hacer videos para niños, pero lo descartamos.",
+   "parts": [
+    [
+     14.67,
+     17.81,
+     "¿Videos para NIÑOS? Lo DESCARTAMOS"
+    ]
+   ]
+  },
+  {
+   "id": "nombre",
+   "t0": 18.23,
+   "t1": 24.2,
+   "say": "Así nació Flash Datos: ciencia y espacio en cuarenta segundos, con un rayo como símbolo.",
+   "parts": [
+    [
+     18.23,
+     24.2,
+     "Así nació FLASH DATOS: ciencia en 40 SEGUNDOS"
+    ]
+   ]
+  },
+  {
+   "id": "plan",
+   "t0": 24.59,
+   "t1": 29.44,
+   "say": "Pero el plan era más grande: que todo funcionara solo.",
+   "parts": [
+    [
+     24.59,
+     29.44,
+     "El plan: que TODO funcionara SOLO"
+    ]
+   ]
+  },
+  {
+   "id": "pasos",
+   "t0": 29.58,
+   "t1": 36.09,
+   "say": "Investigar, escribir, poner la voz, animar y publicar en tres redes, y que nosotros solo diéramos el sí.",
+   "parts": [
+    [
+     29.58,
+     36.09,
+     "INVESTIGAR, ESCRIBIR, VOZ, ANIMAR y PUBLICAR… con solo un SÍ"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 36.56,
+   "t1": 44.46,
+   "say": "Ese primer mensaje fue el inicio de todo. En la parte dos, cómo le dimos voz al canal. Estén atentos para conocer el método.",
+   "parts": [
+    [
+     36.56,
+     38.94,
+     "Ese PRIMER MENSAJE fue el INICIO de todo"
+    ],
+    [
+     39.42,
+     44.46,
+     "PARTE 2: la VOZ. ¡Estén ATENTOS para conocer el MÉTODO!"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 46.46
+}

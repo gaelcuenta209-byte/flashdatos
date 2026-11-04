@@ -1,0 +1,82 @@
+{
+ "serie": "El método Flash Datos",
+ "descripcion": "Serie de 5 partes contada por nosotros (el dueño y Claude): desde el primer mensaje hasta cómo conectamos las IAs para que el canal funcione solo.",
+ "autorizacion": "El dueño lo pidió el 2026-11-03 a las 21:01 (CDMX): \"Y esas súbelas a las 10 todos los días automáticamente ni me preguntes\". Las 5 partes de esta serie se publican solas a las 22:00 sin pedir aprobación. Esta excepción vale solo para esta serie.",
+ "hora_publicacion": "22:00",
+ "tarea_programada": "Flash Datos · serie El método (22:00)",
+ "reglas": [
+  "Narrar en primera persona del plural (nosotros = el dueño y Claude). Nombrar las herramientas por su nombre: Claude, ElevenLabs, GitHub y Metricool. No decir el usuario de GitHub ni datos personales.",
+  "Solo decir cosas que son ciertas según MANUAL.md, config.json y este archivo. No inventar fechas, cifras ni anécdotas.",
+  "Cada parte cierra su idea con una frase completa. Las partes 1 a 4 terminan con el avance de la siguiente y la frase 'Estén atentos para conocer el método.' La parte 5 cierra la serie sin suspenso.",
+  "Misma identidad del canal más la etiqueta 'EL MÉTODO · PARTE N/5'. Escena 3D nueva en cada parte (regla 6 del manual); la base es videos/12-metodo-parte-1/escena.py.",
+  "Formato: Short vertical 1080×1920, 35–50 s, voz de config.json."
+ ],
+ "partes": [
+  {
+   "parte": 1,
+   "fecha": "2026-11-03",
+   "tema": "El primer mensaje: cómo nació el canal",
+   "puntos": [
+    "Todo empezó con un mensaje a Claude: un canal de ciencia y tecnología con animación 3D y sonidos originales.",
+    "Pensamos en videos para niños y lo descartamos.",
+    "Así nació Flash Datos: ciencia en 40 segundos, con el rayo como símbolo.",
+    "El plan: que todo funcionara solo (investigar, escribir, voz, animar y publicar en tres redes) y que nosotros solo diéramos el sí."
+   ],
+   "avance": "En la parte dos, cómo le dimos voz al canal.",
+   "video": "12",
+   "estado": "programado"
+  },
+  {
+   "parte": 2,
+   "fecha": "2026-11-04",
+   "tema": "La voz: del guion a la narración",
+   "puntos": [
+    "Claude investiga el tema y verifica cada dato con al menos dos fuentes confiables (NASA, ESA, universidades).",
+    "Escribe el guion con un gancho en la primera frase y un final que cierra la idea.",
+    "ElevenLabs lo narra con la voz de Carlos Garza, un narrador mexicano. Salen dos tomas y se elige la más clara.",
+    "Una acción de GitHub baja el audio y un programa detecta las pausas de la voz para que cada subtítulo salga justo a tiempo."
+   ],
+   "avance": "En la parte tres, cómo animamos cada video en 3D.",
+   "estado": "pendiente"
+  },
+  {
+   "parte": 3,
+   "fecha": "2026-11-05",
+   "tema": "La animación 3D y el sonido",
+   "puntos": [
+    "Claude programó en Python un motor 3D propio que dibuja planetas y estrellas rayo por rayo (trazado de rayos).",
+    "Las texturas también se crean con código: por ejemplo, una Tierra con los continentes reales.",
+    "Cada video tiene una escena nueva, no una plantilla: cámara, cuerpos y etiquetas cambian según el tema.",
+    "Los efectos y la música se sintetizan con código, son originales, y la mezcla se ajusta al volumen de las redes."
+   ],
+   "avance": "En la parte cuatro, GitHub: el cerebro del canal.",
+   "estado": "pendiente"
+  },
+  {
+   "parte": 4,
+   "fecha": "2026-11-06",
+   "tema": "GitHub: el cerebro del canal",
+   "puntos": [
+    "Todo vive en un repositorio de GitHub: el manual que siguen las tareas, los guiones, el historial y las ideas.",
+    "Por eso todo funciona en la nube, sin la computadora encendida.",
+    "Dos acciones automáticas: una baja la voz de ElevenLabs y otra sube el video terminado con un enlace público.",
+    "Ese enlace es el que usa Metricool para publicar."
+   ],
+   "avance": "En la parte cinco, cómo conectamos todas las IAs.",
+   "estado": "pendiente"
+  },
+  {
+   "parte": 5,
+   "fecha": "2026-11-07",
+   "tema": "Todo conectado: así funciona solo",
+   "puntos": [
+    "Metricool publica en YouTube, Instagram y TikTok a la hora programada.",
+    "Tres tareas programadas de Claude corren cada día: en la mañana, el reporte con estadísticas e ideas con potencial viral; luego, el video del día; en la tarde, la verificación de que todo salió.",
+    "Nosotros solo damos el sí, y si algo falla, llega un aviso al celular.",
+    "Cierre de la serie: ese es el método completo, del primer mensaje a un canal que funciona solo."
+   ],
+   "avance": null,
+   "estado": "pendiente"
+  }
+ ]
+}
