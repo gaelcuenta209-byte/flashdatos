@@ -292,6 +292,25 @@
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-5038524942036021524"
    },
    "nota": "Aprobado por el dueño el 2026-11-04 a las 09:24 ('Si subelo'). Programado para las 17:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres)."
+  },
+  {
+   "numero": 15,
+   "tema": "El Mundial de Resistencia (WEC): leyendas, pilotos, circuitos emblemáticos y el Hypercar desarmado pieza por pieza",
+   "carpeta": "videos/15-wec-resistencia",
+   "fecha_programada": "2026-11-04 13:00 (CDMX)",
+   "estado": "programado",
+   "extra": true,
+   "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-04 a las 11:03 ('sube un vídeo de la WEC siguiendo la receta del de la Fórmula uno', y 'Súbelo a las 1'). Sigue la receta del video 13: dato extra, fotos reales de Wikimedia Commons, pilotos, circuitos y el auto desarmado. No reemplaza el video del día. Programado para hoy a las 13:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres); se le mandó al dueño para que lo revise y puede pedir cambiarlo o cancelarlo.",
+   "titulo": "⚡ Carreras de 24 HORAS: leyendas, circuitos y el auto desarmado 🏁 #shorts",
+   "descripcion": "⚡ Le Mans 2026 se ganó por menos de 11 segundos… después de 24 horas. Así es el WEC, el Mundial de Resistencia: sus leyendas (con Pedro Rodríguez, el único mexicano que ha ganado Le Mans), sus circuitos más famosos y un Hypercar desarmado pieza por pieza. 🏁\nFuentes: FIA, 24h-lemans.com, Motor Sport Magazine y Audi MediaCenter. Fotos (recortadas) de Wikimedia Commons: edvvc (CC BY 2.0), MrWalkr (CC BY-SA 4.0), Joachim Köhler (CC BY 3.0), Matti Blume y MarcelX42 (CC BY-SA 4.0); mapas de Will Pittenger (CC BY-SA 3.0).\n#wec #lemans #automovilismo #autos #ingenieria #datoscuriosos",
+   "titulo_tiktok": "⚡ Así es el Mundial de Resistencia 🏁",
+   "duracion_s": 172.9,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-15/FlashDatos_15.mp4",
+   "metricool": {
+    "id": 416793822,
+    "uuid": "8776922450308778702",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=8776922450308778702"
+   }
   }
  ]
 }
