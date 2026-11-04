@@ -237,7 +237,7 @@
    "tema": "Por qué un Fórmula 1 es tan aerodinámico: autos legendarios y el F1 desarmado pieza por pieza",
    "carpeta": "videos/13-formula-1-aerodinamica",
    "fecha_programada": "2026-11-04 08:00 (CDMX)",
-   "estado": "programado",
+   "estado": "publicado",
    "extra": true,
    "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-02 ('súbelo a las 11'; no importa si pasa del minuto). No es el video del día: no reemplaza el de las 17:00 y el Flujo B debe producir el video del día normalmente. La producción se retrasó y las 23:00 del 2026-11-02 ya habían pasado, así que se programó para el 2026-11-04 a las 11:00 en YouTube, Instagram y TikTok; se le mandó al dueño antes para que lo revise y puede pedir cambiarlo o cancelarlo. El 2026-11-04 a las 06:41 el dueño pidió subirlo a las 8: se movió a las 08:00 del mismo día.",
    "titulo": "⚡ Por qué un F1 es TAN aerodinámico: lo desarmamos pieza por pieza 🏎️ #shorts",
@@ -249,7 +249,13 @@
     "id": 416452385,
     "uuid": "8205449682053516342",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=8205449682053516342"
-   }
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/IMBtVaPnQI8",
+    "instagram": "https://www.instagram.com/reel/DfUoe7WCS9m/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704317246931356935"
+   },
+   "fecha_publicacion": "2026-11-04 08:00 (CDMX), YouTube, Instagram y TikTok"
   },
   {
    "numero": 12,
@@ -280,7 +286,7 @@
    "tema": "El telescopio Swift de la NASA cae a la Tierra tras fallar su rescate (reentrada 4 nov 2026)",
    "carpeta": "videos/14-swift-cae",
    "fecha_programada": "2026-11-04 17:00 (CDMX)",
-   "estado": "programado",
+   "estado": "publicado",
    "titulo": "⚡ Un telescopio de la NASA se cae HOY… y nadie pudo salvarlo 🛰️🔥 #shorts",
    "descripcion": "⚡ Después de casi 22 años cazando las explosiones más poderosas del universo, el telescopio Swift de la NASA vuelve a la Tierra. El robot que iba a rescatarlo perdió el control. 🛰️🔥\nFuentes: NASA y Spaceflight Now.\n#nasa #espacio #ciencia #telescopio #astronomia #datoscuriosos",
    "titulo_tiktok": "⚡ Un telescopio de la NASA se cae hoy 🛰️🔥",
@@ -291,14 +297,20 @@
     "uuid": "-5038524942036021524",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-5038524942036021524"
    },
-   "nota": "Aprobado por el dueño el 2026-11-04 a las 09:24 ('Si subelo'). Programado para las 17:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres)."
+   "nota": "Aprobado por el dueño el 2026-11-04 a las 09:24 ('Si subelo'). Programado para las 17:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres).",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/YpTyIf6AxJg",
+    "instagram": "https://www.instagram.com/reel/DfVl97vjAQ-/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704455865058807092"
+   },
+   "fecha_publicacion": "2026-11-04 17:00 (CDMX), YouTube, Instagram y TikTok"
   },
   {
    "numero": 15,
    "tema": "El Mundial de Resistencia (WEC): leyendas, pilotos, circuitos emblemáticos y el Hypercar desarmado pieza por pieza",
    "carpeta": "videos/15-wec-resistencia",
    "fecha_programada": "2026-11-04 13:00 (CDMX)",
-   "estado": "programado",
+   "estado": "publicado",
    "extra": true,
    "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-04 a las 11:03 ('sube un vídeo de la WEC siguiendo la receta del de la Fórmula uno', y 'Súbelo a las 1'). Sigue la receta del video 13: dato extra, fotos reales de Wikimedia Commons, pilotos, circuitos y el auto desarmado. No reemplaza el video del día. Programado para hoy a las 13:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres); se le mandó al dueño para que lo revise y puede pedir cambiarlo o cancelarlo.",
    "titulo": "⚡ Carreras de 24 HORAS: leyendas, circuitos y el auto desarmado 🏁 #shorts",
@@ -310,7 +322,13 @@
     "id": 416793822,
     "uuid": "8776922450308778702",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=8776922450308778702"
-   }
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/cC5iJiPy3N0",
+    "instagram": "https://www.instagram.com/reel/DfVKJfpiqaP/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704393338958384390"
+   },
+   "fecha_publicacion": "2026-11-04 13:00 (CDMX), YouTube, Instagram y TikTok"
   },
   {
    "numero": 16,
