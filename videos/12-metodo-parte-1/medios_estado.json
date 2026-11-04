@@ -1,0 +1,19 @@
+{
+ "numero": "12",
+ "fecha_utc": "2026-11-04T04:46:37Z",
+ "enlaces": {
+  "FlashDatos_12.mp4": {
+   "url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-12/FlashDatos_12.mp4",
+   "http": 206,
+   "tipo": "application/octet-stream",
+   "total": "bytes 0-1023/22439536"
+  },
+  "FlashDatos_12_portada.jpg": {
+   "url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-12/FlashDatos_12_portada.jpg",
+   "http": 206,
+   "tipo": "application/octet-stream",
+   "total": "bytes 0-1023/84905"
+  }
+ },
+ "ok": true
+}
