@@ -2,75 +2,157 @@
  "id": "13",
  "title": "Por qué un Fórmula 1 es tan aerodinámico (desarmado pieza por pieza)",
  "segments": [
-  {"id": "dato", "parts": [
-   {"say": "Dato extra: un Fórmula uno genera tanta fuerza hacia abajo que, en teoría, podría correr boca abajo, pegado al techo de un túnel.",
-    "cap": "⚡ DATO EXTRA: un F1 podría correr BOCA ABAJO en el TECHO de un túnel"},
-   {"say": "A unos doscientos kilómetros por hora, el aire ya puede empujarlo contra la pista con una fuerza igual a su propio peso.",
-    "cap": "A ~200 KM/H el aire lo empuja con una fuerza IGUAL A SU PESO"}
-  ]},
-  {"id": "leyendas", "parts": [
-   {"say": "Los autos más famosos de la historia lo fueron descubriendo.",
-    "cap": "Los autos MÁS FAMOSOS lo fueron descubriendo"},
-   {"say": "El Lotus setenta y nueve, de mil novecientos setenta y ocho, fue el primer campeón con efecto suelo.",
-    "cap": "LOTUS 79 (1978): primer CAMPEÓN con EFECTO SUELO"},
-   {"say": "El McLaren de Senna y Prost ganó quince de dieciséis carreras en mil novecientos ochenta y ocho.",
-    "cap": "McLAREN MP4/4 (1988): ganó 15 DE 16 carreras"},
-   {"say": "El Ferrari de Michael Schumacher ganó quince de dieciocho en dos mil cuatro.",
-    "cap": "FERRARI F2004 (2004): ganó 15 DE 18"},
-   {"say": "Y el Red Bull de Max Verstappen ganó veintiuno de veintidós en dos mil veintitrés: el récord.",
-    "cap": "RED BULL RB19 (2023): ganó 21 DE 22, ¡el RÉCORD!"}
-  ]},
-  {"id": "secreto", "parts": [
-   {"say": "El secreto: un Fórmula uno funciona como un avión al revés.",
-    "cap": "El SECRETO: es un AVIÓN AL REVÉS"},
-   {"say": "Las alas de un avión lo levantan; las de un Fórmula uno lo hunden contra la pista.",
-    "cap": "Las alas del avión LO LEVANTAN; las del F1 LO HUNDEN"},
-   {"say": "Vamos a desarmarlo, pieza por pieza.",
-    "cap": "Vamos a DESARMARLO pieza por pieza 🔧"}
-  ]},
-  {"id": "alerondel", "parts": [
-   {"say": "Uno: el alerón delantero. Es lo primero que toca el aire: lo empuja hacia abajo y lo desvía lejos de las llantas.",
-    "cap": "1️⃣ ALERÓN DELANTERO: corta el aire y lo ALEJA de las llantas"}
-  ]},
-  {"id": "halo", "parts": [
-   {"say": "Dos: el halo. Este arco de titanio protege la cabeza del piloto y aguanta el peso de un autobús de dos pisos.",
-    "cap": "2️⃣ HALO de TITANIO: aguanta el peso de un AUTOBÚS"}
-  ]},
-  {"id": "pontones", "parts": [
-   {"say": "Tres: los pontones. Guardan los radiadores que enfrían el motor, y su forma guía el aire hacia atrás.",
-    "cap": "3️⃣ PONTONES: enfrían el motor y GUÍAN el aire"}
-  ]},
-  {"id": "motor", "parts": [
-   {"say": "Cuatro: la unidad de potencia. Un motor uve seis turbo de uno punto seis litros, más un motor eléctrico.",
-    "cap": "4️⃣ MOTOR: V6 TURBO de 1.6 L + motor ELÉCTRICO"},
-   {"say": "Juntos pasan de mil caballos de fuerza, y desde dos mil veintiséis casi la mitad es eléctrica.",
-    "cap": "Más de 1,000 CABALLOS, casi la MITAD ELÉCTRICA"}
-  ]},
-  {"id": "piso", "parts": [
-   {"say": "Cinco: el piso. Por debajo tiene túneles que aceleran el aire.",
-    "cap": "5️⃣ PISO: túneles que ACELERAN el aire"},
-   {"say": "El aire rápido baja la presión, y el auto queda succionado contra la pista. Eso es el efecto suelo.",
-    "cap": "Aire rápido = BAJA PRESIÓN = auto SUCCIONADO: EFECTO SUELO"}
-  ]},
-  {"id": "difusor", "parts": [
-   {"say": "Seis: el difusor, la salida del piso. Se abre hacia arriba para que el aire salga ordenado y la succión sea más fuerte.",
-    "cap": "6️⃣ DIFUSOR: abre la salida y la SUCCIÓN es MÁS FUERTE"}
-  ]},
-  {"id": "alerontras", "parts": [
-   {"say": "Siete: el alerón trasero. En las curvas se cierra para pegar el auto al piso, y en las rectas se abre para ganar velocidad.",
-    "cap": "7️⃣ ALERÓN TRASERO: CERRADO en curvas, ABIERTO en rectas"},
-   {"say": "Desde dos mil veintiséis, el delantero también se mueve: es la aerodinámica activa.",
-    "cap": "Desde 2026 los dos se mueven: AERODINÁMICA ACTIVA"}
-  ]},
-  {"id": "llantas", "parts": [
-   {"say": "Y ocho: las llantas, de dieciocho pulgadas. Son lo único que toca la pista, y todo ese aire termina empujándolas contra el asfalto.",
-    "cap": "8️⃣ LLANTAS de 18\": todo el aire las EMPUJA contra el asfalto"}
-  ]},
-  {"id": "final", "parts": [
-   {"say": "Por eso un Fórmula uno es tan aerodinámico: cada pieza trabaja con el aire, y juntas lo convierten en un ala al revés.",
-    "cap": "Cada pieza trabaja con el aire: es un ALA AL REVÉS"},
-   {"say": "Así que, cuando lo veas tomar una curva a toda velocidad, ya lo sabes: no es magia, es el aire empujándolo contra la pista.",
-    "cap": "No es MAGIA: es el AIRE empujándolo contra la pista ⚡"}
-  ]}
+  {
+   "id": "dato",
+   "parts": [
+    {
+     "say": "Dato extra: un Fórmula uno genera tanta fuerza hacia abajo que, en teoría, podría correr boca abajo, pegado al techo de un túnel.",
+     "cap": "DATO EXTRA: un F1 genera tanta fuerza hacia abajo que, en teoría, podría correr BOCA ABAJO, pegado al TECHO de un túnel."
+    },
+    {
+     "say": "A unos doscientos kilómetros por hora, el aire ya puede empujarlo contra la pista con una fuerza igual a su propio peso.",
+     "cap": "A unos 200 KM/H, el aire ya puede empujarlo contra la pista con una fuerza IGUAL a su propio PESO."
+    }
+   ]
+  },
+  {
+   "id": "leyendas",
+   "parts": [
+    {
+     "say": "Los autos más famosos de la historia lo fueron descubriendo.",
+     "cap": "Los autos MÁS FAMOSOS de la historia lo fueron descubriendo."
+    },
+    {
+     "say": "El Lotus setenta y nueve, de mil novecientos setenta y ocho, fue el primer campeón con efecto suelo.",
+     "cap": "El LOTUS 79, de 1978, fue el primer CAMPEÓN con EFECTO SUELO."
+    },
+    {
+     "say": "El McLaren de Senna y Prost ganó quince de dieciséis carreras en mil novecientos ochenta y ocho.",
+     "cap": "El McLAREN de Senna y Prost ganó 15 de 16 carreras en 1988."
+    },
+    {
+     "say": "El Ferrari de Michael Schumacher ganó quince de dieciocho en dos mil cuatro.",
+     "cap": "El FERRARI de Michael Schumacher ganó 15 de 18 en 2004."
+    },
+    {
+     "say": "Y el Red Bull de Max Verstappen ganó veintiuno de veintidós en dos mil veintitrés: el récord.",
+     "cap": "Y el RED BULL de Max Verstappen ganó 21 de 22 en 2023: ¡el RÉCORD!"
+    }
+   ]
+  },
+  {
+   "id": "secreto",
+   "parts": [
+    {
+     "say": "El secreto: un Fórmula uno funciona como un avión al revés.",
+     "cap": "El SECRETO: un F1 funciona como un AVIÓN AL REVÉS."
+    },
+    {
+     "say": "Las alas de un avión lo levantan; las de un Fórmula uno lo hunden contra la pista.",
+     "cap": "Las alas de un avión lo LEVANTAN; las de un F1 lo HUNDEN contra la pista."
+    },
+    {
+     "say": "Vamos a desarmarlo, pieza por pieza.",
+     "cap": "Vamos a DESARMARLO, pieza por pieza."
+    }
+   ]
+  },
+  {
+   "id": "alerondel",
+   "parts": [
+    {
+     "say": "Uno: el alerón delantero. Es lo primero que toca el aire: lo empuja hacia abajo y lo desvía lejos de las llantas.",
+     "cap": "1: el ALERÓN DELANTERO. Es lo primero que toca el aire: lo empuja hacia ABAJO y lo desvía LEJOS de las llantas."
+    }
+   ]
+  },
+  {
+   "id": "halo",
+   "parts": [
+    {
+     "say": "Dos: el halo. Este arco de titanio protege la cabeza del piloto y aguanta el peso de un autobús de dos pisos.",
+     "cap": "2: el HALO. Este arco de TITANIO protege la cabeza del piloto y aguanta el peso de un AUTOBÚS de dos pisos."
+    }
+   ]
+  },
+  {
+   "id": "pontones",
+   "parts": [
+    {
+     "say": "Tres: los pontones. Guardan los radiadores que enfrían el motor, y su forma guía el aire hacia atrás.",
+     "cap": "3: los PONTONES. Guardan los RADIADORES que enfrían el motor, y su forma guía el aire hacia atrás."
+    }
+   ]
+  },
+  {
+   "id": "motor",
+   "parts": [
+    {
+     "say": "Cuatro: la unidad de potencia. Un motor uve seis turbo de uno punto seis litros, más un motor eléctrico.",
+     "cap": "4: la UNIDAD DE POTENCIA. Un motor V6 TURBO de 1.6 litros, más un motor ELÉCTRICO."
+    },
+    {
+     "say": "Juntos pasan de mil caballos de fuerza, y desde dos mil veintiséis casi la mitad es eléctrica.",
+     "cap": "Juntos pasan de 1,000 CABALLOS, y desde 2026 casi la MITAD es eléctrica."
+    }
+   ]
+  },
+  {
+   "id": "piso",
+   "parts": [
+    {
+     "say": "Cinco: el piso. Por debajo tiene túneles que aceleran el aire.",
+     "cap": "5: el PISO. Por debajo tiene TÚNELES que aceleran el aire."
+    },
+    {
+     "say": "El aire rápido baja la presión, y el auto queda succionado contra la pista. Eso es el efecto suelo.",
+     "cap": "El aire rápido BAJA LA PRESIÓN, y el auto queda SUCCIONADO contra la pista. Eso es el EFECTO SUELO."
+    }
+   ]
+  },
+  {
+   "id": "difusor",
+   "parts": [
+    {
+     "say": "Seis: el difusor, la salida del piso. Se abre hacia arriba para que el aire salga ordenado y la succión sea más fuerte.",
+     "cap": "6: el DIFUSOR, la salida del piso. Se abre hacia arriba para que el aire salga ordenado y la SUCCIÓN sea más fuerte."
+    }
+   ]
+  },
+  {
+   "id": "alerontras",
+   "parts": [
+    {
+     "say": "Siete: el alerón trasero. En las curvas se cierra para pegar el auto al piso, y en las rectas se abre para ganar velocidad.",
+     "cap": "7: el ALERÓN TRASERO. En las curvas se CIERRA para pegar el auto al piso, y en las rectas se ABRE para ganar velocidad."
+    },
+    {
+     "say": "Desde dos mil veintiséis, el delantero también se mueve: es la aerodinámica activa.",
+     "cap": "Desde 2026, el delantero también se mueve: es la AERODINÁMICA ACTIVA."
+    }
+   ]
+  },
+  {
+   "id": "llantas",
+   "parts": [
+    {
+     "say": "Y ocho: las llantas, de dieciocho pulgadas. Son lo único que toca la pista, y todo ese aire termina empujándolas contra el asfalto.",
+     "cap": "Y 8: las LLANTAS, de 18 pulgadas. Son lo ÚNICO que toca la pista, y todo ese aire termina empujándolas contra el asfalto."
+    }
+   ]
+  },
+  {
+   "id": "final",
+   "parts": [
+    {
+     "say": "Por eso un Fórmula uno es tan aerodinámico: cada pieza trabaja con el aire, y juntas lo convierten en un ala al revés.",
+     "cap": "Por eso un F1 es tan aerodinámico: cada pieza trabaja con el aire, y juntas lo convierten en un ALA AL REVÉS."
+    },
+    {
+     "say": "Así que, cuando lo veas tomar una curva a toda velocidad, ya lo sabes: no es magia, es el aire empujándolo contra la pista.",
+     "cap": "Así que, cuando lo veas tomar una curva a toda velocidad, ya lo sabes: no es MAGIA, es el AIRE empujándolo contra la pista."
+    }
+   ]
+  }
  ]
 }
