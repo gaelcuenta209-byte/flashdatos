@@ -1,0 +1,112 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 54.28,
+ "segments": [
+  {
+   "id": "hook1",
+   "t0": 0.1,
+   "t1": 5.38,
+   "say": "Hoy, un telescopio de la NASA se cae del cielo… y nadie pudo salvarlo.",
+   "parts": [
+    [
+     0.1,
+     5.38,
+     "HOY un telescopio de la NASA se CAE del cielo… y nadie pudo SALVARLO"
+    ]
+   ]
+  },
+  {
+   "id": "swift",
+   "t0": 5.94,
+   "t1": 14.23,
+   "say": "Se llama Swift. Despegó en dos mil cuatro para cazar las explosiones más poderosas del universo: los estallidos de rayos gamma.",
+   "parts": [
+    [
+     5.94,
+     14.23,
+     "SWIFT despegó en 2004 para cazar las EXPLOSIONES más poderosas del universo"
+    ]
+   ]
+  },
+  {
+   "id": "record",
+   "t0": 14.66,
+   "t1": 18.51,
+   "say": "Lo diseñaron para dos años. Aguantó casi veintidós.",
+   "parts": [
+    [
+     14.66,
+     18.51,
+     "Lo diseñaron para 2 AÑOS. Aguantó casi 22"
+    ]
+   ]
+  },
+  {
+   "id": "frenado",
+   "t0": 18.92,
+   "t1": 27.61,
+   "say": "Pero Swift no tiene motor. El Sol, muy activo, infló la atmósfera, y ese aire lo fue frenando hasta bajar kilómetros cada día.",
+   "parts": [
+    [
+     18.92,
+     27.61,
+     "No tiene MOTOR: el SOL infló la atmósfera y el aire lo fue FRENANDO"
+    ]
+   ]
+  },
+  {
+   "id": "rescate",
+   "t0": 28.01,
+   "t1": 35.59,
+   "say": "La NASA contrató un robot de rescate para engancharlo y subirlo. Pero el robot perdió el control, y en agosto se canceló la misión.",
+   "parts": [
+    [
+     28.01,
+     35.59,
+     "Un ROBOT de rescate iba a SUBIRLO… pero perdió el CONTROL"
+    ]
+   ]
+  },
+  {
+   "id": "reentrada",
+   "t0": 36.03,
+   "t1": 42.59,
+   "say": "Así que hoy, casi mil quinientos kilos entran a la atmósfera a más de veintisiete mil kilómetros por hora.",
+   "parts": [
+    [
+     36.03,
+     42.59,
+     "Casi 1,500 KILOS a más de 27,000 KM/H"
+    ]
+   ]
+  },
+  {
+   "id": "riesgo",
+   "t0": 42.97,
+   "t1": 49.19,
+   "say": "Casi todo se quema. La probabilidad de que algún trozo lastime a alguien es de una en dos mil cien.",
+   "parts": [
+    [
+     42.97,
+     49.19,
+     "Casi todo se QUEMA. Riesgo para alguien: 1 en 2,100"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 49.59,
+   "t1": 54.11,
+   "say": "Swift se apaga, pero todo lo que descubrió se queda con nosotros.",
+   "parts": [
+    [
+     49.59,
+     54.11,
+     "Swift se APAGA, pero lo que DESCUBRIÓ se queda con nosotros."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 55.91
+}
