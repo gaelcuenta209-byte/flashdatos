@@ -232,9 +232,19 @@
    "tema": "Por qué un Fórmula 1 es tan aerodinámico: autos legendarios y el F1 desarmado pieza por pieza",
    "carpeta": "videos/13-formula-1-aerodinamica",
    "fecha_programada": "2026-11-04 11:00 (CDMX)",
-   "estado": "en producción",
+   "estado": "programado",
    "extra": true,
-   "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-02 ('súbelo a las 11'). No es el video del día: no reemplaza el de las 17:00 y el Flujo B debe producir el video del día normalmente. Dura más de un minuto a petición del dueño."
+   "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-02 ('súbelo a las 11'; no importa si pasa del minuto). No es el video del día: no reemplaza el de las 17:00 y el Flujo B debe producir el video del día normalmente. La producción se retrasó y las 23:00 del 2026-11-02 ya habían pasado, así que se programó para el 2026-11-04 a las 11:00 en YouTube, Instagram y TikTok; se le mandó al dueño antes para que lo revise y puede pedir cambiarlo o cancelarlo.",
+   "titulo": "⚡ Por qué un F1 es TAN aerodinámico: lo desarmamos pieza por pieza 🏎️ #shorts",
+   "descripcion": "⚡ Un Fórmula 1 podría, en teoría, correr boca abajo en el techo de un túnel. Te contamos por qué: los autos legendarios que lo descubrieron y el F1 desarmado en 8 piezas, del alerón delantero a las llantas. 🏎️💨\nFuentes: Formula1.com, Autosport, Motor Sport Magazine y PlanetF1. Fotos (recortadas) de Wikimedia Commons: Martin Lee (CC BY-SA 2.0), Morio (CC BY-SA 3.0), Rick Dikeman (CC BY-SA 3.0) y Lukas Raich (CC BY-SA 4.0).\n#formula1 #f1 #aerodinamica #ciencia #autos #datoscuriosos",
+   "titulo_tiktok": "⚡ Desarmamos un F1 pieza por pieza 🏎️",
+   "duracion_s": 159.3,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-13/FlashDatos_13.mp4",
+   "metricool": {
+    "id": 416097717,
+    "uuid": "8205449682053516342",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=8205449682053516342"
+   }
   },
   {
    "numero": 12,
