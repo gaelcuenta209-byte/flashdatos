@@ -1,0 +1,72 @@
+{
+ "id": "16",
+ "title": "Mazda 787B: el único auto sin pistones que ganó Le Mans",
+ "segments": [
+  {"id": "dato", "parts": [
+   {"say": "Respondiendo a Nacho: el Mazda siete ochenta y siete B es el único auto sin pistones que ha ganado las veinticuatro horas de Le Mans.",
+    "cap": "Respondiendo a @_nachozn_: el MAZDA 787B es el ÚNICO auto SIN PISTONES que ha ganado las 24 HORAS DE LE MANS."},
+   {"say": "Fue en mil novecientos noventa y uno, y además fue la primera victoria de una marca japonesa.",
+    "cap": "Fue en 1991, y además fue la PRIMERA victoria de una marca JAPONESA."}
+  ]},
+  {"id": "motor", "parts": [
+   {"say": "El secreto está en su motor: un rotativo de cuatro rotores llamado R veintiséis B.",
+    "cap": "El secreto está en su MOTOR: un ROTATIVO de 4 ROTORES llamado R26B."}
+  ]},
+  {"id": "rotor", "parts": [
+   {"say": "En lugar de pistones que suben y bajan, un rotor con forma de triángulo gira dentro de una cámara ovalada.",
+    "cap": "En lugar de PISTONES que suben y bajan, un ROTOR en forma de TRIÁNGULO gira dentro de una cámara OVALADA."},
+   {"say": "Cada cara del triángulo hace los cuatro tiempos: admisión, compresión, explosión y escape.",
+    "cap": "Cada CARA del triángulo hace los 4 TIEMPOS: ADMISIÓN, COMPRESIÓN, EXPLOSIÓN y ESCAPE."},
+   {"say": "Por eso no necesita válvulas, tiene menos piezas y gira muy suave.",
+    "cap": "Por eso NO necesita VÁLVULAS, tiene MENOS piezas y gira muy SUAVE."}
+  ]},
+  {"id": "r26b", "parts": [
+   {"say": "Mazda puso cuatro rotores en fila, de seiscientos cincuenta y cuatro centímetros cúbicos cada uno, con la misma forma que el del RX siete de calle.",
+    "cap": "Mazda puso 4 ROTORES en fila, de 654 cc cada uno, con la misma forma que el del RX-7 de CALLE."},
+   {"say": "Juntos daban setecientos caballos a nueve mil revoluciones. Vamos a desarmarlo.",
+    "cap": "Juntos daban 700 CABALLOS a 9,000 RPM. Vamos a DESARMARLO."}
+  ]},
+  {"id": "pbujias", "parts": [
+   {"say": "Uno: tres bujías por rotor, para quemar mejor la gasolina.",
+    "cap": "1: 3 BUJÍAS por rotor, para quemar MEJOR la gasolina."}
+  ]},
+  {"id": "padmision", "parts": [
+   {"say": "Dos: admisión variable. Sus trompetas se alargan y se acortan solas: largas dan fuerza abajo, cortas dan potencia arriba.",
+    "cap": "2: ADMISIÓN VARIABLE. Sus trompetas se ALARGAN y se ACORTAN solas: largas dan FUERZA abajo, cortas dan POTENCIA arriba."}
+  ]},
+  {"id": "ppuertos", "parts": [
+   {"say": "Tres: puertos periféricos. El aire entra por la orilla de la cámara, para respirar a muy altas revoluciones.",
+    "cap": "3: PUERTOS PERIFÉRICOS. El aire entra por la ORILLA de la cámara, para respirar a muy ALTAS RPM."}
+  ]},
+  {"id": "psellos", "parts": [
+   {"say": "Cuatro: sellos de cerámica en las puntas del rotor, el punto débil de todo rotativo, hechos para aguantar el calor durante veinticuatro horas.",
+    "cap": "4: SELLOS DE CERÁMICA en las puntas del rotor, el punto DÉBIL de todo rotativo, hechos para aguantar el CALOR 24 horas."}
+  ]},
+  {"id": "psonido", "parts": [
+   {"say": "Y cinco: el sonido. Un grito agudo que lo volvió leyenda.",
+    "cap": "Y 5: el SONIDO. Un GRITO agudo que lo volvió LEYENDA."}
+  ]},
+  {"id": "chasis", "parts": [
+   {"say": "Todo iba en un chasis de carbono y kevlar de solo ochocientos treinta kilos, cuando los Jaguar y los Mercedes debían pesar mil.",
+    "cap": "Todo iba en un chasis de CARBONO y KEVLAR de solo 830 KG, cuando los JAGUAR y los MERCEDES debían pesar 1,000."}
+  ]},
+  {"id": "pilotos", "parts": [
+   {"say": "Lo manejaron Volker Weidler, Johnny Herbert y Bertrand Gachot.",
+    "cap": "Lo manejaron VOLKER WEIDLER, JOHNNY HERBERT y BERTRAND GACHOT."},
+   {"say": "Salieron en el lugar diecinueve, con una orden: ir lo más rápido posible gastando la menor gasolina posible.",
+    "cap": "Salieron en el lugar 19, con una orden: ir lo más RÁPIDO posible gastando la MENOR gasolina posible."}
+  ]},
+  {"id": "carrera", "parts": [
+   {"say": "A poco más de dos horas del final, el Mercedes que iba primero se rompió, y el Mazda cincuenta y cinco tomó la punta.",
+    "cap": "A poco más de 2 HORAS del final, el MERCEDES que iba primero se ROMPIÓ, y el MAZDA 55 tomó la PUNTA."},
+   {"say": "Herbert manejó hasta la meta, y terminó tan deshidratado que no pudo subir al podio.",
+    "cap": "HERBERT manejó hasta la META, y terminó tan DESHIDRATADO que no pudo subir al PODIO."}
+  ]},
+  {"id": "final", "parts": [
+   {"say": "Después de mil novecientos noventa y uno, las reglas cambiaron y el motor rotativo quedó fuera de Le Mans.",
+    "cap": "Después de 1991 las REGLAS cambiaron y el motor ROTATIVO quedó FUERA de Le Mans."},
+   {"say": "Por eso el siete ochenta y siete B es único: es el único triunfo de un motor sin pistones en Le Mans, y lo consiguió en su última oportunidad.",
+    "cap": "Por eso el 787B es ÚNICO: es el único TRIUNFO de un motor SIN PISTONES en Le Mans, y lo consiguió en su ÚLTIMA oportunidad."}
+  ]}
+ ]
+}
