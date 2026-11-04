@@ -1,0 +1,32 @@
+{
+ "id": "12",
+ "title": "El método Flash Datos · Parte 1: el primer mensaje",
+ "serie": "metodo",
+ "parte": 1,
+ "segments": [
+  {"id": "hook", "parts": [
+   {"say": "Cada video de este canal lo hacen inteligencias artificiales. Y todo empezó con un solo mensaje.",
+    "cap": "Cada video lo hacen INTELIGENCIAS ARTIFICIALES… y empezó con UN MENSAJE"}]},
+  {"id": "prompt", "parts": [
+   {"say": "Le escribimos a Claude: queremos un canal de ciencia y tecnología, con animaciones en tres dimensiones y sonidos originales.",
+    "cap": "Le pedimos a CLAUDE un canal de CIENCIA con animación 3D y SONIDOS propios"}]},
+  {"id": "descarte", "parts": [
+   {"say": "Pensamos en hacer videos para niños, pero lo descartamos.",
+    "cap": "¿Videos para NIÑOS? Lo DESCARTAMOS"}]},
+  {"id": "nombre", "parts": [
+   {"say": "Así nació Flash Datos: ciencia y espacio en cuarenta segundos, con un rayo como símbolo.",
+    "cap": "Así nació FLASH DATOS: ciencia en 40 SEGUNDOS"}]},
+  {"id": "plan", "parts": [
+   {"say": "Pero el plan era más grande: que todo funcionara solo.",
+    "cap": "El plan: que TODO funcionara SOLO"}]},
+  {"id": "pasos", "parts": [
+   {"say": "Investigar, escribir, poner la voz, animar y publicar en tres redes, y que nosotros solo diéramos el sí.",
+    "cap": "INVESTIGAR, ESCRIBIR, VOZ, ANIMAR y PUBLICAR… con solo un SÍ"}]},
+  {"id": "cierre", "parts": [
+   {"say": "Ese primer mensaje fue el inicio de todo.",
+    "cap": "Ese PRIMER MENSAJE fue el INICIO de todo"},
+   {"say": "En la parte dos, cómo le dimos voz al canal. Estén atentos para conocer el método.",
+    "cap": "PARTE 2: la VOZ. ¡Estén ATENTOS para conocer el MÉTODO!"}]}
+ ],
+ "ring_words": []
+}
