@@ -1,0 +1,272 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 170.92,
+ "segments": [
+  {
+   "id": "dato",
+   "t0": 0.1,
+   "t1": 14.52,
+   "say": "Dato extra: después de veinticuatro horas de carrera, Le Mans se ganó este año por menos de once segundos. Esto es el WEC, el Mundial de Resistencia, y este fin de semana cierra su temporada en Monza.",
+   "parts": [
+    [
+     0.1,
+     7.19,
+     "DATO EXTRA: después de 24 HORAS de carrera, Le Mans se ganó este año por menos de 11 SEGUNDOS."
+    ],
+    [
+     7.75,
+     14.52,
+     "Esto es el WEC, el MUNDIAL DE RESISTENCIA, y este fin de semana cierra su temporada en MONZA."
+    ]
+   ]
+  },
+  {
+   "id": "que",
+   "t0": 15.16,
+   "t1": 25.53,
+   "say": "Son carreras de seis a veinticuatro horas, con tres pilotos que se turnan el mismo auto. Aquí no gana el más rápido en una vuelta, sino el que aguanta rápido más tiempo.",
+   "parts": [
+    [
+     15.16,
+     20.41,
+     "Son carreras de 6 a 24 HORAS, con 3 PILOTOS que se turnan el mismo auto."
+    ],
+    [
+     20.76,
+     25.53,
+     "Aquí no gana el más rápido en una vuelta: gana el que AGUANTA rápido más tiempo."
+    ]
+   ]
+  },
+  {
+   "id": "gt40",
+   "t0": 26.2,
+   "t1": 40.32,
+   "say": "Las leyendas lo demostraron. El Ford GT cuarenta medía cuarenta pulgadas de alto, para cortar menos aire. Con él, en mil novecientos sesenta y ocho, Pedro Rodríguez ganó Le Mans: el único mexicano que lo ha logrado.",
+   "parts": [
+    [
+     26.2,
+     32.98,
+     "Las LEYENDAS lo demostraron. El FORD GT40 medía 40 PULGADAS de alto, para cortar menos aire."
+    ],
+    [
+     33.59,
+     40.32,
+     "Con él, en 1968, PEDRO RODRÍGUEZ ganó LE MANS: el ÚNICO mexicano que lo ha logrado."
+    ]
+   ]
+  },
+  {
+   "id": "p917",
+   "t0": 40.97,
+   "t1": 52.27,
+   "say": "El Porsche novecientos diecisiete, con chasis de magnesio y doce cilindros, recorrió cinco mil trescientos treinta y cinco kilómetros en un día: un récord que duró casi cuarenta años.",
+   "parts": [
+    [
+     40.97,
+     52.27,
+     "El PORSCHE 917, con chasis de MAGNESIO y 12 CILINDROS, recorrió 5,335 KM en un día: un RÉCORD que duró casi 40 AÑOS."
+    ]
+   ]
+  },
+  {
+   "id": "audi",
+   "t0": 52.83,
+   "t1": 64.39,
+   "say": "El Audi R diez fue el primer diésel en ganar Le Mans: gastaba menos y paraba menos en los pits. Y Tom Kristensen, casi siempre con Audi, la ganó nueve veces: el récord.",
+   "parts": [
+    [
+     52.83,
+     58.82,
+     "El AUDI R10 fue el primer DIÉSEL en ganar Le Mans: gastaba menos y paraba MENOS en los pits."
+    ],
+    [
+     59.29,
+     64.39,
+     "Y TOM KRISTENSEN, casi siempre con Audi, la ganó 9 VECES: ¡el RÉCORD!"
+    ]
+   ]
+  },
+  {
+   "id": "toyota",
+   "t0": 64.92,
+   "t1": 73.37,
+   "say": "En dos mil diecisiete, Kamui Kobayashi dio con un Toyota híbrido la vuelta más rápida en la historia de Le Mans, y este año volvió a ganarla.",
+   "parts": [
+    [
+     64.92,
+     73.37,
+     "En 2017, KAMUI KOBAYASHI dio con un TOYOTA HÍBRIDO la vuelta más rápida en la historia de Le Mans, y este año volvió a GANARLA."
+    ]
+   ]
+  },
+  {
+   "id": "lemans",
+   "t0": 73.92,
+   "t1": 89.2,
+   "say": "Los circuitos también son leyenda. Le Mans mide trece punto seis kilómetros, y su recta Mulsanne es carretera normal el resto del año. Ahí un auto llegó a cuatrocientos cinco kilómetros por hora, y por eso le pusieron dos chicanas.",
+   "parts": [
+    [
+     73.92,
+     82.56,
+     "Los CIRCUITOS también son leyenda. LE MANS mide 13.6 KM, y su recta MULSANNE es carretera normal el resto del año."
+    ],
+    [
+     82.96,
+     89.2,
+     "Ahí un auto llegó a 405 KM/H, y por eso le pusieron 2 CHICANAS."
+    ]
+   ]
+  },
+  {
+   "id": "spa",
+   "t0": 89.66,
+   "t1": 97.9,
+   "say": "Spa, en Bélgica, tiene Eau Rouge: baja y sube de golpe, a fondo, y la compresión aplasta el auto contra el piso.",
+   "parts": [
+    [
+     89.66,
+     97.9,
+     "SPA, en Bélgica, tiene EAU ROUGE: baja y sube de golpe, a fondo, y la COMPRESIÓN aplasta el auto contra el piso."
+    ]
+   ]
+  },
+  {
+   "id": "fuji",
+   "t0": 98.36,
+   "t1": 103.87,
+   "say": "Fuji, al pie del volcán, tiene una recta de un kilómetro y medio, donde manda la potencia.",
+   "parts": [
+    [
+     98.36,
+     103.87,
+     "FUJI, al pie del volcán, tiene una recta de 1.5 KM, donde manda la POTENCIA."
+    ]
+   ]
+  },
+  {
+   "id": "monza",
+   "t0": 104.33,
+   "t1": 109.83,
+   "say": "Y Monza, el templo de la velocidad, castiga los frenos con sus rectas larguísimas.",
+   "parts": [
+    [
+     104.33,
+     109.83,
+     "Y MONZA, el TEMPLO DE LA VELOCIDAD, castiga los FRENOS con sus rectas larguísimas."
+    ]
+   ]
+  },
+  {
+   "id": "intro",
+   "t0": 110.42,
+   "t1": 114.05,
+   "say": "¿Y cómo es un Hypercar, el auto más rápido del WEC? Vamos a desarmarlo.",
+   "parts": [
+    [
+     110.42,
+     114.05,
+     "¿Y cómo es un HYPERCAR, el auto más rápido del WEC? Vamos a DESARMARLO."
+    ]
+   ]
+  },
+  {
+   "id": "pmotor",
+   "t0": 114.61,
+   "t1": 120.87,
+   "say": "Uno: el motor de combustión, detrás del piloto, mueve las llantas traseras.",
+   "parts": [
+    [
+     114.61,
+     120.87,
+     "1: el MOTOR de combustión, detrás del piloto, mueve las llantas TRASERAS."
+    ]
+   ]
+  },
+  {
+   "id": "phibrido",
+   "t0": 121.38,
+   "t1": 129.29,
+   "say": "Dos: el híbrido. En el Toyota o el Ferrari, un motor eléctrico mueve las llantas delanteras con energía que se guarda al frenar.",
+   "parts": [
+    [
+     121.38,
+     129.29,
+     "2: el HÍBRIDO. En el Toyota o el Ferrari, un motor ELÉCTRICO mueve las llantas DELANTERAS con energía que se guarda al FRENAR."
+    ]
+   ]
+  },
+  {
+   "id": "plimite",
+   "t0": 129.89,
+   "t1": 137.03,
+   "say": "Tres: el límite. Juntos no pasan de quinientos kilovatios, unos seiscientos setenta caballos.",
+   "parts": [
+    [
+     129.89,
+     137.03,
+     "3: el LÍMITE. Juntos no pasan de 500 KILOVATIOS, unos 670 CABALLOS."
+    ]
+   ]
+  },
+  {
+   "id": "ppeso",
+   "t0": 137.32,
+   "t1": 144.48,
+   "say": "Cuatro: el peso, mínimo mil treinta kilos. Los jueces agregan peso o quitan potencia para que nadie tenga ventaja.",
+   "parts": [
+    [
+     137.32,
+     144.48,
+     "4: el PESO, mínimo 1,030 KG. Los jueces agregan peso o quitan potencia para que NADIE tenga ventaja."
+    ]
+   ]
+  },
+  {
+   "id": "paero",
+   "t0": 144.97,
+   "t1": 152.14,
+   "say": "Cinco: la aerodinámica. Cada auto tiene un solo paquete aprobado, para controlar los costos.",
+   "parts": [
+    [
+     144.97,
+     152.14,
+     "5: la AERODINÁMICA. Cada auto tiene un SOLO paquete aprobado, para controlar los costos."
+    ]
+   ]
+  },
+  {
+   "id": "pllantas",
+   "t0": 152.33,
+   "t1": 157.97,
+   "say": "Y seis: las llantas. Todos usan Michelin, y deben aguantar de día y de noche.",
+   "parts": [
+    [
+     152.33,
+     157.97,
+     "Y 6: las LLANTAS. Todos usan MICHELIN, y deben aguantar de DÍA y de NOCHE."
+    ]
+   ]
+  },
+  {
+   "id": "final",
+   "t0": 158.14,
+   "t1": 170.8,
+   "say": "Por eso, en la resistencia, no basta con ser rápido: hay que serlo durante horas sin romperse. Ese es el secreto del WEC: ganar no es llegar primero a la curva, es llegar primero a la meta.",
+   "parts": [
+    [
+     158.14,
+     163.55,
+     "Por eso, en la resistencia, no basta con ser rápido: hay que serlo durante HORAS sin ROMPERSE."
+    ],
+    [
+     164.09,
+     170.8,
+     "Ese es el secreto del WEC: ganar no es llegar primero a la CURVA, es llegar primero a la META."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 172.95
+}
