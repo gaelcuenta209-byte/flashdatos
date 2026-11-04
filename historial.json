@@ -112,7 +112,7 @@
    "tema": "Posible nuevo planeta enano más allá de Plutón (2026 ED138)",
    "carpeta": "videos/06-planeta-enano-ed138",
    "fecha_programada": "2026-11-03 22:50 (CDMX)",
-   "estado": "programado",
+   "estado": "publicado",
    "nota": "Pedido del dueño del 2026-10-31 a las 7:08 (publicación 15:00). A las 7:56 respondió \"sí, pero no tiene final\": se cambió el cierre por una frase completa y se agregó tarjeta final. No salió el 31 por falta de aprobación de esa versión. El 2026-11-03 a las 22:33 el dueño eligió \"Ahora mismo\": programado a las 22:50 en YouTube, Instagram y TikTok.",
    "titulo": "⚡ ¿Plutón tiene un nuevo vecino? 2026 ED138 🪐 #shorts",
    "descripcion": "⚡ El observatorio Vera Rubin, en Chile, halló 2026 ED138: un objeto helado más allá de Neptuno que podría medir hasta 1,500 km. Si se confirma, sería el sexto planeta enano reconocido. 🪐\nFuentes: Rubin Observatory (Universidad de Stanford), Reuters y Universe Today.\n#pluton #planetaenano #espacio #astronomia #ciencia #verarubin",
@@ -122,6 +122,11 @@
     "id": 416083340,
     "uuid": "3658459588350132224",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=3658459588350132224"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/uhHuwF8yCt8",
+    "instagram": "https://www.instagram.com/reel/DfTo6JojsYD/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704174149152853255"
    }
   },
   {
@@ -255,7 +260,7 @@
    "titulo": "⚡ Así hacemos este canal con IA: el primer mensaje (Parte 1/5) #shorts",
    "titulo_tiktok": "⚡ Así hacemos este canal con IA (1/5) 🤖",
    "descripcion": "⚡ Parte 1 de 5 de El método Flash Datos: cómo un solo mensaje a Claude se convirtió en un canal de ciencia hecho con inteligencia artificial. Mañana a las 10 p. m., la parte 2: la voz. 🤖🎙️\n#inteligenciaartificial #ia #claude #creadordecontenido #ciencia #flashdatos",
-   "estado": "programado",
+   "estado": "publicado",
    "fecha_programada": "2026-11-03 23:02 (CDMX)",
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-12/FlashDatos_12.mp4",
    "metricool": {
@@ -263,7 +268,12 @@
     "uuid": "-4107776336398236886",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-4107776336398236886"
    },
-   "nota": "Serie El método, parte 1. El dueño pidió a las 21:01 publicarla a las 22:00 y las siguientes a las 22:00 cada día sin pedir aprobación. El contenedor se reinició a mitad del render; se programó a las 23:02 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres)."
+   "nota": "Serie El método, parte 1. El dueño pidió a las 21:01 publicarla a las 22:00 y las siguientes a las 22:00 cada día sin pedir aprobación. El contenedor se reinició a mitad del render; se programó a las 23:02 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres).",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/I-Uw07ludtk",
+    "instagram": "https://www.instagram.com/reel/DfTqOFBkhPr/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704177255269797138"
+   }
   }
  ]
 }

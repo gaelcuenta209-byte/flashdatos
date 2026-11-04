@@ -1,100 +1,100 @@
 {
- "actualizado": "2026-11-03",
+ "actualizado": "2026-11-04",
  "ideas": [
   {
    "numero": 1,
-   "tema": "Los meteoros no se queman: explotan (Táuridas este 4–5 de nov y Leónidas el 17–18)",
-   "gancho": "Te mintieron: las estrellas fugaces no se queman.",
-   "por_que_viral": "Corrige algo que todos aprendimos y es de hoy: las Táuridas del Sur tienen su máximo mañana y pasado (4–5 de nov), así que el público puede salir a verlas esta semana.",
-   "dato_principal": "Un estudio describe 7 etapas violentas (fundirse y fragmentarse) en lugar de ‘quemarse’. Las Leónidas se ven mejor la noche del 17 al 18 de noviembre, con 10–15 meteoros por hora en buenas condiciones. Además, las Táuridas del Sur tienen su máximo el 4–5 de noviembre (5–10 por hora).",
-   "escena_3d": "Roca entrando a la atmósfera en cámara lenta, fragmentándose por etapas.",
+   "tema": "El telescopio Swift de la NASA cae hoy a la Tierra (y su rescate falló)",
+   "gancho": "Hoy un telescopio de la NASA se cae del cielo… y nadie pudo salvarlo.",
+   "por_que_viral": "Es noticia de hoy mismo (reentrada prevista el 4 de noviembre), tiene drama (una misión de rescate que se canceló) y final visual: arder en la atmósfera.",
+   "dato_principal": "Swift se lanzó en 2004 y cazó explosiones de rayos gamma durante casi 22 años; su órbita fue bajando por el arrastre de la atmósfera y la NASA prevé su reentrada el 4 de noviembre de 2026, tras cancelar un rescate.",
+   "escena_3d": "El satélite girando sobre la Tierra, su órbita en espiral cada vez más baja y la reentrada como bola de fuego.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
-    "https://ondatravel.pl/es/eventos-astronomicos-noviembre-2026/"
+    "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/",
+    "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/"
    ]
   },
   {
    "numero": 2,
-   "tema": "El cielo real de 'La noche estrellada' de Van Gogh",
-   "gancho": "Van Gogh no inventó este cielo: lo pintó tal como estaba el 22 de julio de 1889.",
-   "por_que_viral": "Mezcla arte famosísimo con astronomía; noticia del 2 de noviembre (Scientific Reports) y se entiende sin audio comparando la pintura con el cielo reconstruido.",
-   "dato_principal": "Un estudio reconstruyó el cielo antes del amanecer sobre Saint-Rémy: la 'estrella' brillante sería Venus, el cúmulo serían las Híades y la Luna menguante coincide con la madrugada del 22 de julio de 1889 aprox.",
-   "escena_3d": "Esfera celeste 3D girando hasta la madrugada de 1889 sobre un pueblo; Venus, las Híades y la Luna se alinean con los remolinos de la pintura (estilizados, sin copiar el cuadro).",
+   "tema": "La NASA corre para salvar al Hubble antes de que caiga",
+   "gancho": "El Hubble también se va a caer… a menos que alguien vaya por él.",
+   "por_que_viral": "Encadena con la caída de Swift, el Hubble es el telescopio más famoso del mundo y hay una carrera contra el tiempo.",
+   "dato_principal": "Tras más de 35 años, la órbita del Hubble decae; el 29 de octubre la NASA pidió propuestas a empresas privadas para darle servicio en el espacio y elevarlo.",
+   "escena_3d": "Hubble en órbita, curva de altura bajando y una nave comercial acoplándose para empujarlo.",
    "fuentes": [
-    "https://www.nature.com/articles/s41598-026-73025-5",
-    "https://www.universetoday.com/articles/new-research-resolves-the-mystery-behind-van-goghs-the-starry-night"
+    "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+    "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
    ]
   },
   {
    "numero": 3,
-   "tema": "Tres agujeros negros gigantes en una sola galaxia",
-   "gancho": "Una galaxia con TRES monstruos en su centro.",
-   "por_que_viral": "Agujeros negros = tema estrella en Shorts; primera vez que se ven tres activos en una galaxia y podrían fusionarse.",
-   "dato_principal": "Webb detectó tres agujeros negros supermasivos activos en una galaxia joven a más de 12,500 millones de años luz.",
-   "escena_3d": "Tres discos de acreción girando dentro de una galaxia joven.",
+   "tema": "Las 5 letras de la vida, encontradas en un asteroide",
+   "gancho": "Las cinco letras de tu ADN ya existían en el espacio hace 4,500 millones de años.",
+   "por_que_viral": "Conecta al espectador con su propio cuerpo y con el origen de la vida; la misión Hayabusa2 trajo la roca a la Tierra.",
+   "dato_principal": "En muestras intactas del asteroide Ryugu se detectaron las cinco bases del ADN y ARN: adenina, guanina, citosina, timina y uracilo.",
+   "escena_3d": "Ryugu girando, la sonda Hayabusa2 tomando la muestra y una doble hélice que se arma con las cinco letras.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
-    "https://www.mpg.de/26904239/three-black-holes-discovered-in-a-young-galaxy"
+    "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+    "https://www.jamstec.go.jp/e/about/press_release/20260317/"
    ]
   },
   {
    "numero": 4,
-   "tema": "Desfile de 4 planetas antes del amanecer (13–22 de noviembre)",
-   "gancho": "Cuatro planetas en fila y los puedes ver sin telescopio.",
-   "por_que_viral": "Evento que el público puede ver en persona con fecha cercana; ‘alineación de planetas’ siempre se comparte mucho.",
-   "dato_principal": "Del 13 al 22 de noviembre de 2026, Mercurio, Venus, Marte y Júpiter se ven juntos antes del amanecer; Marte y Júpiter quedan a ~1° el 15–16 de noviembre.",
-   "escena_3d": "Vista desde arriba del sistema solar con las órbitas y la línea de visión desde la Tierra; luego la vista del cielo al amanecer.",
+   "tema": "Un agujero negro podría partirse en dos",
+   "gancho": "¿Y si un agujero negro se pudiera partir en dos?",
+   "por_que_viral": "Agujeros negros es el tema que más se comparte en Shorts de ciencia y la idea rompe lo que creíamos imposible.",
+   "dato_principal": "Un estudio encontró un ‘hueco’ en las reglas: un agujero negro que gira extremadamente rápido podría dividirse en dos.",
+   "escena_3d": "Agujero negro girando cada vez más rápido, su horizonte se estira como un ‘pantalón’ y se separa en dos.",
    "fuentes": [
-    "https://starwalk.space/es/news/planetary-alignment-november-2026",
-    "https://www.skyatnightmagazine.com/news/planet-alignment-november-december-2026"
+    "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
+    "https://earthsky.org/space/black-holes-split-entropy-pair-of-pants-topology/"
    ]
   },
   {
    "numero": 5,
+   "tema": "Se confirma un tercer tipo de magnetismo",
+   "gancho": "Hay un tercer tipo de imán… y tardamos 90 años en encontrarlo.",
+   "por_que_viral": "Algo que todos conocemos (los imanes) con un giro inesperado; promete computadoras más rápidas.",
+   "dato_principal": "Durante casi 90 años el magnetismo tuvo dos familias (ferro y antiferromagnetismo); SLAC y Stanford confirmaron el altermagnetismo, que combina rasgos de ambos.",
+   "escena_3d": "Átomos como flechitas girando: todas iguales, alternadas y luego el patrón ‘alter’ con giros rotados.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+    "https://news.stanford.edu/stories/2026/10/altermagnetism-magnetic-phase-research"
+   ]
+  },
+  {
+   "numero": 6,
+   "tema": "Noviembre en el cielo: Marte pegado a Júpiter y la Superluna del 24",
+   "gancho": "Este mes, Marte y Júpiter se van a ‘tocar’ en el cielo… y lo puedes ver sin telescopio.",
+   "por_que_viral": "El público lo puede ver en persona y tiene fechas concretas para compartir.",
+   "dato_principal": "Venus, Júpiter y Marte se ven antes del amanecer; Marte y Júpiter quedan a ~1° el 15–16 de noviembre y la Superluna del 24 de noviembre se verá ~6.5 % más grande.",
+   "escena_3d": "Vista del Sistema Solar desde arriba con las líneas de visión desde la Tierra, y luego el cielo del amanecer con los planetas juntos.",
+   "fuentes": [
+    "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+    "https://starwalk.space/es/news/planetary-alignment-november-2026"
+   ]
+  },
+  {
+   "numero": 7,
    "tema": "Perseverance rompe el récord de manejo en otro mundo",
-   "gancho": "Este robot ya manejó más que ningún vehículo fuera de la Tierra… y lo hizo casi solo.",
-   "por_que_viral": "Récord histórico (supera a Opportunity), noticia de esta semana y gancho de autonomía/IA: el rover planea gran parte de su ruta sin humanos.",
-   "dato_principal": "Perseverance superó las 28 millas (≈45 km) recorridas en Marte, la mayor distancia manejada en otro mundo, superando el récord de Opportunity.",
-   "escena_3d": "Rover en terreno marciano con la ruta trazada desde el cráter Jezero; contador de km y la silueta de Opportunity quedándose atrás.",
+   "gancho": "Este robot ya manejó más que ningún vehículo fuera de la Tierra… y casi solo.",
+   "por_que_viral": "Récord histórico reciente, con el ángulo de la conducción autónoma.",
+   "dato_principal": "Perseverance recorrió 28.10 millas (≈45 km) en Marte y superó el récord de Opportunity.",
+   "escena_3d": "El rover sobre terreno marciano, con su ruta trazada en el cráter Jezero y un odómetro que sube.",
    "fuentes": [
     "https://www.jpl.nasa.gov/news/nasas-perseverance-sets-off-world-record-for-total-distance-driven/",
     "https://www.sciencedaily.com/releases/2026/11/261101010536.htm"
    ]
   },
   {
-   "numero": 6,
-   "tema": "La primera estrella verde",
-   "gancho": "No existen estrellas verdes… hasta ahora.",
-   "por_que_viral": "Rompe una creencia popular y es muy visual; se entiende sin audio.",
-   "dato_principal": "Astrónomos de la Universidad de Warwick hallaron la primera estrella conocida que se vería verde al ojo humano: una enana blanca.",
-   "escena_3d": "Paleta de colores de estrellas (roja, amarilla, azul) y aparición de la enana blanca verde.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
-    "https://www.thedailybeast.com/university-of-warwick-astronomers-find-the-universes-first-ever-green-star"
-   ]
-  },
-  {
-   "numero": 7,
-   "tema": "La Superluna del Castor (24 de noviembre)",
-   "gancho": "El 24 de noviembre la Luna se verá más grande… y no es una ilusión.",
-   "por_que_viral": "Evento masivo con fecha; explica por qué la órbita elíptica acerca la Luna. Fácil de entender y de compartir.",
-   "dato_principal": "La luna llena del 24 de noviembre de 2026 es una superluna: unos 6.5 % más grande y 13.5 % más brillante que una luna llena promedio; la primera desde enero de 2026.",
-   "escena_3d": "Órbita elíptica de la Luna con perigeo y apogeo; comparación lado a lado del tamaño aparente.",
-   "fuentes": [
-    "https://starwalk.space/es/news/full-moon-november",
-    "https://www.cronica.com.mx/tendencias/2026/10/30/la-superluna-del-castor-cuando-y-como-ver-la-luna-llena-mas-brillante-del-2026/"
-   ]
-  },
-  {
    "numero": 8,
-   "tema": "El planeta de lava con ‘protector solar’ (TOI-561 b)",
-   "gancho": "Este planeta es un océano de lava… y aun así tiene ‘bloqueador solar’.",
-   "por_que_viral": "Mundo infernal + giro inesperado (una atmósfera que no debería existir); muy visual.",
-   "dato_principal": "Webb halló una atmósfera gruesa en TOI-561 b, un planeta rocoso a unos 280 años luz que da la vuelta a su estrella en menos de 11 horas y está cubierto de magma.",
-   "escena_3d": "Planeta incandescente pegado a su estrella con una capa de gas que lo envuelve.",
+   "tema": "El cielo real de ‘La noche estrellada’ de Van Gogh",
+   "gancho": "Van Gogh no inventó este cielo: lo pintó tal como estaba en julio de 1889.",
+   "por_que_viral": "Arte famosísimo + astronomía; el estudio es reciente.",
+   "dato_principal": "La ‘estrella’ brillante sería Venus, el cúmulo las Híades y la Luna menguante coincide con la madrugada del ~22 de julio de 1889 sobre Saint-Rémy.",
+   "escena_3d": "El cielo de Saint-Rémy en 3D que se transforma en los remolinos del cuadro (estilo propio, sin copiar la pintura).",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-    "https://www.sciencenews.org/article/lava-planet-toi561b-atmosphere-tess/embed"
+    "https://www.nature.com/articles/s41598-026-73025-5",
+    "https://www.universetoday.com/articles/new-research-resolves-the-mystery-behind-van-goghs-the-starry-night"
    ]
   }
  ],
