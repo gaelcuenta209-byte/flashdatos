@@ -1,0 +1,19 @@
+{
+ "ancho": 1600,
+ "fotos": [
+  {"nombre": "gt40", "wiki": "Ford_GT40"},
+  {"nombre": "p917", "wiki": "Porsche_917"},
+  {"nombre": "r10", "wiki": "Audi_R10_TDI"},
+  {"nombre": "ts050", "wiki": "Toyota_TS050_Hybrid"},
+  {"nombre": "gr010", "wiki": "Toyota_GR010_Hybrid"},
+  {"nombre": "f499p", "wiki": "Ferrari_499P"},
+  {"nombre": "lemans_foto", "wiki": "24_Hours_of_Le_Mans"},
+  {"nombre": "sarthe", "wiki": "Circuit_de_la_Sarthe"},
+  {"nombre": "mulsanne", "wiki": "Mulsanne_Straight"},
+  {"nombre": "spa", "wiki": "Circuit_de_Spa-Francorchamps"},
+  {"nombre": "eaurouge", "wiki": "Eau_Rouge"},
+  {"nombre": "fuji", "wiki": "Fuji_Speedway"},
+  {"nombre": "monza", "wiki": "Monza_Circuit"},
+  {"nombre": "sebring", "wiki": "Sebring_International_Raceway"}
+ ]
+}
