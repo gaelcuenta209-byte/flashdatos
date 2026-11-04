@@ -1,0 +1,32 @@
+name: Fotos (Wikimedia Commons)
+
+# Claude sube videos/NN-tema/fotos/pedido.json y esta acción descarga las fotos con licencia libre
+# (Wikimedia Commons) o los enlaces directos que se pidan, y deja fotos/creditos.json para la descripción.
+on:
+  push:
+    branches: [main]
+    paths: ["videos/*/fotos/pedido.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fotos
+  cancel-in-progress: false
+
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar fotos
+        run: python3 .github/scripts/fotos.py
+      - name: Guardar en el repositorio
+        run: |
+          git config user.name "flashdatos-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add videos/*/fotos/
+          if git diff --cached --quiet; then echo "nada nuevo"; exit 0; fi
+          git commit -m "Fotos listas"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
