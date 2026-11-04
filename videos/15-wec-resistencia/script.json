@@ -1,0 +1,90 @@
+{
+ "id": "15",
+ "title": "El Mundial de Resistencia (WEC): leyendas, circuitos y el Hypercar desarmado",
+ "segments": [
+  {"id": "dato", "parts": [
+   {"say": "Dato extra: después de veinticuatro horas de carrera, Le Mans se ganó este año por menos de once segundos.",
+    "cap": "DATO EXTRA: después de 24 HORAS de carrera, Le Mans se ganó este año por menos de 11 SEGUNDOS."},
+   {"say": "Esto es el WEC, el Mundial de Resistencia, y este fin de semana cierra su temporada en Monza.",
+    "cap": "Esto es el WEC, el MUNDIAL DE RESISTENCIA, y este fin de semana cierra su temporada en MONZA."}
+  ]},
+  {"id": "que", "parts": [
+   {"say": "Son carreras de seis a veinticuatro horas, con tres pilotos que se turnan el mismo auto.",
+    "cap": "Son carreras de 6 a 24 HORAS, con 3 PILOTOS que se turnan el mismo auto."},
+   {"say": "Aquí no gana el más rápido en una vuelta, sino el que aguanta rápido más tiempo.",
+    "cap": "Aquí no gana el más rápido en una vuelta: gana el que AGUANTA rápido más tiempo."}
+  ]},
+  {"id": "gt40", "parts": [
+   {"say": "Las leyendas lo demostraron. El Ford GT cuarenta medía cuarenta pulgadas de alto, para cortar menos aire.",
+    "cap": "Las LEYENDAS lo demostraron. El FORD GT40 medía 40 PULGADAS de alto, para cortar menos aire."},
+   {"say": "Con él, en mil novecientos sesenta y ocho, Pedro Rodríguez ganó Le Mans: el único mexicano que lo ha logrado.",
+    "cap": "Con él, en 1968, PEDRO RODRÍGUEZ ganó LE MANS: el ÚNICO mexicano que lo ha logrado."}
+  ]},
+  {"id": "p917", "parts": [
+   {"say": "El Porsche novecientos diecisiete, con chasis de magnesio y doce cilindros, recorrió cinco mil trescientos treinta y cinco kilómetros en un día: un récord que duró casi cuarenta años.",
+    "cap": "El PORSCHE 917, con chasis de MAGNESIO y 12 CILINDROS, recorrió 5,335 KM en un día: un RÉCORD que duró casi 40 AÑOS."}
+  ]},
+  {"id": "audi", "parts": [
+   {"say": "El Audi R diez fue el primer diésel en ganar Le Mans: gastaba menos y paraba menos en los pits.",
+    "cap": "El AUDI R10 fue el primer DIÉSEL en ganar Le Mans: gastaba menos y paraba MENOS en los pits."},
+   {"say": "Y Tom Kristensen, casi siempre con Audi, la ganó nueve veces: el récord.",
+    "cap": "Y TOM KRISTENSEN, casi siempre con Audi, la ganó 9 VECES: ¡el RÉCORD!"}
+  ]},
+  {"id": "toyota", "parts": [
+   {"say": "En dos mil diecisiete, Kamui Kobayashi dio con un Toyota híbrido la vuelta más rápida en la historia de Le Mans, y este año volvió a ganarla.",
+    "cap": "En 2017, KAMUI KOBAYASHI dio con un TOYOTA HÍBRIDO la vuelta más rápida en la historia de Le Mans, y este año volvió a GANARLA."}
+  ]},
+  {"id": "lemans", "parts": [
+   {"say": "Los circuitos también son leyenda. Le Mans mide trece punto seis kilómetros, y su recta Mulsanne es carretera normal el resto del año.",
+    "cap": "Los CIRCUITOS también son leyenda. LE MANS mide 13.6 KM, y su recta MULSANNE es carretera normal el resto del año."},
+   {"say": "Ahí un auto llegó a cuatrocientos cinco kilómetros por hora, y por eso le pusieron dos chicanas.",
+    "cap": "Ahí un auto llegó a 405 KM/H, y por eso le pusieron 2 CHICANAS."}
+  ]},
+  {"id": "spa", "parts": [
+   {"say": "Spa, en Bélgica, tiene Eau Rouge: baja y sube de golpe, a fondo, y la compresión aplasta el auto contra el piso.",
+    "cap": "SPA, en Bélgica, tiene EAU ROUGE: baja y sube de golpe, a fondo, y la COMPRESIÓN aplasta el auto contra el piso."}
+  ]},
+  {"id": "fuji", "parts": [
+   {"say": "Fuji, al pie del volcán, tiene una recta de un kilómetro y medio, donde manda la potencia.",
+    "cap": "FUJI, al pie del volcán, tiene una recta de 1.5 KM, donde manda la POTENCIA."}
+  ]},
+  {"id": "monza", "parts": [
+   {"say": "Y Monza, el templo de la velocidad, castiga los frenos con sus rectas larguísimas.",
+    "cap": "Y MONZA, el TEMPLO DE LA VELOCIDAD, castiga los FRENOS con sus rectas larguísimas."}
+  ]},
+  {"id": "intro", "parts": [
+   {"say": "¿Y cómo es un Hypercar, el auto más rápido del WEC? Vamos a desarmarlo.",
+    "cap": "¿Y cómo es un HYPERCAR, el auto más rápido del WEC? Vamos a DESARMARLO."}
+  ]},
+  {"id": "pmotor", "parts": [
+   {"say": "Uno: el motor de combustión, detrás del piloto, mueve las llantas traseras.",
+    "cap": "1: el MOTOR de combustión, detrás del piloto, mueve las llantas TRASERAS."}
+  ]},
+  {"id": "phibrido", "parts": [
+   {"say": "Dos: el híbrido. En el Toyota o el Ferrari, un motor eléctrico mueve las llantas delanteras con energía que se guarda al frenar.",
+    "cap": "2: el HÍBRIDO. En el Toyota o el Ferrari, un motor ELÉCTRICO mueve las llantas DELANTERAS con energía que se guarda al FRENAR."}
+  ]},
+  {"id": "plimite", "parts": [
+   {"say": "Tres: el límite. Juntos no pasan de quinientos kilovatios, unos seiscientos setenta caballos.",
+    "cap": "3: el LÍMITE. Juntos no pasan de 500 KILOVATIOS, unos 670 CABALLOS."}
+  ]},
+  {"id": "ppeso", "parts": [
+   {"say": "Cuatro: el peso, mínimo mil treinta kilos. Los jueces agregan peso o quitan potencia para que nadie tenga ventaja.",
+    "cap": "4: el PESO, mínimo 1,030 KG. Los jueces agregan peso o quitan potencia para que NADIE tenga ventaja."}
+  ]},
+  {"id": "paero", "parts": [
+   {"say": "Cinco: la aerodinámica. Cada auto tiene un solo paquete aprobado, para controlar los costos.",
+    "cap": "5: la AERODINÁMICA. Cada auto tiene un SOLO paquete aprobado, para controlar los costos."}
+  ]},
+  {"id": "pllantas", "parts": [
+   {"say": "Y seis: las llantas. Todos usan Michelin, y deben aguantar de día y de noche.",
+    "cap": "Y 6: las LLANTAS. Todos usan MICHELIN, y deben aguantar de DÍA y de NOCHE."}
+  ]},
+  {"id": "final", "parts": [
+   {"say": "Por eso, en la resistencia, no basta con ser rápido: hay que serlo durante horas sin romperse.",
+    "cap": "Por eso, en la resistencia, no basta con ser rápido: hay que serlo durante HORAS sin ROMPERSE."},
+   {"say": "Ese es el secreto del WEC: ganar no es llegar primero a la curva, es llegar primero a la meta.",
+    "cap": "Ese es el secreto del WEC: ganar no es llegar primero a la CURVA, es llegar primero a la META."}
+  ]}
+ ]
+}
