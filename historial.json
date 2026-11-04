@@ -311,6 +311,25 @@
     "uuid": "8776922450308778702",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=8776922450308778702"
    }
+  },
+  {
+   "numero": 16,
+   "tema": "Mazda 787B: el único auto sin pistones que ganó Le Mans (motor rotativo R26B, piezas, chasis y pilotos), respuesta a @_nachozn_",
+   "carpeta": "videos/16-mazda-787b",
+   "fecha_programada": "2026-11-04 18:00 (CDMX)",
+   "estado": "programado",
+   "extra": true,
+   "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-04 a las 16:32 ('Ahora haremos un vídeo respondiéndole a _nachozn_ ... súbelo a las 6'). Sigue la receta de los videos 13 y 15 (motor, componentes y pilotos) con más detalle del motor rotativo. No reemplaza el video del día. Programado para hoy a las 18:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres); se le mandó al dueño para que lo revise y puede pedir cambiarlo o cancelarlo.",
+   "titulo": "⚡ El ÚNICO auto SIN PISTONES que ganó Le Mans: Mazda 787B 🏁 #shorts",
+   "descripcion": "⚡ Respondiendo a @_nachozn_: el Mazda 787B ganó las 24 Horas de Le Mans en 1991 con un motor rotativo de 4 rotores, sin pistones ni válvulas. Te explicamos cómo funciona su motor R26B, sus piezas, sus pilotos y por qué nadie lo ha repetido. 🏁\nFuentes: Mazda, 24h-lemans.com, Autosport y Motor Authority. Fotos (recortadas) de Wikimedia Commons: 韋駄天狗 (CC BY-SA 3.0), OldLion (CC BY-SA 4.0) y Softeis (CC BY-SA 3.0).\n#mazda787b #lemans #motorrotativo #autos #ingenieria #datoscuriosos",
+   "titulo_tiktok": "⚡ El único auto sin pistones que ganó Le Mans 🏁",
+   "duracion_s": 144.3,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-16/FlashDatos_16.mp4",
+   "metricool": {
+    "id": 417111049,
+    "uuid": "-9161264192236729168",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-9161264192236729168"
+   }
   }
  ]
 }
