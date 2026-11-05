@@ -1,0 +1,117 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 48.77,
+ "segments": [
+  {
+   "id": "hook",
+   "t0": 0.1,
+   "t1": 7.29,
+   "say": "La voz que estás escuchando ahora mismo la crea una inteligencia artificial. Así le dimos voz al canal.",
+   "parts": [
+    [
+     0.1,
+     7.29,
+     "Esta VOZ la crea una INTELIGENCIA ARTIFICIAL"
+    ]
+   ]
+  },
+  {
+   "id": "investiga",
+   "t0": 7.58,
+   "t1": 15.41,
+   "say": "Primero, Claude investiga el tema y verifica cada dato con al menos dos fuentes confiables, como la NASA, la ESA o universidades.",
+   "parts": [
+    [
+     7.58,
+     15.41,
+     "CLAUDE verifica cada dato con 2 FUENTES: NASA, ESA, UNIVERSIDADES"
+    ]
+   ]
+  },
+  {
+   "id": "guion",
+   "t0": 15.85,
+   "t1": 20.96,
+   "say": "Después escribe el guion: un gancho en la primera frase y un final que cierra la idea.",
+   "parts": [
+    [
+     15.85,
+     20.96,
+     "El GUION: un GANCHO al inicio y un FINAL que cierra la idea"
+    ]
+   ]
+  },
+  {
+   "id": "voz",
+   "t0": 21.37,
+   "t1": 26.27,
+   "say": "Ese texto lo narra ElevenLabs, con la voz de Carlos Garza, un narrador mexicano.",
+   "parts": [
+    [
+     21.37,
+     26.27,
+     "ELEVENLABS lo narra con la voz de CARLOS GARZA"
+    ]
+   ]
+  },
+  {
+   "id": "tomas",
+   "t0": 26.69,
+   "t1": 29.27,
+   "say": "Salen dos tomas, y se elige la más clara.",
+   "parts": [
+    [
+     26.69,
+     29.27,
+     "Salen 2 TOMAS… y se elige la más CLARA"
+    ]
+   ]
+  },
+  {
+   "id": "github",
+   "t0": 29.7,
+   "t1": 32.31,
+   "say": "Luego, una acción de GitHub baja el audio,",
+   "parts": [
+    [
+     29.7,
+     32.31,
+     "Una acción de GITHUB baja el AUDIO"
+    ]
+   ]
+  },
+  {
+   "id": "pausas",
+   "t0": 32.45,
+   "t1": 37.55,
+   "say": "y un programa detecta las pausas de la voz para que cada subtítulo salga justo a tiempo.",
+   "parts": [
+    [
+     32.45,
+     37.55,
+     "Un programa detecta las PAUSAS: cada SUBTÍTULO a tiempo"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 38.01,
+   "t1": 48.87,
+   "say": "Así, cada palabra que escuchas empieza como un dato verificado. En la parte tres, cómo animamos cada video en tres dimensiones. Estén atentos para conocer el método.",
+   "parts": [
+    [
+     38.01,
+     41.97,
+     "Cada PALABRA empieza como un DATO VERIFICADO"
+    ],
+    [
+     42.42,
+     48.87,
+     "PARTE 3: la ANIMACIÓN 3D. ¡Estén ATENTOS para conocer el MÉTODO!"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 49.7
+}
