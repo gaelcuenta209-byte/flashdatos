@@ -1,0 +1,35 @@
+{
+ "id": "17",
+ "title": "El método Flash Datos · Parte 2: la voz",
+ "serie": "metodo",
+ "parte": 2,
+ "segments": [
+  {"id": "hook", "parts": [
+   {"say": "La voz que estás escuchando ahora mismo la crea una inteligencia artificial. Así le dimos voz al canal.",
+    "cap": "Esta VOZ la crea una INTELIGENCIA ARTIFICIAL"}]},
+  {"id": "investiga", "parts": [
+   {"say": "Primero, Claude investiga el tema y verifica cada dato con al menos dos fuentes confiables, como la NASA, la ESA o universidades.",
+    "cap": "CLAUDE verifica cada dato con 2 FUENTES: NASA, ESA, UNIVERSIDADES"}]},
+  {"id": "guion", "parts": [
+   {"say": "Después escribe el guion: un gancho en la primera frase y un final que cierra la idea.",
+    "cap": "El GUION: un GANCHO al inicio y un FINAL que cierra la idea"}]},
+  {"id": "voz", "parts": [
+   {"say": "Ese texto lo narra ElevenLabs, con la voz de Carlos Garza, un narrador mexicano.",
+    "cap": "ELEVENLABS lo narra con la voz de CARLOS GARZA"}]},
+  {"id": "tomas", "parts": [
+   {"say": "Salen dos tomas, y se elige la más clara.",
+    "cap": "Salen 2 TOMAS… y se elige la más CLARA"}]},
+  {"id": "github", "parts": [
+   {"say": "Luego, una acción de GitHub baja el audio,",
+    "cap": "Una acción de GITHUB baja el AUDIO"}]},
+  {"id": "pausas", "parts": [
+   {"say": "y un programa detecta las pausas de la voz para que cada subtítulo salga justo a tiempo.",
+    "cap": "Un programa detecta las PAUSAS: cada SUBTÍTULO a tiempo"}]},
+  {"id": "cierre", "parts": [
+   {"say": "Así, cada palabra que escuchas empieza como un dato verificado.",
+    "cap": "Cada PALABRA empieza como un DATO VERIFICADO"},
+   {"say": "En la parte tres, cómo animamos cada video en tres dimensiones. Estén atentos para conocer el método.",
+    "cap": "PARTE 3: la ANIMACIÓN 3D. ¡Estén ATENTOS para conocer el MÉTODO!"}]}
+ ],
+ "ring_words": []
+}
