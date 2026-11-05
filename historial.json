@@ -353,7 +353,8 @@
     "youtube": "https://www.youtube.com/shorts/gtQY2Cw-KgA",
     "instagram": "https://www.instagram.com/reel/DfVtJjmlNAR/",
     "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704471609914019080"
-   }
+   },
+   "nota_instagram": "Metricool marca el Reel con estado ERROR, pero sí se publicó; solo no pudo poner la etiqueta de @_nachozn_."
   },
   {
    "numero": 17,
@@ -364,7 +365,7 @@
    "titulo": "⚡ Así le dimos VOZ a este canal con IA (Parte 2/5) #shorts",
    "titulo_tiktok": "⚡ Así le dimos voz al canal con IA (2/5) 🎙️",
    "descripcion": "⚡ Parte 2 de 5 de El método Flash Datos: cómo le dimos voz al canal, del dato verificado a la narración con ElevenLabs y subtítulos justo a tiempo. Mañana a las 10 p. m., la parte 3: la animación 3D. 🎙️🤖\n#inteligenciaartificial #ia #claude #elevenlabs #creadordecontenido #flashdatos",
-   "estado": "programado",
+   "estado": "publicado",
    "fecha_programada": "2026-11-04 22:00 (CDMX)",
    "duracion_s": 49.7,
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-17/FlashDatos_17.mp4",
@@ -372,6 +373,11 @@
     "id": 417225227,
     "uuid": "3177205101992558886",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=3177205101992558886"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/u3uEVdQ1feA",
+    "instagram": "https://www.instagram.com/reel/DfWIF9BjA7k/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704532768847514898"
    }
   }
  ]
