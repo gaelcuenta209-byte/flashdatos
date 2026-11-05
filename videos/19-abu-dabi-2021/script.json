@@ -1,0 +1,54 @@
+{
+ "id": "19",
+ "title": "Abu Dabi 2021: el campeonato que se decidió en una vuelta",
+ "segments": [
+  {"id": "gancho", "parts": [
+   {"say": "Una vuelta separó a Hamilton de su octavo título, y a Verstappen de su primero.",
+    "cap": "UNA VUELTA separó a HAMILTON de su 8º TÍTULO… y a VERSTAPPEN de su PRIMERO."}
+  ]},
+  {"id": "empate", "parts": [
+   {"say": "Abu Dabi, dos mil veintiuno: llegaron a la última carrera empatados en puntos.",
+    "cap": "ABU DABI 2021: llegaron a la ÚLTIMA carrera EMPATADOS en puntos."}
+  ]},
+  {"id": "salida", "parts": [
+   {"say": "Max salió primero, pero Lewis lo pasó en el arranque.",
+    "cap": "MAX salió PRIMERO, pero LEWIS lo pasó en el ARRANQUE."}
+  ]},
+  {"id": "checo", "parts": [
+   {"say": "Entonces Red Bull usó a Checo Pérez: en dos vueltas de defensa frenó a Hamilton, y acercó a Max de nueve a menos de dos segundos.",
+    "cap": "Entonces Red Bull usó a CHECO PÉREZ: en 2 VUELTAS de defensa frenó a HAMILTON y acercó a MAX de 9 a MENOS DE 2 SEGUNDOS."},
+   {"say": "Max lo llamó leyenda.",
+    "cap": "Max lo llamó LEYENDA."}
+  ]},
+  {"id": "escape", "parts": [
+   {"say": "Pero Lewis volvió a escaparse: a cinco vueltas del final, iba once segundos adelante.",
+    "cap": "Pero LEWIS volvió a escaparse: a 5 VUELTAS del final iba 11 SEGUNDOS adelante."}
+  ]},
+  {"id": "latifi", "parts": [
+   {"say": "Hasta que Latifi chocó, y salió el auto de seguridad.",
+    "cap": "Hasta que LATIFI chocó… y salió el AUTO DE SEGURIDAD."}
+  ]},
+  {"id": "llantas", "parts": [
+   {"say": "Max entró por llantas nuevas. Lewis no, para no perder la punta.",
+    "cap": "MAX entró por LLANTAS NUEVAS. LEWIS no, para no perder la PUNTA."}
+  ]},
+  {"id": "masi", "parts": [
+   {"say": "Michael Masi, el director de carrera, primero dijo que los autos rezagados no pasarían, y luego dejó pasar solo a los cinco que estaban entre los dos.",
+    "cap": "MICHAEL MASI, director de carrera, primero dijo que los rezagados NO pasarían… y luego dejó pasar SOLO a los 5 que estaban ENTRE LOS DOS."}
+  ]},
+  {"id": "ultima", "parts": [
+   {"say": "Una vuelta. Todo o nada.",
+    "cap": "UNA VUELTA. TODO O NADA."}
+  ]},
+  {"id": "rebase", "parts": [
+   {"say": "Max se le tiró en la curva cinco y lo pasó. Lewis atacó en la recta, pero no alcanzó.",
+    "cap": "MAX se le tiró en la CURVA 5 y lo PASÓ. LEWIS atacó en la RECTA… pero NO ALCANZÓ."}
+  ]},
+  {"id": "final", "parts": [
+   {"say": "La FIA admitió después un error humano, pero el resultado no cambió: Verstappen fue campeón por primera vez.",
+    "cap": "La FIA admitió después un ERROR HUMANO, pero el resultado NO CAMBIÓ: VERSTAPPEN fue CAMPEÓN por primera vez."},
+   {"say": "Y como dijo él mismo: sin Checo, no lo habría logrado.",
+    "cap": "Y como dijo él mismo: sin CHECO, no lo habría LOGRADO."}
+  ]}
+ ]
+}
