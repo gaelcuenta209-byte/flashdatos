@@ -1,7 +1,0 @@
-{
- "numero": "19",
- "fecha_utc": "2026-11-05T16:14:50Z",
- "enlaces": {},
- "ok": false,
- "error": "HTTP 500 (https://api.github.com/repos/gaelcuenta209-byte/flashdatos/releases)\n"
-}
