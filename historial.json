@@ -379,6 +379,22 @@
     "instagram": "https://www.instagram.com/reel/DfWIF9BjA7k/",
     "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704532768847514898"
    }
+  },
+  {
+   "numero": 18,
+   "tema": "Google puso una IA en el espacio y respondió con un poema (Proyecto Suncatcher, Gemma 4, haiku sobre Svalbard)",
+   "carpeta": "videos/18-ia-en-el-espacio",
+   "fecha_programada": "2026-11-05 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "titulo": "⚡ Le pidieron un poema a una IA en el espacio… y respondió 🛰️ #shorts",
+   "descripcion": "⚡ Google puso un chip de inteligencia artificial en órbita (Proyecto Suncatcher, con Planet) y su primera respuesta fue un haiku sobre la Tierra. 🛰️ ¿Tú qué le preguntarías?\nFuentes: blog de Google (30 oct 2026), The Next Web, PPC Land y Hardware Busters.\n#inteligenciaartificial #espacio #google #satelites #tecnologia #datoscuriosos",
+   "titulo_tiktok": "⚡ Una IA en el espacio escribió un poema 🛰️",
+   "duracion_s": 57.2,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-18/FlashDatos_18.mp4",
+   "elevenlabs": {
+    "flow_id": "1vo9PMpTW6wuLVyCfyjC",
+    "generation_id": "YW0LSz8qmro1jWziyb0w"
+   }
   }
  ]
 }
