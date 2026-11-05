@@ -1,0 +1,112 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 55.64,
+ "segments": [
+  {
+   "id": "hook1",
+   "t0": 0.1,
+   "t1": 5.59,
+   "say": "Le pidieron un poema a una inteligencia artificial que está en el espacio… y contestó.",
+   "parts": [
+    [
+     0.1,
+     5.59,
+     "Le pidieron un POEMA a una IA que está en el ESPACIO… y contestó"
+    ]
+   ]
+  },
+  {
+   "id": "lanzamiento",
+   "t0": 6.42,
+   "t1": 14.59,
+   "say": "El uno de octubre, Google lanzó un satélite hecho con la empresa Planet, con chips de inteligencia artificial como los de sus centros de datos.",
+   "parts": [
+    [
+     6.42,
+     14.59,
+     "El 1 de OCTUBRE Google lanzó un satélite con chips de IA como los de sus CENTROS DE DATOS"
+    ]
+   ]
+  },
+  {
+   "id": "orden",
+   "t0": 15.2,
+   "t1": 21.53,
+   "say": "Desde la Tierra le mandaron una orden: escribe un haiku sobre estar en el espacio.",
+   "parts": [
+    [
+     15.2,
+     21.53,
+     "La orden desde la Tierra: escribe un HAIKU sobre estar en el ESPACIO"
+    ]
+   ]
+  },
+  {
+   "id": "gemma",
+   "t0": 21.74,
+   "t1": 25.44,
+   "say": "Su modelo, Gemma cuatro, lo pensó allá arriba, con energía del Sol.",
+   "parts": [
+    [
+     21.74,
+     25.44,
+     "Su modelo, GEMMA 4, lo pensó allá arriba con energía del SOL"
+    ]
+   ]
+  },
+  {
+   "id": "svalbard",
+   "t0": 26.09,
+   "t1": 30.98,
+   "say": "La respuesta bajó cuando el satélite pasó sobre Svalbard, en Noruega.",
+   "parts": [
+    [
+     26.09,
+     30.98,
+     "La respuesta bajó sobre SVALBARD, en Noruega"
+    ]
+   ]
+  },
+  {
+   "id": "poema",
+   "t0": 31.55,
+   "t1": 38.69,
+   "say": "Decía: canica azul abajo. Datos que fluyen en silencio. La luz de las estrellas alimenta mi núcleo.",
+   "parts": [
+    [
+     31.55,
+     38.69,
+     "“Canica AZUL abajo. Datos que fluyen en silencio. La luz de las ESTRELLAS alimenta mi núcleo”"
+    ]
+   ]
+  },
+  {
+   "id": "plan",
+   "t0": 39.34,
+   "t1": 48.86,
+   "say": "Es la primera respuesta de un chip así en órbita. La meta: centros de datos en el espacio. En dos mil veintisiete lanzarán dos satélites conectados.",
+   "parts": [
+    [
+     39.34,
+     48.86,
+     "La META: centros de datos en el ESPACIO. En 2027, dos satélites CONECTADOS"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 49.32,
+   "t1": 55.48,
+   "say": "Así que el primer poema escrito en órbita no lo escribió una persona: lo escribió una máquina.",
+   "parts": [
+    [
+     49.32,
+     55.48,
+     "El primer POEMA escrito en órbita lo escribió una MÁQUINA."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 57.23
+}
