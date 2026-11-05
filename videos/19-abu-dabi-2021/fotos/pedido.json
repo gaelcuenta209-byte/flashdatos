@@ -1,7 +1,22 @@
-{"fotos": [
-  {"nombre": "yasmarina", "wiki": "Yas Marina Circuit"},
-  {"nombre": "w12", "wiki": "Mercedes-AMG F1 W12 E Performance"},
-  {"nombre": "rb16b", "wiki": "Red Bull Racing RB16B"},
-  {"nombre": "safetycar", "wiki": "Safety car"}
+{
+ "fotos": [
+  {
+   "nombre": "yasmarina",
+   "wiki": "Yas Marina Circuit"
+  },
+  {
+   "nombre": "w12",
+   "wiki": "Mercedes-AMG F1 W12 E Performance"
+  },
+  {
+   "nombre": "rb16b",
+   "wiki": "Red Bull Racing RB16B"
+  },
+  {
+   "nombre": "safetycar",
+   "wiki": "Safety car"
+  }
  ],
- "ancho": 1600}
+ "ancho": 1600,
+ "intento": 2
+}
