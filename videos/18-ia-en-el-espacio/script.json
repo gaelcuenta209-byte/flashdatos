@@ -1,0 +1,79 @@
+{
+ "id": "18",
+ "title": "Google puso una IA en el espacio… y le escribió un poema a la Tierra",
+ "segments": [
+  {
+   "id": "hook1",
+   "parts": [
+    {
+     "say": "Le pidieron un poema a una inteligencia artificial que está en el espacio… y contestó.",
+     "cap": "Le pidieron un POEMA a una IA que está en el ESPACIO… y contestó"
+    }
+   ]
+  },
+  {
+   "id": "lanzamiento",
+   "parts": [
+    {
+     "say": "El uno de octubre, Google lanzó un satélite hecho con la empresa Planet, con chips de inteligencia artificial como los de sus centros de datos.",
+     "cap": "El 1 de OCTUBRE Google lanzó un satélite con chips de IA como los de sus CENTROS DE DATOS"
+    }
+   ]
+  },
+  {
+   "id": "orden",
+   "parts": [
+    {
+     "say": "Desde la Tierra le mandaron una orden: escribe un haiku sobre estar en el espacio.",
+     "cap": "La orden desde la Tierra: escribe un HAIKU sobre estar en el ESPACIO"
+    }
+   ]
+  },
+  {
+   "id": "gemma",
+   "parts": [
+    {
+     "say": "Su modelo, Gemma cuatro, lo pensó allá arriba, con energía del Sol.",
+     "cap": "Su modelo, GEMMA 4, lo pensó allá arriba con energía del SOL"
+    }
+   ]
+  },
+  {
+   "id": "svalbard",
+   "parts": [
+    {
+     "say": "La respuesta bajó cuando el satélite pasó sobre Svalbard, en Noruega.",
+     "cap": "La respuesta bajó sobre SVALBARD, en Noruega"
+    }
+   ]
+  },
+  {
+   "id": "poema",
+   "parts": [
+    {
+     "say": "Decía: canica azul abajo. Datos que fluyen en silencio. La luz de las estrellas alimenta mi núcleo.",
+     "cap": "“Canica AZUL abajo. Datos que fluyen en silencio. La luz de las ESTRELLAS alimenta mi núcleo”"
+    }
+   ]
+  },
+  {
+   "id": "plan",
+   "parts": [
+    {
+     "say": "Es la primera respuesta de un chip así en órbita. La meta: centros de datos en el espacio. En dos mil veintisiete lanzarán dos satélites conectados.",
+     "cap": "La META: centros de datos en el ESPACIO. En 2027, dos satélites CONECTADOS"
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Así que el primer poema escrito en órbita no lo escribió una persona: lo escribió una máquina.",
+     "cap": "El primer POEMA escrito en órbita lo escribió una MÁQUINA."
+    }
+   ]
+  }
+ ],
+ "ring_words": []
+}
