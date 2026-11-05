@@ -354,6 +354,25 @@
     "instagram": "https://www.instagram.com/reel/DfVtJjmlNAR/",
     "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704471609914019080"
    }
+  },
+  {
+   "numero": 17,
+   "serie": "metodo",
+   "parte": 2,
+   "tema": "El método Flash Datos · Parte 2/5: la voz (del guion a la narración)",
+   "carpeta": "videos/17-metodo-parte-2",
+   "titulo": "⚡ Así le dimos VOZ a este canal con IA (Parte 2/5) #shorts",
+   "titulo_tiktok": "⚡ Así le dimos voz al canal con IA (2/5) 🎙️",
+   "descripcion": "⚡ Parte 2 de 5 de El método Flash Datos: cómo le dimos voz al canal, del dato verificado a la narración con ElevenLabs y subtítulos justo a tiempo. Mañana a las 10 p. m., la parte 3: la animación 3D. 🎙️🤖\n#inteligenciaartificial #ia #claude #elevenlabs #creadordecontenido #flashdatos",
+   "estado": "programado",
+   "fecha_programada": "2026-11-04 22:00 (CDMX)",
+   "duracion_s": 49.7,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-17/FlashDatos_17.mp4",
+   "metricool": {
+    "id": 417225227,
+    "uuid": "3177205101992558886",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=3177205101992558886"
+   }
   }
  ]
 }

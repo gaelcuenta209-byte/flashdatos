@@ -38,7 +38,9 @@
     "Una acción de GitHub baja el audio y un programa detecta las pausas de la voz para que cada subtítulo salga justo a tiempo."
    ],
    "avance": "En la parte tres, cómo animamos cada video en 3D.",
-   "estado": "pendiente"
+   "estado": "programado",
+   "video": "17",
+   "fecha_programada": "2026-11-04 22:00 (CDMX)"
   },
   {
    "parte": 3,
