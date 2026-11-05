@@ -401,7 +401,7 @@
    "tema": "Abu Dabi 2021: Hamilton vs. Verstappen, la defensa de Checo Pérez, el auto de seguridad y la última vuelta",
    "carpeta": "videos/19-abu-dabi-2021",
    "fecha_programada": "2026-11-05 12:00 (CDMX)",
-   "estado": "programado",
+   "estado": "publicado",
    "pedido": "El dueño lo pidió en el chat el 5 de noviembre a las 9:55 con la orden de subirlo a las 12:00.",
    "titulo": "⚡ El campeonato de F1 que se decidió en UNA vuelta: Abu Dabi 2021 🏁 #shorts",
    "descripcion": "⚡ Abu Dabi 2021: Hamilton y Verstappen llegaron empatados a la última carrera. La defensa de Checo Pérez, el choque de Latifi, el auto de seguridad y la decisión de Michael Masi lo dejaron todo a una sola vuelta. 🏁\nFuentes: Formula1.com, FIA, Autosport y Motor Sport Magazine. Mapa de Yas Marina: Anthony Alessio Tralongo (CC BY-SA 4.0, Wikimedia Commons).\n#formula1 #f1 #checoperez #verstappen #hamilton #abudhabi",
@@ -416,7 +416,13 @@
    "elevenlabs": {
     "flow_id": "g37Svv8iNxao6fZ5MLRV",
     "generation_id": "g9u6drxR4bVOp5HQ0760"
-   }
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/yMTua0MA9i4",
+    "instagram": "https://www.instagram.com/reel/DfXoRGYjnt2/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704749248214240533"
+   },
+   "fecha_publicacion": "2026-11-05 12:00 (CDMX), YouTube, Instagram y TikTok"
   }
  ]
 }
