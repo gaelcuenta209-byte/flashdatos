@@ -1,0 +1,134 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 100.68,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 10.94,
+   "say": "Dentro de tu celular hay miles de millones de interruptores prendiéndose y apagándose ahora mismo. Vamos a abrir uno: el iPhone Duo, el primer iPhone que se dobla.",
+   "parts": [
+    [
+     0.1,
+     6.05,
+     "Dentro de tu celular hay MILES DE MILLONES de interruptores prendiéndose y apagándose AHORA MISMO."
+    ],
+    [
+     6.49,
+     10.94,
+     "Vamos a ABRIR uno: el iPHONE DUO, el primer iPhone que se DOBLA."
+    ]
+   ]
+  },
+  {
+   "id": "bateria",
+   "t0": 11.58,
+   "t1": 25.34,
+   "say": "Uno: la batería. En el Duo son dos, una en cada mitad, y trabajan como una sola. Por dentro, iones de litio viajan de un lado al otro: al usarlo sueltan electricidad, y al cargarlo regresan.",
+   "parts": [
+    [
+     11.58,
+     18.02,
+     "1: la BATERÍA. En el Duo son DOS, una en cada mitad, y trabajan como UNA SOLA."
+    ],
+    [
+     18.68,
+     25.34,
+     "Por dentro, IONES DE LITIO viajan de un lado al otro: al usarlo sueltan ELECTRICIDAD, y al cargarlo REGRESAN."
+    ]
+   ]
+  },
+  {
+   "id": "chip",
+   "t0": 25.52,
+   "t1": 38.34,
+   "say": "Dos: el cerebro, el chip A veinte Pro, fabricado en dos nanómetros. Sus transistores se prenden y se apagan miles de millones de veces por segundo. Así calcula todo: con unos y ceros.",
+   "parts": [
+    [
+     25.52,
+     29.9,
+     "2: el CEREBRO, el chip A20 PRO, fabricado en 2 NANÓMETROS."
+    ],
+    [
+     30.18,
+     38.34,
+     "Sus TRANSISTORES se prenden y se apagan MILES DE MILLONES de veces por segundo. Así calcula todo: con UNOS y CEROS."
+    ]
+   ]
+  },
+  {
+   "id": "pantalla",
+   "t0": 38.83,
+   "t1": 56.19,
+   "say": "Tres: las pantallas. Una por fuera de cinco punto cuatro pulgadas, y otra por dentro de siete punto seis, que se dobla. Son OLED: cada punto tiene luces rojas, verdes y azules que brillan solas, sin lámpara detrás. Por eso se pueden doblar.",
+   "parts": [
+    [
+     38.83,
+     47.84,
+     "3: las PANTALLAS. Una por fuera de 5.4 PULGADAS, y otra por dentro de 7.6, que se DOBLA."
+    ],
+    [
+     48.17,
+     56.19,
+     "Son OLED: cada punto tiene luces ROJAS, VERDES y AZULES que brillan SOLAS, sin lámpara detrás. Por eso se pueden DOBLAR."
+    ]
+   ]
+  },
+  {
+   "id": "camaras",
+   "t0": 56.68,
+   "t1": 71.66,
+   "say": "Cuatro: las cámaras. Atrás hay dos de cuarenta y ocho megapíxeles: cuarenta y ocho millones de puntitos que convierten la luz en electricidad. Y por dentro tiene una cámara escondida debajo de la pantalla.",
+   "parts": [
+    [
+     56.68,
+     66.78,
+     "4: las CÁMARAS. Atrás hay dos de 48 MEGAPÍXELES: 48 MILLONES de puntitos que convierten la LUZ en ELECTRICIDAD."
+    ],
+    [
+     66.87,
+     71.66,
+     "Y por dentro tiene una cámara ESCONDIDA debajo de la pantalla."
+    ]
+   ]
+  },
+  {
+   "id": "carga",
+   "t0": 72.25,
+   "t1": 85.21,
+   "say": "Y cinco: la carga. Con cable llega a la mitad en unos veinte minutos. Sin cable, una bobina en el cargador crea un campo magnético, y otra bobina en el celular lo convierte otra vez en electricidad.",
+   "parts": [
+    [
+     72.25,
+     77.1,
+     "Y 5: la CARGA. Con cable llega a la MITAD en unos 20 MINUTOS."
+    ],
+    [
+     77.47,
+     85.21,
+     "Sin cable, una BOBINA en el cargador crea un CAMPO MAGNÉTICO, y otra bobina en el celular lo convierte otra vez en ELECTRICIDAD."
+    ]
+   ]
+  },
+  {
+   "id": "final",
+   "t0": 85.84,
+   "t1": 100.56,
+   "say": "Así funciona un celular: la batería da la energía, el chip piensa, la pantalla te lo muestra y las cámaras ven por ti. Y en el iPhone Duo, todo eso cabe en apenas cinco punto dos milímetros de grosor cuando está abierto.",
+   "parts": [
+    [
+     85.84,
+     93.95,
+     "Así funciona un celular: la BATERÍA da la energía, el CHIP piensa, la PANTALLA te lo muestra y las CÁMARAS ven por ti."
+    ],
+    [
+     94.58,
+     100.56,
+     "Y en el iPhone Duo, todo eso cabe en apenas 5.2 MILÍMETROS de grosor cuando está ABIERTO."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 102.46
+}
