@@ -433,7 +433,7 @@
    "titulo": "⚡ Este planeta no es una foto: así animamos el canal en 3D (Parte 3/5) #shorts",
    "titulo_tiktok": "⚡ Así animamos el canal en 3D con código (3/5) 🪐",
    "descripcion": "⚡ Parte 3 de 5 de El método Flash Datos: cómo animamos cada video con un motor 3D propio en Python (trazado de rayos) y sonidos sintetizados con código. Mañana a las 10 p. m., la parte 4: GitHub, el cerebro del canal. 🪐🎬\n#animacion3d #python #inteligenciaartificial #claude #creadordecontenido #flashdatos",
-   "estado": "programado",
+   "estado": "publicado",
    "fecha_programada": "2026-11-05 22:00 (CDMX)",
    "duracion_s": 51.6,
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-20/FlashDatos_20.mp4",
@@ -445,7 +445,13 @@
    "elevenlabs": {
     "flow_id": "bB2oJyaD1v7m3mei4k09",
     "generation_id": "SLRma7TaqBLJQJDl7Kyr"
-   }
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/ITx3a05Tlz0",
+    "instagram": "https://www.instagram.com/reel/DfYs4HzEjf7/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704903795842632981"
+   },
+   "fecha_publicacion": "2026-11-05 22:00 (CDMX), YouTube, Instagram y TikTok"
   }
  ]
 }
