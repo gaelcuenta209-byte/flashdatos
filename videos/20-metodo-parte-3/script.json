@@ -1,0 +1,35 @@
+{
+ "id": "20",
+ "title": "El método Flash Datos · Parte 3: la animación 3D y el sonido",
+ "serie": "metodo",
+ "parte": 3,
+ "segments": [
+  {"id": "hook", "parts": [
+   {"say": "Este planeta no es una foto: lo dibuja un programa, rayo por rayo. Así animamos cada video.",
+    "cap": "Este PLANETA no es una FOTO: lo dibuja un PROGRAMA"}]},
+  {"id": "motor", "parts": [
+   {"say": "Claude programó en Python un motor en tres dimensiones propio, que dibuja planetas y estrellas con trazado de rayos.",
+    "cap": "CLAUDE programó en PYTHON un motor 3D PROPIO: TRAZADO DE RAYOS"}]},
+  {"id": "rayos", "parts": [
+   {"say": "Por cada pixel lanza un rayo, y calcula dónde choca y cuánta luz recibe.",
+    "cap": "Un RAYO por cada PIXEL: dónde CHOCA y cuánta LUZ recibe"}]},
+  {"id": "texturas", "parts": [
+   {"say": "Las texturas también salen del código: por ejemplo, una Tierra con los continentes reales.",
+    "cap": "Las TEXTURAS salen del CÓDIGO: una TIERRA con continentes REALES"}]},
+  {"id": "escena", "parts": [
+   {"say": "Y cada video tiene una escena nueva, no una plantilla: la cámara, los cuerpos y las etiquetas cambian según el tema.",
+    "cap": "Cada video, una ESCENA NUEVA: CÁMARA, CUERPOS y ETIQUETAS"}]},
+  {"id": "sonido", "parts": [
+   {"say": "El sonido también es nuestro: los efectos y la música se sintetizan con código, y son originales.",
+    "cap": "EFECTOS y MÚSICA sintetizados con CÓDIGO: ORIGINALES"}]},
+  {"id": "mezcla", "parts": [
+   {"say": "Al final, la mezcla se ajusta al volumen de las redes.",
+    "cap": "La MEZCLA se ajusta al VOLUMEN de las REDES"}]},
+  {"id": "cierre", "parts": [
+   {"say": "Así, cada imagen y cada sonido de este canal salen de código, no de una plantilla.",
+    "cap": "Cada IMAGEN y cada SONIDO salen de CÓDIGO"},
+   {"say": "En la parte cuatro, GitHub: el cerebro del canal. Estén atentos para conocer el método.",
+    "cap": "PARTE 4: GITHUB, el CEREBRO del canal. ¡Estén ATENTOS para conocer el MÉTODO!"}]}
+ ],
+ "ring_words": []
+}
