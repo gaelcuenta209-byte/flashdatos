@@ -61,7 +61,7 @@ Identidad visual: fondo espacial azul noche, subtítulos en Inter Black blanco c
 
 ## Flujo B — Video del día (9:00)
 
-1. `git pull`. **Si `historial.json` ya tiene un video con `fecha_programada` de hoy** (programado o esperando aprobación) (sin contar las partes de la serie "El método", que tienen `"serie": "metodo"`), no producir otro: avisar al dueño en un mensaje corto y terminar. Si no, **primero** usar el pedido de `ideas.json` → `pedidos` con la `fecha` de hoy (y su `hora_publicacion` en lugar de las 17:00; al terminar, quitarlo de `pedidos`); si no hay, la idea cuyo número diga `elegida`; si no hay, la primera que no repita tema de `historial.json`. Número del video: el siguiente en `historial.json` (dos dígitos).
+1. `git pull`. **Si `historial.json` ya tiene un video con `fecha_programada` de hoy** (programado, esperando aprobación o en producción) (sin contar las partes de la serie "El método", que tienen `"serie": "metodo"`), no producir otro: avisar al dueño en un mensaje corto y terminar. Si no, **primero** usar el pedido de `ideas.json` → `pedidos` con la `fecha` de hoy (y su `hora_publicacion` en lugar de las 17:00; al terminar, quitarlo de `pedidos`); si no hay, la idea cuyo número diga `elegida`; si no hay, la primera que no repita tema de `historial.json`. Número del video: el siguiente en `historial.json` (dos dígitos).
 2. Verificar los datos (regla 5). Escribir `videos/NN-tema/script.json` con el formato del video 01:
    - segmentos → partes con `say` (cómo se dice, con números en palabras) y `cap` (el subtítulo, con cifras);
    - gancho en la primera frase;

@@ -452,6 +452,22 @@
     "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704903795842632981"
    },
    "fecha_publicacion": "2026-11-05 22:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 21,
+   "tema": "Cómo funciona un celular por dentro (ejemplo: iPhone Duo)",
+   "carpeta": "videos/21-como-funciona-celular",
+   "titulo": null,
+   "fecha_programada": "2026-11-06 10:00 (CDMX)",
+   "estado": "en producción",
+   "nota": "Pedido directo del dueño en el chat el 2026-11-06 a las 7:32: 'Hoy sube un video explicando el funcionamiento de un celular (batería, procesador, pantalla, cámaras, carga) con el iPhone Duo de ejemplo; súbelo a las 10 am'. Es el video de hoy: la tarea de las 8:38 no debe producir otro.",
+   "enlaces": {
+    "youtube": null,
+    "instagram": null,
+    "tiktok": null
+   },
+   "media_url": null,
+   "metricool": null
   }
  ]
 }
