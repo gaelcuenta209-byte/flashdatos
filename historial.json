@@ -423,6 +423,29 @@
     "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704749248214240533"
    },
    "fecha_publicacion": "2026-11-05 12:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 20,
+   "serie": "metodo",
+   "parte": 3,
+   "tema": "El método Flash Datos · Parte 3/5: la animación 3D y el sonido",
+   "carpeta": "videos/20-metodo-parte-3",
+   "titulo": "⚡ Este planeta no es una foto: así animamos el canal en 3D (Parte 3/5) #shorts",
+   "titulo_tiktok": "⚡ Así animamos el canal en 3D con código (3/5) 🪐",
+   "descripcion": "⚡ Parte 3 de 5 de El método Flash Datos: cómo animamos cada video con un motor 3D propio en Python (trazado de rayos) y sonidos sintetizados con código. Mañana a las 10 p. m., la parte 4: GitHub, el cerebro del canal. 🪐🎬\n#animacion3d #python #inteligenciaartificial #claude #creadordecontenido #flashdatos",
+   "estado": "programado",
+   "fecha_programada": "2026-11-05 22:00 (CDMX)",
+   "duracion_s": 51.6,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-20/FlashDatos_20.mp4",
+   "metricool": {
+    "id": 418432341,
+    "uuid": "-3449289804541116170",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-3449289804541116170"
+   },
+   "elevenlabs": {
+    "flow_id": "bB2oJyaD1v7m3mei4k09",
+    "generation_id": "SLRma7TaqBLJQJDl7Kyr"
+   }
   }
  ]
 }
