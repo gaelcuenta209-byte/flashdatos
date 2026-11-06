@@ -1,481 +1,481 @@
 {
-  "canal": "Flash Datos",
-  "videos": [
-    {
-      "numero": 1,
-      "tema": "Tierras dentro del Sol y Betelgeuse",
-      "carpeta": "videos/01-tierras-en-el-sol",
-      "titulo": "¿Cuántas Tierras caben en el Sol? 🌍☀️ #shorts",
-      "fecha_publicacion": "YouTube 2026-10-28 17:20 (CDMX); Instagram 2026-10-28 17:43 (CDMX)",
-      "estado": "publicado",
-      "enlaces": {
-        "youtube": "https://youtube.com/shorts/b4X-BySGnY0",
-        "instagram": "Reel de @flash_datos (2026-10-28 17:43)",
-        "tiktok": null
-      },
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-01/FlashDatos_01.mp4",
-      "metricool": null
-    },
-    {
-      "numero": 2,
-      "tema": "Venus: un día dura más que un año",
-      "carpeta": "videos/02-venus-dia-y-anio",
-      "titulo": "En Venus, un día dura más que un año 🤯🪐 #shorts",
-      "fecha_programada": "2026-10-29 20:22 (CDMX)",
-      "estado": "publicado",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/9GAk2jI1fCg",
-        "instagram": "https://www.instagram.com/reel/DfGf7vlCVYc/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7702280523183394049"
-      },
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-02/FlashDatos_02.mp4",
-      "metricool": {
-        "id": 410750081,
-        "uuid": "-8896716926805063127",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-8896716926805063127"
-      },
-      "nota": "Video de prueba del sistema en la nube. El dueño lo aprobó (título y textos incluidos) y pidió publicarlo ya (programado a las 20:22 del 2026-10-29).",
-      "descripcion": "En Venus, una vuelta sobre sí mismo tarda 243 días terrestres, pero darle la vuelta al Sol solo 225. Además gira al revés: allá el Sol sale por el oeste. 🪐\nFuentes: NASA (Venus Fact Sheet) y BIRA-IASB.\n#venus #espacio #astronomia #ciencia #datoscuriosos",
-      "titulo_tiktok": "En Venus un día dura más que un año 🤯",
-      "fecha_publicacion": "2026-10-29 20:22 (CDMX), YouTube, Instagram y TikTok"
-    },
-    {
-      "numero": 3,
-      "tema": "Apolo 11: cómo llegamos a la Luna",
-      "carpeta": "videos/03-apolo-11",
-      "titulo": "⚡ Así llegamos a la Luna: Apolo 11 🚀🌕 #shorts",
-      "fecha_programada": "2026-10-29 23:32 (CDMX)",
-      "estado": "publicado",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/MyTxBWjO2UE",
-        "instagram": "https://www.instagram.com/reel/DfG1xatDsyL/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7702329539120172309"
-      },
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-03/FlashDatos_03_final.mp4",
-      "metricool": {
-        "id": 410834770,
-        "uuid": "-2706328879011248238",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-2706328879011248238"
-      },
-      "nota": "Aprobado por el dueño (\"súbelo\") después de cambiar el cierre, que dejaba el video inconcluso. Se programó a las 23:32 en lugar de las 23:00 por el cambio. Parte 1 de 2; la parte 2 va el 2026-10-30 a las 12:00.",
-      "descripcion": "⚡ El 20 de julio de 1969, Armstrong y Aldrin pisaron la Luna mientras Collins los esperaba en órbita. Así fue el viaje del Apolo 11: Saturno V, 384,000 km y 4 días. 🚀🌕\nFuentes: NASA y Smithsonian.\n#apolo11 #luna #espacio #nasa #historia #ciencia",
-      "titulo_tiktok": "⚡ Así llegamos a la Luna 🚀",
-      "fecha_publicacion": "2026-10-29 23:32 (CDMX), YouTube, Instagram y TikTok"
-    },
-    {
-      "numero": 4,
-      "tema": "Antes del Apolo 11: Sputnik, Gagarin, Kennedy, Tereshkova y Leonov (Parte 2)",
-      "carpeta": "videos/04-antes-del-apolo",
-      "titulo": "⚡ Antes del Apolo 11: la primera misión espacial (Parte 2) 🛰️ #shorts",
-      "fecha_programada": "2026-10-30 23:00 (CDMX)",
-      "estado": "publicado",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/iNVA9cDTYjw",
-        "instagram": "https://www.instagram.com/reel/DfJW-M4gOZ9/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7702692658178837761"
-      },
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-04/FlashDatos_04.mp4",
-      "metricool": {
-        "id": 411906201,
-        "uuid": "-1385846192223662766",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-1385846192223662766"
-      },
-      "nota": "Pedido del dueño del 2026-10-29: parte 2 del video 03, para publicarse el 2026-10-30 a las 12:00. Aprobado por el dueño el 2026-10-30 a las 22:09 (\"Súbelo a las 10:30\"); se programó a las 22:30 y a las 22:17 el dueño pidió moverlo a las 23:00 (\"Sí, hoy a las 11\").",
-      "descripcion": "⚡ Antes de pisar la Luna había que salir de la Tierra: Sputnik 1 (1957), Yuri Gagarin (1961), la promesa de Kennedy, Valentina Tereshkova y Alexéi Leonov. Parte 2 del Apolo 11. 🚀🛰️\nFuentes: NASA y ESA.\n#sputnik #gagarin #carreraespacial #espacio #historia #ciencia",
-      "titulo_tiktok": "⚡ Antes del Apolo 11 (Parte 2) 🛰️",
-      "fecha_publicacion": "2026-10-30 23:00 (CDMX), YouTube, Instagram y TikTok"
-    },
-    {
-      "numero": 5,
-      "tema": "El robo de Binance: 6,300 millones en 20 minutos",
-      "carpeta": "videos/05-robo-binance",
-      "fecha_programada": "2026-10-31 08:00 (CDMX)",
-      "estado": "publicado",
-      "nota": "Pedido del dueño del 2026-10-31 a las 7:08: tres videos hoy (8:00, 15:00 y 22:00). Aprobado por el dueño a las 7:46 (\"Sí\") y programado a las 8:00 en YouTube, Instagram y TikTok.",
-      "titulo": "⚡ Robaron $6,300 millones… casi todo en 20 minutos 😱💰 #shorts",
-      "descripcion": "⚡ Unos 6,300 millones de dólares salieron de Binance por 10 blockchains, casi todo en unos 20 minutos: el robo cripto más grande de la historia. Firmas de análisis blockchain apuntan a TraderTraitor, de Corea del Norte. 💰\nFuentes: TRM Labs (vía CBS News y NPR) y CNBC.\n#binance #cripto #hackers #ciberseguridad #tecnologia #bitcoin",
-      "titulo_tiktok": "⚡ Robaron $6,300 millones en 20 minutos 😱",
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-05/FlashDatos_05.mp4",
-      "metricool": {
-        "id": 412169540,
-        "uuid": "1840692309721828581",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=1840692309721828581"
-      },
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/e_10TNY5Bkk",
-        "instagram": "https://www.instagram.com/reel/DfKVYMejqtJ/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7702833029089152274"
-      }
-    },
-    {
-      "numero": 6,
-      "tema": "Posible nuevo planeta enano más allá de Plutón (2026 ED138)",
-      "carpeta": "videos/06-planeta-enano-ed138",
-      "fecha_programada": "2026-11-03 22:50 (CDMX)",
-      "estado": "publicado",
-      "nota": "Pedido del dueño del 2026-10-31 a las 7:08 (publicación 15:00). A las 7:56 respondió \"sí, pero no tiene final\": se cambió el cierre por una frase completa y se agregó tarjeta final. No salió el 31 por falta de aprobación de esa versión. El 2026-11-03 a las 22:33 el dueño eligió \"Ahora mismo\": programado a las 22:50 en YouTube, Instagram y TikTok.",
-      "titulo": "⚡ ¿Plutón tiene un nuevo vecino? 2026 ED138 🪐 #shorts",
-      "descripcion": "⚡ El observatorio Vera Rubin, en Chile, halló 2026 ED138: un objeto helado más allá de Neptuno que podría medir hasta 1,500 km. Si se confirma, sería el sexto planeta enano reconocido. 🪐\nFuentes: Rubin Observatory (Universidad de Stanford), Reuters y Universe Today.\n#pluton #planetaenano #espacio #astronomia #ciencia #verarubin",
-      "titulo_tiktok": "⚡ ¿Plutón tiene un nuevo vecino? 🪐",
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-06/FlashDatos_06_final.mp4",
-      "metricool": {
-        "id": 416083340,
-        "uuid": "3658459588350132224",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=3658459588350132224"
-      },
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/uhHuwF8yCt8",
-        "instagram": "https://www.instagram.com/reel/DfTo6JojsYD/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704174149152853255"
-      }
-    },
-    {
-      "numero": 7,
-      "tema": "El desfile de Día de Muertos que inventó James Bond",
-      "carpeta": "videos/07-desfile-james-bond",
-      "fecha_programada": "2026-10-31 22:00 (CDMX)",
-      "estado": "esperando aprobación",
-      "nota": "Pedido del dueño del 2026-10-31 a las 7:08: tres videos hoy (8:00, 15:00 y 22:00). Se publican solo con su aprobación.",
-      "titulo": "⚡ El desfile de Día de Muertos nació en una película de James Bond 💀🎬 #shorts",
-      "descripcion": "⚡ En 2015, Spectre abrió con un desfile de Día de Muertos en el Centro Histórico de la CDMX que no existía. En 2016 la ciudad lo hizo realidad y hoy cumplió su 10.ª edición. La tradición es antiquísima; el desfile, nuevo. 💀🌼\nFuentes: México Desconocido, Xataka México y Gobierno de la CDMX.\n#diademuertos #cdmx #jamesbond #cine #mexico #curiosidades",
-      "titulo_tiktok": "⚡ Este desfile nació en una película 💀🎬",
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-07/FlashDatos_07.mp4"
-    },
-    {
-      "numero": 8,
-      "tema": "¿Sobrevivirías a un apocalipsis zombi en tu ciudad? (Cornell, Ottawa y el hongo Ophiocordyceps)",
-      "carpeta": "videos/08-apocalipsis-zombi",
-      "fecha_programada": "2026-11-02 02:00 (CDMX)",
-      "estado": "publicado",
-      "nota": "Pedido del dueño del 2026-11-01 a las 0:46 (video de terror para las 2:00 a. m.). No salió el 1 de noviembre porque faltó la aprobación. El 2026-11-01 a las 6:44 el dueño pidió \"súbelo a las 2 de la mañana\": programado para el lunes 2 de noviembre a las 2:00 en YouTube, Instagram y TikTok. Verificado el 2026-11-02 en el reporte de la mañana: publicado en las tres redes (getScheduledPosts: PUBLISHED).",
-      "titulo": "⚡ ¿Sobrevivirías a un apocalipsis zombi en tu ciudad? 🧟 #shorts",
-      "descripcion": "⚡ La Universidad Cornell simuló un brote zombi con 300 millones de personas: las ciudades caen primero. Un modelo de Ottawa advierte que la cuarentena no basta. Y los zombis existen… en las hormigas. 🧟🍄\nFuentes: Universidad Cornell (ScienceDaily), Universidad de Ottawa y Carleton, NPR e INEGI.\n#zombis #apocalipsiszombi #terror #ciencia #datoscuriosos #cdmx",
-      "titulo_tiktok": "⚡ ¿Sobrevivirías a un apocalipsis zombi? 🧟",
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-08/FlashDatos_08.mp4",
-      "metricool": {
-        "id": 412886464,
-        "uuid": "-6684585911388323088",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-6684585911388323088"
-      },
-      "fecha_publicacion": "2026-11-02 02:00 (CDMX), YouTube, Instagram y TikTok",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/5Ycch8-Brtg",
-        "instagram": "https://www.instagram.com/reel/DfO1R2BD4TV/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7703481599173725460"
-      }
-    },
-    {
-      "numero": 9,
-      "tema": "Hera llega al asteroide que la NASA golpeó (DART y Dimorphos)",
-      "carpeta": "videos/09-hera-dart",
-      "fecha_programada": "2026-11-01 17:00 (CDMX)",
-      "estado": "publicado",
-      "nota": "Video del día del 2026-11-01 (idea 1 del reporte; \"elegida\" estaba en null). Se publica solo con aprobación del dueño. El dueño aprobó a las 9:18 (\"Si subelo\"); programado para hoy a las 17:00 en YouTube, Instagram y TikTok. Verificado el 2026-11-01 a las 17:24: publicado en las tres redes sin errores (enlaces tomados del planificador de Metricool; las métricas del día aún no tenían filas).",
-      "titulo": "⚡ La NASA chocó una nave contra un asteroide… ¿y qué le hizo? ☄️ #shorts",
-      "descripcion": "⚡ En 2022, la nave DART de la NASA chocó a propósito contra el asteroide Dimorphos y acortó su órbita más de media hora. Este mes llega Hera, de la Agencia Espacial Europea, para medir el cráter, pesar el asteroide y ver su interior. ☄️🛰️\nFuentes: NASA, ESA y DLR (Centro Aeroespacial Alemán).\n#asteroide #nasa #esa #espacio #ciencia #defensaplanetaria",
-      "titulo_tiktok": "⚡ La NASA chocó contra un asteroide ☄️",
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-09/FlashDatos_09.mp4",
-      "metricool": {
-        "id": 412998374,
-        "uuid": "5396138766663173611",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=5396138766663173611"
-      },
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/pITNSFvFz7w",
-        "instagram": "https://www.instagram.com/reel/DfN3hJOjS1F/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7703342483123490055"
-      }
-    },
-    {
-      "numero": 10,
-      "tema": "Voyager 1 llega a un día luz de la Tierra (18 de noviembre de 2026)",
-      "carpeta": "videos/10-voyager-dia-luz",
-      "fecha_programada": "2026-11-02 21:00 (CDMX)",
-      "estado": "publicado",
-      "nota": "Video del día del 2026-11-02 (idea 1 del reporte; \"elegida\" estaba en null). Se publica solo con aprobación del dueño. El dueño aprobó a las 20:41 (\"Si\"); como ya habían pasado las 16:45, se programó para hoy a las 21:00 en YouTube, Instagram y TikTok. Verificado el 2026-11-03 en el reporte de la mañana: publicado en las tres redes (getScheduledPosts: PUBLISHED).",
-      "titulo": "⚡ Un mensaje a esta nave tarda UN DÍA en llegar 🛰️ #shorts",
-      "descripcion": "⚡ El 18 de noviembre, la Voyager 1 llega a un día luz de la Tierra: unos 25,900 millones de km. Una señal tarda 24 horas en llegar y otras 24 en volver. Lanzada en 1977, lleva el disco de oro con saludos de la Tierra. 🛰️✨\nFuentes: NASA/JPL (vía Astrobiology.com), EarthSky e IFLScience.\n#voyager1 #nasa #espacio #astronomia #ciencia #datoscuriosos",
-      "titulo_tiktok": "⚡ Esta nave está a 1 día luz 🛰️",
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-10/FlashDatos_10.mp4",
-      "metricool": {
-        "id": 414772378,
-        "uuid": "-5439800131088334299",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-5439800131088334299"
-      },
-      "fecha_publicacion": "2026-11-02 21:00 (CDMX), YouTube, Instagram y TikTok",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/EZjFstdsve0",
-        "instagram": "https://www.instagram.com/reel/DfQ3pKWDwx0/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7703775090185489682"
-      }
-    },
-    {
-      "numero": 11,
-      "tema": "Las estrellas fugaces no se queman: se derriten y revientan (Táuridas 4–5 nov y Leónidas 17–18 nov)",
-      "carpeta": "videos/11-meteoros-no-se-queman",
-      "titulo": "⚡ Las estrellas fugaces NO se queman… se derriten y revientan ☄️ #shorts",
-      "fecha_programada": "2026-11-03 17:40 (CDMX)",
-      "estado": "publicado",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/Hj5QjByvzVo",
-        "instagram": "https://www.instagram.com/reel/DfTFfyej_hl/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704094303357881652"
-      },
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-11/FlashDatos_11.mp4",
-      "metricool": {
-        "id": 415913500,
-        "uuid": "-1646907486568100459",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-1646907486568100459"
-      },
-      "nota": "Video del día del 2026-11-03 (idea 1 del reporte; \"elegida\" estaba en null). Se publica solo con aprobación del dueño. El dueño aprobó a las 17:24 (\"Si\"); como ya habían pasado las 16:45, se programó para hoy a las 17:40 en YouTube, Instagram y TikTok. Verificado el 2026-11-03 a las 17:56: publicado en las tres redes sin errores (getScheduledPosts: PUBLISHED; enlaces del planificador de Metricool).",
-      "descripcion": "⚡ Las estrellas fugaces no se queman: un estudio del Instituto SETI y la NASA con 75 caídas de meteoritos muestra que se derriten y se rompen en pedazos. Míralo tú: Táuridas del Sur la noche del 4 al 5 de noviembre y Leónidas del 17 al 18. ☄️\nFuentes: SETI Institute y NASA Ames (Meteoritics & Planetary Science, 2026) y American Meteor Society.\n#meteoros #estrellasfugaces #espacio #astronomia #ciencia #leonidas",
-      "titulo_tiktok": "⚡ Las estrellas fugaces no se queman ☄️",
-      "fecha_publicacion": "2026-11-03 17:40 (CDMX), YouTube, Instagram y TikTok"
-    },
-    {
-      "numero": 13,
-      "tema": "Por qué un Fórmula 1 es tan aerodinámico: autos legendarios y el F1 desarmado pieza por pieza",
-      "carpeta": "videos/13-formula-1-aerodinamica",
-      "fecha_programada": "2026-11-04 08:00 (CDMX)",
-      "estado": "publicado",
-      "extra": true,
-      "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-02 ('súbelo a las 11'; no importa si pasa del minuto). No es el video del día: no reemplaza el de las 17:00 y el Flujo B debe producir el video del día normalmente. La producción se retrasó y las 23:00 del 2026-11-02 ya habían pasado, así que se programó para el 2026-11-04 a las 11:00 en YouTube, Instagram y TikTok; se le mandó al dueño antes para que lo revise y puede pedir cambiarlo o cancelarlo. El 2026-11-04 a las 06:41 el dueño pidió subirlo a las 8: se movió a las 08:00 del mismo día.",
-      "titulo": "⚡ Por qué un F1 es TAN aerodinámico: lo desarmamos pieza por pieza 🏎️ #shorts",
-      "descripcion": "⚡ Un Fórmula 1 podría, en teoría, correr boca abajo en el techo de un túnel. Te contamos por qué: los autos legendarios que lo descubrieron y el F1 desarmado en 8 piezas, del alerón delantero a las llantas. 🏎️💨\nFuentes: Formula1.com, Autosport, Motor Sport Magazine y PlanetF1. Fotos (recortadas) de Wikimedia Commons: Martin Lee (CC BY-SA 2.0), Morio (CC BY-SA 3.0), Rick Dikeman (CC BY-SA 3.0) y Lukas Raich (CC BY-SA 4.0).\n#formula1 #f1 #aerodinamica #ciencia #autos #datoscuriosos",
-      "titulo_tiktok": "⚡ Desarmamos un F1 pieza por pieza 🏎️",
-      "duracion_s": 159.3,
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-13/FlashDatos_13.mp4",
-      "metricool": {
-        "id": 416452385,
-        "uuid": "8205449682053516342",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=8205449682053516342"
-      },
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/IMBtVaPnQI8",
-        "instagram": "https://www.instagram.com/reel/DfUoe7WCS9m/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704317246931356935"
-      },
-      "fecha_publicacion": "2026-11-04 08:00 (CDMX), YouTube, Instagram y TikTok"
-    },
-    {
-      "numero": 12,
-      "serie": "metodo",
-      "parte": 1,
-      "tema": "El método Flash Datos · Parte 1/5: el primer mensaje (cómo nació el canal)",
-      "carpeta": "videos/12-metodo-parte-1",
-      "titulo": "⚡ Así hacemos este canal con IA: el primer mensaje (Parte 1/5) #shorts",
-      "titulo_tiktok": "⚡ Así hacemos este canal con IA (1/5) 🤖",
-      "descripcion": "⚡ Parte 1 de 5 de El método Flash Datos: cómo un solo mensaje a Claude se convirtió en un canal de ciencia hecho con inteligencia artificial. Mañana a las 10 p. m., la parte 2: la voz. 🤖🎙️\n#inteligenciaartificial #ia #claude #creadordecontenido #ciencia #flashdatos",
-      "estado": "publicado",
-      "fecha_programada": "2026-11-03 23:02 (CDMX)",
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-12/FlashDatos_12.mp4",
-      "metricool": {
-        "id": 416087703,
-        "uuid": "-4107776336398236886",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-4107776336398236886"
-      },
-      "nota": "Serie El método, parte 1. El dueño pidió a las 21:01 publicarla a las 22:00 y las siguientes a las 22:00 cada día sin pedir aprobación. El contenedor se reinició a mitad del render; se programó a las 23:02 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres).",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/I-Uw07ludtk",
-        "instagram": "https://www.instagram.com/reel/DfTqOFBkhPr/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704177255269797138"
-      }
-    },
-    {
-      "numero": 14,
-      "tema": "El telescopio Swift de la NASA cae a la Tierra tras fallar su rescate (reentrada 4 nov 2026)",
-      "carpeta": "videos/14-swift-cae",
-      "fecha_programada": "2026-11-04 17:00 (CDMX)",
-      "estado": "publicado",
-      "titulo": "⚡ Un telescopio de la NASA se cae HOY… y nadie pudo salvarlo 🛰️🔥 #shorts",
-      "descripcion": "⚡ Después de casi 22 años cazando las explosiones más poderosas del universo, el telescopio Swift de la NASA vuelve a la Tierra. El robot que iba a rescatarlo perdió el control. 🛰️🔥\nFuentes: NASA y Spaceflight Now.\n#nasa #espacio #ciencia #telescopio #astronomia #datoscuriosos",
-      "titulo_tiktok": "⚡ Un telescopio de la NASA se cae hoy 🛰️🔥",
-      "duracion_s": 55.9,
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-14/FlashDatos_14.mp4",
-      "metricool": {
-        "id": 416642086,
-        "uuid": "-5038524942036021524",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-5038524942036021524"
-      },
-      "nota": "Aprobado por el dueño el 2026-11-04 a las 09:24 ('Si subelo'). Programado para las 17:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres).",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/YpTyIf6AxJg",
-        "instagram": "https://www.instagram.com/reel/DfVl97vjAQ-/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704455865058807092"
-      },
-      "fecha_publicacion": "2026-11-04 17:00 (CDMX), YouTube, Instagram y TikTok"
-    },
-    {
-      "numero": 15,
-      "tema": "El Mundial de Resistencia (WEC): leyendas, pilotos, circuitos emblemáticos y el Hypercar desarmado pieza por pieza",
-      "carpeta": "videos/15-wec-resistencia",
-      "fecha_programada": "2026-11-04 13:00 (CDMX)",
-      "estado": "publicado",
-      "extra": true,
-      "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-04 a las 11:03 ('sube un vídeo de la WEC siguiendo la receta del de la Fórmula uno', y 'Súbelo a las 1'). Sigue la receta del video 13: dato extra, fotos reales de Wikimedia Commons, pilotos, circuitos y el auto desarmado. No reemplaza el video del día. Programado para hoy a las 13:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres); se le mandó al dueño para que lo revise y puede pedir cambiarlo o cancelarlo.",
-      "titulo": "⚡ Carreras de 24 HORAS: leyendas, circuitos y el auto desarmado 🏁 #shorts",
-      "descripcion": "⚡ Le Mans 2026 se ganó por menos de 11 segundos… después de 24 horas. Así es el WEC, el Mundial de Resistencia: sus leyendas (con Pedro Rodríguez, el único mexicano que ha ganado Le Mans), sus circuitos más famosos y un Hypercar desarmado pieza por pieza. 🏁\nFuentes: FIA, 24h-lemans.com, Motor Sport Magazine y Audi MediaCenter. Fotos (recortadas) de Wikimedia Commons: edvvc (CC BY 2.0), MrWalkr (CC BY-SA 4.0), Joachim Köhler (CC BY 3.0), Matti Blume y MarcelX42 (CC BY-SA 4.0); mapas de Will Pittenger (CC BY-SA 3.0).\n#wec #lemans #automovilismo #autos #ingenieria #datoscuriosos",
-      "titulo_tiktok": "⚡ Así es el Mundial de Resistencia 🏁",
-      "duracion_s": 172.9,
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-15/FlashDatos_15.mp4",
-      "metricool": {
-        "id": 416793822,
-        "uuid": "8776922450308778702",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=8776922450308778702"
-      },
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/cC5iJiPy3N0",
-        "instagram": "https://www.instagram.com/reel/DfVKJfpiqaP/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704393338958384390"
-      },
-      "fecha_publicacion": "2026-11-04 13:00 (CDMX), YouTube, Instagram y TikTok"
-    },
-    {
-      "numero": 16,
-      "tema": "Mazda 787B: el único auto sin pistones que ganó Le Mans (motor rotativo R26B, piezas, chasis y pilotos), respuesta a @_nachozn_",
-      "carpeta": "videos/16-mazda-787b",
-      "fecha_programada": "2026-11-04 18:00 (CDMX)",
-      "estado": "publicado",
-      "extra": true,
-      "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-04 a las 16:32 ('Ahora haremos un vídeo respondiéndole a _nachozn_ ... súbelo a las 6'). Sigue la receta de los videos 13 y 15 (motor, componentes y pilotos) con más detalle del motor rotativo. No reemplaza el video del día. Programado para hoy a las 18:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres); se le mandó al dueño para que lo revise y puede pedir cambiarlo o cancelarlo. A las 17:02 el dueño pidió etiquetar a @_nachozn_: ya iba mencionado en la descripción (YouTube e Instagram) y se agregó la mención al texto de TikTok. A las 17:04 el dueño confirmó su usuario de Instagram y pidió etiquetarlo también ahí: se agregó la etiqueta de persona @_nachozn_ al Reel. Publicado a las 18:00 en las tres redes. Instagram publicó el Reel pero avisó 'Could not set all user tags': la etiqueta de persona @_nachozn_ no se aplicó (la mención en la descripción sí quedó).",
-      "titulo": "⚡ El ÚNICO auto SIN PISTONES que ganó Le Mans: Mazda 787B 🏁 #shorts",
-      "descripcion": "⚡ Respondiendo a @_nachozn_: el Mazda 787B ganó las 24 Horas de Le Mans en 1991 con un motor rotativo de 4 rotores, sin pistones ni válvulas. Te explicamos cómo funciona su motor R26B, sus piezas, sus pilotos y por qué nadie lo ha repetido. 🏁\nFuentes: Mazda, 24h-lemans.com, Autosport y Motor Authority. Fotos (recortadas) de Wikimedia Commons: 韋駄天狗 (CC BY-SA 3.0), OldLion (CC BY-SA 4.0) y Softeis (CC BY-SA 3.0).\n#mazda787b #lemans #motorrotativo #autos #ingenieria #datoscuriosos",
-      "titulo_tiktok": "⚡ El único auto sin pistones que ganó Le Mans 🏁 Respondiendo a @_nachozn_",
-      "duracion_s": 144.3,
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-16/FlashDatos_16.mp4",
-      "metricool": {
-        "id": 417123040,
-        "uuid": "-9161264192236729168",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-9161264192236729168"
-      },
-      "fecha_publicacion": "2026-11-04 18:00 (CDMX), YouTube, Instagram y TikTok",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/gtQY2Cw-KgA",
-        "instagram": "https://www.instagram.com/reel/DfVtJjmlNAR/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704471609914019080"
-      },
-      "nota_instagram": "Metricool marca el Reel con estado ERROR, pero sí se publicó; solo no pudo poner la etiqueta de @_nachozn_."
-    },
-    {
-      "numero": 17,
-      "serie": "metodo",
-      "parte": 2,
-      "tema": "El método Flash Datos · Parte 2/5: la voz (del guion a la narración)",
-      "carpeta": "videos/17-metodo-parte-2",
-      "titulo": "⚡ Así le dimos VOZ a este canal con IA (Parte 2/5) #shorts",
-      "titulo_tiktok": "⚡ Así le dimos voz al canal con IA (2/5) 🎙️",
-      "descripcion": "⚡ Parte 2 de 5 de El método Flash Datos: cómo le dimos voz al canal, del dato verificado a la narración con ElevenLabs y subtítulos justo a tiempo. Mañana a las 10 p. m., la parte 3: la animación 3D. 🎙️🤖\n#inteligenciaartificial #ia #claude #elevenlabs #creadordecontenido #flashdatos",
-      "estado": "publicado",
-      "fecha_programada": "2026-11-04 22:00 (CDMX)",
-      "duracion_s": 49.7,
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-17/FlashDatos_17.mp4",
-      "metricool": {
-        "id": 417225227,
-        "uuid": "3177205101992558886",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=3177205101992558886"
-      },
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/u3uEVdQ1feA",
-        "instagram": "https://www.instagram.com/reel/DfWIF9BjA7k/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704532768847514898"
-      }
-    },
-    {
-      "numero": 18,
-      "tema": "Google puso una IA en el espacio y respondió con un poema (Proyecto Suncatcher, Gemma 4, haiku sobre Svalbard)",
-      "carpeta": "videos/18-ia-en-el-espacio",
-      "fecha_programada": "2026-11-05 17:00 (CDMX)",
-      "estado": "esperando aprobación",
-      "titulo": "⚡ Le pidieron un poema a una IA en el espacio… y respondió 🛰️ #shorts",
-      "descripcion": "⚡ Google puso un chip de inteligencia artificial en órbita (Proyecto Suncatcher, con Planet) y su primera respuesta fue un haiku sobre la Tierra. 🛰️ ¿Tú qué le preguntarías?\nFuentes: blog de Google (30 oct 2026), The Next Web, PPC Land y Hardware Busters.\n#inteligenciaartificial #espacio #google #satelites #tecnologia #datoscuriosos",
-      "titulo_tiktok": "⚡ Una IA en el espacio escribió un poema 🛰️",
-      "duracion_s": 57.2,
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-18/FlashDatos_18.mp4",
-      "elevenlabs": {
-        "flow_id": "1vo9PMpTW6wuLVyCfyjC",
-        "generation_id": "YW0LSz8qmro1jWziyb0w"
-      }
-    },
-    {
-      "numero": 19,
-      "tema": "Abu Dabi 2021: Hamilton vs. Verstappen, la defensa de Checo Pérez, el auto de seguridad y la última vuelta",
-      "carpeta": "videos/19-abu-dabi-2021",
-      "fecha_programada": "2026-11-05 12:00 (CDMX)",
-      "estado": "publicado",
-      "pedido": "El dueño lo pidió en el chat el 5 de noviembre a las 9:55 con la orden de subirlo a las 12:00.",
-      "titulo": "⚡ El campeonato de F1 que se decidió en UNA vuelta: Abu Dabi 2021 🏁 #shorts",
-      "descripcion": "⚡ Abu Dabi 2021: Hamilton y Verstappen llegaron empatados a la última carrera. La defensa de Checo Pérez, el choque de Latifi, el auto de seguridad y la decisión de Michael Masi lo dejaron todo a una sola vuelta. 🏁\nFuentes: Formula1.com, FIA, Autosport y Motor Sport Magazine. Mapa de Yas Marina: Anthony Alessio Tralongo (CC BY-SA 4.0, Wikimedia Commons).\n#formula1 #f1 #checoperez #verstappen #hamilton #abudhabi",
-      "titulo_tiktok": "⚡ El campeonato de F1 que se decidió en una vuelta 🏁",
-      "duracion_s": 73.4,
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-19/FlashDatos_19.mp4",
-      "metricool": {
-        "id": 417935234,
-        "uuid": "7582938419505612729",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=7582938419505612729"
-      },
-      "elevenlabs": {
-        "flow_id": "g37Svv8iNxao6fZ5MLRV",
-        "generation_id": "g9u6drxR4bVOp5HQ0760"
-      },
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/yMTua0MA9i4",
-        "instagram": "https://www.instagram.com/reel/DfXoRGYjnt2/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704749248214240533"
-      },
-      "fecha_publicacion": "2026-11-05 12:00 (CDMX), YouTube, Instagram y TikTok"
-    },
-    {
-      "numero": 20,
-      "serie": "metodo",
-      "parte": 3,
-      "tema": "El método Flash Datos · Parte 3/5: la animación 3D y el sonido",
-      "carpeta": "videos/20-metodo-parte-3",
-      "titulo": "⚡ Este planeta no es una foto: así animamos el canal en 3D (Parte 3/5) #shorts",
-      "titulo_tiktok": "⚡ Así animamos el canal en 3D con código (3/5) 🪐",
-      "descripcion": "⚡ Parte 3 de 5 de El método Flash Datos: cómo animamos cada video con un motor 3D propio en Python (trazado de rayos) y sonidos sintetizados con código. Mañana a las 10 p. m., la parte 4: GitHub, el cerebro del canal. 🪐🎬\n#animacion3d #python #inteligenciaartificial #claude #creadordecontenido #flashdatos",
-      "estado": "publicado",
-      "fecha_programada": "2026-11-05 22:00 (CDMX)",
-      "duracion_s": 51.6,
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-20/FlashDatos_20.mp4",
-      "metricool": {
-        "id": 418432341,
-        "uuid": "-3449289804541116170",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-3449289804541116170"
-      },
-      "elevenlabs": {
-        "flow_id": "bB2oJyaD1v7m3mei4k09",
-        "generation_id": "SLRma7TaqBLJQJDl7Kyr"
-      },
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/ITx3a05Tlz0",
-        "instagram": "https://www.instagram.com/reel/DfYs4HzEjf7/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704903795842632981"
-      },
-      "fecha_publicacion": "2026-11-05 22:00 (CDMX), YouTube, Instagram y TikTok"
-    },
-    {
-      "numero": 21,
-      "tema": "Cómo funciona un celular por dentro (ejemplo: iPhone Duo)",
-      "carpeta": "videos/21-como-funciona-celular",
-      "titulo": "⚡ Así funciona tu celular POR DENTRO: el iPhone Duo pieza por pieza 📱 #shorts",
-      "fecha_programada": "2026-11-06 10:00 (CDMX)",
-      "estado": "publicado",
-      "nota": "Pedido directo del dueño en el chat el 2026-11-06 a las 7:32 ('súbelo a las 10 am'): programado a las 10:00 en YouTube, Instagram y TikTok. Es el video de hoy: la tarea de las 8:38 no produce otro.",
-      "enlaces": {
-        "youtube": "https://www.youtube.com/shorts/9VUQEnIFn1s",
-        "instagram": "https://www.instagram.com/reel/DfZ_02tCW_U/",
-        "tiktok": "https://www.tiktok.com/@TurboDatos/video/7705090075050183937"
-      },
-      "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-21/FlashDatos_21.mp4",
-      "metricool": {
-        "id": 418954799,
-        "uuid": "-1066426852049402376",
-        "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-1066426852049402376"
-      },
-      "descripcion": "⚡ Abrimos el iPhone Duo, el primer iPhone plegable, para ver cómo funciona un celular por dentro: batería, chip A20 Pro, pantallas OLED, cámaras de 48 MP y carga con y sin cable.\nFuente: Apple Newsroom (septiembre de 2026) y WhistleOut.\n#ciencia #tecnologia #celular #iphone #iphoneduo #shorts",
-      "titulo_tiktok": "⚡ Así funciona tu celular por dentro (iPhone Duo) 📱",
-      "duracion_s": 102.4,
-      "fecha_publicacion": "2026-11-06 10:00 (CDMX), YouTube, Instagram y TikTok"
-    }
-  ]
+ "canal": "Flash Datos",
+ "videos": [
+  {
+   "numero": 1,
+   "tema": "Tierras dentro del Sol y Betelgeuse",
+   "carpeta": "videos/01-tierras-en-el-sol",
+   "titulo": "¿Cuántas Tierras caben en el Sol? 🌍☀️ #shorts",
+   "fecha_publicacion": "YouTube 2026-10-28 17:20 (CDMX); Instagram 2026-10-28 17:43 (CDMX)",
+   "estado": "publicado",
+   "enlaces": {
+    "youtube": "https://youtube.com/shorts/b4X-BySGnY0",
+    "instagram": "Reel de @flash_datos (2026-10-28 17:43)",
+    "tiktok": null
+   },
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-01/FlashDatos_01.mp4",
+   "metricool": null
+  },
+  {
+   "numero": 2,
+   "tema": "Venus: un día dura más que un año",
+   "carpeta": "videos/02-venus-dia-y-anio",
+   "titulo": "En Venus, un día dura más que un año 🤯🪐 #shorts",
+   "fecha_programada": "2026-10-29 20:22 (CDMX)",
+   "estado": "publicado",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/9GAk2jI1fCg",
+    "instagram": "https://www.instagram.com/reel/DfGf7vlCVYc/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7702280523183394049"
+   },
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-02/FlashDatos_02.mp4",
+   "metricool": {
+    "id": 410750081,
+    "uuid": "-8896716926805063127",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-8896716926805063127"
+   },
+   "nota": "Video de prueba del sistema en la nube. El dueño lo aprobó (título y textos incluidos) y pidió publicarlo ya (programado a las 20:22 del 2026-10-29).",
+   "descripcion": "En Venus, una vuelta sobre sí mismo tarda 243 días terrestres, pero darle la vuelta al Sol solo 225. Además gira al revés: allá el Sol sale por el oeste. 🪐\nFuentes: NASA (Venus Fact Sheet) y BIRA-IASB.\n#venus #espacio #astronomia #ciencia #datoscuriosos",
+   "titulo_tiktok": "En Venus un día dura más que un año 🤯",
+   "fecha_publicacion": "2026-10-29 20:22 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 3,
+   "tema": "Apolo 11: cómo llegamos a la Luna",
+   "carpeta": "videos/03-apolo-11",
+   "titulo": "⚡ Así llegamos a la Luna: Apolo 11 🚀🌕 #shorts",
+   "fecha_programada": "2026-10-29 23:32 (CDMX)",
+   "estado": "publicado",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/MyTxBWjO2UE",
+    "instagram": "https://www.instagram.com/reel/DfG1xatDsyL/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7702329539120172309"
+   },
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-03/FlashDatos_03_final.mp4",
+   "metricool": {
+    "id": 410834770,
+    "uuid": "-2706328879011248238",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-2706328879011248238"
+   },
+   "nota": "Aprobado por el dueño (\"súbelo\") después de cambiar el cierre, que dejaba el video inconcluso. Se programó a las 23:32 en lugar de las 23:00 por el cambio. Parte 1 de 2; la parte 2 va el 2026-10-30 a las 12:00.",
+   "descripcion": "⚡ El 20 de julio de 1969, Armstrong y Aldrin pisaron la Luna mientras Collins los esperaba en órbita. Así fue el viaje del Apolo 11: Saturno V, 384,000 km y 4 días. 🚀🌕\nFuentes: NASA y Smithsonian.\n#apolo11 #luna #espacio #nasa #historia #ciencia",
+   "titulo_tiktok": "⚡ Así llegamos a la Luna 🚀",
+   "fecha_publicacion": "2026-10-29 23:32 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 4,
+   "tema": "Antes del Apolo 11: Sputnik, Gagarin, Kennedy, Tereshkova y Leonov (Parte 2)",
+   "carpeta": "videos/04-antes-del-apolo",
+   "titulo": "⚡ Antes del Apolo 11: la primera misión espacial (Parte 2) 🛰️ #shorts",
+   "fecha_programada": "2026-10-30 23:00 (CDMX)",
+   "estado": "publicado",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/iNVA9cDTYjw",
+    "instagram": "https://www.instagram.com/reel/DfJW-M4gOZ9/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7702692658178837761"
+   },
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-04/FlashDatos_04.mp4",
+   "metricool": {
+    "id": 411906201,
+    "uuid": "-1385846192223662766",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-1385846192223662766"
+   },
+   "nota": "Pedido del dueño del 2026-10-29: parte 2 del video 03, para publicarse el 2026-10-30 a las 12:00. Aprobado por el dueño el 2026-10-30 a las 22:09 (\"Súbelo a las 10:30\"); se programó a las 22:30 y a las 22:17 el dueño pidió moverlo a las 23:00 (\"Sí, hoy a las 11\").",
+   "descripcion": "⚡ Antes de pisar la Luna había que salir de la Tierra: Sputnik 1 (1957), Yuri Gagarin (1961), la promesa de Kennedy, Valentina Tereshkova y Alexéi Leonov. Parte 2 del Apolo 11. 🚀🛰️\nFuentes: NASA y ESA.\n#sputnik #gagarin #carreraespacial #espacio #historia #ciencia",
+   "titulo_tiktok": "⚡ Antes del Apolo 11 (Parte 2) 🛰️",
+   "fecha_publicacion": "2026-10-30 23:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 5,
+   "tema": "El robo de Binance: 6,300 millones en 20 minutos",
+   "carpeta": "videos/05-robo-binance",
+   "fecha_programada": "2026-10-31 08:00 (CDMX)",
+   "estado": "publicado",
+   "nota": "Pedido del dueño del 2026-10-31 a las 7:08: tres videos hoy (8:00, 15:00 y 22:00). Aprobado por el dueño a las 7:46 (\"Sí\") y programado a las 8:00 en YouTube, Instagram y TikTok.",
+   "titulo": "⚡ Robaron $6,300 millones… casi todo en 20 minutos 😱💰 #shorts",
+   "descripcion": "⚡ Unos 6,300 millones de dólares salieron de Binance por 10 blockchains, casi todo en unos 20 minutos: el robo cripto más grande de la historia. Firmas de análisis blockchain apuntan a TraderTraitor, de Corea del Norte. 💰\nFuentes: TRM Labs (vía CBS News y NPR) y CNBC.\n#binance #cripto #hackers #ciberseguridad #tecnologia #bitcoin",
+   "titulo_tiktok": "⚡ Robaron $6,300 millones en 20 minutos 😱",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-05/FlashDatos_05.mp4",
+   "metricool": {
+    "id": 412169540,
+    "uuid": "1840692309721828581",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=1840692309721828581"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/e_10TNY5Bkk",
+    "instagram": "https://www.instagram.com/reel/DfKVYMejqtJ/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7702833029089152274"
+   }
+  },
+  {
+   "numero": 6,
+   "tema": "Posible nuevo planeta enano más allá de Plutón (2026 ED138)",
+   "carpeta": "videos/06-planeta-enano-ed138",
+   "fecha_programada": "2026-11-03 22:50 (CDMX)",
+   "estado": "publicado",
+   "nota": "Pedido del dueño del 2026-10-31 a las 7:08 (publicación 15:00). A las 7:56 respondió \"sí, pero no tiene final\": se cambió el cierre por una frase completa y se agregó tarjeta final. No salió el 31 por falta de aprobación de esa versión. El 2026-11-03 a las 22:33 el dueño eligió \"Ahora mismo\": programado a las 22:50 en YouTube, Instagram y TikTok.",
+   "titulo": "⚡ ¿Plutón tiene un nuevo vecino? 2026 ED138 🪐 #shorts",
+   "descripcion": "⚡ El observatorio Vera Rubin, en Chile, halló 2026 ED138: un objeto helado más allá de Neptuno que podría medir hasta 1,500 km. Si se confirma, sería el sexto planeta enano reconocido. 🪐\nFuentes: Rubin Observatory (Universidad de Stanford), Reuters y Universe Today.\n#pluton #planetaenano #espacio #astronomia #ciencia #verarubin",
+   "titulo_tiktok": "⚡ ¿Plutón tiene un nuevo vecino? 🪐",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-06/FlashDatos_06_final.mp4",
+   "metricool": {
+    "id": 416083340,
+    "uuid": "3658459588350132224",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=3658459588350132224"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/uhHuwF8yCt8",
+    "instagram": "https://www.instagram.com/reel/DfTo6JojsYD/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704174149152853255"
+   }
+  },
+  {
+   "numero": 7,
+   "tema": "El desfile de Día de Muertos que inventó James Bond",
+   "carpeta": "videos/07-desfile-james-bond",
+   "fecha_programada": "2026-10-31 22:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "nota": "Pedido del dueño del 2026-10-31 a las 7:08: tres videos hoy (8:00, 15:00 y 22:00). Se publican solo con su aprobación.",
+   "titulo": "⚡ El desfile de Día de Muertos nació en una película de James Bond 💀🎬 #shorts",
+   "descripcion": "⚡ En 2015, Spectre abrió con un desfile de Día de Muertos en el Centro Histórico de la CDMX que no existía. En 2016 la ciudad lo hizo realidad y hoy cumplió su 10.ª edición. La tradición es antiquísima; el desfile, nuevo. 💀🌼\nFuentes: México Desconocido, Xataka México y Gobierno de la CDMX.\n#diademuertos #cdmx #jamesbond #cine #mexico #curiosidades",
+   "titulo_tiktok": "⚡ Este desfile nació en una película 💀🎬",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-07/FlashDatos_07.mp4"
+  },
+  {
+   "numero": 8,
+   "tema": "¿Sobrevivirías a un apocalipsis zombi en tu ciudad? (Cornell, Ottawa y el hongo Ophiocordyceps)",
+   "carpeta": "videos/08-apocalipsis-zombi",
+   "fecha_programada": "2026-11-02 02:00 (CDMX)",
+   "estado": "publicado",
+   "nota": "Pedido del dueño del 2026-11-01 a las 0:46 (video de terror para las 2:00 a. m.). No salió el 1 de noviembre porque faltó la aprobación. El 2026-11-01 a las 6:44 el dueño pidió \"súbelo a las 2 de la mañana\": programado para el lunes 2 de noviembre a las 2:00 en YouTube, Instagram y TikTok. Verificado el 2026-11-02 en el reporte de la mañana: publicado en las tres redes (getScheduledPosts: PUBLISHED).",
+   "titulo": "⚡ ¿Sobrevivirías a un apocalipsis zombi en tu ciudad? 🧟 #shorts",
+   "descripcion": "⚡ La Universidad Cornell simuló un brote zombi con 300 millones de personas: las ciudades caen primero. Un modelo de Ottawa advierte que la cuarentena no basta. Y los zombis existen… en las hormigas. 🧟🍄\nFuentes: Universidad Cornell (ScienceDaily), Universidad de Ottawa y Carleton, NPR e INEGI.\n#zombis #apocalipsiszombi #terror #ciencia #datoscuriosos #cdmx",
+   "titulo_tiktok": "⚡ ¿Sobrevivirías a un apocalipsis zombi? 🧟",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-08/FlashDatos_08.mp4",
+   "metricool": {
+    "id": 412886464,
+    "uuid": "-6684585911388323088",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-6684585911388323088"
+   },
+   "fecha_publicacion": "2026-11-02 02:00 (CDMX), YouTube, Instagram y TikTok",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/5Ycch8-Brtg",
+    "instagram": "https://www.instagram.com/reel/DfO1R2BD4TV/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7703481599173725460"
+   }
+  },
+  {
+   "numero": 9,
+   "tema": "Hera llega al asteroide que la NASA golpeó (DART y Dimorphos)",
+   "carpeta": "videos/09-hera-dart",
+   "fecha_programada": "2026-11-01 17:00 (CDMX)",
+   "estado": "publicado",
+   "nota": "Video del día del 2026-11-01 (idea 1 del reporte; \"elegida\" estaba en null). Se publica solo con aprobación del dueño. El dueño aprobó a las 9:18 (\"Si subelo\"); programado para hoy a las 17:00 en YouTube, Instagram y TikTok. Verificado el 2026-11-01 a las 17:24: publicado en las tres redes sin errores (enlaces tomados del planificador de Metricool; las métricas del día aún no tenían filas).",
+   "titulo": "⚡ La NASA chocó una nave contra un asteroide… ¿y qué le hizo? ☄️ #shorts",
+   "descripcion": "⚡ En 2022, la nave DART de la NASA chocó a propósito contra el asteroide Dimorphos y acortó su órbita más de media hora. Este mes llega Hera, de la Agencia Espacial Europea, para medir el cráter, pesar el asteroide y ver su interior. ☄️🛰️\nFuentes: NASA, ESA y DLR (Centro Aeroespacial Alemán).\n#asteroide #nasa #esa #espacio #ciencia #defensaplanetaria",
+   "titulo_tiktok": "⚡ La NASA chocó contra un asteroide ☄️",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-09/FlashDatos_09.mp4",
+   "metricool": {
+    "id": 412998374,
+    "uuid": "5396138766663173611",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=5396138766663173611"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/pITNSFvFz7w",
+    "instagram": "https://www.instagram.com/reel/DfN3hJOjS1F/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7703342483123490055"
+   }
+  },
+  {
+   "numero": 10,
+   "tema": "Voyager 1 llega a un día luz de la Tierra (18 de noviembre de 2026)",
+   "carpeta": "videos/10-voyager-dia-luz",
+   "fecha_programada": "2026-11-02 21:00 (CDMX)",
+   "estado": "publicado",
+   "nota": "Video del día del 2026-11-02 (idea 1 del reporte; \"elegida\" estaba en null). Se publica solo con aprobación del dueño. El dueño aprobó a las 20:41 (\"Si\"); como ya habían pasado las 16:45, se programó para hoy a las 21:00 en YouTube, Instagram y TikTok. Verificado el 2026-11-03 en el reporte de la mañana: publicado en las tres redes (getScheduledPosts: PUBLISHED).",
+   "titulo": "⚡ Un mensaje a esta nave tarda UN DÍA en llegar 🛰️ #shorts",
+   "descripcion": "⚡ El 18 de noviembre, la Voyager 1 llega a un día luz de la Tierra: unos 25,900 millones de km. Una señal tarda 24 horas en llegar y otras 24 en volver. Lanzada en 1977, lleva el disco de oro con saludos de la Tierra. 🛰️✨\nFuentes: NASA/JPL (vía Astrobiology.com), EarthSky e IFLScience.\n#voyager1 #nasa #espacio #astronomia #ciencia #datoscuriosos",
+   "titulo_tiktok": "⚡ Esta nave está a 1 día luz 🛰️",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-10/FlashDatos_10.mp4",
+   "metricool": {
+    "id": 414772378,
+    "uuid": "-5439800131088334299",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-5439800131088334299"
+   },
+   "fecha_publicacion": "2026-11-02 21:00 (CDMX), YouTube, Instagram y TikTok",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/EZjFstdsve0",
+    "instagram": "https://www.instagram.com/reel/DfQ3pKWDwx0/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7703775090185489682"
+   }
+  },
+  {
+   "numero": 11,
+   "tema": "Las estrellas fugaces no se queman: se derriten y revientan (Táuridas 4–5 nov y Leónidas 17–18 nov)",
+   "carpeta": "videos/11-meteoros-no-se-queman",
+   "titulo": "⚡ Las estrellas fugaces NO se queman… se derriten y revientan ☄️ #shorts",
+   "fecha_programada": "2026-11-03 17:40 (CDMX)",
+   "estado": "publicado",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/Hj5QjByvzVo",
+    "instagram": "https://www.instagram.com/reel/DfTFfyej_hl/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704094303357881652"
+   },
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-11/FlashDatos_11.mp4",
+   "metricool": {
+    "id": 415913500,
+    "uuid": "-1646907486568100459",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-1646907486568100459"
+   },
+   "nota": "Video del día del 2026-11-03 (idea 1 del reporte; \"elegida\" estaba en null). Se publica solo con aprobación del dueño. El dueño aprobó a las 17:24 (\"Si\"); como ya habían pasado las 16:45, se programó para hoy a las 17:40 en YouTube, Instagram y TikTok. Verificado el 2026-11-03 a las 17:56: publicado en las tres redes sin errores (getScheduledPosts: PUBLISHED; enlaces del planificador de Metricool).",
+   "descripcion": "⚡ Las estrellas fugaces no se queman: un estudio del Instituto SETI y la NASA con 75 caídas de meteoritos muestra que se derriten y se rompen en pedazos. Míralo tú: Táuridas del Sur la noche del 4 al 5 de noviembre y Leónidas del 17 al 18. ☄️\nFuentes: SETI Institute y NASA Ames (Meteoritics & Planetary Science, 2026) y American Meteor Society.\n#meteoros #estrellasfugaces #espacio #astronomia #ciencia #leonidas",
+   "titulo_tiktok": "⚡ Las estrellas fugaces no se queman ☄️",
+   "fecha_publicacion": "2026-11-03 17:40 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 13,
+   "tema": "Por qué un Fórmula 1 es tan aerodinámico: autos legendarios y el F1 desarmado pieza por pieza",
+   "carpeta": "videos/13-formula-1-aerodinamica",
+   "fecha_programada": "2026-11-04 08:00 (CDMX)",
+   "estado": "publicado",
+   "extra": true,
+   "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-02 ('súbelo a las 11'; no importa si pasa del minuto). No es el video del día: no reemplaza el de las 17:00 y el Flujo B debe producir el video del día normalmente. La producción se retrasó y las 23:00 del 2026-11-02 ya habían pasado, así que se programó para el 2026-11-04 a las 11:00 en YouTube, Instagram y TikTok; se le mandó al dueño antes para que lo revise y puede pedir cambiarlo o cancelarlo. El 2026-11-04 a las 06:41 el dueño pidió subirlo a las 8: se movió a las 08:00 del mismo día.",
+   "titulo": "⚡ Por qué un F1 es TAN aerodinámico: lo desarmamos pieza por pieza 🏎️ #shorts",
+   "descripcion": "⚡ Un Fórmula 1 podría, en teoría, correr boca abajo en el techo de un túnel. Te contamos por qué: los autos legendarios que lo descubrieron y el F1 desarmado en 8 piezas, del alerón delantero a las llantas. 🏎️💨\nFuentes: Formula1.com, Autosport, Motor Sport Magazine y PlanetF1. Fotos (recortadas) de Wikimedia Commons: Martin Lee (CC BY-SA 2.0), Morio (CC BY-SA 3.0), Rick Dikeman (CC BY-SA 3.0) y Lukas Raich (CC BY-SA 4.0).\n#formula1 #f1 #aerodinamica #ciencia #autos #datoscuriosos",
+   "titulo_tiktok": "⚡ Desarmamos un F1 pieza por pieza 🏎️",
+   "duracion_s": 159.3,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-13/FlashDatos_13.mp4",
+   "metricool": {
+    "id": 416452385,
+    "uuid": "8205449682053516342",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=8205449682053516342"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/IMBtVaPnQI8",
+    "instagram": "https://www.instagram.com/reel/DfUoe7WCS9m/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704317246931356935"
+   },
+   "fecha_publicacion": "2026-11-04 08:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 12,
+   "serie": "metodo",
+   "parte": 1,
+   "tema": "El método Flash Datos · Parte 1/5: el primer mensaje (cómo nació el canal)",
+   "carpeta": "videos/12-metodo-parte-1",
+   "titulo": "⚡ Así hacemos este canal con IA: el primer mensaje (Parte 1/5) #shorts",
+   "titulo_tiktok": "⚡ Así hacemos este canal con IA (1/5) 🤖",
+   "descripcion": "⚡ Parte 1 de 5 de El método Flash Datos: cómo un solo mensaje a Claude se convirtió en un canal de ciencia hecho con inteligencia artificial. Mañana a las 10 p. m., la parte 2: la voz. 🤖🎙️\n#inteligenciaartificial #ia #claude #creadordecontenido #ciencia #flashdatos",
+   "estado": "publicado",
+   "fecha_programada": "2026-11-03 23:02 (CDMX)",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-12/FlashDatos_12.mp4",
+   "metricool": {
+    "id": 416087703,
+    "uuid": "-4107776336398236886",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-4107776336398236886"
+   },
+   "nota": "Serie El método, parte 1. El dueño pidió a las 21:01 publicarla a las 22:00 y las siguientes a las 22:00 cada día sin pedir aprobación. El contenedor se reinició a mitad del render; se programó a las 23:02 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres).",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/I-Uw07ludtk",
+    "instagram": "https://www.instagram.com/reel/DfTqOFBkhPr/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704177255269797138"
+   }
+  },
+  {
+   "numero": 14,
+   "tema": "El telescopio Swift de la NASA cae a la Tierra tras fallar su rescate (reentrada 4 nov 2026)",
+   "carpeta": "videos/14-swift-cae",
+   "fecha_programada": "2026-11-04 17:00 (CDMX)",
+   "estado": "publicado",
+   "titulo": "⚡ Un telescopio de la NASA se cae HOY… y nadie pudo salvarlo 🛰️🔥 #shorts",
+   "descripcion": "⚡ Después de casi 22 años cazando las explosiones más poderosas del universo, el telescopio Swift de la NASA vuelve a la Tierra. El robot que iba a rescatarlo perdió el control. 🛰️🔥\nFuentes: NASA y Spaceflight Now.\n#nasa #espacio #ciencia #telescopio #astronomia #datoscuriosos",
+   "titulo_tiktok": "⚡ Un telescopio de la NASA se cae hoy 🛰️🔥",
+   "duracion_s": 55.9,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-14/FlashDatos_14.mp4",
+   "metricool": {
+    "id": 416642086,
+    "uuid": "-5038524942036021524",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-5038524942036021524"
+   },
+   "nota": "Aprobado por el dueño el 2026-11-04 a las 09:24 ('Si subelo'). Programado para las 17:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres).",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/YpTyIf6AxJg",
+    "instagram": "https://www.instagram.com/reel/DfVl97vjAQ-/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704455865058807092"
+   },
+   "fecha_publicacion": "2026-11-04 17:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 15,
+   "tema": "El Mundial de Resistencia (WEC): leyendas, pilotos, circuitos emblemáticos y el Hypercar desarmado pieza por pieza",
+   "carpeta": "videos/15-wec-resistencia",
+   "fecha_programada": "2026-11-04 13:00 (CDMX)",
+   "estado": "publicado",
+   "extra": true,
+   "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-04 a las 11:03 ('sube un vídeo de la WEC siguiendo la receta del de la Fórmula uno', y 'Súbelo a las 1'). Sigue la receta del video 13: dato extra, fotos reales de Wikimedia Commons, pilotos, circuitos y el auto desarmado. No reemplaza el video del día. Programado para hoy a las 13:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres); se le mandó al dueño para que lo revise y puede pedir cambiarlo o cancelarlo.",
+   "titulo": "⚡ Carreras de 24 HORAS: leyendas, circuitos y el auto desarmado 🏁 #shorts",
+   "descripcion": "⚡ Le Mans 2026 se ganó por menos de 11 segundos… después de 24 horas. Así es el WEC, el Mundial de Resistencia: sus leyendas (con Pedro Rodríguez, el único mexicano que ha ganado Le Mans), sus circuitos más famosos y un Hypercar desarmado pieza por pieza. 🏁\nFuentes: FIA, 24h-lemans.com, Motor Sport Magazine y Audi MediaCenter. Fotos (recortadas) de Wikimedia Commons: edvvc (CC BY 2.0), MrWalkr (CC BY-SA 4.0), Joachim Köhler (CC BY 3.0), Matti Blume y MarcelX42 (CC BY-SA 4.0); mapas de Will Pittenger (CC BY-SA 3.0).\n#wec #lemans #automovilismo #autos #ingenieria #datoscuriosos",
+   "titulo_tiktok": "⚡ Así es el Mundial de Resistencia 🏁",
+   "duracion_s": 172.9,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-15/FlashDatos_15.mp4",
+   "metricool": {
+    "id": 416793822,
+    "uuid": "8776922450308778702",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=8776922450308778702"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/cC5iJiPy3N0",
+    "instagram": "https://www.instagram.com/reel/DfVKJfpiqaP/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704393338958384390"
+   },
+   "fecha_publicacion": "2026-11-04 13:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 16,
+   "tema": "Mazda 787B: el único auto sin pistones que ganó Le Mans (motor rotativo R26B, piezas, chasis y pilotos), respuesta a @_nachozn_",
+   "carpeta": "videos/16-mazda-787b",
+   "fecha_programada": "2026-11-04 18:00 (CDMX)",
+   "estado": "publicado",
+   "extra": true,
+   "nota": "Video EXTRA pedido directamente por el dueño el 2026-11-04 a las 16:32 ('Ahora haremos un vídeo respondiéndole a _nachozn_ ... súbelo a las 6'). Sigue la receta de los videos 13 y 15 (motor, componentes y pilotos) con más detalle del motor rotativo. No reemplaza el video del día. Programado para hoy a las 18:00 en YouTube, Instagram y TikTok (getScheduledPosts: PENDING en las tres); se le mandó al dueño para que lo revise y puede pedir cambiarlo o cancelarlo. A las 17:02 el dueño pidió etiquetar a @_nachozn_: ya iba mencionado en la descripción (YouTube e Instagram) y se agregó la mención al texto de TikTok. A las 17:04 el dueño confirmó su usuario de Instagram y pidió etiquetarlo también ahí: se agregó la etiqueta de persona @_nachozn_ al Reel. Publicado a las 18:00 en las tres redes. Instagram publicó el Reel pero avisó 'Could not set all user tags': la etiqueta de persona @_nachozn_ no se aplicó (la mención en la descripción sí quedó).",
+   "titulo": "⚡ El ÚNICO auto SIN PISTONES que ganó Le Mans: Mazda 787B 🏁 #shorts",
+   "descripcion": "⚡ Respondiendo a @_nachozn_: el Mazda 787B ganó las 24 Horas de Le Mans en 1991 con un motor rotativo de 4 rotores, sin pistones ni válvulas. Te explicamos cómo funciona su motor R26B, sus piezas, sus pilotos y por qué nadie lo ha repetido. 🏁\nFuentes: Mazda, 24h-lemans.com, Autosport y Motor Authority. Fotos (recortadas) de Wikimedia Commons: 韋駄天狗 (CC BY-SA 3.0), OldLion (CC BY-SA 4.0) y Softeis (CC BY-SA 3.0).\n#mazda787b #lemans #motorrotativo #autos #ingenieria #datoscuriosos",
+   "titulo_tiktok": "⚡ El único auto sin pistones que ganó Le Mans 🏁 Respondiendo a @_nachozn_",
+   "duracion_s": 144.3,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-16/FlashDatos_16.mp4",
+   "metricool": {
+    "id": 417123040,
+    "uuid": "-9161264192236729168",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-9161264192236729168"
+   },
+   "fecha_publicacion": "2026-11-04 18:00 (CDMX), YouTube, Instagram y TikTok",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/gtQY2Cw-KgA",
+    "instagram": "https://www.instagram.com/reel/DfVtJjmlNAR/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704471609914019080"
+   },
+   "nota_instagram": "Metricool marca el Reel con estado ERROR, pero sí se publicó; solo no pudo poner la etiqueta de @_nachozn_."
+  },
+  {
+   "numero": 17,
+   "serie": "metodo",
+   "parte": 2,
+   "tema": "El método Flash Datos · Parte 2/5: la voz (del guion a la narración)",
+   "carpeta": "videos/17-metodo-parte-2",
+   "titulo": "⚡ Así le dimos VOZ a este canal con IA (Parte 2/5) #shorts",
+   "titulo_tiktok": "⚡ Así le dimos voz al canal con IA (2/5) 🎙️",
+   "descripcion": "⚡ Parte 2 de 5 de El método Flash Datos: cómo le dimos voz al canal, del dato verificado a la narración con ElevenLabs y subtítulos justo a tiempo. Mañana a las 10 p. m., la parte 3: la animación 3D. 🎙️🤖\n#inteligenciaartificial #ia #claude #elevenlabs #creadordecontenido #flashdatos",
+   "estado": "publicado",
+   "fecha_programada": "2026-11-04 22:00 (CDMX)",
+   "duracion_s": 49.7,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-17/FlashDatos_17.mp4",
+   "metricool": {
+    "id": 417225227,
+    "uuid": "3177205101992558886",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=3177205101992558886"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/u3uEVdQ1feA",
+    "instagram": "https://www.instagram.com/reel/DfWIF9BjA7k/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704532768847514898"
+   }
+  },
+  {
+   "numero": 18,
+   "tema": "Google puso una IA en el espacio y respondió con un poema (Proyecto Suncatcher, Gemma 4, haiku sobre Svalbard)",
+   "carpeta": "videos/18-ia-en-el-espacio",
+   "fecha_programada": "2026-11-05 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "titulo": "⚡ Le pidieron un poema a una IA en el espacio… y respondió 🛰️ #shorts",
+   "descripcion": "⚡ Google puso un chip de inteligencia artificial en órbita (Proyecto Suncatcher, con Planet) y su primera respuesta fue un haiku sobre la Tierra. 🛰️ ¿Tú qué le preguntarías?\nFuentes: blog de Google (30 oct 2026), The Next Web, PPC Land y Hardware Busters.\n#inteligenciaartificial #espacio #google #satelites #tecnologia #datoscuriosos",
+   "titulo_tiktok": "⚡ Una IA en el espacio escribió un poema 🛰️",
+   "duracion_s": 57.2,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-18/FlashDatos_18.mp4",
+   "elevenlabs": {
+    "flow_id": "1vo9PMpTW6wuLVyCfyjC",
+    "generation_id": "YW0LSz8qmro1jWziyb0w"
+   }
+  },
+  {
+   "numero": 19,
+   "tema": "Abu Dabi 2021: Hamilton vs. Verstappen, la defensa de Checo Pérez, el auto de seguridad y la última vuelta",
+   "carpeta": "videos/19-abu-dabi-2021",
+   "fecha_programada": "2026-11-05 12:00 (CDMX)",
+   "estado": "publicado",
+   "pedido": "El dueño lo pidió en el chat el 5 de noviembre a las 9:55 con la orden de subirlo a las 12:00.",
+   "titulo": "⚡ El campeonato de F1 que se decidió en UNA vuelta: Abu Dabi 2021 🏁 #shorts",
+   "descripcion": "⚡ Abu Dabi 2021: Hamilton y Verstappen llegaron empatados a la última carrera. La defensa de Checo Pérez, el choque de Latifi, el auto de seguridad y la decisión de Michael Masi lo dejaron todo a una sola vuelta. 🏁\nFuentes: Formula1.com, FIA, Autosport y Motor Sport Magazine. Mapa de Yas Marina: Anthony Alessio Tralongo (CC BY-SA 4.0, Wikimedia Commons).\n#formula1 #f1 #checoperez #verstappen #hamilton #abudhabi",
+   "titulo_tiktok": "⚡ El campeonato de F1 que se decidió en una vuelta 🏁",
+   "duracion_s": 73.4,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-19/FlashDatos_19.mp4",
+   "metricool": {
+    "id": 417935234,
+    "uuid": "7582938419505612729",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=7582938419505612729"
+   },
+   "elevenlabs": {
+    "flow_id": "g37Svv8iNxao6fZ5MLRV",
+    "generation_id": "g9u6drxR4bVOp5HQ0760"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/yMTua0MA9i4",
+    "instagram": "https://www.instagram.com/reel/DfXoRGYjnt2/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704749248214240533"
+   },
+   "fecha_publicacion": "2026-11-05 12:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 20,
+   "serie": "metodo",
+   "parte": 3,
+   "tema": "El método Flash Datos · Parte 3/5: la animación 3D y el sonido",
+   "carpeta": "videos/20-metodo-parte-3",
+   "titulo": "⚡ Este planeta no es una foto: así animamos el canal en 3D (Parte 3/5) #shorts",
+   "titulo_tiktok": "⚡ Así animamos el canal en 3D con código (3/5) 🪐",
+   "descripcion": "⚡ Parte 3 de 5 de El método Flash Datos: cómo animamos cada video con un motor 3D propio en Python (trazado de rayos) y sonidos sintetizados con código. Mañana a las 10 p. m., la parte 4: GitHub, el cerebro del canal. 🪐🎬\n#animacion3d #python #inteligenciaartificial #claude #creadordecontenido #flashdatos",
+   "estado": "publicado",
+   "fecha_programada": "2026-11-05 22:00 (CDMX)",
+   "duracion_s": 51.6,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-20/FlashDatos_20.mp4",
+   "metricool": {
+    "id": 418432341,
+    "uuid": "-3449289804541116170",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-3449289804541116170"
+   },
+   "elevenlabs": {
+    "flow_id": "bB2oJyaD1v7m3mei4k09",
+    "generation_id": "SLRma7TaqBLJQJDl7Kyr"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/ITx3a05Tlz0",
+    "instagram": "https://www.instagram.com/reel/DfYs4HzEjf7/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7704903795842632981"
+   },
+   "fecha_publicacion": "2026-11-05 22:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 21,
+   "tema": "Cómo funciona un celular por dentro (ejemplo: iPhone Duo)",
+   "carpeta": "videos/21-como-funciona-celular",
+   "titulo": "⚡ Así funciona tu celular POR DENTRO: el iPhone Duo pieza por pieza 📱 #shorts",
+   "fecha_programada": "2026-11-06 10:00 (CDMX)",
+   "estado": "publicado",
+   "nota": "Pedido directo del dueño en el chat el 2026-11-06 a las 7:32 ('súbelo a las 10 am'): programado a las 10:00 en YouTube, Instagram y TikTok. Es el video de hoy: la tarea de las 8:38 no produce otro.",
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/9VUQEnIFn1s",
+    "instagram": "https://www.instagram.com/reel/DfZ_02tCW_U/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7705090075050183937"
+   },
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-21/FlashDatos_21.mp4",
+   "metricool": {
+    "id": 418954799,
+    "uuid": "-1066426852049402376",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-1066426852049402376"
+   },
+   "descripcion": "⚡ Abrimos el iPhone Duo, el primer iPhone plegable, para ver cómo funciona un celular por dentro: batería, chip A20 Pro, pantallas OLED, cámaras de 48 MP y carga con y sin cable.\nFuente: Apple Newsroom (septiembre de 2026) y WhistleOut.\n#ciencia #tecnologia #celular #iphone #iphoneduo #shorts",
+   "titulo_tiktok": "⚡ Así funciona tu celular por dentro (iPhone Duo) 📱",
+   "duracion_s": 102.4,
+   "fecha_publicacion": "2026-11-06 10:00 (CDMX), YouTube, Instagram y TikTok"
+  }
+ ]
 }
