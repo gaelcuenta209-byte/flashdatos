@@ -1,0 +1,117 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 50.16,
+ "segments": [
+  {
+   "id": "hook",
+   "t0": 0.1,
+   "t1": 6.33,
+   "say": "Este planeta no es una foto: lo dibuja un programa, rayo por rayo. Así animamos cada video.",
+   "parts": [
+    [
+     0.1,
+     6.33,
+     "Este PLANETA no es una FOTO: lo dibuja un PROGRAMA"
+    ]
+   ]
+  },
+  {
+   "id": "motor",
+   "t0": 6.55,
+   "t1": 12.83,
+   "say": "Claude programó en Python un motor en tres dimensiones propio, que dibuja planetas y estrellas con trazado de rayos.",
+   "parts": [
+    [
+     6.55,
+     12.83,
+     "CLAUDE programó en PYTHON un motor 3D PROPIO: TRAZADO DE RAYOS"
+    ]
+   ]
+  },
+  {
+   "id": "rayos",
+   "t0": 13.05,
+   "t1": 17.73,
+   "say": "Por cada pixel lanza un rayo, y calcula dónde choca y cuánta luz recibe.",
+   "parts": [
+    [
+     13.05,
+     17.73,
+     "Un RAYO por cada PIXEL: dónde CHOCA y cuánta LUZ recibe"
+    ]
+   ]
+  },
+  {
+   "id": "texturas",
+   "t0": 17.97,
+   "t1": 22.91,
+   "say": "Las texturas también salen del código: por ejemplo, una Tierra con los continentes reales.",
+   "parts": [
+    [
+     17.97,
+     22.91,
+     "Las TEXTURAS salen del CÓDIGO: una TIERRA con continentes REALES"
+    ]
+   ]
+  },
+  {
+   "id": "escena",
+   "t0": 23.17,
+   "t1": 30.07,
+   "say": "Y cada video tiene una escena nueva, no una plantilla: la cámara, los cuerpos y las etiquetas cambian según el tema.",
+   "parts": [
+    [
+     23.17,
+     30.07,
+     "Cada video, una ESCENA NUEVA: CÁMARA, CUERPOS y ETIQUETAS"
+    ]
+   ]
+  },
+  {
+   "id": "sonido",
+   "t0": 30.3,
+   "t1": 35.92,
+   "say": "El sonido también es nuestro: los efectos y la música se sintetizan con código, y son originales.",
+   "parts": [
+    [
+     30.3,
+     35.92,
+     "EFECTOS y MÚSICA sintetizados con CÓDIGO: ORIGINALES"
+    ]
+   ]
+  },
+  {
+   "id": "mezcla",
+   "t0": 36.22,
+   "t1": 39.17,
+   "say": "Al final, la mezcla se ajusta al volumen de las redes.",
+   "parts": [
+    [
+     36.22,
+     39.17,
+     "La MEZCLA se ajusta al VOLUMEN de las REDES"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 39.4,
+   "t1": 49.96,
+   "say": "Así, cada imagen y cada sonido de este canal salen de código, no de una plantilla. En la parte cuatro, GitHub: el cerebro del canal. Estén atentos para conocer el método.",
+   "parts": [
+    [
+     39.4,
+     44.7,
+     "Cada IMAGEN y cada SONIDO salen de CÓDIGO"
+    ],
+    [
+     44.95,
+     49.96,
+     "PARTE 4: GITHUB, el CEREBRO del canal. ¡Estén ATENTOS para conocer el MÉTODO!"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 51.56
+}
