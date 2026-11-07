@@ -1,0 +1,207 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 176.73,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 13.61,
+   "say": "¿Por qué en la Fórmula uno algunos pilotos utilizan neumáticos rojos, otros amarillos y otros blancos? Aunque parezcan simples diferencias de color, elegir el neumático adecuado puede cambiar por completo el resultado de una carrera.",
+   "parts": [
+    [
+     0.1,
+     6.36,
+     "¿Por qué en la F1 unos pilotos usan neumáticos ROJOS, otros AMARILLOS y otros BLANCOS?"
+    ],
+    [
+     6.6,
+     13.61,
+     "Parecen simples COLORES, pero elegir bien puede cambiar por completo el RESULTADO de una carrera."
+    ]
+   ]
+  },
+  {
+   "id": "tipos",
+   "t0": 13.99,
+   "t1": 27.55,
+   "say": "En seco existen tres tipos principales: blandos, medios y duros. Pero lo interesante es que no se trata solamente de que uno sea rápido y otro lento; cada compuesto tiene una forma diferente de trabajar.",
+   "parts": [
+    [
+     13.99,
+     18.33,
+     "En seco hay 3 tipos: BLANDOS, MEDIOS y DUROS."
+    ],
+    [
+     18.52,
+     27.55,
+     "No es solo que uno sea RÁPIDO y otro LENTO: cada compuesto TRABAJA distinto."
+    ]
+   ]
+  },
+  {
+   "id": "blandos",
+   "t0": 27.8,
+   "t1": 56.25,
+   "say": "Empecemos por los blandos, identificados con una franja roja. Están diseñados para ofrecer el máximo agarre y permitir vueltas especialmente rápidas. Su goma es más blanda, lo que ayuda a generar más adherencia con el asfalto y permite tomar las curvas con mayor velocidad. El problema es que suelen degradarse más rápido y pueden perder rendimiento después de varias vueltas. Por eso son muy utilizados en clasificación, cuando el piloto necesita conseguir el mejor tiempo posible.",
+   "parts": [
+    [
+     27.8,
+     31.15,
+     "Los BLANDOS: franja ROJA."
+    ],
+    [
+     31.47,
+     36.55,
+     "Dan el MÁXIMO AGARRE y las vueltas más RÁPIDAS."
+    ],
+    [
+     36.94,
+     43.81,
+     "Su goma más blanda se PEGA al asfalto y permite tomar las CURVAS más rápido."
+    ],
+    [
+     44.4,
+     49.77,
+     "El problema: se DEGRADAN más rápido y pierden rendimiento tras VARIAS VUELTAS."
+    ],
+    [
+     50.05,
+     56.25,
+     "Por eso reinan en la CLASIFICACIÓN, donde se busca el MEJOR TIEMPO."
+    ]
+   ]
+  },
+  {
+   "id": "medios",
+   "t0": 56.5,
+   "t1": 75.01,
+   "say": "Después tenemos los medios, identificados con el color amarillo. Son el punto de equilibrio entre velocidad y duración. No ofrecen necesariamente el máximo agarre de los blandos, pero pueden mantener un rendimiento competitivo durante más vueltas. Esto los convierte en una opción muy importante para las estrategias de carrera.",
+   "parts": [
+    [
+     56.5,
+     59.87,
+     "Los MEDIOS: color AMARILLO."
+    ],
+    [
+     60.47,
+     63.4,
+     "El EQUILIBRIO entre VELOCIDAD y DURACIÓN."
+    ],
+    [
+     63.86,
+     70.52,
+     "Menos agarre que el blando, pero rinden bien durante MÁS VUELTAS."
+    ],
+    [
+     71.07,
+     75.01,
+     "Por eso son CLAVE en la ESTRATEGIA de carrera."
+    ]
+   ]
+  },
+  {
+   "id": "duros",
+   "t0": 75.28,
+   "t1": 94.75,
+   "say": "Finalmente están los duros, identificados con una franja blanca. Su compuesto está diseñado para soportar más temperatura, desgaste y esfuerzos durante periodos prolongados. Normalmente ofrecen menos agarre inicial y pueden tardar más en alcanzar su temperatura ideal, pero permiten completar tandas más largas.",
+   "parts": [
+    [
+     75.28,
+     78.93,
+     "Los DUROS: franja BLANCA."
+    ],
+    [
+     79.52,
+     86.06,
+     "Aguantan más TEMPERATURA, DESGASTE y ESFUERZO por más tiempo."
+    ],
+    [
+     86.33,
+     94.75,
+     "Menos agarre al inicio y tardan en CALENTARSE, pero permiten TANDAS MÁS LARGAS."
+    ]
+   ]
+  },
+  {
+   "id": "compuestos",
+   "t0": 95.0,
+   "t1": 127.03,
+   "say": "Sin embargo, hay algo que muchos aficionados desconocen: Pirelli no utiliza siempre el mismo neumático rojo, amarillo o blanco. Tiene cinco compuestos de seco denominados ce uno, ce dos, ce tres, ce cuatro y ce cinco, ordenados desde el más duro hasta el más blando. Para cada gran premio selecciona tres de ellos; por ejemplo, un neumático ce tres puede ser el duro en una carrera y el blando en otra, dependiendo de los compuestos elegidos. En México, el ce tres fue el duro; en Japón, el blando.",
+   "parts": [
+    [
+     95.0,
+     103.02,
+     "Lo que muchos NO SABEN: PIRELLI no usa siempre el mismo rojo, amarillo o blanco."
+    ],
+    [
+     103.69,
+     113.22,
+     "Tiene 5 compuestos de seco: C1, C2, C3, C4 y C5, del MÁS DURO al MÁS BLANDO."
+    ],
+    [
+     113.51,
+     123.79,
+     "En cada GP elige 3: un C3 puede ser el DURO en una carrera y el BLANDO en otra."
+    ],
+    [
+     124.04,
+     127.03,
+     "En MÉXICO 2026 el C3 fue el DURO; en JAPÓN 2026, el BLANDO."
+    ]
+   ]
+  },
+  {
+   "id": "estrategia",
+   "t0": 127.3,
+   "t1": 148.08,
+   "say": "Y aquí es donde comienza el trabajo de los estrategas. La temperatura del asfalto, la abrasividad del circuito, las curvas y la degradación determinan cuál puede ser la mejor elección. Además, durante una carrera en seco, los pilotos deben utilizar al menos dos compuestos diferentes, lo que normalmente obliga a realizar una parada en boxes.",
+   "parts": [
+    [
+     127.3,
+     131.06,
+     "Y aquí entran los ESTRATEGAS."
+    ],
+    [
+     131.34,
+     139.12,
+     "TEMPERATURA del asfalto, ABRASIVIDAD, CURVAS y DEGRADACIÓN deciden la mejor elección."
+    ],
+    [
+     139.36,
+     148.08,
+     "En seco, cada piloto debe usar AL MENOS 2 COMPUESTOS: eso obliga a PARAR en boxes."
+    ]
+   ]
+  },
+  {
+   "id": "final",
+   "t0": 148.34,
+   "t1": 176.67,
+   "say": "Por eso, elegir un neumático no consiste simplemente en montar el más rápido. A veces, empezar con blandos permite ganar posiciones, pero utilizar medios o duros puede ofrecer una ventaja al final. Así ganó Lando Norris en Hungría dos mil veinticinco: una sola parada, de medios a duros, contra dos paradas de Piastri. En la Fórmula uno, los neumáticos no son solo cuatro piezas de goma; son una de las herramientas estratégicas más importantes para ganar una carrera.",
+   "parts": [
+    [
+     148.34,
+     152.65,
+     "Elegir neumático NO es montar el MÁS RÁPIDO."
+    ],
+    [
+     152.97,
+     160.29,
+     "Salir con BLANDOS gana posiciones; MEDIOS o DUROS pueden dar la VENTAJA al final."
+    ],
+    [
+     160.55,
+     167.95,
+     "Así ganó NORRIS en HUNGRÍA 2025: UNA parada, de MEDIO a DURO, contra DOS de Piastri."
+    ],
+    [
+     168.24,
+     176.67,
+     "En la F1, los neumáticos no son solo 4 piezas de goma: son una de las HERRAMIENTAS más importantes para GANAR."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 178.3
+}
