@@ -510,8 +510,18 @@
    "tema": "Neumáticos de F1: blandos, medios y duros (compuestos C1–C5 de Pirelli y estrategia)",
    "carpeta": "videos/23-neumaticos-f1",
    "fecha_programada": "2026-11-07 10:00 (CDMX)",
-   "estado": "en producción",
-   "nota": "Pedido directo del dueño en el chat el 2026-11-07 a las 8:30 con su propio guion ('súbelo a las 10'): se programa a las 10:00 en YouTube, Instagram y TikTok. Es el video de hoy: la tarea de la mañana no produce otro."
+   "estado": "programado",
+   "nota": "Pedido directo del dueño en el chat el 2026-11-07 a las 8:30 con su propio guion ('súbelo a las 10'): programado a las 10:00 en YouTube, Instagram y TikTok. Se agregaron dos ejemplos reales (C3 en México/Japón 2026 y Norris en Hungría 2025). La voz se aceleró 6.2 % y se acortaron pausas para quedar en menos de 3 min (Short). Es el video de hoy: la tarea de la mañana no produce otro.",
+   "titulo": "⚡ ¿Por qué los neumáticos de F1 son ROJOS, AMARILLOS y BLANCOS? 🏎️ #shorts",
+   "titulo_tiktok": "⚡ ¿Por qué hay neumáticos rojos, amarillos y blancos en F1? 🏎️",
+   "descripcion": "⚡ ¿Por qué en la F1 hay neumáticos rojos, amarillos y blancos? Blandos, medios y duros trabajan distinto, y elegir bien puede ganar una carrera. Con ejemplos reales: el C3 fue el duro en México 2026 y el blando en Japón, y Norris ganó Hungría 2025 con una sola parada. 🏎️🏁\nFuentes: Pirelli, Formula1.com y Mercedes-AMG F1.\n#f1 #formula1 #neumaticos #pirelli #automovilismo #shorts",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-23/FlashDatos_23.mp4",
+   "metricool": {
+    "id": 419998484,
+    "uuid": "1772040319955846848",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=1772040319955846848"
+   },
+   "duracion_s": 178.3
   }
  ]
 }
