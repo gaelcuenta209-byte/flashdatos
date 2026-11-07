@@ -1,0 +1,117 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 43.55,
+ "segments": [
+  {
+   "id": "hook",
+   "t0": 0.1,
+   "t1": 4.08,
+   "say": "Este canal no vive en una computadora: vive en GitHub. Ese es su cerebro.",
+   "parts": [
+    [
+     0.1,
+     4.08,
+     "Este canal no vive en una COMPUTADORA: vive en GITHUB"
+    ]
+   ]
+  },
+  {
+   "id": "repo",
+   "t0": 4.37,
+   "t1": 13.22,
+   "say": "En un repositorio guardamos todo: el manual que siguen las tareas, los guiones, el historial de videos y las ideas.",
+   "parts": [
+    [
+     4.37,
+     13.22,
+     "En un REPOSITORIO está TODO: MANUAL, GUIONES, HISTORIAL e IDEAS"
+    ]
+   ]
+  },
+  {
+   "id": "nube",
+   "t0": 13.63,
+   "t1": 17.53,
+   "say": "Por eso todo funciona en la nube, sin que la computadora esté encendida.",
+   "parts": [
+    [
+     13.63,
+     17.53,
+     "Todo funciona en la NUBE, sin la COMPUTADORA encendida"
+    ]
+   ]
+  },
+  {
+   "id": "acciones",
+   "t0": 17.98,
+   "t1": 21.34,
+   "say": "Además, el repositorio tiene dos acciones automáticas.",
+   "parts": [
+    [
+     17.98,
+     21.34,
+     "DOS ACCIONES AUTOMÁTICAS"
+    ]
+   ]
+  },
+  {
+   "id": "voz",
+   "t0": 21.68,
+   "t1": 24.28,
+   "say": "La primera baja la voz que genera ElevenLabs.",
+   "parts": [
+    [
+     21.68,
+     24.28,
+     "ACCIÓN 1: baja la VOZ de ELEVENLABS"
+    ]
+   ]
+  },
+  {
+   "id": "medios",
+   "t0": 24.65,
+   "t1": 28.04,
+   "say": "La segunda sube el video terminado con un enlace público.",
+   "parts": [
+    [
+     24.65,
+     28.04,
+     "ACCIÓN 2: sube el VIDEO con un ENLACE PÚBLICO"
+    ]
+   ]
+  },
+  {
+   "id": "metricool",
+   "t0": 28.38,
+   "t1": 31.37,
+   "say": "Y ese enlace es el que usa Metricool para publicar.",
+   "parts": [
+    [
+     28.38,
+     31.37,
+     "Ese ENLACE lo usa METRICOOL para PUBLICAR"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 31.76,
+   "t1": 43.38,
+   "say": "Así, GitHub guarda la memoria del canal y une cada paso del método. En la parte cinco, cómo conectamos todas las inteligencias artificiales. Estén atentos para conocer el método.",
+   "parts": [
+    [
+     31.76,
+     36.05,
+     "GITHUB guarda la MEMORIA y une cada PASO"
+    ],
+    [
+     36.55,
+     43.38,
+     "PARTE 5: cómo CONECTAMOS todas las IAs. ¡Estén ATENTOS para conocer el MÉTODO!"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 45.3
+}
