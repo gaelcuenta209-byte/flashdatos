@@ -486,7 +486,7 @@
    "titulo": "⚡ Este canal no vive en una computadora: vive en GitHub (Parte 4/5) #shorts",
    "titulo_tiktok": "⚡ GitHub: el cerebro de este canal (4/5) 🧠",
    "descripcion": "⚡ Parte 4 de 5 de El método Flash Datos: GitHub es el cerebro del canal. Ahí vive todo (manual, guiones, historial e ideas) y dos acciones automáticas bajan la voz de ElevenLabs y suben el video con el enlace que usa Metricool. Mañana a las 10 p. m., la parte 5 y final: todo conectado. 🧠⚙️\n#github #inteligenciaartificial #automatizacion #claude #creadordecontenido #flashdatos",
-   "estado": "programado",
+   "estado": "publicado",
    "fecha_programada": "2026-11-06 22:00 (CDMX)",
    "duracion_s": 45.3,
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-22/FlashDatos_22.mp4",
@@ -498,6 +498,11 @@
    "elevenlabs": {
     "flow_id": "JvgQxCi0wOrkJj7dK22v",
     "generation_id": "zBEWZy76waNJJbOF14OV"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/2JWuNvmc8wA",
+    "instagram": "https://www.instagram.com/reel/DfbRrqrFQ6P/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7705274894681935111"
    }
   }
  ]

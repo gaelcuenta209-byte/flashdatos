@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-06",
+ "actualizado": "2026-11-07",
  "pedidos": [],
- "elegida": 1,
+ "elegida": null,
  "ideas": [
   {
    "numero": 1,
    "tema": "Encuentran sangre de dinosaurio de 115 millones de años",
    "gancho": "Encontraron sangre de dinosaurio… y tiene 115 millones de años.",
-   "por_que_viral": "Los dinosaurios son de los temas más vistos en Shorts y suena a Jurassic Park; es noticia de esta semana y provoca debate en comentarios (¿se podrá clonar uno?).",
-   "dato_principal": "Un estudio confirmó químicamente rastros de glóbulos rojos dentro de huesos de dinosaurio de 115 millones de años; hasta ahora se creía que algo así no podía conservarse.",
-   "escena_3d": "Un dinosaurio caminando que se vuelve fósil; la cámara entra al hueso, recorre los canales de los vasos sanguíneos y llega a glóbulos rojos petrificados que brillan.",
+   "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; es noticia de esta semana (6 nov) y provoca debate en comentarios (¿se podrá clonar uno?).",
+   "dato_principal": "Un estudio confirmó químicamente rastros de sangre (glóbulos rojos) dentro de huesos de dinosaurio de 115 millones de años; se creía que algo así no podía conservarse.",
+   "escena_3d": "Un dinosaurio caminando que se vuelve fósil; la cámara entra al hueso, recorre los canales de los vasos y llega a glóbulos rojos petrificados que brillan.",
    "fuentes": [
     "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
     "https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims"
@@ -17,86 +17,86 @@
   },
   {
    "numero": 2,
-   "tema": "La Tierra tiene una segunda luna (2026 QQ8) y nadie lo notó por meses",
-   "gancho": "Desde abril la Tierra tiene una segunda luna… y casi nadie se dio cuenta.",
-   "por_que_viral": "Dato sorprendente y fácil de repetir ('tenemos dos lunas'); tiene fecha de salida, así que es urgente.",
-   "dato_principal": "El asteroide 2026 QQ8, del tamaño de una lavadora, quedó atrapado por la gravedad de la Tierra desde abril y se irá a fines de 2026.",
-   "escena_3d": "La Tierra y la Luna; una roca diminuta llega, da vueltas en lazos irregulares alrededor de la Tierra y al final se escapa al espacio. Comparación de tamaño con una lavadora.",
+   "tema": "El cohete de Artemis II abrió un 'hueco' de 5,000 km en la atmósfera y desvió el GPS",
+   "gancho": "Un cohete de la NASA abrió un hueco de 5,000 kilómetros en el cielo… y movió tu GPS.",
+   "por_que_viral": "Conecta el espacio con algo que todos usan (el GPS del celular y del coche); la cifra de 5,000 km sobre América es impactante y la noticia es de esta semana.",
+   "dato_principal": "Investigadores de la Universidad Nacional Cheng Kung (Taiwán) detectaron dos perturbaciones en la ionosfera tras el lanzamiento de Artemis II, de unos 5,000 km de este a oeste, con errores de posición GPS de varios metros; hasta 10 veces más intensas que las de Starship. No es un hueco permanente: es una baja temporal de electrones libres (decirlo así en el guion).",
+   "escena_3d": "La Tierra vista desde arriba de América; el SLS sube, deja una estela que 'vacía' una franja brillante de la ionosfera de costa a costa, y un punto de GPS en un mapa salta de carril.",
    "fuentes": [
-    "https://earthsky.org/space/mini-moon-for-earth-2026-qq8/",
-    "https://dailygalaxy.com/2026/11/earth-new-mini-moon-qq8-discovery/"
+    "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
+    "https://tech-insider.org/artemis-ii-launch-ionosphere-gps-errors-5000-km-2026/"
    ]
   },
   {
    "numero": 3,
+   "tema": "La Tierra tiene una segunda luna (2026 QQ8) y casi nadie lo notó",
+   "gancho": "Desde abril la Tierra tiene una segunda luna… y casi nadie se dio cuenta.",
+   "por_que_viral": "Dato sorprendente y fácil de repetir ('tenemos dos lunas'); tiene fecha de salida, así que es urgente. Space.com lo publicó el 5 de noviembre.",
+   "dato_principal": "El asteroide 2026 QQ8, del tamaño de una lavadora, quedó atrapado por la gravedad de la Tierra desde abril y se irá a fines de 2026.",
+   "escena_3d": "La Tierra y la Luna; una roca diminuta llega, da lazos irregulares alrededor de la Tierra y al final escapa. Comparación de tamaño con una lavadora.",
+   "fuentes": [
+    "https://earthsky.org/space/mini-moon-for-earth-2026-qq8/",
+    "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long"
+   ]
+  },
+  {
+   "numero": 4,
+   "tema": "Nueva carrera a la Luna: China contra la NASA",
+   "gancho": "China ya dijo cómo va a poner a dos astronautas en la Luna… y la NASA dice que va a ganar.",
+   "por_que_viral": "Rivalidad de potencias que todos entienden, fechas concretas y polémica en comentarios (¿quién llega primero?). Hoy salió una entrevista del jefe de la NASA, Jared Isaacman, sobre esta carrera.",
+   "dato_principal": "China detalló una misión de dos lanzamientos con 3 astronautas, 2 de ellos bajan a la superficie, antes de 2030; la NASA reafirmó volver a pisar la Luna en 2028.",
+   "escena_3d": "La Tierra y la Luna con dos trayectorias en carrera: dos naves chinas que se juntan en órbita lunar y la nave de Artemis, con un marcador de años.",
+   "fuentes": [
+    "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
+    "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
+   ]
+  },
+  {
+   "numero": 5,
    "tema": "La NASA corre para salvar al Hubble antes de que caiga como el Swift",
    "gancho": "Esta semana se cayó un telescopio de la NASA… y el Hubble podría ser el siguiente.",
    "por_que_viral": "Continúa la historia del Swift (video 14) con el telescopio más famoso del mundo y una carrera contra el tiempo.",
-   "dato_principal": "Tras más de 35 años en órbita, el Hubble pierde altura poco a poco; la NASA estudia un servicio comercial para elevarlo antes de una reentrada sin control.",
-   "escena_3d": "El Hubble sobre la Tierra, su órbita bajando en espiral y una nave de servicio acercándose a acoplarse y empujarlo hacia arriba.",
+   "dato_principal": "Tras más de 35 años en órbita, el Hubble pierde altura poco a poco; la NASA pidió ideas a la industria para elevarlo antes de una reentrada sin control.",
+   "escena_3d": "El Hubble sobre la Tierra, su órbita bajando en espiral y una nave de servicio que se acopla y lo empuja hacia arriba.",
    "fuentes": [
     "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
     "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
    ]
   },
   {
-   "numero": 4,
-   "tema": "Un agujero negro podría partirse en dos",
-   "gancho": "¿Y si un agujero negro se pudiera partir en dos?",
-   "por_que_viral": "Los agujeros negros son de lo más compartido en Shorts de ciencia y la idea parece imposible.",
-   "dato_principal": "Un estudio nuevo encuentra una posible excepción a las reglas: un agujero negro que gira extremadamente rápido podría dividirse en dos.",
-   "escena_3d": "Un agujero negro con disco de acreción girando cada vez más rápido hasta deformarse en 'pantalón' y separarse en dos.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
-    "https://earthsky.org/space/black-holes-split-entropy-pair-of-pants-topology/"
-   ]
-  },
-  {
-   "numero": 5,
-   "tema": "Nueva carrera a la Luna: el plan de China contra Artemis",
-   "gancho": "China ya dijo cómo va a poner a dos astronautas en la Luna… y la NASA aceleró su plan.",
-   "por_que_viral": "Rivalidad de potencias que todos entienden, fechas concretas y polémica en comentarios: ¿quién llega primero?",
-   "dato_principal": "China detalló una misión de dos lanzamientos con 3 astronautas, 2 de ellos bajan a la superficie, antes de 2030; la NASA reafirmó volver a pisar la Luna en 2028.",
-   "escena_3d": "La Tierra y la Luna con dos trayectorias en carrera: dos cohetes chinos que se encuentran en órbita lunar y la nave de Artemis, con un marcador de años.",
-   "fuentes": [
-    "https://news.cgtn.com/news/2026-11-01/China-unveils-detailed-two-launch-plan-for-first-manned-moon-landing-1RIAlmmOVgI/share_amp.html",
-    "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
-   ]
-  },
-  {
    "numero": 6,
-   "tema": "Dos naves de la NASA pasan junto a la Tierra este fin de semana para lanzarse a Marte (ESCAPADE)",
-   "gancho": "Este fin de semana dos naves rumbo a Marte van a pasar rozando la Tierra… a propósito.",
-   "por_que_viral": "Es un evento con fecha (7 y 9 de noviembre) y explica la 'honda gravitacional', un truco que sorprende a casi todos.",
+   "tema": "Confirman un tercer tipo de magnetismo: el altermagnetismo",
+   "gancho": "Durante casi 90 años creímos que solo había dos tipos de imanes… estábamos mal.",
+   "por_que_viral": "Rompe algo que se aprende en la escuela, y tiene aplicación cercana: memorias y computadoras más rápidas. Se presta para animación tipo 'pieza por pieza' (ingeniería), que es lo que más suscriptores ha traído.",
+   "dato_principal": "Investigadores de SLAC/Stanford confirmaron el altermagnetismo: los imanes atómicos vecinos apuntan en sentidos opuestos, pero cada uno está girado respecto al otro. Podría hacer memorias mucho más rápidas (verificar la cifra de 'hasta mil veces' antes de usarla).",
+   "escena_3d": "Una red cristalina con flechitas de espín: primero el imán normal (todas iguales), luego el antiferroimán (alternadas) y al final el altermagneto (alternadas y giradas), con zoom a un chip de memoria.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+    "https://news.stanford.edu/stories/2026/10/altermagnetism-magnetic-phase-research"
+   ]
+  },
+  {
+   "numero": 7,
+   "tema": "Dos naves rumbo a Marte pasan rozando la Tierra este fin de semana (ESCAPADE)",
+   "gancho": "Hoy dos naves rumbo a Marte pasan rozando la Tierra… a propósito.",
+   "por_que_viral": "Evento con fecha (7 y 9 de noviembre) que explica la 'honda gravitacional', un truco que sorprende a casi todos.",
    "dato_principal": "Las sondas gemelas Blue y Gold de la misión ESCAPADE, lanzadas en el New Glenn de Blue Origin, sobrevuelan la Tierra el 7 y el 9 de noviembre para ganar impulso hacia Marte.",
-   "escena_3d": "Las dos sondas en un largo lazo alrededor del Sol, regresando a la Tierra, curvándose con su gravedad y saliendo disparadas hacia Marte.",
+   "escena_3d": "Las dos sondas en un lazo alrededor del Sol, regresando a la Tierra, curvándose con su gravedad y saliendo disparadas hacia Marte.",
    "fuentes": [
     "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
     "https://earthsky.org/space/escapade-mission-mars-gold-and-blue-probes/"
    ]
   },
   {
-   "numero": 7,
-   "tema": "Perseverance rompe el récord: el vehículo que más ha manejado en otro mundo",
-   "gancho": "Ningún vehículo había manejado tanto fuera de la Tierra… hasta ahora.",
-   "por_que_viral": "Récord concreto y épico; el público mexicano conecta con la idea de 'un coche en Marte' y es fácil de comparar con distancias de la vida diaria.",
-   "dato_principal": "El rover Perseverance superó las 28 millas (unos 45 km) recorridas en Marte, el récord de distancia de un vehículo en otro mundo.",
-   "escena_3d": "El rover avanzando por el cráter Jezero con un odómetro gigante y su ruta trazándose en 3D sobre el terreno marciano.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261101010536.htm",
-    "https://www.popsci.com/science/nasa-perseverance-rover-distance-record/"
-   ]
-  },
-  {
    "numero": 8,
-   "tema": "Las 5 letras de tu ADN, encontradas en un asteroide",
-   "gancho": "Las cinco letras de tu ADN ya existían en el espacio hace 4,500 millones de años.",
-   "por_que_viral": "Conecta con el cuerpo del espectador y con la pregunta del origen de la vida.",
-   "dato_principal": "En muestras intactas del asteroide Ryugu (traídas por Hayabusa2) se hallaron adenina, guanina, citosina, timina y uracilo.",
-   "escena_3d": "Ryugu girando, la cápsula de Hayabusa2 bajando y una doble hélice que se arma letra por letra a partir del polvo.",
+   "tema": "Noviembre en el cielo: Leónidas, Marte junto a Júpiter y la primera de tres superlunas",
+   "gancho": "Este mes el cielo te da tres espectáculos gratis… y el último es una superluna.",
+   "por_que_viral": "Efeméride útil que la gente guarda y comparte para salir a verla; repite la fórmula del video 11 (estrellas fugaces), que coincidió con el mejor día de vistas del canal.",
+   "dato_principal": "Según NASA JPL: Marte y Júpiter a 1.2° antes del amanecer del 15 y 16 de nov; Leónidas el 17 y 18 de nov antes del amanecer (hasta ~15 por hora); superluna el 24 de nov, la primera de tres seguidas (dic y ene).",
+   "escena_3d": "Un cielo nocturno 3D sobre un horizonte mexicano con calendario: Marte y Júpiter acercándose, lluvia de meteoros saliendo de Leo y una Luna llena que crece hasta llenar la pantalla.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
-    "https://www.jamstec.go.jp/e/about/press_release/20260317/"
+    "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+    "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-leonid-meteor-shower/"
    ]
   }
  ]
