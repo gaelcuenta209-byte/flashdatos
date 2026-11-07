@@ -1,8 +1,12 @@
 {
  "fotos": [
-  {"nombre": "w07", "wiki": "Mercedes F1 W07 Hybrid"},
   {"nombre": "yasmarina", "archivo": "File:Yas_Marina_Circuit.png"},
-  {"nombre": "carbono", "wiki": "Carbon fibers"}
+  {"nombre": "carbono", "wiki": "Carbon fibers"},
+  {"nombre": "cronometro", "wiki": "Stopwatch"},
+  {"nombre": "bascula", "wiki": "Weighing scale"},
+  {"nombre": "bici", "wiki": "Road bicycle"},
+  {"nombre": "yasaerea", "wiki": "Yas Island"}
  ],
- "ancho": 1600
+ "ancho": 1600,
+ "intento": 2
 }
