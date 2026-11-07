@@ -1,0 +1,50 @@
+[
+ {
+  "nombre": "w07",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Nico_Rosberg_2016_Malaysia_FP2.jpg/1920px-Nico_Rosberg_2016_Malaysia_FP2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Nico_Rosberg_2016_Malaysia_FP2.jpg",
+  "autor": "Morio",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "atribucion": "",
+  "ancho_original": 3840,
+  "alto_original": 1920,
+  "archivo": "File:Nico_Rosberg_2016_Malaysia_FP2.jpg",
+  "fuente": "commons",
+  "ok": true,
+  "ruta": "videos/24-rosberg-casco/fotos/w07.jpg",
+  "bytes": 314599
+ },
+ {
+  "nombre": "yasmarina",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yas_Marina_Circuit.png/1920px-Yas_Marina_Circuit.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Yas_Marina_Circuit.png",
+  "autor": "Anthony Alessio Tralongo",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "atribucion": "",
+  "ancho_original": 13348,
+  "alto_original": 7367,
+  "archivo": "File:Yas_Marina_Circuit.png",
+  "fuente": "commons",
+  "ok": true,
+  "ruta": "videos/24-rosberg-casco/fotos/yasmarina.png",
+  "bytes": 249439
+ },
+ {
+  "nombre": "carbono",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Woven_carbon_fiber_fabric.jpg/1920px-Woven_carbon_fiber_fabric.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Woven_carbon_fiber_fabric.jpg",
+  "autor": "Acheolg",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "atribucion": "",
+  "ancho_original": 5504,
+  "alto_original": 4128,
+  "archivo": "File:Woven_carbon_fiber_fabric.jpg",
+  "fuente": "commons",
+  "ok": true,
+  "ruta": "videos/24-rosberg-casco/fotos/carbono.jpg",
+  "bytes": 485762
+ }
+]
