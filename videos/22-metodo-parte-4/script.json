@@ -1,0 +1,35 @@
+{
+ "id": "22",
+ "title": "El método Flash Datos · Parte 4: GitHub, el cerebro del canal",
+ "serie": "metodo",
+ "parte": 4,
+ "segments": [
+  {"id": "hook", "parts": [
+   {"say": "Este canal no vive en una computadora: vive en GitHub. Ese es su cerebro.",
+    "cap": "Este canal no vive en una COMPUTADORA: vive en GITHUB"}]},
+  {"id": "repo", "parts": [
+   {"say": "En un repositorio guardamos todo: el manual que siguen las tareas, los guiones, el historial de videos y las ideas.",
+    "cap": "En un REPOSITORIO está TODO: MANUAL, GUIONES, HISTORIAL e IDEAS"}]},
+  {"id": "nube", "parts": [
+   {"say": "Por eso todo funciona en la nube, sin que la computadora esté encendida.",
+    "cap": "Todo funciona en la NUBE, sin la COMPUTADORA encendida"}]},
+  {"id": "acciones", "parts": [
+   {"say": "Además, el repositorio tiene dos acciones automáticas.",
+    "cap": "DOS ACCIONES AUTOMÁTICAS"}]},
+  {"id": "voz", "parts": [
+   {"say": "La primera baja la voz que genera ElevenLabs.",
+    "cap": "ACCIÓN 1: baja la VOZ de ELEVENLABS"}]},
+  {"id": "medios", "parts": [
+   {"say": "La segunda sube el video terminado con un enlace público.",
+    "cap": "ACCIÓN 2: sube el VIDEO con un ENLACE PÚBLICO"}]},
+  {"id": "metricool", "parts": [
+   {"say": "Y ese enlace es el que usa Metricool para publicar.",
+    "cap": "Ese ENLACE lo usa METRICOOL para PUBLICAR"}]},
+  {"id": "cierre", "parts": [
+   {"say": "Así, GitHub guarda la memoria del canal y une cada paso del método.",
+    "cap": "GITHUB guarda la MEMORIA y une cada PASO"},
+   {"say": "En la parte cinco, cómo conectamos todas las inteligencias artificiales. Estén atentos para conocer el método.",
+    "cap": "PARTE 5: cómo CONECTAMOS todas las IAs. ¡Estén ATENTOS para conocer el MÉTODO!"}]}
+ ],
+ "ring_words": []
+}
