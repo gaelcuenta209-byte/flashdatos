@@ -476,6 +476,29 @@
    "titulo_tiktok": "⚡ Así funciona tu celular por dentro (iPhone Duo) 📱",
    "duracion_s": 102.4,
    "fecha_publicacion": "2026-11-06 10:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 22,
+   "serie": "metodo",
+   "parte": 4,
+   "tema": "El método Flash Datos · Parte 4/5: GitHub, el cerebro del canal",
+   "carpeta": "videos/22-metodo-parte-4",
+   "titulo": "⚡ Este canal no vive en una computadora: vive en GitHub (Parte 4/5) #shorts",
+   "titulo_tiktok": "⚡ GitHub: el cerebro de este canal (4/5) 🧠",
+   "descripcion": "⚡ Parte 4 de 5 de El método Flash Datos: GitHub es el cerebro del canal. Ahí vive todo (manual, guiones, historial e ideas) y dos acciones automáticas bajan la voz de ElevenLabs y suben el video con el enlace que usa Metricool. Mañana a las 10 p. m., la parte 5 y final: todo conectado. 🧠⚙️\n#github #inteligenciaartificial #automatizacion #claude #creadordecontenido #flashdatos",
+   "estado": "programado",
+   "fecha_programada": "2026-11-06 22:00 (CDMX)",
+   "duracion_s": 45.3,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-22/FlashDatos_22.mp4",
+   "metricool": {
+    "id": 419589177,
+    "uuid": "-8359521837914239776",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-8359521837914239776"
+   },
+   "elevenlabs": {
+    "flow_id": "JvgQxCi0wOrkJj7dK22v",
+    "generation_id": "zBEWZy76waNJJbOF14OV"
+   }
   }
  ]
 }

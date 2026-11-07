@@ -68,7 +68,9 @@
     "Ese enlace es el que usa Metricool para publicar."
    ],
    "avance": "En la parte cinco, cómo conectamos todas las IAs.",
-   "estado": "pendiente"
+   "estado": "programado",
+   "video": "22",
+   "fecha_programada": "2026-11-06 22:00 (CDMX)"
   },
   {
    "parte": 5,
