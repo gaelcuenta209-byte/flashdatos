@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07",
+ "actualizado": "2026-11-08",
  "pedidos": [],
  "elegida": null,
  "ideas": [
@@ -17,6 +17,30 @@
   },
   {
    "numero": 2,
+   "tema": "Las 5 'letras' del ADN y el ARN estaban en un asteroide de 4,500 millones de años (Ryugu)",
+   "gancho": "Las cinco letras con las que se escribe tu ADN… estaban en un asteroide.",
+   "por_que_viral": "Toca la gran pregunta de '¿de dónde venimos?' y abre debate en comentarios (¿la vida llegó del espacio?). ScienceDaily lo volvió a difundir el 3 de noviembre.",
+   "dato_principal": "En muestras intactas que la sonda japonesa Hayabusa2 trajo del asteroide Ryugu se encontraron las cinco bases del ADN y el ARN (adenina, guanina, citosina, timina y uracilo). El estudio salió en marzo de 2026 (JAMSTEC); no es vida, son sus 'piezas'.",
+   "escena_3d": "Hayabusa2 toca el asteroide Ryugu y sube una cápsula; zoom a un grano de polvo del que salen cinco moléculas que se acomodan en una doble hélice.",
+   "fuentes": [
+    "https://www.jamstec.go.jp/e/about/press_release/20260317/",
+    "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
+   ]
+  },
+  {
+   "numero": 3,
+   "tema": "Marte y Júpiter 'se tocan' en el cielo el 16 de noviembre (y en realidad están lejísimos)",
+   "gancho": "El 16 de noviembre Marte y Júpiter van a parecer pegados… pero los separan cientos de millones de kilómetros.",
+   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México antes del amanecer; el contraste 'se ven juntos / están lejísimos' sorprende y se comparte para avisar a otros.",
+   "dato_principal": "Antes del amanecer del 16 de noviembre de 2026, Marte y Júpiter quedan a solo 1.2° en el cielo (menos que el ancho de tu dedo con el brazo estirado), cerca de la estrella Régulo. Es solo perspectiva desde la Tierra (calcular la distancia real entre ambos para esa fecha antes de producir). Extra: superluna el 24 de noviembre a ~360,800 km.",
+   "escena_3d": "Vista desde la Tierra: dos puntos que se acercan en el cielo de madrugada; la cámara gira 90° al plano del Sistema Solar y muestra las órbitas reales con Marte y Júpiter alineados pero separados.",
+   "fuentes": [
+    "https://www.rmg.co.uk/stories/space-astronomy/astronomy/night-sky-highlights-november-2026",
+    "https://astrobackyard.com/november-2026-astronomy/"
+   ]
+  },
+  {
+   "numero": 4,
    "tema": "El cohete de Artemis II abrió un 'hueco' de 5,000 km en la atmósfera y desvió el GPS",
    "gancho": "Un cohete de la NASA abrió un hueco de 5,000 kilómetros en el cielo… y movió tu GPS.",
    "por_que_viral": "Conecta el espacio con algo que todos usan (el GPS del celular y del coche); la cifra de 5,000 km sobre América es impactante y la noticia es de esta semana.",
@@ -28,7 +52,7 @@
    ]
   },
   {
-   "numero": 3,
+   "numero": 5,
    "tema": "La Tierra tiene una segunda luna (2026 QQ8) y casi nadie lo notó",
    "gancho": "Desde abril la Tierra tiene una segunda luna… y casi nadie se dio cuenta.",
    "por_que_viral": "Dato sorprendente y fácil de repetir ('tenemos dos lunas'); tiene fecha de salida, así que es urgente. Space.com lo publicó el 5 de noviembre.",
@@ -40,31 +64,19 @@
    ]
   },
   {
-   "numero": 4,
-   "tema": "Nueva carrera a la Luna: China contra la NASA",
-   "gancho": "China ya dijo cómo va a poner a dos astronautas en la Luna… y la NASA dice que va a ganar.",
-   "por_que_viral": "Rivalidad de potencias que todos entienden, fechas concretas y polémica en comentarios (¿quién llega primero?). Hoy salió una entrevista del jefe de la NASA, Jared Isaacman, sobre esta carrera.",
-   "dato_principal": "China detalló una misión de dos lanzamientos con 3 astronautas, 2 de ellos bajan a la superficie, antes de 2030; la NASA reafirmó volver a pisar la Luna en 2028.",
-   "escena_3d": "La Tierra y la Luna con dos trayectorias en carrera: dos naves chinas que se juntan en órbita lunar y la nave de Artemis, con un marcador de años.",
-   "fuentes": [
-    "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
-    "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
-   ]
-  },
-  {
-   "numero": 5,
-   "tema": "La NASA corre para salvar al Hubble antes de que caiga como el Swift",
-   "gancho": "Esta semana se cayó un telescopio de la NASA… y el Hubble podría ser el siguiente.",
-   "por_que_viral": "Continúa la historia del Swift (video 14) con el telescopio más famoso del mundo y una carrera contra el tiempo.",
-   "dato_principal": "Tras más de 35 años en órbita, el Hubble pierde altura poco a poco; la NASA pidió ideas a la industria para elevarlo antes de una reentrada sin control.",
-   "escena_3d": "El Hubble sobre la Tierra, su órbita bajando en espiral y una nave de servicio que se acopla y lo empuja hacia arriba.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-    "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-   ]
-  },
-  {
    "numero": 6,
+   "tema": "Estrellas muertas que rompen uno de los límites más famosos de la física",
+   "gancho": "Hay un límite que ninguna estrella muerta podía romper… y los imanes podrían romperlo.",
+   "por_que_viral": "Idea de 'regla rota' con un número claro; se anima espectacular (estrella colapsando, campos magnéticos) y conecta con supernovas, que siempre jalan vistas.",
+   "dato_principal": "El límite de Chandrasekhar dice que una enana blanca no puede pasar de ~1.4 masas solares sin colapsar; simulaciones nuevas sugieren que campos magnéticos muy fuertes le permitirían llegar a ~2.4 masas solares, lo que explicaría supernovas demasiado brillantes.",
+   "escena_3d": "Una enana blanca que crece robando gas de su compañera; aparece un medidor '1.4 ☉' que se pone rojo, líneas de campo magnético la envuelven y el medidor sigue subiendo hasta 2.4 antes de la explosión.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+    "https://www.iisc.ac.in/events/strong-magnetic-fields-could-allow-white-dwarfs-to-grow-beyond-the-chandrasekhar-limit/"
+   ]
+  },
+  {
+   "numero": 7,
    "tema": "Confirman un tercer tipo de magnetismo: el altermagnetismo",
    "gancho": "Durante casi 90 años creímos que solo había dos tipos de imanes… estábamos mal.",
    "por_que_viral": "Rompe algo que se aprende en la escuela, y tiene aplicación cercana: memorias y computadoras más rápidas. Se presta para animación tipo 'pieza por pieza' (ingeniería), que es lo que más suscriptores ha traído.",
@@ -76,27 +88,15 @@
    ]
   },
   {
-   "numero": 7,
-   "tema": "Dos naves rumbo a Marte pasan rozando la Tierra este fin de semana (ESCAPADE)",
-   "gancho": "Hoy dos naves rumbo a Marte pasan rozando la Tierra… a propósito.",
-   "por_que_viral": "Evento con fecha (7 y 9 de noviembre) que explica la 'honda gravitacional', un truco que sorprende a casi todos.",
-   "dato_principal": "Las sondas gemelas Blue y Gold de la misión ESCAPADE, lanzadas en el New Glenn de Blue Origin, sobrevuelan la Tierra el 7 y el 9 de noviembre para ganar impulso hacia Marte.",
-   "escena_3d": "Las dos sondas en un lazo alrededor del Sol, regresando a la Tierra, curvándose con su gravedad y saliendo disparadas hacia Marte.",
-   "fuentes": [
-    "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
-    "https://earthsky.org/space/escapade-mission-mars-gold-and-blue-probes/"
-   ]
-  },
-  {
    "numero": 8,
-   "tema": "Noviembre en el cielo: Leónidas, Marte junto a Júpiter y la primera de tres superlunas",
-   "gancho": "Este mes el cielo te da tres espectáculos gratis… y el último es una superluna.",
-   "por_que_viral": "Efeméride útil que la gente guarda y comparte para salir a verla; repite la fórmula del video 11 (estrellas fugaces), que coincidió con el mejor día de vistas del canal.",
-   "dato_principal": "Según NASA JPL: Marte y Júpiter a 1.2° antes del amanecer del 15 y 16 de nov; Leónidas el 17 y 18 de nov antes del amanecer (hasta ~15 por hora); superluna el 24 de nov, la primera de tres seguidas (dic y ene).",
-   "escena_3d": "Un cielo nocturno 3D sobre un horizonte mexicano con calendario: Marte y Júpiter acercándose, lluvia de meteoros saliendo de Leo y una Luna llena que crece hasta llenar la pantalla.",
+   "tema": "El nuevo telescopio Rubin encontró dos 'vecinas' ocultas de la Vía Láctea",
+   "gancho": "Revisó solo el 7 % del cielo… y ya encontró dos vecinas escondidas de nuestra galaxia.",
+   "por_que_viral": "Número fácil de recordar (7 %) y promesa de 'cientos más'; el telescopio con la cámara más grande del mundo es un tema visual y nuevo.",
+   "dato_principal": "Con datos preliminares que cubren apenas el 7 % del cielo nocturno, el Observatorio Vera C. Rubin descubrió dos compañeras desconocidas de la Vía Láctea: una galaxia enana ultradébil y un cúmulo globular. Podría haber cientos más.",
+   "escena_3d": "La Vía Láctea completa vista desde fuera; un cono de 'escaneo' barre una franja del cielo y se encienden dos manchitas tenues que la cámara visita de cerca.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
-    "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-leonid-meteor-shower/"
+    "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+    "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites"
    ]
   }
  ]

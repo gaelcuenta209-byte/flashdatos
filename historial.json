@@ -534,7 +534,7 @@
    "tema": "Rosberg y los 80 gramos del casco: cómo le ganó a Hamilton en 2016",
    "carpeta": "videos/24-rosberg-casco",
    "fecha_programada": "2026-11-07 19:00 (CDMX)",
-   "estado": "programado",
+   "estado": "publicado",
    "nota": "Pedido directo del dueño en el chat el 2026-11-07 a las 16:01 con su propio guion ('súbelo a las 5', imágenes reales y efectos de sonido). No quedó listo para las 17:00; a las 18:42 pidió subirlo en cuanto estuviera: programado a las 19:00 en YouTube, Instagram y TikTok. Se corrigieron datos sin fuente (calcetines y filosofía) y se usaron fotos libres de Wikimedia Commons (sin fotos de pilotos). Voz acelerada 7.7 % y pausas acortadas para quedar en 179 s (Short).",
    "titulo": "⚡ Rosberg le quitó la PINTURA a su casco para ganarle a Hamilton 🏆 #shorts",
    "titulo_tiktok": "⚡ 80 gramos para ser campeón de F1 🏆",
@@ -545,7 +545,12 @@
     "uuid": "7025462527977670568",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=7025462527977670568"
    },
-   "duracion_s": 179.0
+   "duracion_s": 179.0,
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/DzKntNzNgwM",
+    "instagram": "https://www.instagram.com/reel/Dfdh_W1DV5x/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7705599826196499720"
+   }
   },
   {
    "numero": 25,
@@ -556,7 +561,7 @@
    "titulo": "⚡ Este canal se publica SOLO: así conectamos todas las IAs (Parte 5/5) #shorts",
    "titulo_tiktok": "⚡ Así este canal se publica solo (5/5) 🤖",
    "descripcion": "⚡ Parte 5 de 5 y final de El método Flash Datos: Metricool publica en YouTube, Instagram y TikTok, y cada día corren tres tareas de Claude (reporte, video y verificación). Nosotros solo damos el sí. Es la última parte: ya no hay siguiente, ¡gracias por ver la serie completa! 🤖⚡\n#inteligenciaartificial #automatizacion #claude #metricool #creadordecontenido #flashdatos",
-   "estado": "programado",
+   "estado": "publicado",
    "fecha_programada": "2026-11-07 22:00 (CDMX)",
    "duracion_s": 42.8,
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-25/FlashDatos_25.mp4",
@@ -568,6 +573,11 @@
    "elevenlabs": {
     "flow_id": "jS0sVRLKsHWVsbh0O9Lw",
     "generation_id": "CtQLAYZPFp3qDF1SnLwd"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/nNKMXXRKxg0",
+    "instagram": "https://www.instagram.com/reel/Dfd2ddomh6D/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7705645973438991636"
    }
   }
  ]
