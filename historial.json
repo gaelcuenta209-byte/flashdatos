@@ -579,6 +579,23 @@
     "instagram": "https://www.instagram.com/reel/Dfd2ddomh6D/",
     "tiktok": "https://www.tiktok.com/@TurboDatos/video/7705645973438991636"
    }
+  },
+  {
+   "numero": 26,
+   "tema": "Las mejores vueltas de clasificación de la historia de la F1 (top 5)",
+   "carpeta": "videos/26-mejores-clasificaciones-f1",
+   "fecha_programada": "2026-11-08 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "nota": "Pedido del dueño para hoy (ideas.json → pedidos): con fotos libres de Wikimedia Commons y mínimo 1 minuto.",
+   "titulo": "⚡ Las 5 MEJORES vueltas de clasificación de la historia de la F1 🏎️ #shorts",
+   "titulo_tiktok": "⚡ Las 5 mejores vueltas de clasificación de la F1 🏎️",
+   "descripcion": "⚡ Cinco de las mejores vueltas de clasificación de la historia de la F1: Verstappen en Mónaco 2023, Hamilton en Singapur 2018, Keke Rosberg en Silverstone 1985, el récord de Verstappen en Monza 2025 y la vuelta perfecta de Senna en Mónaco 1988. ¿Cuál agregarías tú? 🏎️⏱️\nFuentes: McLaren, Formula1.com, Motorsport.com, AP y RACER. Fotos y mapas: Wikimedia Commons (CC BY-SA / CC0).\n#f1 #formula1 #senna #verstappen #hamilton #shorts",
+   "duracion_s": 108.3,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-26/FlashDatos_26.mp4",
+   "elevenlabs": {
+    "flow_id": "AtrfQyRepbDPlp3fM9Fd",
+    "generation_id": "mD2JFsdIO4rhCCBjuIyR"
+   }
   }
  ]
 }
