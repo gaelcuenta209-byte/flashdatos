@@ -1,0 +1,144 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 106.27,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 10.81,
+   "say": "Casi un segundo y medio más rápido que su compañero… con el mismo auto. Estas son cinco de las mejores vueltas de clasificación en la historia de la Fórmula uno.",
+   "parts": [
+    [
+     0.1,
+     4.96,
+     "Casi 1.5 SEGUNDOS más rápido que su compañero… con el MISMO auto."
+    ],
+    [
+     5.57,
+     10.81,
+     "5 de las MEJORES vueltas de clasificación de la historia de la F1."
+    ]
+   ]
+  },
+  {
+   "id": "n5",
+   "t0": 11.51,
+   "t1": 25.76,
+   "say": "Número cinco: Max Verstappen, Mónaco, dos mil veintitrés. Llegó al último sector perdiendo contra Fernando Alonso. Rozó los muros, lo arriesgó todo… y le quitó la pole por ochenta y cuatro milésimas.",
+   "parts": [
+    [
+     11.51,
+     15.86,
+     "#5 · VERSTAPPEN · Mónaco 2023"
+    ],
+    [
+     16.4,
+     25.76,
+     "Iba PERDIENDO contra Alonso… rozó los MUROS y ganó la pole por 0.084 s."
+    ]
+   ]
+  },
+  {
+   "id": "n4",
+   "t0": 26.32,
+   "t1": 41.88,
+   "say": "Número cuatro: Lewis Hamilton, Singapur, dos mil dieciocho. Fue una pole sorpresa: le sacó tres décimas a Verstappen en uno de los circuitos callejeros más difíciles del calendario. Él dijo que esa vuelta se sintió como magia.",
+   "parts": [
+    [
+     26.32,
+     30.35,
+     "#4 · HAMILTON · Singapur 2018"
+    ],
+    [
+     30.88,
+     41.88,
+     "Pole SORPRESA: 3 DÉCIMAS sobre Verstappen en un callejero DIFÍCIL. \"Se sintió como MAGIA\"."
+    ]
+   ]
+  },
+  {
+   "id": "n3",
+   "t0": 42.4,
+   "t1": 61.74,
+   "say": "Número tres: Keke Rosberg, el papá de Nico, en Silverstone, mil novecientos ochenta y cinco. Su primer intento lo dio con una llanta perdiendo aire. En el siguiente, su Williams promedió doscientos cincuenta y nueve kilómetros por hora. Fue la vuelta más rápida de la Fórmula uno durante diecisiete años.",
+   "parts": [
+    [
+     42.4,
+     48.37,
+     "#3 · KEKE ROSBERG · Silverstone 1985"
+    ],
+    [
+     48.81,
+     56.98,
+     "1.er intento: llanta PERDIENDO AIRE. En el siguiente promedió 259 KM/H."
+    ],
+    [
+     57.33,
+     61.74,
+     "Fue el RÉCORD de la F1 durante 17 AÑOS."
+    ]
+   ]
+  },
+  {
+   "id": "n2",
+   "t0": 62.15,
+   "t1": 81.89,
+   "say": "Número dos: Max Verstappen, Monza, dos mil veinticinco. Un minuto, dieciocho segundos, setecientas noventa y dos milésimas. Un promedio de doscientos sesenta y cuatro punto siete kilómetros por hora. Le quitó el récord a Hamilton, y hoy sigue siendo la vuelta más rápida de la historia de la Fórmula uno.",
+   "parts": [
+    [
+     62.15,
+     66.25,
+     "#2 · VERSTAPPEN · Monza 2025"
+    ],
+    [
+     66.66,
+     75.56,
+     "1:18.792 a un promedio de 264.7 KM/H."
+    ],
+    [
+     75.97,
+     81.89,
+     "Sigue siendo la vuelta MÁS RÁPIDA de la historia de la F1."
+    ]
+   ]
+  },
+  {
+   "id": "n1",
+   "t0": 82.39,
+   "t1": 99.37,
+   "say": "Y el número uno: Ayrton Senna, Mónaco, mil novecientos ochenta y ocho. Alain Prost tenía el mismo McLaren, y aun así Senna le sacó un segundo y cuatro décimas. Senna contó que el circuito se volvió un túnel, y que ya no estaba manejando de forma consciente.",
+   "parts": [
+    [
+     82.39,
+     87.11,
+     "#1 · AYRTON SENNA · Mónaco 1988"
+    ],
+    [
+     87.5,
+     92.75,
+     "Prost tenía el MISMO McLaren… y Senna le sacó 1.427 s."
+    ],
+    [
+     92.88,
+     99.37,
+     "\"El circuito era un TÚNEL… ya no manejaba de forma CONSCIENTE.\""
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 99.88,
+   "t1": 106.16,
+   "say": "Por eso, casi cuarenta años después, esa vuelta sigue siendo la referencia de la vuelta perfecta.",
+   "parts": [
+    [
+     99.88,
+     106.16,
+     "Casi 40 AÑOS después, sigue siendo LA VUELTA PERFECTA."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 108.26
+}
