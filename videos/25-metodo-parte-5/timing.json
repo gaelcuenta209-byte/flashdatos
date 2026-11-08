@@ -1,0 +1,117 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 40.91,
+ "segments": [
+  {
+   "id": "hook",
+   "t0": 0.1,
+   "t1": 5.08,
+   "say": "Este video salió solo, a la hora exacta, sin que nadie apretara publicar.",
+   "parts": [
+    [
+     0.1,
+     5.08,
+     "Este video salió SOLO, sin que nadie apretara PUBLICAR"
+    ]
+   ]
+  },
+  {
+   "id": "metricool",
+   "t0": 5.63,
+   "t1": 11.72,
+   "say": "El último eslabón es Metricool: publica en YouTube, Instagram y TikTok a la hora que programamos.",
+   "parts": [
+    [
+     5.63,
+     11.72,
+     "METRICOOL publica en YOUTUBE, INSTAGRAM y TIKTOK a la HORA programada"
+    ]
+   ]
+  },
+  {
+   "id": "tareas",
+   "t0": 12.11,
+   "t1": 14.97,
+   "say": "Y cada día corren tres tareas programadas de Claude.",
+   "parts": [
+    [
+     12.11,
+     14.97,
+     "Cada día corren TRES TAREAS de CLAUDE"
+    ]
+   ]
+  },
+  {
+   "id": "manana",
+   "t0": 15.45,
+   "t1": 20.51,
+   "say": "En la mañana, un reporte con las estadísticas e ideas con potencial viral.",
+   "parts": [
+    [
+     15.45,
+     20.51,
+     "MAÑANA: REPORTE con ESTADÍSTICAS e IDEAS virales"
+    ]
+   ]
+  },
+  {
+   "id": "video",
+   "t0": 20.68,
+   "t1": 25.24,
+   "say": "Luego, el video del día: guion, voz, animación y el enlace para publicar.",
+   "parts": [
+    [
+     20.68,
+     25.24,
+     "LUEGO: el VIDEO del DÍA: GUION, VOZ, ANIMACIÓN y ENLACE"
+    ]
+   ]
+  },
+  {
+   "id": "tarde",
+   "t0": 25.62,
+   "t1": 28.36,
+   "say": "Y en la tarde, la verificación de que todo salió.",
+   "parts": [
+    [
+     25.62,
+     28.36,
+     "TARDE: VERIFICA que todo SALIÓ"
+    ]
+   ]
+  },
+  {
+   "id": "si",
+   "t0": 28.82,
+   "t1": 33.13,
+   "say": "Nosotros solo damos el sí. Y si algo falla, nos llega un aviso al celular.",
+   "parts": [
+    [
+     28.82,
+     33.13,
+     "Nosotros solo damos el SÍ. Si algo FALLA, llega un AVISO al CELULAR"
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 33.53,
+   "t1": 40.8,
+   "say": "Ese es el método completo: del primer mensaje a un canal que funciona solo. Gracias por acompañarnos en esta serie.",
+   "parts": [
+    [
+     33.53,
+     38.44,
+     "Ese es el MÉTODO COMPLETO: del PRIMER MENSAJE a un canal que funciona SOLO"
+    ],
+    [
+     38.89,
+     40.8,
+     "¡GRACIAS por acompañarnos en esta SERIE!"
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 42.8
+}
