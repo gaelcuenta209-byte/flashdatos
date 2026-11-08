@@ -585,7 +585,7 @@
    "tema": "Las mejores vueltas de clasificación de la historia de la F1 (top 5)",
    "carpeta": "videos/26-mejores-clasificaciones-f1",
    "fecha_programada": "2026-11-08 17:00 (CDMX)",
-   "estado": "programado",
+   "estado": "publicado",
    "nota": "Pedido del dueño para hoy (ideas.json → pedidos): con fotos libres de Wikimedia Commons y mínimo 1 minuto. Aprobado por el dueño en el chat (\"Si súbelo\") a las 16:09; programado a las 17:00 en YouTube, Instagram y TikTok.",
    "titulo": "⚡ Las 5 MEJORES vueltas de clasificación de la historia de la F1 🏎️ #shorts",
    "titulo_tiktok": "⚡ Las 5 mejores vueltas de clasificación de la F1 🏎️",
@@ -600,6 +600,11 @@
     "id": 421134751,
     "uuid": "-8105812273378670982",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-8105812273378670982"
+   },
+   "enlaces": {
+    "youtube": "https://www.youtube.com/shorts/8hGpHBw-6kY",
+    "instagram": "https://www.instagram.com/reel/Dff5IplDmsm/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7705939082609773825"
    }
   }
  ]
