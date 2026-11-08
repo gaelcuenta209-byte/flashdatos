@@ -528,6 +528,24 @@
     "tiktok": "https://www.tiktok.com/@TurboDatos/video/7705461619341446420"
    },
    "fecha_publicacion": "2026-11-07 10:00 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 24,
+   "tema": "Rosberg y los 80 gramos del casco: cómo le ganó a Hamilton en 2016",
+   "carpeta": "videos/24-rosberg-casco",
+   "fecha_programada": "2026-11-07 19:00 (CDMX)",
+   "estado": "programado",
+   "nota": "Pedido directo del dueño en el chat el 2026-11-07 a las 16:01 con su propio guion ('súbelo a las 5', imágenes reales y efectos de sonido). No quedó listo para las 17:00; a las 18:42 pidió subirlo en cuanto estuviera: programado a las 19:00 en YouTube, Instagram y TikTok. Se corrigieron datos sin fuente (calcetines y filosofía) y se usaron fotos libres de Wikimedia Commons (sin fotos de pilotos). Voz acelerada 7.7 % y pausas acortadas para quedar en 179 s (Short).",
+   "titulo": "⚡ Rosberg le quitó la PINTURA a su casco para ganarle a Hamilton 🏆 #shorts",
+   "titulo_tiktok": "⚡ 80 gramos para ser campeón de F1 🏆",
+   "descripcion": "⚡ Nico Rosberg le quitó la pintura a su casco para ahorrar 80 gramos. Así de lejos llegó para vencer a Hamilton con el mismo Mercedes y ser campeón de F1 en 2016. 🏎️🏆\nFuentes: Formula1.com y PlanetF1. Fotos: Wikimedia Commons (CC BY-SA).\n#f1 #formula1 #rosberg #hamilton #mercedes #shorts",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-24/FlashDatos_24.mp4",
+   "metricool": {
+    "id": 420374137,
+    "uuid": "7025462527977670568",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=7025462527977670568"
+   },
+   "duracion_s": 179.0
   }
  ]
 }
