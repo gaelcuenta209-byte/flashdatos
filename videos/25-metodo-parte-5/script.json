@@ -1,0 +1,85 @@
+{
+ "id": "25",
+ "title": "El método Flash Datos · Parte 5: todo conectado, así funciona solo",
+ "serie": "metodo",
+ "parte": 5,
+ "segments": [
+  {
+   "id": "hook",
+   "parts": [
+    {
+     "say": "Este video salió solo, a la hora exacta, sin que nadie apretara publicar.",
+     "cap": "Este video salió SOLO, sin que nadie apretara PUBLICAR"
+    }
+   ]
+  },
+  {
+   "id": "metricool",
+   "parts": [
+    {
+     "say": "El último eslabón es Metricool: publica en YouTube, Instagram y TikTok a la hora que programamos.",
+     "cap": "METRICOOL publica en YOUTUBE, INSTAGRAM y TIKTOK a la HORA programada"
+    }
+   ]
+  },
+  {
+   "id": "tareas",
+   "parts": [
+    {
+     "say": "Y cada día corren tres tareas programadas de Claude.",
+     "cap": "Cada día corren TRES TAREAS de CLAUDE"
+    }
+   ]
+  },
+  {
+   "id": "manana",
+   "parts": [
+    {
+     "say": "En la mañana, un reporte con las estadísticas e ideas con potencial viral.",
+     "cap": "MAÑANA: REPORTE con ESTADÍSTICAS e IDEAS virales"
+    }
+   ]
+  },
+  {
+   "id": "video",
+   "parts": [
+    {
+     "say": "Luego, el video del día: guion, voz, animación y el enlace para publicar.",
+     "cap": "LUEGO: el VIDEO del DÍA: GUION, VOZ, ANIMACIÓN y ENLACE"
+    }
+   ]
+  },
+  {
+   "id": "tarde",
+   "parts": [
+    {
+     "say": "Y en la tarde, la verificación de que todo salió.",
+     "cap": "TARDE: VERIFICA que todo SALIÓ"
+    }
+   ]
+  },
+  {
+   "id": "si",
+   "parts": [
+    {
+     "say": "Nosotros solo damos el sí. Y si algo falla, nos llega un aviso al celular.",
+     "cap": "Nosotros solo damos el SÍ. Si algo FALLA, llega un AVISO al CELULAR"
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Ese es el método completo: del primer mensaje a un canal que funciona solo.",
+     "cap": "Ese es el MÉTODO COMPLETO: del PRIMER MENSAJE a un canal que funciona SOLO"
+    },
+    {
+     "say": "Gracias por acompañarnos en esta serie.",
+     "cap": "¡GRACIAS por acompañarnos en esta SERIE!"
+    }
+   ]
+  }
+ ],
+ "ring_words": []
+}
