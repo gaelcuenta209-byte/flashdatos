@@ -1,0 +1,16 @@
+{
+ "fotos": [
+  {"nombre": "monaco", "wiki": "Circuit de Monaco"},
+  {"nombre": "montecarlo", "wiki": "Monte Carlo"},
+  {"nombre": "marinabay", "wiki": "Marina Bay Street Circuit"},
+  {"nombre": "silverstone", "wiki": "Silverstone Circuit"},
+  {"nombre": "monza", "wiki": "Monza Circuit"},
+  {"nombre": "mp44", "wiki": "McLaren MP4/4"},
+  {"nombre": "fw10", "wiki": "Williams FW10"},
+  {"nombre": "rb19", "wiki": "Red Bull Racing RB19"},
+  {"nombre": "rb21", "wiki": "Red Bull RB21"},
+  {"nombre": "w09", "wiki": "Mercedes AMG F1 W09 EQ Power+"},
+  {"nombre": "cronometro", "wiki": "Stopwatch"}
+ ],
+ "ancho": 1600
+}

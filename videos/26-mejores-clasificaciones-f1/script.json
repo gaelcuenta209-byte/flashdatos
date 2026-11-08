@@ -1,0 +1,57 @@
+{
+ "id": "26",
+ "title": "Las mejores vueltas de clasificación de la historia de la F1",
+ "segments": [
+  {
+   "id": "gancho",
+   "parts": [
+    {"say": "Casi un segundo y medio más rápido que su compañero… con el mismo auto.", "cap": "Casi 1.5 SEGUNDOS más rápido que su compañero… con el MISMO auto."},
+    {"say": "Estas son cinco de las mejores vueltas de clasificación en la historia de la Fórmula uno.", "cap": "5 de las MEJORES vueltas de clasificación de la historia de la F1."}
+   ]
+  },
+  {
+   "id": "n5",
+   "parts": [
+    {"say": "Número cinco: Max Verstappen, Mónaco, dos mil veintitrés.", "cap": "#5 · VERSTAPPEN · Mónaco 2023"},
+    {"say": "Llegó al último sector perdiendo contra Fernando Alonso. Rozó los muros, lo arriesgó todo… y le quitó la pole por ochenta y cuatro milésimas.", "cap": "Iba PERDIENDO… rozó los muros y ganó la pole por 0.084 s."}
+   ]
+  },
+  {
+   "id": "n4",
+   "parts": [
+    {"say": "Número cuatro: Lewis Hamilton, Singapur, dos mil dieciocho.", "cap": "#4 · HAMILTON · Singapur 2018"},
+    {"say": "Fue una pole sorpresa: le sacó tres décimas a Verstappen en uno de los circuitos callejeros más difíciles del calendario. Él dijo que esa vuelta se sintió como magia.", "cap": "Le sacó 3 DÉCIMAS a Verstappen. Él dijo: \"se sintió como MAGIA\"."}
+   ]
+  },
+  {
+   "id": "n3",
+   "parts": [
+    {"say": "Número tres: Keke Rosberg, el papá de Nico, en Silverstone, mil novecientos ochenta y cinco.", "cap": "#3 · KEKE ROSBERG · Silverstone 1985"},
+    {"say": "Su primer intento lo dio con una llanta perdiendo aire. En el siguiente, su Williams promedió doscientos cincuenta y nueve kilómetros por hora.", "cap": "Promedió 259 KM/H en una vuelta completa."},
+    {"say": "Fue la vuelta más rápida de la Fórmula uno durante diecisiete años.", "cap": "Fue el RÉCORD de la F1 durante 17 AÑOS."}
+   ]
+  },
+  {
+   "id": "n2",
+   "parts": [
+    {"say": "Número dos: Max Verstappen, Monza, dos mil veinticinco.", "cap": "#2 · VERSTAPPEN · Monza 2025"},
+    {"say": "Un minuto, dieciocho segundos, setecientas noventa y dos milésimas. Un promedio de doscientos sesenta y cuatro punto siete kilómetros por hora.", "cap": "1:18.792 · promedio de 264.7 KM/H"},
+    {"say": "Le quitó el récord a Hamilton, y hoy sigue siendo la vuelta más rápida de la historia de la Fórmula uno.", "cap": "Sigue siendo la vuelta MÁS RÁPIDA de la historia de la F1."}
+   ]
+  },
+  {
+   "id": "n1",
+   "parts": [
+    {"say": "Y el número uno: Ayrton Senna, Mónaco, mil novecientos ochenta y ocho.", "cap": "#1 · AYRTON SENNA · Mónaco 1988"},
+    {"say": "Alain Prost tenía el mismo McLaren, y aun así Senna le sacó un segundo y cuatro décimas.", "cap": "Prost tenía el MISMO McLaren… y Senna le sacó 1.427 s."},
+    {"say": "Senna contó que el circuito se volvió un túnel, y que ya no estaba manejando de forma consciente.", "cap": "\"El circuito era un TÚNEL… ya no manejaba de forma CONSCIENTE.\""}
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {"say": "Por eso, casi cuarenta años después, esa vuelta sigue siendo la referencia de la vuelta perfecta.", "cap": "Casi 40 AÑOS después, sigue siendo LA VUELTA PERFECTA."}
+   ]
+  }
+ ]
+}
