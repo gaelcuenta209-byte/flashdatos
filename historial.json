@@ -546,6 +546,29 @@
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=7025462527977670568"
    },
    "duracion_s": 179.0
+  },
+  {
+   "numero": 25,
+   "serie": "metodo",
+   "parte": 5,
+   "tema": "El método Flash Datos · Parte 5/5: todo conectado, así funciona solo",
+   "carpeta": "videos/25-metodo-parte-5",
+   "titulo": "⚡ Este canal se publica SOLO: así conectamos todas las IAs (Parte 5/5) #shorts",
+   "titulo_tiktok": "⚡ Así este canal se publica solo (5/5) 🤖",
+   "descripcion": "⚡ Parte 5 de 5 y final de El método Flash Datos: Metricool publica en YouTube, Instagram y TikTok, y cada día corren tres tareas de Claude (reporte, video y verificación). Nosotros solo damos el sí. Es la última parte: ya no hay siguiente, ¡gracias por ver la serie completa! 🤖⚡\n#inteligenciaartificial #automatizacion #claude #metricool #creadordecontenido #flashdatos",
+   "estado": "programado",
+   "fecha_programada": "2026-11-07 22:00 (CDMX)",
+   "duracion_s": 42.8,
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-25/FlashDatos_25.mp4",
+   "metricool": {
+    "id": 420395387,
+    "uuid": "5855207840018417387",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=5855207840018417387"
+   },
+   "elevenlabs": {
+    "flow_id": "jS0sVRLKsHWVsbh0O9Lw",
+    "generation_id": "CtQLAYZPFp3qDF1SnLwd"
+   }
   }
  ]
 }

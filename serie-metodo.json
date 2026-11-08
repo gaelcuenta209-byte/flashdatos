@@ -83,7 +83,9 @@
     "Cierre de la serie: ese es el método completo, del primer mensaje a un canal que funciona solo."
    ],
    "avance": null,
-   "estado": "pendiente"
+   "estado": "programado",
+   "video": "25",
+   "fecha_programada": "2026-11-07 22:00 (CDMX)"
   }
  ]
 }
