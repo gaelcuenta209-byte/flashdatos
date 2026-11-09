@@ -1,0 +1,44 @@
+{
+ "id": "27",
+ "title": "Flipper Zero y Flipper One: cómo funcionan y por qué todos hablan del One",
+ "segments": [
+  {"id": "gancho", "parts": [
+   {"say": "El aparato hacker que Canadá quiso prohibir ya tiene hermano mayor… y no es lo que todos esperaban.",
+    "cap": "El aparato HACKER que CANADÁ quiso PROHIBIR ya tiene HERMANO MAYOR… y no es lo que todos esperaban."}
+  ]},
+  {"id": "zero", "parts": [
+   {"say": "Primero, el Flipper Zero: cabe en la mano, cuesta ciento sesenta y nueve dólares, y según su creador ya hay cerca de un millón en el mundo.",
+    "cap": "Primero, el FLIPPER ZERO: cabe en la mano, cuesta $169, y según su creador ya hay cerca de 1 MILLÓN en el mundo."}
+  ]},
+  {"id": "funciona", "parts": [
+   {"say": "¿Cómo funciona? Escucha señales invisibles, las guarda… y las repite.",
+    "cap": "¿Cómo funciona? ESCUCHA señales invisibles, las GUARDA… y las REPITE."},
+   {"say": "Tiene radio para controles de portones, ene efe ce y erre efe i de para tarjetas de acceso, e infrarrojo para teles y aires acondicionados.",
+    "cap": "Tiene RADIO para controles de portones, NFC y RFID para TARJETAS de acceso, e INFRARROJO para teles y aires acondicionados."},
+   {"say": "Y todo lo maneja un delfín virtual que sube de nivel mientras lo usas.",
+    "cap": "Y todo lo maneja un DELFÍN VIRTUAL que sube de NIVEL mientras lo usas."}
+  ]},
+  {"id": "polemica", "parts": [
+   {"say": "En dos mil veinticuatro, Canadá lo quiso prohibir por los robos de autos.",
+    "cap": "En 2024, CANADÁ lo quiso PROHIBIR por los robos de AUTOS."},
+   {"say": "Pero las llaves de los autos modernos cambian su código en cada clic, y al final no lo prohibió.",
+    "cap": "Pero las llaves de los autos modernos CAMBIAN su código en cada clic, y al final NO lo prohibió."}
+  ]},
+  {"id": "one", "parts": [
+   {"say": "Ahora, el Flipper One. No es un Zero dos: es una computadora con Linux de bolsillo.",
+    "cap": "Ahora, el FLIPPER ONE. No es un Zero 2: es una COMPUTADORA con LINUX de bolsillo."},
+   {"say": "Ocho núcleos, ocho gigas de ram y un chip de inteligencia artificial: potencia parecida a una Raspberry Pi cinco.",
+    "cap": "8 NÚCLEOS, 8 GB de RAM y un chip de INTELIGENCIA ARTIFICIAL: potencia parecida a una RASPBERRY PI 5."},
+   {"say": "Dos puertos de red, wifi, hache de eme i y una ranura para meterle cinco ge o un disco. Puede ser router, ve pe ene o laboratorio de redes.",
+    "cap": "2 puertos de RED, WIFI, HDMI y una ranura para meterle 5G o un DISCO. Puede ser ROUTER, VPN o laboratorio de REDES."}
+  ]},
+  {"id": "porque", "parts": [
+   {"say": "¿Y por qué todos hablan de él? Porque acaban de abrir las reservas: veinte dólares para apartarlo, y desde trescientos setenta y nueve en Kickstarter.",
+    "cap": "¿Y por qué TODOS hablan de él? Porque acaban de abrir las RESERVAS: $20 para apartarlo, y desde $379 en KICKSTARTER."}
+  ]},
+  {"id": "cierre", "parts": [
+   {"say": "En resumen: el Zero habla con lo que tienes cerca, y el One, con redes enteras. Hermanos, sí. Gemelos, no.",
+    "cap": "En resumen: el ZERO habla con lo que tienes CERCA, y el ONE, con REDES ENTERAS. Hermanos, SÍ. Gemelos, NO."}
+  ]}
+ ]
+}
