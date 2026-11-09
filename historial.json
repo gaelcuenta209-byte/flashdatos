@@ -615,11 +615,11 @@
    "titulo_tiktok": "⚡ Flipper Zero vs Flipper One: hermanos, no gemelos 📡",
    "descripcion": "⚡ El Flipper Zero escucha, guarda y repite señales: radio, NFC, RFID e infrarrojo. El Flipper One es otra cosa: una computadora con Linux de bolsillo para redes, y acaba de abrir reservas ($20 para apartarlo, desde $379 en Kickstarter). Usarlos en lo que no es tuyo es ilegal.\nFuentes: Flipper Devices, CNX Software, Tom's Hardware, Habr e iXBT.\n#flipperzero #flipperone #tecnologia #ciberseguridad #linux #datoscuriosos",
    "fecha_programada": "2026-11-09 07:06 (CDMX)",
-   "estado": "programado",
+   "estado": "publicado",
    "enlaces": {
-    "youtube": null,
-    "instagram": null,
-    "tiktok": null
+    "youtube": "https://www.youtube.com/shorts/vYZKbROs7X8",
+    "instagram": "https://www.instagram.com/reel/DfhZn0UEqWT/",
+    "tiktok": "https://www.tiktok.com/@TurboDatos/video/7706157473668877588"
    },
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-27/FlashDatos_27.mp4",
    "metricool": {
@@ -627,7 +627,8 @@
     "uuid": "-5362468231935868125",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-5362468231935868125"
    },
-   "nota": "Pedido directo del dueño en el chat el 2026-11-08 a las 21:33: video del Flipper Zero y el Flipper One con animación más enganchadora, 'en cuanto lo tengas súbelo'. Quedó listo el 2026-11-09 a las 6:50 y se programó a las 7:06 en YouTube, Instagram y TikTok. Es el video de hoy: la tarea de las 9:00 no produce otro. Animación nueva: subtítulos palabra por palabra, cámara con zoom en palabras clave, transiciones glitch, barra de progreso y capítulos."
+   "nota": "Pedido directo del dueño en el chat el 2026-11-08 a las 21:33: video del Flipper Zero y el Flipper One con animación más enganchadora, 'en cuanto lo tengas súbelo'. Quedó listo el 2026-11-09 a las 6:50 y se programó a las 7:06 en YouTube, Instagram y TikTok. Es el video de hoy: la tarea de las 9:00 no produce otro. Animación nueva: subtítulos palabra por palabra, cámara con zoom en palabras clave, transiciones glitch, barra de progreso y capítulos.",
+   "fecha_publicacion": "2026-11-09 07:06 (CDMX), YouTube, Instagram y TikTok"
   }
  ]
 }
