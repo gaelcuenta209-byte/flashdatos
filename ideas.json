@@ -1,102 +1,102 @@
 {
- "actualizado": "2026-11-08",
+ "actualizado": "2026-11-09",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Encuentran sangre de dinosaurio de 115 millones de años",
-   "gancho": "Encontraron sangre de dinosaurio… y tiene 115 millones de años.",
-   "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; es noticia de esta semana (6 nov) y provoca debate en comentarios (¿se podrá clonar uno?).",
-   "dato_principal": "Un estudio confirmó químicamente rastros de sangre (glóbulos rojos) dentro de huesos de dinosaurio de 115 millones de años; se creía que algo así no podía conservarse.",
-   "escena_3d": "Un dinosaurio caminando que se vuelve fósil; la cámara entra al hueso, recorre los canales de los vasos y llega a glóbulos rojos petrificados que brillan.",
+   "tema": "Marte podría seguir vivo: sale un gas volcánico de sus grietas (Alba Mons)",
+   "gancho": "Creíamos que Marte estaba muerto… pero de sus grietas está saliendo gas volcánico.",
+   "por_que_viral": "Rompe una idea que todos tienen ('Marte es un planeta muerto'), es noticia de esta semana (4–7 nov, ESA y National Geographic) y abre la pregunta que más comentarios genera: ¿puede haber vida?",
+   "dato_principal": "La sonda ExoMars Trace Gas Orbiter de la ESA detectó cloruro de hidrógeno sobre grietas de cientos de metros en las laderas del volcán Alba Mons; saldría a menos de 3 kg por segundo, como los volcanes más tranquilos de la Tierra. No se ha visto una erupción: decirlo como 'podría seguir activo'.",
+   "escena_3d": "Marte rojo girando; la cámara baja al gigantesco volcán Alba Mons, entra a las grietas y salen hilos de gas verde; la sonda pasa por encima midiendo.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-    "https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims"
+    "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+    "https://www.nationalgeographic.com/science/article/mars-volcano-gas-hydrogen-chloride"
    ]
   },
   {
    "numero": 2,
-   "tema": "Las 5 'letras' del ADN y el ARN estaban en un asteroide de 4,500 millones de años (Ryugu)",
-   "gancho": "Las cinco letras con las que se escribe tu ADN… estaban en un asteroide.",
-   "por_que_viral": "Toca la gran pregunta de '¿de dónde venimos?' y abre debate en comentarios (¿la vida llegó del espacio?). ScienceDaily lo volvió a difundir el 3 de noviembre.",
-   "dato_principal": "En muestras intactas que la sonda japonesa Hayabusa2 trajo del asteroide Ryugu se encontraron las cinco bases del ADN y el ARN (adenina, guanina, citosina, timina y uracilo). El estudio salió en marzo de 2026 (JAMSTEC); no es vida, son sus 'piezas'.",
-   "escena_3d": "Hayabusa2 toca el asteroide Ryugu y sube una cápsula; zoom a un grano de polvo del que salen cinco moléculas que se acomodan en una doble hélice.",
+   "tema": "Encuentran sangre de dinosaurio de 115 millones de años (Aratasaurus, Brasil)",
+   "gancho": "Encontraron sangre de dinosaurio… y tiene 115 millones de años.",
+   "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; es de esta semana (PNAS, 6 nov) y provoca debate (¿se podrá clonar uno?). Quedó pendiente de ayer porque se hizo el video del Flipper.",
+   "dato_principal": "En un hueso del dinosaurio Aratasaurus museunacionali (Brasil) hallaron moléculas de hemo, parte de la hemoglobina, dentro de glóbulos rojos mineralizados: la primera confirmación química de su tipo (Curtin University, PNAS). No hay ADN: decirlo para evitar el mito de la clonación.",
+   "escena_3d": "Un terópodo corre y cae en un lodo sin oxígeno; se vuelve fósil; la cámara entra al hueso por los canales de los vasos hasta glóbulos rojos de piedra que brillan en rojo.",
    "fuentes": [
-    "https://www.jamstec.go.jp/e/about/press_release/20260317/",
-    "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+    "https://earthsky.org/earth/traces-of-dinosaur-blood-fossil-1st-time/"
    ]
   },
   {
    "numero": 3,
-   "tema": "Marte y Júpiter 'se tocan' en el cielo el 16 de noviembre (y en realidad están lejísimos)",
-   "gancho": "El 16 de noviembre Marte y Júpiter van a parecer pegados… pero los separan cientos de millones de kilómetros.",
-   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México antes del amanecer; el contraste 'se ven juntos / están lejísimos' sorprende y se comparte para avisar a otros.",
-   "dato_principal": "Antes del amanecer del 16 de noviembre de 2026, Marte y Júpiter quedan a solo 1.2° en el cielo (menos que el ancho de tu dedo con el brazo estirado), cerca de la estrella Régulo. Es solo perspectiva desde la Tierra (calcular la distancia real entre ambos para esa fecha antes de producir). Extra: superluna el 24 de noviembre a ~360,800 km.",
-   "escena_3d": "Vista desde la Tierra: dos puntos que se acercan en el cielo de madrugada; la cámara gira 90° al plano del Sistema Solar y muestra las órbitas reales con Marte y Júpiter alineados pero separados.",
+   "tema": "¿Una bomba nuclear salvaría la Tierra de un asteroide? Depende de dónde le pegues",
+   "gancho": "Si un asteroide viene hacia la Tierra, una bomba nuclear podría salvarnos… o fallar por un detalle.",
+   "por_que_viral": "Fin del mundo + bomba nuclear es combinación de alto clic, y tiene giro sorprendente con números claros (5 veces). Conecta con el video de Hera y DART, que ya conoce la audiencia.",
+   "dato_principal": "Simulaciones de Sandia (revista Icarus) muestran que el mismo estallido de rayos X desvía un asteroide 3.9 mm/s si golpea por un lado y solo 0.8 mm/s por otro: casi 5 veces menos, por su forma irregular.",
+   "escena_3d": "Un asteroide con forma de cacahuate girando; dos destellos nucleares desde lados distintos con flechas de empuje de diferente tamaño y su órbita que se aleja (o no) de la Tierra.",
    "fuentes": [
-    "https://www.rmg.co.uk/stories/space-astronomy/astronomy/night-sky-highlights-november-2026",
-    "https://astrobackyard.com/november-2026-astronomy/"
+    "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+    "https://www.eurekalert.org/news-releases/1150320"
    ]
   },
   {
    "numero": 4,
-   "tema": "El cohete de Artemis II abrió un 'hueco' de 5,000 km en la atmósfera y desvió el GPS",
-   "gancho": "Un cohete de la NASA abrió un hueco de 5,000 kilómetros en el cielo… y movió tu GPS.",
-   "por_que_viral": "Conecta el espacio con algo que todos usan (el GPS del celular y del coche); la cifra de 5,000 km sobre América es impactante y la noticia es de esta semana.",
-   "dato_principal": "Investigadores de la Universidad Nacional Cheng Kung (Taiwán) detectaron dos perturbaciones en la ionosfera tras el lanzamiento de Artemis II, de unos 5,000 km de este a oeste, con errores de posición GPS de varios metros; hasta 10 veces más intensas que las de Starship. No es un hueco permanente: es una baja temporal de electrones libres (decirlo así en el guion).",
-   "escena_3d": "La Tierra vista desde arriba de América; el SLS sube, deja una estela que 'vacía' una franja brillante de la ionosfera de costa a costa, y un punto de GPS en un mapa salta de carril.",
+   "tema": "El telescopio Hubble se está cayendo y la NASA busca quién lo rescate",
+   "gancho": "El Hubble se está cayendo… y la NASA tiene hasta 2032 para salvarlo.",
+   "por_que_viral": "Repite la fórmula del video 14 (Swift cae a la Tierra), que salió el día récord, con el telescopio más famoso del mundo. Es de esta semana: la NASA recibe propuestas hasta el 30 de noviembre.",
+   "dato_principal": "Hubble no tiene motores. El último empujón fue del transbordador Columbia en 2002, a 583 km; hoy va a unos 470 km y reentraría en 2033–2034. Un rescate tendría que subirlo a 600 km antes de 2032.",
+   "escena_3d": "Hubble en órbita baja dejando una estela de brillo atmosférico; un contador de altura que baja de 583 a 470 km; una nave de servicio se acopla y lo empuja hacia arriba.",
    "fuentes": [
-    "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
-    "https://tech-insider.org/artemis-ii-launch-ionosphere-gps-errors-5000-km-2026/"
+    "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+    "https://thenextweb.com/news/nasa-hubble-reboost-servicing-commercial-request"
    ]
   },
   {
    "numero": 5,
-   "tema": "La Tierra tiene una segunda luna (2026 QQ8) y casi nadie lo notó",
-   "gancho": "Desde abril la Tierra tiene una segunda luna… y casi nadie se dio cuenta.",
-   "por_que_viral": "Dato sorprendente y fácil de repetir ('tenemos dos lunas'); tiene fecha de salida, así que es urgente. Space.com lo publicó el 5 de noviembre.",
-   "dato_principal": "El asteroide 2026 QQ8, del tamaño de una lavadora, quedó atrapado por la gravedad de la Tierra desde abril y se irá a fines de 2026.",
-   "escena_3d": "La Tierra y la Luna; una roca diminuta llega, da lazos irregulares alrededor de la Tierra y al final escapa. Comparación de tamaño con una lavadora.",
+   "tema": "Por primera vez un robot construyó una estructura en el espacio (Caltech y DARPA)",
+   "gancho": "Por primera vez, un robot construyó algo en el espacio… sin astronautas.",
+   "por_que_viral": "Ingeniería 'pieza por pieza', lo que más suscriptores ha traído al canal, con el gancho de 'primera vez en la historia'. Abre la imaginación: estaciones y telescopios gigantes armados por robots.",
+   "dato_principal": "El programa NOM4D de DARPA demostró el primer ensamblaje automático en órbita: una carga de Caltech, lanzada en el Transporter-16 de SpaceX, unió barras de material compuesto con un robot de pórtico y desplegó una malla reflectora. Del plan al lanzamiento: 15 meses.",
+   "escena_3d": "Una caja en órbita sobre la Tierra; un brazo de pórtico se mueve en tres ejes y va uniendo barras hasta formar una armadura, luego se despliega una malla brillante.",
    "fuentes": [
-    "https://earthsky.org/space/mini-moon-for-earth-2026-qq8/",
-    "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long"
+    "https://www.darpa.mil/news/2026/nom4d-program-demonstrates-automated-in-space-assembly",
+    "https://www.sciencedaily.com/releases/2026/11/261108233043.htm"
    ]
   },
   {
    "numero": 6,
-   "tema": "Estrellas muertas que rompen uno de los límites más famosos de la física",
-   "gancho": "Hay un límite que ninguna estrella muerta podía romper… y los imanes podrían romperlo.",
-   "por_que_viral": "Idea de 'regla rota' con un número claro; se anima espectacular (estrella colapsando, campos magnéticos) y conecta con supernovas, que siempre jalan vistas.",
-   "dato_principal": "El límite de Chandrasekhar dice que una enana blanca no puede pasar de ~1.4 masas solares sin colapsar; simulaciones nuevas sugieren que campos magnéticos muy fuertes le permitirían llegar a ~2.4 masas solares, lo que explicaría supernovas demasiado brillantes.",
-   "escena_3d": "Una enana blanca que crece robando gas de su compañera; aparece un medidor '1.4 ☉' que se pone rojo, líneas de campo magnético la envuelven y el medidor sigue subiendo hasta 2.4 antes de la explosión.",
+   "tema": "Una estrella escondida está atravesando a Betelgeuse (Siwarha)",
+   "gancho": "Hay una estrella escondida… nadando dentro de la atmósfera de Betelgeuse.",
+   "por_que_viral": "Betelgeuse es la estrella más famosa por 'a punto de explotar' y aquí aparece una compañera oculta; nueva evidencia del 3 nov (VLA y ALMA). El video 01 solo mencionó a Betelgeuse de paso; este tema es nuevo.",
+   "dato_principal": "Con radiotelescopios VLA y ALMA (2021–2026), astrónomos del MIT vieron que Betelgeuse se deforma cuando su compañera Siwarha se aleja más; Siwarha gira a unas dos veces el radio de la estrella y explicaría un ciclo de brillo de unos 2,100 días. Aún falta verla directamente.",
+   "escena_3d": "Betelgeuse gigante, roja y burbujeante; una estrella pequeña orbita dentro de su atmósfera dejando una estela que la estira como huevo.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
-    "https://www.iisc.ac.in/events/strong-magnetic-fields-could-allow-white-dwarfs-to-grow-beyond-the-chandrasekhar-limit/"
+    "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+    "https://public.nrao.edu/news/what-lurks-within-the-shadows-of-betelgeuse/"
    ]
   },
   {
    "numero": 7,
-   "tema": "Confirman un tercer tipo de magnetismo: el altermagnetismo",
-   "gancho": "Durante casi 90 años creímos que solo había dos tipos de imanes… estábamos mal.",
-   "por_que_viral": "Rompe algo que se aprende en la escuela, y tiene aplicación cercana: memorias y computadoras más rápidas. Se presta para animación tipo 'pieza por pieza' (ingeniería), que es lo que más suscriptores ha traído.",
-   "dato_principal": "Investigadores de SLAC/Stanford confirmaron el altermagnetismo: los imanes atómicos vecinos apuntan en sentidos opuestos, pero cada uno está girado respecto al otro. Podría hacer memorias mucho más rápidas (verificar la cifra de 'hasta mil veces' antes de usarla).",
-   "escena_3d": "Una red cristalina con flechitas de espín: primero el imán normal (todas iguales), luego el antiferroimán (alternadas) y al final el altermagneto (alternadas y giradas), con zoom a un chip de memoria.",
+   "tema": "Marte y Júpiter 'se juntan' en el cielo el 15–16 de noviembre (y la superluna del 24)",
+   "gancho": "El 16 de noviembre Marte y Júpiter van a parecer pegados… pero los separan cientos de millones de kilómetros.",
+   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México antes del amanecer; se comparte para avisar a otros. Publicarlo antes del 15.",
+   "dato_principal": "Antes del amanecer del 15 y 16 de noviembre, Marte y Júpiter quedan a solo 1.2° (menos que un dedo con el brazo estirado) en el sureste. El 24 hay superluna, la primera de tres seguidas. Calcular la distancia real entre ambos para esa fecha antes de producir.",
+   "escena_3d": "Cielo de madrugada con dos puntos que se acercan; la cámara gira al plano del Sistema Solar y muestra las órbitas reales con los planetas alineados pero lejanos.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-    "https://news.stanford.edu/stories/2026/10/altermagnetism-magnetic-phase-research"
+    "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+    "https://www.rmg.co.uk/stories/space-astronomy/astronomy/night-sky-highlights-november-2026"
    ]
   },
   {
    "numero": 8,
-   "tema": "El nuevo telescopio Rubin encontró dos 'vecinas' ocultas de la Vía Láctea",
-   "gancho": "Revisó solo el 7 % del cielo… y ya encontró dos vecinas escondidas de nuestra galaxia.",
-   "por_que_viral": "Número fácil de recordar (7 %) y promesa de 'cientos más'; el telescopio con la cámara más grande del mundo es un tema visual y nuevo.",
-   "dato_principal": "Con datos preliminares que cubren apenas el 7 % del cielo nocturno, el Observatorio Vera C. Rubin descubrió dos compañeras desconocidas de la Vía Láctea: una galaxia enana ultradébil y un cúmulo globular. Podría haber cientos más.",
-   "escena_3d": "La Vía Láctea completa vista desde fuera; un cono de 'escaneo' barre una franja del cielo y se encienden dos manchitas tenues que la cámara visita de cerca.",
+   "tema": "Así podría verse el Sistema Solar cuando muera el Sol: los anillos de una estrella muerta",
+   "gancho": "Así se verá lo que quede de nuestro Sistema Solar… cuando el Sol muera.",
+   "por_que_viral": "'El futuro de la Tierra' es tema que siempre jala; imagen poderosa de anillos de planetas destruidos. Noticia de ESO del 6 nov.",
+   "dato_principal": "Con el VLT de ESO, astrónomos hallaron alrededor de la enana blanca J1328−1450 dos anillos de restos de planetas, moldeados por dos cuerpos que sobrevivieron: uno de pocos kilómetros y otro que podría ser del tamaño de Plutón o la Luna (Nature Astronomy).",
+   "escena_3d": "El Sol se infla como gigante roja, se traga planetas y se encoge a enana blanca; quedan dos anillos de polvo con dos cuerpos que los ordenan.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
-    "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites"
+    "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
+    "https://doi.org/10.1038/s41550-026-03004-3"
    ]
   }
  ]
