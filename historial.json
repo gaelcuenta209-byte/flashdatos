@@ -629,6 +629,23 @@
    },
    "nota": "Pedido directo del dueño en el chat el 2026-11-08 a las 21:33: video del Flipper Zero y el Flipper One con animación más enganchadora, 'en cuanto lo tengas súbelo'. Quedó listo el 2026-11-09 a las 6:50 y se programó a las 7:06 en YouTube, Instagram y TikTok. Es el video de hoy: la tarea de las 9:00 no produce otro. Animación nueva: subtítulos palabra por palabra, cámara con zoom en palabras clave, transiciones glitch, barra de progreso y capítulos.",
    "fecha_publicacion": "2026-11-09 07:06 (CDMX), YouTube, Instagram y TikTok"
+  },
+  {
+   "numero": 28,
+   "tema": "Lo que compraría si empezara en la electrónica desde cero: kit de componentes, microcontrolador (Arduino UNO y ESP32), protoboard, osciloscopio y cautín, con links de compra",
+   "carpeta": "videos/28-kit-electronica-desde-cero",
+   "titulo": "⚡ Si empezara en la electrónica desde CERO, compraría esto 🔌 #shorts",
+   "titulo_tiktok": "⚡ Lo que compraría para empezar en la electrónica desde cero 🔌",
+   "descripcion": "⚡ Si hoy empezara en la electrónica desde cero, solo compraría estas 5 cosas: kit de componentes, microcontrolador, protoboard, osciloscopio y cautín. Te explico cómo funciona cada una. (Con 5 links de compra: Amazon México y tienda oficial de PINE64; ver guion.md.)\nFuentes: Espressif, FNIRSI, PINE64 y ELEGOO.\n#electronica #arduino #esp32 #maker #tecnologia #datoscuriosos",
+   "fecha_programada": "2026-11-09 23:15 (CDMX)",
+   "estado": "programado",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-28/FlashDatos_28.mp4",
+   "metricool": {
+    "id": 422732101,
+    "uuid": "-1931016322362882077",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-1931016322362882077"
+   },
+   "nota": "Pedido directo del dueño en el chat el 2026-11-09 a las 22:38 ('en cuanto lo tengas súbelo', 'ni me preguntes, tú súbelo'). Quedó listo a las 23:02 y se programó a las 23:15 en YouTube, Instagram y TikTok. Es un video extra del 9 de noviembre: no cuenta como el video del día del 10."
   }
  ]
 }
