@@ -1,0 +1,91 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 52.04,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 5.89,
+   "say": "Creíamos que Marte era un planeta muerto… pero de sus grietas está saliendo gas.",
+   "parts": [
+    [
+     0.1,
+     5.89,
+     "Creíamos que MARTE era un planeta MUERTO… pero de sus GRIETAS está saliendo GAS."
+    ]
+   ]
+  },
+  {
+   "id": "sonda",
+   "t0": 6.4,
+   "t1": 18.17,
+   "say": "Una sonda europea, la ExoMars Trace Gas Orbiter, detectó cloruro de hidrógeno sobre Alba Mons, un volcán gigantesco. Es un gas que en la Tierra sale de los volcanes.",
+   "parts": [
+    [
+     6.4,
+     13.1,
+     "Una sonda europea, la EXOMARS TRACE GAS ORBITER, detectó CLORURO DE HIDRÓGENO sobre ALBA MONS, un volcán GIGANTESCO."
+    ],
+    [
+     13.42,
+     18.17,
+     "Es un gas que en la TIERRA sale de los VOLCANES."
+    ]
+   ]
+  },
+  {
+   "id": "grietas",
+   "t0": 18.68,
+   "t1": 28.96,
+   "say": "Y justo debajo, las cámaras encontraron grietas nunca vistas en Marte: algunas de apenas unos palmos de ancho, pero en grupos de decenas de kilómetros.",
+   "parts": [
+    [
+     18.68,
+     28.96,
+     "Y justo debajo, las cámaras encontraron GRIETAS nunca vistas en Marte: algunas de apenas unos PALMOS de ancho, pero en grupos de DECENAS DE KILÓMETROS."
+    ]
+   ]
+  },
+  {
+   "id": "cuanto",
+   "t0": 29.42,
+   "t1": 36.18,
+   "say": "Según los cálculos, el gas saldría a menos de tres kilos por segundo, como los volcanes más tranquilos de la Tierra.",
+   "parts": [
+    [
+     29.42,
+     36.18,
+     "Según los cálculos, el gas saldría a MENOS DE 3 KG POR SEGUNDO, como los volcanes más TRANQUILOS de la Tierra."
+    ]
+   ]
+  },
+  {
+   "id": "magma",
+   "t0": 36.7,
+   "t1": 45.17,
+   "say": "Nadie ha visto una erupción. Pero los científicos creen que esas grietas podrían llegar hasta magma activo, muy por debajo de la superficie.",
+   "parts": [
+    [
+     36.7,
+     45.17,
+     "Nadie ha visto una ERUPCIÓN. Pero los científicos creen que esas grietas podrían llegar hasta MAGMA ACTIVO, muy por debajo de la superficie."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 45.77,
+   "t1": 51.93,
+   "say": "Así que Marte quizá no está muerto: está dormido, y todavía respira por sus grietas.",
+   "parts": [
+    [
+     45.77,
+     51.93,
+     "Así que Marte quizá NO está MUERTO: está DORMIDO, y todavía RESPIRA por sus grietas."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 53.78
+}
