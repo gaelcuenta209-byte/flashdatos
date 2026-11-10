@@ -1,0 +1,32 @@
+{
+ "id": "29",
+ "title": "Marte podría seguir vivo: sale gas volcánico de sus grietas (Alba Mons)",
+ "segments": [
+  {"id": "gancho", "parts": [
+   {"say": "Creíamos que Marte era un planeta muerto… pero de sus grietas está saliendo gas.",
+    "cap": "Creíamos que MARTE era un planeta MUERTO… pero de sus GRIETAS está saliendo GAS."}
+  ]},
+  {"id": "sonda", "parts": [
+   {"say": "Una sonda europea, la ExoMars Trace Gas Orbiter, detectó cloruro de hidrógeno sobre Alba Mons, un volcán gigantesco.",
+    "cap": "Una sonda europea, la EXOMARS TRACE GAS ORBITER, detectó CLORURO DE HIDRÓGENO sobre ALBA MONS, un volcán GIGANTESCO."},
+   {"say": "Es un gas que en la Tierra sale de los volcanes.",
+    "cap": "Es un gas que en la TIERRA sale de los VOLCANES."}
+  ]},
+  {"id": "grietas", "parts": [
+   {"say": "Y justo debajo, las cámaras encontraron grietas nunca vistas en Marte: algunas de apenas unos palmos de ancho, pero en grupos de decenas de kilómetros.",
+    "cap": "Y justo debajo, las cámaras encontraron GRIETAS nunca vistas en Marte: algunas de apenas unos PALMOS de ancho, pero en grupos de DECENAS DE KILÓMETROS."}
+  ]},
+  {"id": "cuanto", "parts": [
+   {"say": "Según los cálculos, el gas saldría a menos de tres kilos por segundo, como los volcanes más tranquilos de la Tierra.",
+    "cap": "Según los cálculos, el gas saldría a MENOS DE 3 KG POR SEGUNDO, como los volcanes más TRANQUILOS de la Tierra."}
+  ]},
+  {"id": "magma", "parts": [
+   {"say": "Nadie ha visto una erupción. Pero los científicos creen que esas grietas podrían llegar hasta magma activo, muy por debajo de la superficie.",
+    "cap": "Nadie ha visto una ERUPCIÓN. Pero los científicos creen que esas grietas podrían llegar hasta MAGMA ACTIVO, muy por debajo de la superficie."}
+  ]},
+  {"id": "cierre", "parts": [
+   {"say": "Así que Marte quizá no está muerto: está dormido, y todavía respira por sus grietas.",
+    "cap": "Así que Marte quizá NO está MUERTO: está DORMIDO, y todavía RESPIRA por sus grietas."}
+  ]}
+ ]
+}
