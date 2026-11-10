@@ -1,0 +1,44 @@
+{
+ "id": "28",
+ "title": "Lo que compraría si empezara en la electrónica desde cero",
+ "segments": [
+  {"id": "gancho", "parts": [
+   {"say": "Si hoy empezara en la electrónica desde cero, solo compraría estas cinco cosas… y te explico cómo funciona cada una.",
+    "cap": "Si hoy EMPEZARA en la ELECTRÓNICA desde CERO, solo compraría estas 5 COSAS… y te explico cómo FUNCIONA cada una."}
+  ]},
+  {"id": "kit", "parts": [
+   {"say": "Uno: un kit de componentes. Resistencias que frenan la corriente, ledes que la convierten en luz, capacitores que guardan carga y transistores: interruptores que se activan con electricidad.",
+    "cap": "1. Un KIT de componentes: RESISTENCIAS que frenan la corriente, LEDs que la vuelven LUZ, CAPACITORES que guardan CARGA y TRANSISTORES: interruptores que se activan con ELECTRICIDAD."},
+   {"say": "El súper kit de Elegoo trae una placa compatible con Arduino, sensores, motores y un tutorial paso a paso.",
+    "cap": "El SÚPER KIT de ELEGOO trae una placa compatible con ARDUINO, SENSORES, MOTORES y un TUTORIAL paso a paso."}
+  ]},
+  {"id": "micro", "parts": [
+   {"say": "Dos: un microcontrolador. Es una computadora diminuta en un solo chip: lee sensores, ejecuta tu código y controla luces o motores.",
+    "cap": "2. Un MICROCONTROLADOR: una COMPUTADORA diminuta en un solo CHIP: LEE sensores, EJECUTA tu código y CONTROLA luces o motores."},
+   {"say": "Empieza con el Arduino Uno del kit, y cuando quieras internet, sube a un e ese pe treinta y dos: dos núcleos a doscientos cuarenta megahercios, con wifi y bluetooth.",
+    "cap": "Empieza con el ARDUINO UNO del kit, y cuando quieras INTERNET, sube a un ESP32: 2 NÚCLEOS a 240 MHz, con WIFI y BLUETOOTH."}
+  ]},
+  {"id": "proto", "parts": [
+   {"say": "Tres: una protoboard de ochocientos treinta puntos.",
+    "cap": "3. Una PROTOBOARD de 830 PUNTOS."},
+   {"say": "Por dentro, cada fila de cinco agujeros está unida por una lámina de metal, y los rieles de los lados llevan el positivo y el negativo. Así armas circuitos sin soldar nada.",
+    "cap": "Por dentro, cada FILA de 5 agujeros está unida por una LÁMINA de METAL, y los RIELES de los lados llevan el POSITIVO y el NEGATIVO. Así armas circuitos SIN SOLDAR nada."}
+  ]},
+  {"id": "osci", "parts": [
+   {"say": "Cuatro: un osciloscopio. Un multímetro te da un número; el osciloscopio te dibuja el voltaje en el tiempo, y ves la señal moverse.",
+    "cap": "4. Un OSCILOSCOPIO: un multímetro te da un NÚMERO; el osciloscopio te DIBUJA el VOLTAJE en el TIEMPO, y ves la señal MOVERSE."},
+   {"say": "Para empezar, uno de bolsillo tres en uno, como el efe nirsi dos ce veintitrés te: osciloscopio de dos canales, multímetro y generador de señales.",
+    "cap": "Para empezar, uno de BOLSILLO 3 en 1, como el FNIRSI 2C23T: osciloscopio de 2 CANALES, MULTÍMETRO y GENERADOR de señales."}
+  ]},
+  {"id": "cautin", "parts": [
+   {"say": "Cinco: un cautín. Su punta caliente derrite el estaño, que funde cerca de los doscientos grados, y al enfriarse une las piezas eléctricamente.",
+    "cap": "5. Un CAUTÍN: su punta CALIENTE derrite el ESTAÑO, que funde cerca de los 200 °C, y al ENFRIARSE une las piezas ELÉCTRICAMENTE."},
+   {"say": "El Pinecil se conecta por u ese be ce, llega a su temperatura en unos doce segundos y sube hasta cuatrocientos grados. Nunca toques la punta.",
+    "cap": "El PINECIL se conecta por USB-C, llega a su temperatura en unos 12 SEGUNDOS y sube hasta 400 °C. Nunca TOQUES la punta."}
+  ]},
+  {"id": "cierre", "parts": [
+   {"say": "Con estas cinco cosas ya puedes armar, programar, medir y soldar tu primer proyecto de verdad. Los links de compra te los dejé en la descripción.",
+    "cap": "Con estas 5 COSAS ya puedes ARMAR, PROGRAMAR, MEDIR y SOLDAR tu primer PROYECTO de verdad. Los LINKS de compra te los dejé en la DESCRIPCIÓN."}
+  ]}
+ ]
+}
