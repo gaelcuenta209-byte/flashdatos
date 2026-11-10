@@ -647,6 +647,18 @@
    },
    "nota": "Pedido directo del dueño en el chat el 2026-11-09 a las 22:38 ('en cuanto lo tengas súbelo', 'ni me preguntes, tú súbelo'). Quedó listo a las 23:02 y se programó a las 23:15 en YouTube, Instagram y TikTok. Es un video extra del 9 de noviembre: no cuenta como el video del día del 10.",
    "error": "2026-11-09 23:15: Metricool marcó ERROR en YouTube, Instagram y TikTok: 'You have reached your Metricool account limit.' El plan Free de Metricool publica hasta 20 posts al mes (se reinicia el día 1). No se publicó en ninguna red. 2026-11-10 06:42: segundo intento (el dueño pidió reintentar), mismo error en las tres redes."
+  },
+  {
+   "numero": 29,
+   "tema": "Marte podría seguir vivo: sale gas volcánico (cloruro de hidrógeno) de grietas nuevas en Alba Mons (ExoMars TGO, Science Advances)",
+   "carpeta": "videos/29-marte-gas-alba-mons",
+   "titulo": "⚡ ¿Marte sigue VIVO? Detectan gas volcánico saliendo de sus grietas 🔴 #shorts",
+   "titulo_tiktok": "⚡ ¿Marte sigue vivo? Sale gas volcánico de sus grietas 🔴",
+   "descripcion": "⚡ La sonda ExoMars TGO de la ESA detectó cloruro de hidrógeno sobre el volcán Alba Mons, justo encima de grietas nunca vistas en Marte. Podría venir de magma activo bajo la superficie: Marte estaría dormido, no muerto.\nFuente: Trokhimovskiy et al., Science Advances (4 nov 2026); ESA ExoMars.\n#marte #espacio #ciencia #astronomia #volcanes #datoscuriosos",
+   "fecha_programada": "2026-11-10 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-29/FlashDatos_29.mp4",
+   "nota": "Video del día del 2026-11-10 (idea 1 del reporte). 53.8 s. Metricool está en el límite del plan Free (20 posts/mes) desde el 9 nov: programarlo probablemente fallará hasta que el dueño suba el plan o lo publique a mano."
   }
  ]
 }
