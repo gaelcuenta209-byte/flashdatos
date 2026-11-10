@@ -638,14 +638,15 @@
    "titulo_tiktok": "⚡ Lo que compraría para empezar en la electrónica desde cero 🔌",
    "descripcion": "⚡ Si hoy empezara en la electrónica desde cero, solo compraría estas 5 cosas: kit de componentes, microcontrolador, protoboard, osciloscopio y cautín. Te explico cómo funciona cada una. (Con 5 links de compra: Amazon México y tienda oficial de PINE64; ver guion.md.)\nFuentes: Espressif, FNIRSI, PINE64 y ELEGOO.\n#electronica #arduino #esp32 #maker #tecnologia #datoscuriosos",
    "fecha_programada": "2026-11-09 23:15 (CDMX)",
-   "estado": "programado",
+   "estado": "error al publicar",
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-28/FlashDatos_28.mp4",
    "metricool": {
     "id": 422732101,
     "uuid": "-1931016322362882077",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-1931016322362882077"
    },
-   "nota": "Pedido directo del dueño en el chat el 2026-11-09 a las 22:38 ('en cuanto lo tengas súbelo', 'ni me preguntes, tú súbelo'). Quedó listo a las 23:02 y se programó a las 23:15 en YouTube, Instagram y TikTok. Es un video extra del 9 de noviembre: no cuenta como el video del día del 10."
+   "nota": "Pedido directo del dueño en el chat el 2026-11-09 a las 22:38 ('en cuanto lo tengas súbelo', 'ni me preguntes, tú súbelo'). Quedó listo a las 23:02 y se programó a las 23:15 en YouTube, Instagram y TikTok. Es un video extra del 9 de noviembre: no cuenta como el video del día del 10.",
+   "error": "2026-11-09 23:15: Metricool marcó ERROR en YouTube, Instagram y TikTok: 'You have reached your Metricool account limit.' El plan Free de Metricool publica hasta 20 posts al mes (se reinicia el día 1). No se publicó en ninguna red."
   }
  ]
 }
