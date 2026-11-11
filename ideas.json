@@ -1,39 +1,39 @@
 {
- "actualizado": "2026-11-10",
+ "actualizado": "2026-11-11",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Marte podría seguir vivo: sale un gas volcánico de sus grietas (Alba Mons)",
-   "gancho": "Creíamos que Marte estaba muerto… pero de sus grietas está saliendo gas volcánico.",
-   "por_que_viral": "Rompe una idea que todos tienen ('Marte es un planeta muerto'), sigue siendo noticia (ESA, National Geographic, ScienceDaily y Universe Today del 7 al 9 nov) y abre la pregunta que más comentarios genera: ¿puede haber vida? Ciencia + actualidad es lo que más vistas ha traído (Swift, día récord).",
-   "dato_principal": "La sonda ExoMars Trace Gas Orbiter de la ESA detectó cloruro de hidrógeno sobre grietas de cientos de metros en las laderas del volcán Alba Mons; saldría a menos de 3 kg por segundo, como los volcanes más tranquilos de la Tierra. No se ha visto una erupción: decirlo como 'podría seguir activo'.",
-   "escena_3d": "Marte rojo girando; la cámara baja al gigantesco volcán Alba Mons, entra a las grietas y salen hilos de gas verde; la sonda pasa por encima midiendo.",
+   "tema": "Starship intentará la primera 'doble atrapada': el cohete Y la nave regresan a la torre (vuelo 15, 13 nov)",
+   "gancho": "Este viernes 13, SpaceX va a intentar algo que nadie ha hecho: atrapar en el aire las DOS partes de su cohete.",
+   "por_que_viral": "Es el cohete más grande del mundo, tiene fecha (viernes 13, sale con cuenta regresiva) y la imagen de los 'palillos' de la torre atrapando un cohete ya es viral por sí sola. Tecnología + espacio + 'primera vez en la historia', lo que más ha movido al canal (Swift, día récord). Caduca: debe salir antes del viernes en la tarde.",
+   "dato_principal": "Vuelo 15: despegue no antes del viernes 13 de nov a las 16:45 (hora del centro de México) desde Starbase, Texas. El propulsor Super Heavy (Booster 22) regresa a la torre unos 6.5 min después; la nave da unas 14 vueltas a la Tierra a ~275 km con 26 satélites Starlink V3 y vuelve a la torre el sábado 14 a las 15:17 (hora de México), ~22.5 h después. Sería la primera recuperación completa de un cohete orbital. Si se pospone, ajustar el guion.",
+   "escena_3d": "Torre con brazos tipo palillos; el Super Heavy baja encendido y los brazos lo atrapan; corte a la nave dando vueltas a la Tierra con un contador de órbitas; reentrada con plasma y regreso a la misma torre.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
-    "https://www.nationalgeographic.com/science/article/mars-volcano-gas-hydrogen-chloride",
-    "https://www.universetoday.com/articles/mars-molten-heart-is-long-gone-but-some-magma-chambers-may-persist"
+    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
+    "https://en.wikipedia.org/wiki/Starship_flight_15",
+    "https://www.theweek.in/news/sci-tech/2026/11/11/spacex-starship-flight-15-launch.html"
    ]
   },
   {
    "numero": 2,
    "tema": "Marte y Júpiter 'se juntan' en el cielo el 15–16 de noviembre (y la superluna del 24)",
    "gancho": "El 16 de noviembre Marte y Júpiter van a parecer pegados… pero los separan cientos de millones de kilómetros.",
-   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México antes del amanecer; la gente lo comparte para avisar a otros. Caduca: tiene que salir antes del sábado 14. Space.com lo publicó ayer como 'acercamiento impresionante esta semana'.",
+   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México antes del amanecer; la gente lo comparte para avisar a otros. Lleva dos días en la lista y caduca: tiene que salir hoy o mañana (antes del sábado 14).",
    "dato_principal": "Antes del amanecer del 15 y 16 de noviembre, Marte y Júpiter quedan a solo 1.2° (menos que un dedo con el brazo estirado) en el sureste. El 24 hay superluna, la primera de tres seguidas. Calcular la distancia real entre ambos para esa fecha antes de producir.",
    "escena_3d": "Cielo de madrugada con dos puntos que se acercan; la cámara gira al plano del Sistema Solar y muestra las órbitas reales con los planetas alineados pero lejanos.",
    "fuentes": [
     "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it",
-    "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
-    "https://www.skyatnightmagazine.com/news/mars-jupiter-november-2026"
+    "https://www.skyatnightmagazine.com/news/mars-jupiter-november-2026",
+    "https://sky-tonight.com/object/close-approach/Mars-Jupiter-2026-11-16"
    ]
   },
   {
    "numero": 3,
    "tema": "Encuentran sangre de dinosaurio de 115 millones de años (Aratasaurus, Brasil)",
    "gancho": "Encontraron sangre de dinosaurio… y tiene 115 millones de años.",
-   "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; es de esta semana (PNAS, 6 nov) y provoca debate (¿se podrá clonar uno?). Lleva dos días pendiente.",
+   "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; provoca debate (¿se podrá clonar uno?). Es de la semana pasada (PNAS, 6 nov): cuanto más espere, menos fresco.",
    "dato_principal": "En un hueso del dinosaurio Aratasaurus museunacionali (Brasil) hallaron moléculas de hemo, parte de la hemoglobina, dentro de glóbulos rojos mineralizados: la primera confirmación química de su tipo (Curtin University, PNAS). No hay ADN: decirlo para evitar el mito de la clonación.",
    "escena_3d": "Un terópodo corre y cae en un lodo sin oxígeno; se vuelve fósil; la cámara entra al hueso por los canales de los vasos hasta glóbulos rojos de piedra que brillan en rojo.",
    "fuentes": [
@@ -43,30 +43,6 @@
   },
   {
    "numero": 4,
-   "tema": "Un satélite jugó DOOM en el espacio… y obedeció comandos de voz desde la Tierra",
-   "gancho": "Le gritaron a un satélite que jugara DOOM… y en el espacio, obedeció.",
-   "por_que_viral": "Videojuego legendario + espacio + 'primera vez en el mundo' es mezcla de alto alcance entre el público de tecnología (el del Flipper y el celular por dentro). Es de ayer (9 nov) y se presta a comentarios ('¿y corre GTA?').",
-   "dato_principal": "Una nave experimental europea en órbita ejecutó DOOM a partir de comandos de voz enviados desde la Tierra por un radioaficionado: la primera demostración de control por voz en órbita (Space.com, 9 nov; Gizmodo). En 2025 ya se había corrido DOOM en el satélite OPS-SAT de la ESA; confirmar nombre de la nave y detalles técnicos antes de producir.",
-   "escena_3d": "Un satélite pequeño sobre la Tierra de noche; una onda de radio sube desde una antena casera; en un panel del satélite se enciende un pasillo de DOOM en estilo píxel (sin usar arte del juego: pasillo genérico), con el planeta reflejado.",
-   "fuentes": [
-    "https://www.space.com/space-exploration/satellites/yes-it-runs-doom-satellite-plays-iconic-game-in-worlds-1st-demonstration-of-orbital-voice-control",
-    "https://gizmodo.com/an-amateur-radio-operator-told-a-satellite-to-play-doom-and-it-listened-2000835488"
-   ]
-  },
-  {
-   "numero": 5,
-   "tema": "¿Una bomba nuclear salvaría la Tierra de un asteroide? Depende de dónde le pegues",
-   "gancho": "Si un asteroide viene hacia la Tierra, una bomba nuclear podría salvarnos… o fallar por un detalle.",
-   "por_que_viral": "Fin del mundo + bomba nuclear es combinación de alto clic, y tiene giro sorprendente con números claros (5 veces). Conecta con el video de Hera y DART, que ya conoce la audiencia.",
-   "dato_principal": "Simulaciones de Sandia (revista Icarus) muestran que el mismo estallido de rayos X desvía un asteroide 3.9 mm/s si golpea por un lado y solo 0.8 mm/s por otro: casi 5 veces menos, por su forma irregular.",
-   "escena_3d": "Un asteroide con forma de cacahuate girando; dos destellos nucleares desde lados distintos con flechas de empuje de diferente tamaño y su órbita que se aleja (o no) de la Tierra.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
-    "https://www.eurekalert.org/news-releases/1150320"
-   ]
-  },
-  {
-   "numero": 6,
    "tema": "El telescopio Hubble se está cayendo y la NASA busca quién lo rescate",
    "gancho": "El Hubble se está cayendo… y la NASA tiene hasta 2032 para salvarlo.",
    "por_que_viral": "Repite la fórmula del video 14 (Swift cae a la Tierra), que salió el día récord, con el telescopio más famoso del mundo. Es de esta semana: la NASA recibe propuestas hasta el 30 de noviembre.",
@@ -78,27 +54,51 @@
    ]
   },
   {
-   "numero": 7,
-   "tema": "Por primera vez un robot construyó una estructura en el espacio (Caltech y DARPA)",
-   "gancho": "Por primera vez, un robot construyó algo en el espacio… sin astronautas.",
-   "por_que_viral": "Ingeniería 'pieza por pieza', lo que más suscriptores ha traído al canal, con el gancho de 'primera vez en la historia'. Abre la imaginación: estaciones y telescopios gigantes armados por robots.",
-   "dato_principal": "El programa NOM4D de DARPA demostró el primer ensamblaje automático en órbita: una carga de Caltech, lanzada en el Transporter-16 de SpaceX, unió barras de material compuesto con un robot de pórtico y desplegó una malla reflectora. Del plan al lanzamiento: 15 meses.",
-   "escena_3d": "Una caja en órbita sobre la Tierra; un brazo de pórtico se mueve en tres ejes y va uniendo barras hasta formar una armadura, luego se despliega una malla brillante.",
+   "numero": 5,
+   "tema": "Billones de 'partículas fantasma' te atraviesan cada segundo… y las van a cazar bajo un lago",
+   "gancho": "Ahora mismo, billones de partículas están atravesando tu cuerpo… y no sientes nada.",
+   "por_que_viral": "Empieza con algo que le pasa al espectador en este instante (sorpresa personal = retención), tiene nombre misterioso ('partículas fantasma') y es noticia de hoy: la primera vez que ponen detectores de neutrinos en un lago de agua dulce.",
+   "dato_principal": "La Universidad de Minnesota Duluth, con el Departamento de Energía y DARPA, baja 5 estructuras de tres pisos y ~3.6 toneladas, cada una con 18 sensores esféricos del tamaño de una pelota de playa, a 200 m de profundidad en el Lago Superior para cazar neutrinos del haz de Fermilab. Verificar con NASA/Fermilab la cifra de neutrinos que atraviesan el cuerpo por segundo antes de producir.",
+   "escena_3d": "Cuerpo humano translúcido atravesado por hilos de luz que no chocan con nada; la cámara sigue un neutrino desde el Sol, cruza la Tierra y llega al fondo de un lago oscuro donde esferas de sensores se encienden con un destello azul.",
    "fuentes": [
-    "https://www.darpa.mil/news/2026/nom4d-program-demonstrates-automated-in-space-assembly",
-    "https://www.sciencedaily.com/releases/2026/11/261108233043.htm"
+    "https://www.mprnews.org/story/2026/11/11/neutrino-detectors-being-installed-near-duluth-to-hunt-ghost-particles-in-lake-superior",
+    "https://d.umn.edu/news/neutrinos-101"
+   ]
+  },
+  {
+   "numero": 6,
+   "tema": "La 'cola de gato' cósmica de 150 mil millones de km: restos de dos mundos que chocaron (Beta Pictoris)",
+   "gancho": "Alrededor de una estrella cercana hay una cola de 150 mil millones de kilómetros… y serían los restos de dos mundos que chocaron.",
+   "por_que_viral": "Imagen extraña y fácil de entender (una 'cola de gato' en el espacio), escala absurda y un choque de planetas enanos 'como Plutón', que es violencia cósmica. Es de esta semana (Hubble, 10 nov).",
+   "dato_principal": "El Hubble fotografió por primera vez en luz visible la 'cola de gato' de Beta Pictoris, a 63 años luz: mide unas 1,000 unidades astronómicas (~150 mil millones de km) y está hecha de granos de polvo de una micra. Se cree que salió del choque de dos cuerpos del tamaño de Plutón (Universidad de Arizona, ApJ Letters).",
+   "escena_3d": "Dos planetas enanos helados se acercan y chocan en cámara lenta junto a una estrella joven; el polvo se estira en una curva larga como cola; la cámara se aleja hasta mostrar el tamaño comparado con nuestro Sistema Solar.",
+   "fuentes": [
+    "http://www.sciencedaily.com/releases/2026/11/261105224555.htm",
+    "https://universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long"
+   ]
+  },
+  {
+   "numero": 7,
+   "tema": "¿Una bomba nuclear salvaría la Tierra de un asteroide? Depende de dónde le pegues",
+   "gancho": "Si un asteroide viene hacia la Tierra, una bomba nuclear podría salvarnos… o fallar por un detalle.",
+   "por_que_viral": "Fin del mundo + bomba nuclear es combinación de alto clic, y tiene giro sorprendente con números claros (5 veces). Conecta con el video de Hera y DART, que ya conoce la audiencia.",
+   "dato_principal": "Simulaciones de Sandia (revista Icarus) muestran que el mismo estallido de rayos X desvía un asteroide 3.9 mm/s si golpea por un lado y solo 0.8 mm/s por otro: casi 5 veces menos, por su forma irregular.",
+   "escena_3d": "Un asteroide con forma de cacahuate girando; dos destellos nucleares desde lados distintos con flechas de empuje de diferente tamaño y su órbita que se aleja (o no) de la Tierra.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+    "https://www.eurekalert.org/news-releases/1150320"
    ]
   },
   {
    "numero": 8,
-   "tema": "Dos sondas de la NASA usan la Tierra como resortera para llegar a Marte (ESCAPADE)",
-   "gancho": "Para llegar a Marte, estas dos naves primero tuvieron que regresar a la Tierra.",
-   "por_que_viral": "Paradoja que engancha (ir a Marte volviendo a la Tierra), noticia de hoy (Space.com, 10 nov: 'primera de su tipo') y explica de forma visual la asistencia gravitatoria, que casi nadie entiende.",
-   "dato_principal": "Las sondas gemelas ESCAPADE (NASA y UC Berkeley, construidas por Rocket Lab) despegaron en noviembre de 2025 en el New Glenn de Blue Origin, esperaron casi un año cerca de la Tierra y ahora hacen un sobrevuelo propulsado de la Tierra para salir hacia Marte, donde estudiarán cómo el viento solar le arranca la atmósfera. Verificar la fecha exacta de llegada a Marte antes de producir.",
-   "escena_3d": "Dos naves pequeñas giran en una órbita en forma de lazo cerca de la Tierra, pasan rozándola, encienden motores y salen disparadas en una curva hacia un Marte rojo con su atmósfera escapando como estela azul.",
+   "tema": "Le quitaron el brillo a una foto del James Webb… y apareció un planeta escondido",
+   "gancho": "Este planeta estuvo escondido en las fotos del James Webb todo este tiempo… hasta que le quitaron el brillo.",
+   "por_que_viral": "El 'estaba ahí y nadie lo vio' engancha, mezcla IA/software con el telescopio más famoso y es fácil de mostrar con un antes y después. Es de esta semana (Nature, Caltech).",
+   "dato_principal": "El método FLIP de Caltech usa un 'gemelo digital' de la cámara NIRCam del Webb para restar la luz de la estrella; en pruebas detecta planetas de 2 a 15 veces más débiles que los métodos normales y reveló un planeta que ya estaba en datos guardados del Webb (Nature, 4 nov). Confirmar el nombre del planeta antes de producir.",
+   "escena_3d": "Una estrella cegadora con halo de brillo; una capa digital en malla verde copia el halo y lo 'resta' en tiempo real; al limpiarse aparece un puntito naranja: el planeta orbitando.",
    "fuentes": [
-    "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth",
-    "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/"
+    "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+    "https://livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world"
    ]
   }
  ]
