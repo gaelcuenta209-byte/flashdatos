@@ -1,0 +1,30 @@
+{
+ "id": "30",
+ "title": "Starship intentará la primera doble atrapada: el propulsor y la nave regresan a la torre (vuelo 15)",
+ "segments": [
+  {"id": "gancho", "parts": [
+   {"say": "Este viernes trece, SpaceX va a intentar algo que nadie ha hecho: atrapar en el aire las dos partes de su cohete.",
+    "cap": "Este VIERNES 13, SPACEX va a intentar algo que NADIE ha hecho: atrapar en el aire las DOS partes de su cohete."}
+  ]},
+  {"id": "despegue", "parts": [
+   {"say": "Starship, el cohete más grande del mundo, despega a las cuatro cuarenta y cinco de la tarde, hora del centro de México, desde Texas.",
+    "cap": "STARSHIP, el cohete más GRANDE del mundo, despega a las 4:45 P.M., hora del centro de MÉXICO, desde TEXAS."}
+  ]},
+  {"id": "propulsor", "parts": [
+   {"say": "Seis minutos y medio después, el propulsor regresa a la torre… y dos brazos gigantes, los palillos, lo atrapan al vuelo.",
+    "cap": "6.5 MINUTOS después, el PROPULSOR regresa a la TORRE… y dos brazos gigantes, los PALILLOS, lo atrapan al vuelo."}
+  ]},
+  {"id": "nave", "parts": [
+   {"say": "Mientras tanto, la nave sube a doscientos setenta y cinco kilómetros, suelta veintiséis satélites Starlink y le da unas catorce vueltas a la Tierra.",
+    "cap": "Mientras tanto, la NAVE sube a 275 KM, suelta 26 SATÉLITES STARLINK y le da unas 14 VUELTAS a la Tierra."}
+  ]},
+  {"id": "regreso", "parts": [
+   {"say": "El sábado, unas veintidós horas y media después, regresa envuelta en fuego… y la torre intenta atraparla también.",
+    "cap": "El SÁBADO, unas 22.5 HORAS después, regresa envuelta en FUEGO… y la TORRE intenta atraparla también."}
+  ]},
+  {"id": "cierre", "parts": [
+   {"say": "Si lo logra, será la primera vez que un cohete orbital se recupera completo, listo para volver a volar.",
+    "cap": "Si lo logra, será la PRIMERA VEZ que un cohete orbital se recupera COMPLETO, listo para volver a VOLAR."}
+  ]}
+ ]
+}
