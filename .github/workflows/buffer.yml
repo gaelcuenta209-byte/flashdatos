@@ -30,7 +30,8 @@ jobs:
         run: |
           git config user.name "flashdatos-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A videos/*/publicar_estado.json buffer/ 2>/dev/null || true
+          git add -A buffer/ || true
+          git add videos/*/publicar_estado.json 2>/dev/null || true
           if git diff --cached --quiet; then echo "nada nuevo"; exit 0; fi
           git commit -m "Estado de Buffer"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
