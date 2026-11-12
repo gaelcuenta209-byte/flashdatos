@@ -1,32 +1,30 @@
 {
- "actualizado": "2026-11-11",
+ "actualizado": "2026-11-12",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Starship intentará la primera 'doble atrapada': el cohete Y la nave regresan a la torre (vuelo 15, 13 nov)",
-   "gancho": "Este viernes 13, SpaceX va a intentar algo que nadie ha hecho: atrapar en el aire las DOS partes de su cohete.",
-   "por_que_viral": "Es el cohete más grande del mundo, tiene fecha (viernes 13, sale con cuenta regresiva) y la imagen de los 'palillos' de la torre atrapando un cohete ya es viral por sí sola. Tecnología + espacio + 'primera vez en la historia', lo que más ha movido al canal (Swift, día récord). Caduca: debe salir antes del viernes en la tarde.",
-   "dato_principal": "Vuelo 15: despegue no antes del viernes 13 de nov a las 16:45 (hora del centro de México) desde Starbase, Texas. El propulsor Super Heavy (Booster 22) regresa a la torre unos 6.5 min después; la nave da unas 14 vueltas a la Tierra a ~275 km con 26 satélites Starlink V3 y vuelve a la torre el sábado 14 a las 15:17 (hora de México), ~22.5 h después. Sería la primera recuperación completa de un cohete orbital. Si se pospone, ajustar el guion.",
-   "escena_3d": "Torre con brazos tipo palillos; el Super Heavy baja encendido y los brazos lo atrapan; corte a la nave dando vueltas a la Tierra con un contador de órbitas; reentrada con plasma y regreso a la misma torre.",
+   "tema": "Una teoría dice que el universo tiene el DOBLE de edad: 26,700 millones de años (y sin materia oscura)",
+   "gancho": "Te enseñaron que el universo tiene 13,800 millones de años… una nueva teoría dice que tiene casi el doble.",
+   "por_que_viral": "'Todo lo que te enseñaron está mal' es el gancho que más comentarios provoca: la gente discute en los comentarios y eso empuja el video. Escala enorme, número claro (26.7 contra 13.8) y es de esta semana (11 nov).",
+   "dato_principal": "El modelo CCC+TL de Rajendra Gupta y Nikolaos Samaras (Universidad de Ottawa, revista Universe, 2026) propone un universo de unos 26,700 millones de años, sin materia oscura ni energía oscura, y lo probó contra la nucleosíntesis del Big Bang, los 175 galaxias del catálogo SPARC y el Cúmulo Bala. Explicaría por qué el James Webb ve galaxias 'demasiado grandes' tan temprano. Es una teoría minoritaria: decirlo claro en el guion ('todavía no está aceptada').",
+   "escena_3d": "Un reloj cósmico que marca 13.8 y se 'rompe' saltando a 26.7; la cámara retrocede por la historia del universo hasta el Big Bang; galaxias gigantes tempranas que el Webb no esperaba, comparadas en tamaño con la Vía Láctea.",
    "fuentes": [
-    "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
-    "https://en.wikipedia.org/wiki/Starship_flight_15",
-    "https://www.theweek.in/news/sci-tech/2026/11/11/spacex-starship-flight-15-launch.html"
+    "https://www.sciencedaily.com/releases/2026/11/261108233040.htm",
+    "https://www.uottawa.ca/en/news-all/theory-predicting-older-universe-without-dark-matter-dark-energy-passes-key-cosmological"
    ]
   },
   {
    "numero": 2,
    "tema": "Marte y Júpiter 'se juntan' en el cielo el 15–16 de noviembre (y la superluna del 24)",
-   "gancho": "El 16 de noviembre Marte y Júpiter van a parecer pegados… pero los separan cientos de millones de kilómetros.",
-   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México antes del amanecer; la gente lo comparte para avisar a otros. Lleva dos días en la lista y caduca: tiene que salir hoy o mañana (antes del sábado 14).",
-   "dato_principal": "Antes del amanecer del 15 y 16 de noviembre, Marte y Júpiter quedan a solo 1.2° (menos que un dedo con el brazo estirado) en el sureste. El 24 hay superluna, la primera de tres seguidas. Calcular la distancia real entre ambos para esa fecha antes de producir.",
+   "gancho": "Este domingo, Marte y Júpiter van a parecer pegados en el cielo… pero los separan cientos de millones de kilómetros.",
+   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México antes del amanecer; la gente lo comparte para avisar a otros. ÚLTIMO DÍA útil: tiene que producirse hoy para salir antes del fin de semana.",
+   "dato_principal": "Antes del amanecer del 15 y 16 de noviembre, Marte y Júpiter quedan a solo 1.2° (menos que un dedo con el brazo estirado) en el sureste; Júpiter es el más brillante (NASA JPL). El 24 hay superluna, la primera de tres seguidas. Calcular la distancia real entre ambos para esa fecha antes de producir.",
    "escena_3d": "Cielo de madrugada con dos puntos que se acercan; la cámara gira al plano del Sistema Solar y muestra las órbitas reales con los planetas alineados pero lejanos.",
    "fuentes": [
-    "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it",
-    "https://www.skyatnightmagazine.com/news/mars-jupiter-november-2026",
-    "https://sky-tonight.com/object/close-approach/Mars-Jupiter-2026-11-16"
+    "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+    "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it"
    ]
   },
   {
@@ -34,7 +32,7 @@
    "tema": "Encuentran sangre de dinosaurio de 115 millones de años (Aratasaurus, Brasil)",
    "gancho": "Encontraron sangre de dinosaurio… y tiene 115 millones de años.",
    "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; provoca debate (¿se podrá clonar uno?). Es de la semana pasada (PNAS, 6 nov): cuanto más espere, menos fresco.",
-   "dato_principal": "En un hueso del dinosaurio Aratasaurus museunacionali (Brasil) hallaron moléculas de hemo, parte de la hemoglobina, dentro de glóbulos rojos mineralizados: la primera confirmación química de su tipo (Curtin University, PNAS). No hay ADN: decirlo para evitar el mito de la clonación.",
+   "dato_principal": "En huesos de la pata del terópodo Aratasaurus museunacionali (noreste de Brasil) hallaron glóbulos rojos mineralizados y moléculas de hemo (parte de la hemoglobina), además de aminoácidos del colágeno (Curtin University, PNAS). Los conservó un mineral llamado hausmanita y un entierro sin oxígeno. No hay ADN: decirlo para evitar el mito de la clonación.",
    "escena_3d": "Un terópodo corre y cae en un lodo sin oxígeno; se vuelve fósil; la cámara entra al hueso por los canales de los vasos hasta glóbulos rojos de piedra que brillan en rojo.",
    "fuentes": [
     "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
@@ -45,7 +43,7 @@
    "numero": 4,
    "tema": "El telescopio Hubble se está cayendo y la NASA busca quién lo rescate",
    "gancho": "El Hubble se está cayendo… y la NASA tiene hasta 2032 para salvarlo.",
-   "por_que_viral": "Repite la fórmula del video 14 (Swift cae a la Tierra), que salió el día récord, con el telescopio más famoso del mundo. Es de esta semana: la NASA recibe propuestas hasta el 30 de noviembre.",
+   "por_que_viral": "Repite la fórmula del video 14 (Swift cae a la Tierra), que salió el día récord, con el telescopio más famoso del mundo. La NASA recibe propuestas hasta el 30 de noviembre.",
    "dato_principal": "Hubble no tiene motores. El último empujón fue del transbordador Columbia en 2002, a 583 km; hoy va a unos 470 km y reentraría en 2033–2034. Un rescate tendría que subirlo a 600 km antes de 2032.",
    "escena_3d": "Hubble en órbita baja dejando una estela de brillo atmosférico; un contador de altura que baja de 583 a 470 km; una nave de servicio se acopla y lo empuja hacia arriba.",
    "fuentes": [
@@ -55,50 +53,50 @@
   },
   {
    "numero": 5,
+   "tema": "Por primera vez, un robot construyó solo una estructura en el espacio (Caltech)",
+   "gancho": "Por primera vez, un robot construyó algo en el espacio… sin que nadie lo controlara.",
+   "por_que_viral": "Robots + espacio + 'primera vez en la historia', la mezcla de tecnología que más suscriptores trae al canal (F1 desarmado, celular por dentro). Se presta para el formato 'pieza por pieza' que ya funciona. Es del 9 nov.",
+   "dato_principal": "Un robot de Caltech armó de forma autónoma parte de una estructura en órbita: la primera construcción robótica autónoma en el espacio (Caltech, nov 2026). Es el paso previo para armar antenas y estaciones gigantes en órbita en vez de lanzarlas dobladas. Antes de producir, leer el comunicado de Caltech y verificar qué misión lo llevó y qué tamaño tiene la pieza.",
+   "escena_3d": "Un brazo robótico en órbita sobre la Tierra toma barras y nodos de una bandeja y los une como piezas de construcción; la estructura crece hasta formar una armadura; zoom out a una futura antena gigante armada igual.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
+    "https://universemagazine.com/en/a-robot-built-a-structure-in-space-for-the-first-time/"
+   ]
+  },
+  {
+   "numero": 6,
+   "tema": "¿Dónde están los hombres? Una cueva con fósiles de una especie humana extinta… solo de mujeres (Homo naledi)",
+   "gancho": "En esta cueva encontraron fósiles de una especie humana desaparecida… y todos parecen ser de mujeres.",
+   "por_que_viral": "Misterio con pregunta abierta ('¿dónde están los machos?') que invita a comentar teorías; evolución humana y cuevas funcionan muy bien en Shorts. ScienceDaily lo volvió a difundir el 11 nov.",
+   "dato_principal": "Proteínas antiguas del esmalte de dientes de Homo naledi, de más de 240,000 años, de la cueva Rising Star (Sudáfrica), no muestran marcadores masculinos: el sitio podría ser un entierro solo de mujeres (Instituto Max Planck). Es la primera vez que se recuperan proteínas de esta especie. El estudio original es de junio de 2026: decir 'estudio reciente', no 'de hoy'.",
+   "escena_3d": "Recorrido por una grieta estrecha de cueva hasta una cámara con huesos; zoom a un diente y luego a su esmalte, donde aparecen cadenas de proteínas con una marca 'XX'; siluetas que se desvanecen dejando la pregunta.",
+   "fuentes": [
+    "https://www.mpg.de/26838324/ancient-teeth-suggest-homo-naledi-fossils-in-a-cave-may-all-be-female",
+    "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+   ]
+  },
+  {
+   "numero": 7,
+   "tema": "Una rata de 30 kilos vivió en Tailandia hace 34 millones de años (Yakamys)",
+   "gancho": "Hace 34 millones de años existió una rata del tamaño de un perro… de 30 kilos.",
+   "por_que_viral": "Animal conocido en tamaño absurdo: asombro inmediato y comparación visual fácil (rata contra perro o persona). Es de esta semana (10 nov) y casi nadie lo ha contado en español.",
+   "dato_principal": "Yakamys sirindhornae, descrita a partir de dos dientes de la mina de Krabi (sur de Tailandia), pesaba unos 30 kg según siete métodos, el doble que otros roedores de su época (McGill University, Scientific Reports). Los autores dicen que es una estimación aproximada: decirlo.",
+   "escena_3d": "Un pantano tropical antiguo; aparece una rata normal y la cámara se aleja para revelar al roedor gigante junto a ella; comparación de tamaño con un perro y una persona; final con los dos dientes fósiles.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+    "https://www.khaosodenglish.com/news/environment/2026/11/04/30kg-giant-rat-lived-in-thailand-35-million-years-ago-fossils-reveal/"
+   ]
+  },
+  {
+   "numero": 8,
    "tema": "Billones de 'partículas fantasma' te atraviesan cada segundo… y las van a cazar bajo un lago",
    "gancho": "Ahora mismo, billones de partículas están atravesando tu cuerpo… y no sientes nada.",
-   "por_que_viral": "Empieza con algo que le pasa al espectador en este instante (sorpresa personal = retención), tiene nombre misterioso ('partículas fantasma') y es noticia de hoy: la primera vez que ponen detectores de neutrinos en un lago de agua dulce.",
+   "por_que_viral": "Empieza con algo que le pasa al espectador en este instante (sorpresa personal = retención) y tiene nombre misterioso ('partículas fantasma'). Primera vez que ponen detectores de neutrinos en un lago de agua dulce (11 nov).",
    "dato_principal": "La Universidad de Minnesota Duluth, con el Departamento de Energía y DARPA, baja 5 estructuras de tres pisos y ~3.6 toneladas, cada una con 18 sensores esféricos del tamaño de una pelota de playa, a 200 m de profundidad en el Lago Superior para cazar neutrinos del haz de Fermilab. Verificar con NASA/Fermilab la cifra de neutrinos que atraviesan el cuerpo por segundo antes de producir.",
    "escena_3d": "Cuerpo humano translúcido atravesado por hilos de luz que no chocan con nada; la cámara sigue un neutrino desde el Sol, cruza la Tierra y llega al fondo de un lago oscuro donde esferas de sensores se encienden con un destello azul.",
    "fuentes": [
     "https://www.mprnews.org/story/2026/11/11/neutrino-detectors-being-installed-near-duluth-to-hunt-ghost-particles-in-lake-superior",
     "https://d.umn.edu/news/neutrinos-101"
-   ]
-  },
-  {
-   "numero": 6,
-   "tema": "La 'cola de gato' cósmica de 150 mil millones de km: restos de dos mundos que chocaron (Beta Pictoris)",
-   "gancho": "Alrededor de una estrella cercana hay una cola de 150 mil millones de kilómetros… y serían los restos de dos mundos que chocaron.",
-   "por_que_viral": "Imagen extraña y fácil de entender (una 'cola de gato' en el espacio), escala absurda y un choque de planetas enanos 'como Plutón', que es violencia cósmica. Es de esta semana (Hubble, 10 nov).",
-   "dato_principal": "El Hubble fotografió por primera vez en luz visible la 'cola de gato' de Beta Pictoris, a 63 años luz: mide unas 1,000 unidades astronómicas (~150 mil millones de km) y está hecha de granos de polvo de una micra. Se cree que salió del choque de dos cuerpos del tamaño de Plutón (Universidad de Arizona, ApJ Letters).",
-   "escena_3d": "Dos planetas enanos helados se acercan y chocan en cámara lenta junto a una estrella joven; el polvo se estira en una curva larga como cola; la cámara se aleja hasta mostrar el tamaño comparado con nuestro Sistema Solar.",
-   "fuentes": [
-    "http://www.sciencedaily.com/releases/2026/11/261105224555.htm",
-    "https://universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long"
-   ]
-  },
-  {
-   "numero": 7,
-   "tema": "¿Una bomba nuclear salvaría la Tierra de un asteroide? Depende de dónde le pegues",
-   "gancho": "Si un asteroide viene hacia la Tierra, una bomba nuclear podría salvarnos… o fallar por un detalle.",
-   "por_que_viral": "Fin del mundo + bomba nuclear es combinación de alto clic, y tiene giro sorprendente con números claros (5 veces). Conecta con el video de Hera y DART, que ya conoce la audiencia.",
-   "dato_principal": "Simulaciones de Sandia (revista Icarus) muestran que el mismo estallido de rayos X desvía un asteroide 3.9 mm/s si golpea por un lado y solo 0.8 mm/s por otro: casi 5 veces menos, por su forma irregular.",
-   "escena_3d": "Un asteroide con forma de cacahuate girando; dos destellos nucleares desde lados distintos con flechas de empuje de diferente tamaño y su órbita que se aleja (o no) de la Tierra.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
-    "https://www.eurekalert.org/news-releases/1150320"
-   ]
-  },
-  {
-   "numero": 8,
-   "tema": "Le quitaron el brillo a una foto del James Webb… y apareció un planeta escondido",
-   "gancho": "Este planeta estuvo escondido en las fotos del James Webb todo este tiempo… hasta que le quitaron el brillo.",
-   "por_que_viral": "El 'estaba ahí y nadie lo vio' engancha, mezcla IA/software con el telescopio más famoso y es fácil de mostrar con un antes y después. Es de esta semana (Nature, Caltech).",
-   "dato_principal": "El método FLIP de Caltech usa un 'gemelo digital' de la cámara NIRCam del Webb para restar la luz de la estrella; en pruebas detecta planetas de 2 a 15 veces más débiles que los métodos normales y reveló un planeta que ya estaba en datos guardados del Webb (Nature, 4 nov). Confirmar el nombre del planeta antes de producir.",
-   "escena_3d": "Una estrella cegadora con halo de brillo; una capa digital en malla verde copia el halo y lo 'resta' en tiempo real; al limpiarse aparece un puntito naranja: el planeta orbitando.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-    "https://livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world"
    ]
   }
  ]
