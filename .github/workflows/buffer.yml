@@ -1,0 +1,36 @@
+name: Publicar con Buffer
+
+# Claude sube videos/NN-tema/publicar.json SOLO después de la aprobación del dueño en el chat.
+# Esta acción crea las publicaciones en YouTube, Instagram y TikTok con la API gratuita de Buffer
+# y escribe videos/NN-tema/publicar_estado.json. buffer/consulta.json lista los canales conectados.
+on:
+  push:
+    branches: [main]
+    paths: ["videos/*/publicar.json", "buffer/consulta.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: buffer
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publicar o consultar en Buffer
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: python3 .github/scripts/buffer.py
+      - name: Guardar el estado
+        run: |
+          git config user.name "flashdatos-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A videos/*/publicar_estado.json buffer/ 2>/dev/null || true
+          if git diff --cached --quiet; then echo "nada nuevo"; exit 0; fi
+          git commit -m "Estado de Buffer"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

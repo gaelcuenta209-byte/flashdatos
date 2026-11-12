@@ -89,6 +89,15 @@ Identidad visual: fondo espacial azul noche, subtítulos en Inter Black blanco c
     - el texto para Instagram y TikTok.
     Avisar con push: "Tu video de hoy está listo para aprobar". Pedir aprobación y esperar la respuesta.
 
+## Publicar con Buffer (reemplazo gratuito de Metricool, desde el 12 nov 2026)
+
+El dueño no quiere pagar Metricool (plan Free: 20 posts al mes). Buffer Free da 3 canales (YouTube, Instagram, TikTok) y API gratis. Mientras `buffer/consulta_estado.json` no diga `"ok": true` con los tres canales, se sigue usando Metricool.
+
+- **Configuración (la hace el dueño, una vez):** cuenta gratis en buffer.com; conectar YouTube, Instagram (cuenta profesional: Empresa o Creador) y TikTok; crear la clave en publish.buffer.com/settings/api y guardarla en GitHub (Settings → Secrets and variables → Actions) como `BUFFER_API_KEY`; en Buffer, ningún canal con "Requires Approval".
+- **Comprobar:** subir `buffer/consulta.json` (`{}`) y borrar antes `buffer/consulta_estado.json` si existe. La acción **Publicar con Buffer** escribe en `consulta_estado.json` los canales conectados.
+- **Al recibir la aprobación:** escribir `videos/NN-tema/publicar.json` con `{"numero": "NN", "video_url": "<enlace del release>", "texto": "<descripción aprobada>", "titulo_youtube": "<título aprobado>", "titulo_tiktok": "<título corto>", "fecha": "AAAA-MM-DDT23:00:00Z"}` (17:00 de CDMX = 23:00 UTC; vacío = publicar ya) y hacer push. Esperar `publicar_estado.json` con `"ok": true` en las tres redes. Si falla, aplicar la regla 4.
+- Nunca subir `publicar.json` sin la aprobación del dueño (regla 1).
+
 ## Al recibir la aprobación
 
 1. Programar con Metricool `createScheduledPost`:
