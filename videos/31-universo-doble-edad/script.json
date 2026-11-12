@@ -1,0 +1,34 @@
+{
+ "id": "31",
+ "title": "Una teoría dice que el universo tiene el doble de edad: 26,700 millones de años (y sin materia oscura)",
+ "segments": [
+  {"id": "gancho", "parts": [
+   {"say": "Te enseñaron que el universo tiene trece mil ochocientos millones de años… pero una nueva teoría dice que tiene casi el doble.",
+    "cap": "Te enseñaron que el UNIVERSO tiene 13,800 MILLONES de años… pero una nueva teoría dice que tiene casi el DOBLE."}
+  ]},
+  {"id": "cifra", "parts": [
+   {"say": "Según el físico Rajendra Gupta, de la Universidad de Ottawa, el universo tendría veintiséis mil setecientos millones de años.",
+    "cap": "Según el físico RAJENDRA GUPTA, de la Universidad de OTTAWA, el universo tendría 26,700 MILLONES de años."}
+  ]},
+  {"id": "oscuro", "parts": [
+   {"say": "Y lo más loco: su modelo no necesita materia oscura ni energía oscura, que nadie ha logrado detectar directamente.",
+    "cap": "Y lo más loco: su modelo NO necesita MATERIA OSCURA ni ENERGÍA OSCURA, que nadie ha logrado detectar directamente."}
+  ]},
+  {"id": "idea", "parts": [
+   {"say": "En su lugar, propone que las constantes de la física cambian con el tiempo… y que la luz se cansa en su viaje por el cosmos.",
+    "cap": "En su lugar, propone que las CONSTANTES de la física CAMBIAN con el tiempo… y que la LUZ se cansa en su viaje por el cosmos."}
+  ]},
+  {"id": "pruebas", "parts": [
+   {"say": "Ya reprodujo el giro de ciento setenta y cinco galaxias y la creación de los primeros elementos después del Big Bang.",
+    "cap": "Ya reprodujo el GIRO de 175 GALAXIAS y la creación de los primeros ELEMENTOS después del BIG BANG."}
+  ]},
+  {"id": "webb", "parts": [
+   {"say": "Y explicaría por qué el telescopio James Webb ve galaxias gigantes que, según el modelo actual, eran demasiado jóvenes para existir.",
+    "cap": "Y explicaría por qué el JAMES WEBB ve GALAXIAS GIGANTES que, según el modelo actual, eran demasiado JÓVENES para existir."}
+  ]},
+  {"id": "cierre", "parts": [
+   {"say": "Pero ojo: es una teoría minoritaria y aún le falta su prueba más difícil, el fondo cósmico de microondas. Por ahora, la edad oficial sigue siendo trece mil ochocientos millones de años.",
+    "cap": "Pero OJO: es una teoría MINORITARIA y aún le falta su prueba más difícil, el FONDO CÓSMICO de microondas. Por ahora, la edad oficial sigue siendo 13,800 MILLONES de años."}
+  ]}
+ ]
+}
