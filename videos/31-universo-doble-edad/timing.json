@@ -1,0 +1,99 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 63.87,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 8.38,
+   "say": "Te enseñaron que el universo tiene trece mil ochocientos millones de años… pero una nueva teoría dice que tiene casi el doble.",
+   "parts": [
+    [
+     0.1,
+     8.38,
+     "Te enseñaron que el UNIVERSO tiene 13,800 MILLONES de años… pero una nueva teoría dice que tiene casi el DOBLE."
+    ]
+   ]
+  },
+  {
+   "id": "cifra",
+   "t0": 9.03,
+   "t1": 17.21,
+   "say": "Según el físico Rajendra Gupta, de la Universidad de Ottawa, el universo tendría veintiséis mil setecientos millones de años.",
+   "parts": [
+    [
+     9.03,
+     17.21,
+     "Según el físico RAJENDRA GUPTA, de la Universidad de OTTAWA, el universo tendría 26,700 MILLONES de años."
+    ]
+   ]
+  },
+  {
+   "id": "oscuro",
+   "t0": 17.67,
+   "t1": 25.32,
+   "say": "Y lo más loco: su modelo no necesita materia oscura ni energía oscura, que nadie ha logrado detectar directamente.",
+   "parts": [
+    [
+     17.67,
+     25.32,
+     "Y lo más loco: su modelo NO necesita MATERIA OSCURA ni ENERGÍA OSCURA, que nadie ha logrado detectar directamente."
+    ]
+   ]
+  },
+  {
+   "id": "idea",
+   "t0": 25.91,
+   "t1": 33.89,
+   "say": "En su lugar, propone que las constantes de la física cambian con el tiempo… y que la luz se cansa en su viaje por el cosmos.",
+   "parts": [
+    [
+     25.91,
+     33.89,
+     "En su lugar, propone que las CONSTANTES de la física CAMBIAN con el tiempo… y que la LUZ se cansa en su viaje por el cosmos."
+    ]
+   ]
+  },
+  {
+   "id": "pruebas",
+   "t0": 34.49,
+   "t1": 41.28,
+   "say": "Ya reprodujo el giro de ciento setenta y cinco galaxias y la creación de los primeros elementos después del Big Bang.",
+   "parts": [
+    [
+     34.49,
+     41.28,
+     "Ya reprodujo el GIRO de 175 GALAXIAS y la creación de los primeros ELEMENTOS después del BIG BANG."
+    ]
+   ]
+  },
+  {
+   "id": "webb",
+   "t0": 41.79,
+   "t1": 50.19,
+   "say": "Y explicaría por qué el telescopio James Webb ve galaxias gigantes que, según el modelo actual, eran demasiado jóvenes para existir.",
+   "parts": [
+    [
+     41.79,
+     50.19,
+     "Y explicaría por qué el JAMES WEBB ve GALAXIAS GIGANTES que, según el modelo actual, eran demasiado JÓVENES para existir."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 50.77,
+   "t1": 63.71,
+   "say": "Pero ojo: es una teoría minoritaria y aún le falta su prueba más difícil, el fondo cósmico de microondas. Por ahora, la edad oficial sigue siendo trece mil ochocientos millones de años.",
+   "parts": [
+    [
+     50.77,
+     63.71,
+     "Pero OJO: es una teoría MINORITARIA y aún le falta su prueba más difícil, el FONDO CÓSMICO de microondas. Por ahora, la edad oficial sigue siendo 13,800 MILLONES de años."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 65.36
+}
