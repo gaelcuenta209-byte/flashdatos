@@ -1,0 +1,34 @@
+{
+ "id": "32",
+ "title": "Marte y Júpiter se verán casi pegados este domingo… pero los separan casi 600 millones de km",
+ "segments": [
+  {"id": "gancho", "parts": [
+   {"say": "Este domingo, Marte y Júpiter se van a ver casi pegados en el cielo… pero entre ellos hay casi seiscientos millones de kilómetros.",
+    "cap": "Este DOMINGO, MARTE y JÚPITER se van a ver casi PEGADOS en el cielo… pero entre ellos hay casi 600 MILLONES de km."}
+  ]},
+  {"id": "cuando", "parts": [
+   {"say": "Levántate antes del amanecer, el domingo quince o el lunes dieciséis, y a eso de las cinco de la mañana mira alto hacia el este.",
+    "cap": "Levántate antes del AMANECER, el domingo 15 o el lunes 16, y a eso de las 5 a. m. mira ALTO hacia el ESTE."}
+  ]},
+  {"id": "dedo", "parts": [
+   {"say": "Los vas a ver a poco más de un grado de distancia: más o menos el ancho de tu dedo con el brazo estirado.",
+    "cap": "Los vas a ver a poco más de 1 GRADO de distancia: más o menos el ancho de tu DEDO con el brazo estirado."}
+  ]},
+  {"id": "cual", "parts": [
+   {"say": "El punto más brillante es Júpiter. El puntito rojizo a su lado es Marte, unas trece veces más tenue.",
+    "cap": "El punto más BRILLANTE es JÚPITER. El puntito ROJIZO a su lado es MARTE, unas 13 veces más tenue."}
+  ]},
+  {"id": "ilusion", "parts": [
+   {"say": "Pero es una ilusión. Marte está a ciento noventa y cinco millones de kilómetros de nosotros, y Júpiter, a casi setecientos noventa millones: cuatro veces más lejos.",
+    "cap": "Pero es una ILUSIÓN. MARTE está a 195 MILLONES de km de nosotros, y JÚPITER, a casi 790 MILLONES: 4 VECES más lejos."}
+  ]},
+  {"id": "luz", "parts": [
+   {"say": "La luz de Marte tarda once minutos en llegar a tus ojos; la de Júpiter, cuarenta y cuatro.",
+    "cap": "La LUZ de MARTE tarda 11 MINUTOS en llegar a tus ojos; la de JÚPITER, 44."}
+  ]},
+  {"id": "cierre", "parts": [
+   {"say": "Solo coinciden en la misma línea de mirada desde la Tierra. Y para verlo no necesitas telescopio: basta con tus ojos y un cielo despejado.",
+    "cap": "Solo coinciden en la misma LÍNEA DE MIRADA desde la Tierra. Y para verlo NO necesitas telescopio: basta con tus OJOS y un cielo despejado."}
+  ]}
+ ]
+}
