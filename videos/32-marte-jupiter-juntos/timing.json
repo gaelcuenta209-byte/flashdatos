@@ -1,0 +1,99 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 60.68,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 9.21,
+   "say": "Este domingo, Marte y Júpiter se van a ver casi pegados en el cielo… pero entre ellos hay casi seiscientos millones de kilómetros.",
+   "parts": [
+    [
+     0.1,
+     9.21,
+     "Este DOMINGO, MARTE y JÚPITER se van a ver casi PEGADOS en el cielo… pero entre ellos hay casi 600 MILLONES de km."
+    ]
+   ]
+  },
+  {
+   "id": "cuando",
+   "t0": 9.84,
+   "t1": 17.68,
+   "say": "Levántate antes del amanecer, el domingo quince o el lunes dieciséis, y a eso de las cinco de la mañana mira alto hacia el este.",
+   "parts": [
+    [
+     9.84,
+     17.68,
+     "Levántate antes del AMANECER, el domingo 15 o el lunes 16, y a eso de las 5:00 a.m. mira ALTO hacia el ESTE."
+    ]
+   ]
+  },
+  {
+   "id": "dedo",
+   "t0": 18.27,
+   "t1": 24.13,
+   "say": "Los vas a ver a poco más de un grado de distancia: más o menos el ancho de tu dedo con el brazo estirado.",
+   "parts": [
+    [
+     18.27,
+     24.13,
+     "Los vas a ver a poco más de 1 GRADO de distancia: más o menos el ancho de tu DEDO con el brazo estirado."
+    ]
+   ]
+  },
+  {
+   "id": "cual",
+   "t0": 24.73,
+   "t1": 32.06,
+   "say": "El punto más brillante es Júpiter. El puntito rojizo a su lado es Marte, unas trece veces más tenue.",
+   "parts": [
+    [
+     24.73,
+     32.06,
+     "El punto más BRILLANTE es JÚPITER. El puntito ROJIZO a su lado es MARTE, unas 13 veces más tenue."
+    ]
+   ]
+  },
+  {
+   "id": "ilusion",
+   "t0": 32.66,
+   "t1": 44.73,
+   "say": "Pero es una ilusión. Marte está a ciento noventa y cinco millones de kilómetros de nosotros, y Júpiter, a casi setecientos noventa millones: cuatro veces más lejos.",
+   "parts": [
+    [
+     32.66,
+     44.73,
+     "Pero es una ILUSIÓN. MARTE está a 195 MILLONES de km de nosotros, y JÚPITER, a casi 790 MILLONES: 4 VECES más lejos."
+    ]
+   ]
+  },
+  {
+   "id": "luz",
+   "t0": 45.26,
+   "t1": 50.86,
+   "say": "La luz de Marte tarda once minutos en llegar a tus ojos; la de Júpiter, cuarenta y cuatro.",
+   "parts": [
+    [
+     45.26,
+     50.86,
+     "La LUZ de MARTE tarda 11 MINUTOS en llegar a tus ojos; la de JÚPITER, 44."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 51.43,
+   "t1": 60.52,
+   "say": "Solo coinciden en la misma línea de mirada desde la Tierra. Y para verlo no necesitas telescopio: basta con tus ojos y un cielo despejado.",
+   "parts": [
+    [
+     51.43,
+     60.52,
+     "Solo coinciden en la misma LÍNEA DE MIRADA desde la Tierra. Y para verlo NO necesitas telescopio: basta con tus OJOS y un cielo despejado."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 61.35
+}

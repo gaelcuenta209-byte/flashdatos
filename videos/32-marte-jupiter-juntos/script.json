@@ -8,7 +8,7 @@
   ]},
   {"id": "cuando", "parts": [
    {"say": "Levántate antes del amanecer, el domingo quince o el lunes dieciséis, y a eso de las cinco de la mañana mira alto hacia el este.",
-    "cap": "Levántate antes del AMANECER, el domingo 15 o el lunes 16, y a eso de las 5 a. m. mira ALTO hacia el ESTE."}
+    "cap": "Levántate antes del AMANECER, el domingo 15 o el lunes 16, y a eso de las 5:00 a.m. mira ALTO hacia el ESTE."}
   ]},
   {"id": "dedo", "parts": [
    {"say": "Los vas a ver a poco más de un grado de distancia: más o menos el ancho de tu dedo con el brazo estirado.",
