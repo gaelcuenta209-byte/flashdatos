@@ -1,25 +1,13 @@
 {
- "actualizado": "2026-11-12",
+ "actualizado": "2026-11-13",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Una teoría dice que el universo tiene el DOBLE de edad: 26,700 millones de años (y sin materia oscura)",
-   "gancho": "Te enseñaron que el universo tiene 13,800 millones de años… una nueva teoría dice que tiene casi el doble.",
-   "por_que_viral": "'Todo lo que te enseñaron está mal' es el gancho que más comentarios provoca: la gente discute en los comentarios y eso empuja el video. Escala enorme, número claro (26.7 contra 13.8) y es de esta semana (11 nov).",
-   "dato_principal": "El modelo CCC+TL de Rajendra Gupta y Nikolaos Samaras (Universidad de Ottawa, revista Universe, 2026) propone un universo de unos 26,700 millones de años, sin materia oscura ni energía oscura, y lo probó contra la nucleosíntesis del Big Bang, los 175 galaxias del catálogo SPARC y el Cúmulo Bala. Explicaría por qué el James Webb ve galaxias 'demasiado grandes' tan temprano. Es una teoría minoritaria: decirlo claro en el guion ('todavía no está aceptada').",
-   "escena_3d": "Un reloj cósmico que marca 13.8 y se 'rompe' saltando a 26.7; la cámara retrocede por la historia del universo hasta el Big Bang; galaxias gigantes tempranas que el Webb no esperaba, comparadas en tamaño con la Vía Láctea.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261108233040.htm",
-    "https://www.uottawa.ca/en/news-all/theory-predicting-older-universe-without-dark-matter-dark-energy-passes-key-cosmological"
-   ]
-  },
-  {
-   "numero": 2,
    "tema": "Marte y Júpiter 'se juntan' en el cielo el 15–16 de noviembre (y la superluna del 24)",
    "gancho": "Este domingo, Marte y Júpiter van a parecer pegados en el cielo… pero los separan cientos de millones de kilómetros.",
-   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México antes del amanecer; la gente lo comparte para avisar a otros. ÚLTIMO DÍA útil: tiene que producirse hoy para salir antes del fin de semana.",
+   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México este fin de semana: la gente lo comparte para avisar. Es el ÚLTIMO día para producirlo a tiempo (y con Metricool en el límite habría que subirlo a mano hoy o mañana temprano).",
    "dato_principal": "Antes del amanecer del 15 y 16 de noviembre, Marte y Júpiter quedan a solo 1.2° (menos que un dedo con el brazo estirado) en el sureste; Júpiter es el más brillante (NASA JPL). El 24 hay superluna, la primera de tres seguidas. Calcular la distancia real entre ambos para esa fecha antes de producir.",
    "escena_3d": "Cielo de madrugada con dos puntos que se acercan; la cámara gira al plano del Sistema Solar y muestra las órbitas reales con los planetas alineados pero lejanos.",
    "fuentes": [
@@ -28,10 +16,22 @@
    ]
   },
   {
+   "numero": 2,
+   "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
+   "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
+   "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
+   "dato_principal": "TOI-2535 b, un Júpiter caliente a unos 1,000 años luz que da la vuelta a su estrella en 8.25 días. TESS lo vio transitar de abril de 2019 a marzo de 2026: sus tránsitos se adelantaban o atrasaban hasta 6 horas, se hicieron más cortos y dejaron de verse en 2026. Un planeta vecino invisible, con órbita inclinada, lo hace 'bambolearse como trompo'. Volvería a verse en 30 a 50 años (UCLA, The Astrophysical Journal Letters). Aclarar: el planeta sigue ahí, solo dejó de pasar frente a nosotros.",
+   "escena_3d": "Estrella con un gigante gaseoso que pasa por delante y hace bajar una curva de luz; la órbita se inclina poco a poco como trompo hasta que el planeta ya no cruza; aparece el vecino oculto en sombra; contador de años 2019 → 2026 → 2056.",
+   "fuentes": [
+    "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
+    "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
+   ]
+  },
+  {
    "numero": 3,
    "tema": "Encuentran sangre de dinosaurio de 115 millones de años (Aratasaurus, Brasil)",
    "gancho": "Encontraron sangre de dinosaurio… y tiene 115 millones de años.",
-   "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; provoca debate (¿se podrá clonar uno?). Es de la semana pasada (PNAS, 6 nov): cuanto más espere, menos fresco.",
+   "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; provoca debate (¿se podrá clonar uno?). Es de PNAS del 6 nov: cuanto más espere, menos fresco.",
    "dato_principal": "En huesos de la pata del terópodo Aratasaurus museunacionali (noreste de Brasil) hallaron glóbulos rojos mineralizados y moléculas de hemo (parte de la hemoglobina), además de aminoácidos del colágeno (Curtin University, PNAS). Los conservó un mineral llamado hausmanita y un entierro sin oxígeno. No hay ADN: decirlo para evitar el mito de la clonación.",
    "escena_3d": "Un terópodo corre y cae en un lodo sin oxígeno; se vuelve fósil; la cámara entra al hueso por los canales de los vasos hasta glóbulos rojos de piedra que brillan en rojo.",
    "fuentes": [
@@ -41,6 +41,18 @@
   },
   {
    "numero": 4,
+   "tema": "Una bomba nuclear podría salvarnos de un asteroide… pero solo si le pegas del lado correcto (Sandia)",
+   "gancho": "Si un asteroide viene hacia la Tierra, una bomba nuclear podría desviarlo… o casi no moverlo. Depende de dónde le pegues.",
+   "por_que_viral": "Fin del mundo + bomba nuclear + giro inesperado: gancho de alto riesgo que se comparte. Conecta con el video 09 (Hera y DART), que ya conoce la audiencia. Estudio de Icarus difundido el 3–8 nov.",
+   "dato_principal": "Simulaciones de Sandia National Laboratories (Nathan Moore, revista Icarus, 2026) con asteroides irregulares: en uno, el empujón fue de 3.9 mm/s desde un ángulo y solo 0.8 mm/s desde otro (casi 5 veces menos); en otro, el giro cambió hasta 17 veces según el lado. El nuevo método calcula 1,600 veces más rápido. Decir que es una simulación, no una prueba real.",
+   "escena_3d": "Asteroide con forma de papa girando; destello de rayos X de un lado y vapor de roca que sale disparado; comparación lado A (flecha larga, 3.9 mm/s) contra lado B (flecha corta, 0.8); la trayectoria se desvía o no de la Tierra.",
+   "fuentes": [
+    "https://www.eurekalert.org/news-releases/1150320",
+    "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
+   ]
+  },
+  {
+   "numero": 5,
    "tema": "El telescopio Hubble se está cayendo y la NASA busca quién lo rescate",
    "gancho": "El Hubble se está cayendo… y la NASA tiene hasta 2032 para salvarlo.",
    "por_que_viral": "Repite la fórmula del video 14 (Swift cae a la Tierra), que salió el día récord, con el telescopio más famoso del mundo. La NASA recibe propuestas hasta el 30 de noviembre.",
@@ -52,51 +64,39 @@
    ]
   },
   {
-   "numero": 5,
-   "tema": "Por primera vez, un robot construyó solo una estructura en el espacio (Caltech)",
-   "gancho": "Por primera vez, un robot construyó algo en el espacio… sin que nadie lo controlara.",
-   "por_que_viral": "Robots + espacio + 'primera vez en la historia', la mezcla de tecnología que más suscriptores trae al canal (F1 desarmado, celular por dentro). Se presta para el formato 'pieza por pieza' que ya funciona. Es del 9 nov.",
-   "dato_principal": "Un robot de Caltech armó de forma autónoma parte de una estructura en órbita: la primera construcción robótica autónoma en el espacio (Caltech, nov 2026). Es el paso previo para armar antenas y estaciones gigantes en órbita en vez de lanzarlas dobladas. Antes de producir, leer el comunicado de Caltech y verificar qué misión lo llevó y qué tamaño tiene la pieza.",
-   "escena_3d": "Un brazo robótico en órbita sobre la Tierra toma barras y nodos de una bandeja y los une como piezas de construcción; la estructura crece hasta formar una armadura; zoom out a una futura antena gigante armada igual.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
-    "https://universemagazine.com/en/a-robot-built-a-structure-in-space-for-the-first-time/"
-   ]
-  },
-  {
    "numero": 6,
-   "tema": "¿Dónde están los hombres? Una cueva con fósiles de una especie humana extinta… solo de mujeres (Homo naledi)",
-   "gancho": "En esta cueva encontraron fósiles de una especie humana desaparecida… y todos parecen ser de mujeres.",
-   "por_que_viral": "Misterio con pregunta abierta ('¿dónde están los machos?') que invita a comentar teorías; evolución humana y cuevas funcionan muy bien en Shorts. ScienceDaily lo volvió a difundir el 11 nov.",
-   "dato_principal": "Proteínas antiguas del esmalte de dientes de Homo naledi, de más de 240,000 años, de la cueva Rising Star (Sudáfrica), no muestran marcadores masculinos: el sitio podría ser un entierro solo de mujeres (Instituto Max Planck). Es la primera vez que se recuperan proteínas de esta especie. El estudio original es de junio de 2026: decir 'estudio reciente', no 'de hoy'.",
-   "escena_3d": "Recorrido por una grieta estrecha de cueva hasta una cámara con huesos; zoom a un diente y luego a su esmalte, donde aparecen cadenas de proteínas con una marca 'XX'; siluetas que se desvanecen dejando la pregunta.",
+   "tema": "La Tierra fabricó su propia agua: piedras ardientes + hidrógeno = cientos de océanos (sin cometas)",
+   "gancho": "Te dijeron que el agua de la Tierra la trajeron cometas… un experimento dice que la Tierra la fabricó sola.",
+   "por_que_viral": "Rompe una creencia escolar (como la idea del universo de ayer) y responde una pregunta que todos se hicieron: ¿de dónde salió el agua? ScienceDaily lo difundió el 12 nov.",
+   "dato_principal": "Susmita Garai y Zachary Sharp (Universidad de Nuevo México, Nature Geoscience) calentaron rocas a 1,200–1,400 °C en hidrógeno: casi el 80 % del óxido de hierro se volvió hierro metálico y soltó vapor de agua (en helio no pasó nada). En la Tierra joven, con más de 3,000 K y 200 bares, una lluvia de piedritas pudo producir de decenas a varios cientos de océanos de agua. Es una estimación máxima de laboratorio: decir que los cometas pudieron aportar parte.",
+   "escena_3d": "Tierra joven al rojo vivo bajo una atmósfera de hidrógeno; lluvia de piedritas incandescentes que al caer sueltan vapor; zoom a una piedra donde el hierro brilla metálico; el vapor se condensa en océanos azules.",
    "fuentes": [
-    "https://www.mpg.de/26838324/ancient-teeth-suggest-homo-naledi-fossils-in-a-cave-may-all-be-female",
-    "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+    "https://universetoday.com/articles/no-comets-required-how-the-growing-earth-may-have-created-its-own-water"
    ]
   },
   {
    "numero": 7,
-   "tema": "Una rata de 30 kilos vivió en Tailandia hace 34 millones de años (Yakamys)",
-   "gancho": "Hace 34 millones de años existió una rata del tamaño de un perro… de 30 kilos.",
-   "por_que_viral": "Animal conocido en tamaño absurdo: asombro inmediato y comparación visual fácil (rata contra perro o persona). Es de esta semana (10 nov) y casi nadie lo ha contado en español.",
-   "dato_principal": "Yakamys sirindhornae, descrita a partir de dos dientes de la mina de Krabi (sur de Tailandia), pesaba unos 30 kg según siete métodos, el doble que otros roedores de su época (McGill University, Scientific Reports). Los autores dicen que es una estimación aproximada: decirlo.",
-   "escena_3d": "Un pantano tropical antiguo; aparece una rata normal y la cámara se aleja para revelar al roedor gigante junto a ella; comparación de tamaño con un perro y una persona; final con los dos dientes fósiles.",
+   "tema": "Dos planetas enanos chocaron y dejaron una 'cola de gato' de 150,000 millones de km (Beta Pictoris)",
+   "gancho": "A 63 años luz, dos mundos del tamaño de Plutón chocaron… y dejaron una cola de polvo mil veces más larga que la distancia de la Tierra al Sol.",
+   "por_que_viral": "Choque de mundos + tamaño absurdo + nombre simpático ('cola de gato'): muy visual en 3D. Hubble lo vio por fin en luz visible; ScienceDaily lo difundió el 10 nov.",
+   "dato_principal": "La 'cola de gato' de Beta Pictoris (63 años luz, estrella de solo 23 millones de años) mide unas 1,000 unidades astronómicas (~150,000 millones de km). JWST la vio en 2024 y ahora el Hubble en luz visible: casi negra, de material orgánico con carbono. Los autores (Universidad de Arizona, ApJL) la explican con el choque de dos cuerpos de 600–800 km de radio, como Caronte o Makemake. Es una interpretación del modelo: decirlo.",
+   "escena_3d": "Disco de polvo alrededor de una estrella joven; dos planetas enanos helados se acercan y chocan; nube oscura que se estira en una cola curva; regla con la órbita de Neptuno para comparar el tamaño.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-    "https://www.khaosodenglish.com/news/environment/2026/11/04/30kg-giant-rat-lived-in-thailand-35-million-years-ago-fossils-reveal/"
+    "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
+    "https://universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long"
    ]
   },
   {
    "numero": 8,
-   "tema": "Billones de 'partículas fantasma' te atraviesan cada segundo… y las van a cazar bajo un lago",
-   "gancho": "Ahora mismo, billones de partículas están atravesando tu cuerpo… y no sientes nada.",
-   "por_que_viral": "Empieza con algo que le pasa al espectador en este instante (sorpresa personal = retención) y tiene nombre misterioso ('partículas fantasma'). Primera vez que ponen detectores de neutrinos en un lago de agua dulce (11 nov).",
-   "dato_principal": "La Universidad de Minnesota Duluth, con el Departamento de Energía y DARPA, baja 5 estructuras de tres pisos y ~3.6 toneladas, cada una con 18 sensores esféricos del tamaño de una pelota de playa, a 200 m de profundidad en el Lago Superior para cazar neutrinos del haz de Fermilab. Verificar con NASA/Fermilab la cifra de neutrinos que atraviesan el cuerpo por segundo antes de producir.",
-   "escena_3d": "Cuerpo humano translúcido atravesado por hilos de luz que no chocan con nada; la cámara sigue un neutrino desde el Sol, cruza la Tierra y llega al fondo de un lago oscuro donde esferas de sensores se encienden con un destello azul.",
+   "tema": "42 años buscando algo que pasa 1 vez en 10,000 millones: el CERN por fin lo vio (LHCb)",
+   "gancho": "Hay algo que pasa una vez cada diez mil millones de veces… y los físicos lo buscaron durante 42 años.",
+   "por_que_viral": "Número imposible + paciencia épica: historia de récord fácil de entender. Tecnología gigante (el LHC) que luce en 3D. Es del 9 nov.",
+   "dato_principal": "El experimento LHCb del CERN encontró la primera evidencia en un solo experimento de un mesón B neutro que se desintegra en un muon y un antimuon, algo que pasa cerca de 1 vez en 10,000 millones. La búsqueda empezó en 1984 (CLEO) y la sensibilidad mejoró unas dos millones de veces; esperaban solo ~26 casos y los separaron con aprendizaje automático. Es 3.2 sigma (evidencia, no descubrimiento: se pide 5) y confirma el Modelo Estándar, no es física nueva.",
+   "escena_3d": "Túnel del LHC con haces que chocan; explosión de partículas en el detector; un contador que corre hasta 10,000,000,000 y solo una partícula se ilumina en amarillo y se parte en dos muones.",
    "fuentes": [
-    "https://www.mprnews.org/story/2026/11/11/neutrino-detectors-being-installed-near-duluth-to-hunt-ghost-particles-in-lake-superior",
-    "https://d.umn.edu/news/neutrinos-101"
+    "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+    "https://universemagazine.com/en/the-evidence-of-an-extremely-rare-particle-decay-was-found-after-42-years-of-searching"
    ]
   }
  ]
