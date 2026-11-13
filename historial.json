@@ -688,6 +688,18 @@
     "uuid": "5522149862278516548",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=5522149862278516548"
    }
+  },
+  {
+   "numero": 32,
+   "tema": "Marte y Júpiter se ven casi pegados en el cielo antes del amanecer del 15 y 16 nov (conjunción a 1.2° en Leo), pero los separan casi 600 millones de km",
+   "carpeta": "videos/32-marte-jupiter-juntos",
+   "titulo": "⚡ Marte y Júpiter se verán PEGADOS este domingo… pero los separan 600 millones de km 🪐 #shorts",
+   "titulo_tiktok": "⚡ Marte y Júpiter se verán pegados este domingo 🪐",
+   "descripcion": "⚡ El domingo 15 y el lunes 16, antes del amanecer, mira alto hacia el este: Marte y Júpiter quedan a solo 1.2°, como el ancho de un dedo. Pero es una ilusión: Marte está a 195 millones de km y Júpiter a casi 790 millones. Se ve sin telescopio.\nFuente: efemérides JPL vía Telescope Advisor y Sky Tonight (nov 2026).\n#marte #jupiter #astronomia #espacio #cielo #ciencia",
+   "fecha_programada": "2026-11-13 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-32/FlashDatos_32.mp4",
+   "nota": "Video del día del 2026-11-13 (idea 1 del reporte). 61.3 s. Caduca: el evento es la madrugada del domingo 15 y lunes 16. Metricool sigue en el límite del plan Free (20 posts/mes) hasta el 1 de diciembre; Buffer aún sin BUFFER_API_KEY. Si se aprueba, programarlo probablemente fallará: conviene subirlo a mano hoy."
   }
  ]
 }
