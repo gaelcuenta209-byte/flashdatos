@@ -700,6 +700,18 @@
    "estado": "esperando aprobación",
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-32/FlashDatos_32.mp4",
    "nota": "Video del día del 2026-11-13 (idea 1 del reporte). 61.3 s. Caduca: el evento es la madrugada del domingo 15 y lunes 16. Metricool sigue en el límite del plan Free (20 posts/mes) hasta el 1 de diciembre; Buffer aún sin BUFFER_API_KEY. Si se aprueba, programarlo probablemente fallará: conviene subirlo a mano hoy."
+  },
+  {
+   "numero": 33,
+   "tema": "Encuentran sangre de dinosaurio de 115 millones de años: glóbulos rojos fosilizados con moléculas de hemo en huesos de Aratasaurus (noreste de Brasil; Grice et al., PNAS, nov 2026)",
+   "carpeta": "videos/33-sangre-dinosaurio",
+   "titulo": "⚡ Encontraron SANGRE de dinosaurio… y tiene 115 millones de años 🦖 #shorts",
+   "titulo_tiktok": "⚡ Encontraron sangre de dinosaurio de 115 millones de años 🦖",
+   "descripcion": "⚡ En los huesos de la pata de Aratasaurus, un dinosaurio del noreste de Brasil, hallaron glóbulos rojos convertidos en piedra con moléculas de hemo: la primera prueba química de sangre dentro de células de dinosaurio. Ojo: no hay ADN, así que no se puede clonar.\nFuente: Grice et al., PNAS (noviembre 2026); Curtin University.\n#dinosaurios #ciencia #paleontologia #fosiles #datoscuriosos #sabiasque",
+   "fecha_programada": "2026-11-14 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-33/FlashDatos_33.mp4",
+   "nota": "Video del día del 2026-11-14 (idea 1 del reporte). 53.7 s. Metricool sigue en el límite del plan Free hasta el 1 de diciembre; Buffer aún sin BUFFER_API_KEY: si se aprueba, programarlo probablemente fallará."
   }
  ]
 }
