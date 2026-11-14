@@ -1,0 +1,99 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 51.8,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 5.58,
+   "say": "Encontraron sangre de dinosaurio… y tiene ciento quince millones de años.",
+   "parts": [
+    [
+     0.1,
+     5.58,
+     "Encontraron SANGRE de DINOSAURIO… y tiene 115 MILLONES de años."
+    ]
+   ]
+  },
+  {
+   "id": "quien",
+   "t0": 6.13,
+   "t1": 11.8,
+   "say": "Estaba en los huesos de la pata de Aratasaurus, un dinosaurio de dos patas del noreste de Brasil.",
+   "parts": [
+    [
+     6.13,
+     11.8,
+     "Estaba en los HUESOS de la pata de ARATASAURUS, un dinosaurio de dos patas del noreste de BRASIL."
+    ]
+   ]
+  },
+  {
+   "id": "globulos",
+   "t0": 12.58,
+   "t1": 20.03,
+   "say": "Dentro de los canales de sus vasos sanguíneos había glóbulos rojos hechos piedra, tres veces más grandes que los tuyos.",
+   "parts": [
+    [
+     12.58,
+     20.03,
+     "Dentro de los CANALES de sus vasos sanguíneos había GLÓBULOS ROJOS hechos PIEDRA, 3 VECES más grandes que los tuyos."
+    ]
+   ]
+  },
+  {
+   "id": "hemo",
+   "t0": 20.32,
+   "t1": 26.17,
+   "say": "Y adentro todavía quedan moléculas de hemo, la parte de la hemoglobina que llevaba el oxígeno.",
+   "parts": [
+    [
+     20.32,
+     26.17,
+     "Y adentro todavía quedan moléculas de HEMO, la parte de la HEMOGLOBINA que llevaba el OXÍGENO."
+    ]
+   ]
+  },
+  {
+   "id": "como",
+   "t0": 26.84,
+   "t1": 36.14,
+   "say": "¿Cómo? Probablemente lo enterraron rápido, en un lodo con poco oxígeno, y un mineral, la hausmanita, los selló como una cápsula del tiempo.",
+   "parts": [
+    [
+     26.84,
+     36.14,
+     "¿CÓMO? Probablemente lo enterraron RÁPIDO, en un lodo con poco OXÍGENO, y un mineral, la HAUSMANITA, los selló como una CÁPSULA DEL TIEMPO."
+    ]
+   ]
+  },
+  {
+   "id": "adn",
+   "t0": 36.84,
+   "t1": 45.23,
+   "say": "Ojo: no hay ADN, nadie va a clonar un dinosaurio. Pero es la primera prueba química de sangre dentro de sus células.",
+   "parts": [
+    [
+     36.84,
+     45.23,
+     "OJO: NO hay ADN, nadie va a CLONAR un dinosaurio. Pero es la PRIMERA prueba química de SANGRE dentro de sus células."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 45.75,
+   "t1": 51.65,
+   "say": "Un hueso de ciento quince millones de años todavía guarda la química de la sangre que lo recorrió.",
+   "parts": [
+    [
+     45.75,
+     51.65,
+     "Un HUESO de 115 MILLONES de años todavía guarda la QUÍMICA de la SANGRE que lo recorrió."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 53.7
+}
