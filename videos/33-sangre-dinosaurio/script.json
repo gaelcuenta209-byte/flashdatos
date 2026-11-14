@@ -1,0 +1,69 @@
+{
+ "id": "33",
+ "title": "Encontraron sangre de dinosaurio de 115 millones de años",
+ "segments": [
+  {
+   "id": "gancho",
+   "parts": [
+    {
+     "say": "Encontraron sangre de dinosaurio… y tiene ciento quince millones de años.",
+     "cap": "Encontraron SANGRE de DINOSAURIO… y tiene 115 MILLONES de años."
+    }
+   ]
+  },
+  {
+   "id": "quien",
+   "parts": [
+    {
+     "say": "Estaba en los huesos de la pata de Aratasaurus, un dinosaurio de dos patas del noreste de Brasil.",
+     "cap": "Estaba en los HUESOS de la pata de ARATASAURUS, un dinosaurio de dos patas del noreste de BRASIL."
+    }
+   ]
+  },
+  {
+   "id": "globulos",
+   "parts": [
+    {
+     "say": "Dentro de los canales de sus vasos sanguíneos había glóbulos rojos hechos piedra, tres veces más grandes que los tuyos.",
+     "cap": "Dentro de los CANALES de sus vasos sanguíneos había GLÓBULOS ROJOS hechos PIEDRA, 3 VECES más grandes que los tuyos."
+    }
+   ]
+  },
+  {
+   "id": "hemo",
+   "parts": [
+    {
+     "say": "Y adentro todavía quedan moléculas de hemo, la parte de la hemoglobina que llevaba el oxígeno.",
+     "cap": "Y adentro todavía quedan moléculas de HEMO, la parte de la HEMOGLOBINA que llevaba el OXÍGENO."
+    }
+   ]
+  },
+  {
+   "id": "como",
+   "parts": [
+    {
+     "say": "¿Cómo? Probablemente lo enterraron rápido, en un lodo con poco oxígeno, y un mineral, la hausmanita, los selló como una cápsula del tiempo.",
+     "cap": "¿CÓMO? Probablemente lo enterraron RÁPIDO, en un lodo con poco OXÍGENO, y un mineral, la HAUSMANITA, los selló como una CÁPSULA DEL TIEMPO."
+    }
+   ]
+  },
+  {
+   "id": "adn",
+   "parts": [
+    {
+     "say": "Ojo: no hay ADN, nadie va a clonar un dinosaurio. Pero es la primera prueba química de sangre dentro de sus células.",
+     "cap": "OJO: NO hay ADN, nadie va a CLONAR un dinosaurio. Pero es la PRIMERA prueba química de SANGRE dentro de sus células."
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Un hueso de ciento quince millones de años todavía guarda la química de la sangre que lo recorrió.",
+     "cap": "Un HUESO de 115 MILLONES de años todavía guarda la QUÍMICA de la SANGRE que lo recorrió."
+    }
+   ]
+  }
+ ]
+}
