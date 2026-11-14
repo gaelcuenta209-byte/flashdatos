@@ -1,34 +1,10 @@
 {
- "actualizado": "2026-11-13",
+ "actualizado": "2026-11-14",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Marte y Júpiter 'se juntan' en el cielo el 15–16 de noviembre (y la superluna del 24)",
-   "gancho": "Este domingo, Marte y Júpiter van a parecer pegados en el cielo… pero los separan cientos de millones de kilómetros.",
-   "por_que_viral": "Evento con fecha que cualquiera puede ver sin telescopio desde México este fin de semana: la gente lo comparte para avisar. Es el ÚLTIMO día para producirlo a tiempo (y con Metricool en el límite habría que subirlo a mano hoy o mañana temprano).",
-   "dato_principal": "Antes del amanecer del 15 y 16 de noviembre, Marte y Júpiter quedan a solo 1.2° (menos que un dedo con el brazo estirado) en el sureste; Júpiter es el más brillante (NASA JPL). El 24 hay superluna, la primera de tres seguidas. Calcular la distancia real entre ambos para esa fecha antes de producir.",
-   "escena_3d": "Cielo de madrugada con dos puntos que se acercan; la cámara gira al plano del Sistema Solar y muestra las órbitas reales con los planetas alineados pero lejanos.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
-    "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it"
-   ]
-  },
-  {
-   "numero": 2,
-   "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
-   "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
-   "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
-   "dato_principal": "TOI-2535 b, un Júpiter caliente a unos 1,000 años luz que da la vuelta a su estrella en 8.25 días. TESS lo vio transitar de abril de 2019 a marzo de 2026: sus tránsitos se adelantaban o atrasaban hasta 6 horas, se hicieron más cortos y dejaron de verse en 2026. Un planeta vecino invisible, con órbita inclinada, lo hace 'bambolearse como trompo'. Volvería a verse en 30 a 50 años (UCLA, The Astrophysical Journal Letters). Aclarar: el planeta sigue ahí, solo dejó de pasar frente a nosotros.",
-   "escena_3d": "Estrella con un gigante gaseoso que pasa por delante y hace bajar una curva de luz; la órbita se inclina poco a poco como trompo hasta que el planeta ya no cruza; aparece el vecino oculto en sombra; contador de años 2019 → 2026 → 2056.",
-   "fuentes": [
-    "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
-    "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
-   ]
-  },
-  {
-   "numero": 3,
    "tema": "Encuentran sangre de dinosaurio de 115 millones de años (Aratasaurus, Brasil)",
    "gancho": "Encontraron sangre de dinosaurio… y tiene 115 millones de años.",
    "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; provoca debate (¿se podrá clonar uno?). Es de PNAS del 6 nov: cuanto más espere, menos fresco.",
@@ -37,6 +13,30 @@
    "fuentes": [
     "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
     "https://earthsky.org/earth/traces-of-dinosaur-blood-fossil-1st-time/"
+   ]
+  },
+  {
+   "numero": 2,
+   "tema": "Los cuervos deciden el doble de rápido que tú: 235 milisegundos (Universidad de Tübingen, Science)",
+   "gancho": "Un cuervo toma una decisión en 235 milisegundos… el doble de rápido que tú.",
+   "por_que_viral": "Comparación directa animal contra humano ('el doble de rápido que tú') + animal que todos conocen y que ya tiene fama de listo: provoca comentarios y compartidos. Salió en Science y ScienceDaily lo difundió el 12 nov.",
+   "dato_principal": "Dos cornejas negras (Corvus corone) vieron en una pantalla táctil puntos que se movían a izquierda o derecha y picaban el lado correcto: en promedio 235 ms para decidir y responder, con casi 100 % de acierto cuando la señal era clara; los autores dicen que es unas dos veces más rápido que humanos y monos. Sus neuronas del nidopallium caudolaterale (parecido a nuestra corteza prefrontal) 'eligieron' unos 70 ms después de ver los puntos (Schmidbauer y Nieder, Universidad de Tübingen, Science, 'Ultrarapid decision-making in an avian brain'). Aclarar que fueron solo dos aves y que aún no se sabe el mecanismo; no dar cifra en ms para humanos si no se verifica.",
+   "escena_3d": "Un cuervo frente a una pantalla con nube de puntos que se mueven; cronómetro en milisegundos que se detiene en 235 junto a una mano humana que todavía no reacciona; zoom al cerebro del ave con una ráfaga de neuronas que se encienden a los 70 ms.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+    "https://civis.eu/en/the-civis-newsroom/crows-make-decisions-twice-as-fast-as-humans-and-monkeys"
+   ]
+  },
+  {
+   "numero": 3,
+   "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
+   "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
+   "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
+   "dato_principal": "TOI-2535 b, un Júpiter caliente a unos 1,000 años luz que da la vuelta a su estrella en 8.25 días. TESS lo vio transitar de abril de 2019 a marzo de 2026: sus tránsitos se adelantaban o atrasaban hasta 6 horas, se hicieron más cortos y dejaron de verse en 2026. Un planeta vecino invisible, con órbita inclinada, lo hace 'bambolearse como trompo'. Volvería a verse en 30 a 50 años (UCLA, The Astrophysical Journal Letters). Aclarar: el planeta sigue ahí, solo dejó de pasar frente a nosotros.",
+   "escena_3d": "Estrella con un gigante gaseoso que pasa por delante y hace bajar una curva de luz; la órbita se inclina poco a poco como trompo hasta que el planeta ya no cruza; aparece el vecino oculto en sombra; contador de años 2019 → 2026 → 2056.",
+   "fuentes": [
+    "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
+    "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
    ]
   },
   {
@@ -67,7 +67,7 @@
    "numero": 6,
    "tema": "La Tierra fabricó su propia agua: piedras ardientes + hidrógeno = cientos de océanos (sin cometas)",
    "gancho": "Te dijeron que el agua de la Tierra la trajeron cometas… un experimento dice que la Tierra la fabricó sola.",
-   "por_que_viral": "Rompe una creencia escolar (como la idea del universo de ayer) y responde una pregunta que todos se hicieron: ¿de dónde salió el agua? ScienceDaily lo difundió el 12 nov.",
+   "por_que_viral": "Rompe una creencia escolar y responde una pregunta que todos se hicieron: ¿de dónde salió el agua? Otro estudio de esta semana (ScienceDaily, 10 nov) dice además que los cometas pudieron destruir ingredientes de la vida en lugar de traerlos: dos noticias que apuntan al mismo giro.",
    "dato_principal": "Susmita Garai y Zachary Sharp (Universidad de Nuevo México, Nature Geoscience) calentaron rocas a 1,200–1,400 °C en hidrógeno: casi el 80 % del óxido de hierro se volvió hierro metálico y soltó vapor de agua (en helio no pasó nada). En la Tierra joven, con más de 3,000 K y 200 bares, una lluvia de piedritas pudo producir de decenas a varios cientos de océanos de agua. Es una estimación máxima de laboratorio: decir que los cometas pudieron aportar parte.",
    "escena_3d": "Tierra joven al rojo vivo bajo una atmósfera de hidrógeno; lluvia de piedritas incandescentes que al caer sueltan vapor; zoom a una piedra donde el hierro brilla metálico; el vapor se condensa en océanos azules.",
    "fuentes": [
