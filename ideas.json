@@ -1,22 +1,34 @@
 {
- "actualizado": "2026-11-14",
+ "actualizado": "2026-11-15",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Encuentran sangre de dinosaurio de 115 millones de años (Aratasaurus, Brasil)",
-   "gancho": "Encontraron sangre de dinosaurio… y tiene 115 millones de años.",
-   "por_que_viral": "Los dinosaurios están entre los temas más vistos en Shorts y suena a Jurassic Park; provoca debate (¿se podrá clonar uno?). Es de PNAS del 6 nov: cuanto más espere, menos fresco.",
-   "dato_principal": "En huesos de la pata del terópodo Aratasaurus museunacionali (noreste de Brasil) hallaron glóbulos rojos mineralizados y moléculas de hemo (parte de la hemoglobina), además de aminoácidos del colágeno (Curtin University, PNAS). Los conservó un mineral llamado hausmanita y un entierro sin oxígeno. No hay ADN: decirlo para evitar el mito de la clonación.",
-   "escena_3d": "Un terópodo corre y cae en un lodo sin oxígeno; se vuelve fósil; la cámara entra al hueso por los canales de los vasos hasta glóbulos rojos de piedra que brillan en rojo.",
+   "tema": "Starship atrapada desde la órbita: la torre cachó la nave por primera vez (vuelo 15, 14 nov)",
+   "gancho": "Una nave de 52 metros cayó desde el espacio… y una torre la atrapó con dos brazos.",
+   "por_que_viral": "Hito histórico de ayer, imágenes espectaculares y concepto fácil de entender ('atrapar un rascacielos que cae del espacio'). Es la noticia espacial más compartida del fin de semana. Sustituye al video 30, que quedó desactualizado.",
+   "dato_principal": "El sábado 14 nov, hacia las 3:20 p. m. (hora de Texas), los brazos de la torre de Starbase atraparon la nave Ship 42 tras unas 22.5 horas y 14 vueltas a la Tierra a unos 265 km; antes soltó 26 satélites Starlink V3. Es la primera nave atrapada al volver de órbita. El propulsor no se atrapó (alarma en el sistema de combustible): las fuentes difieren en si amerizó o explotó, así que decir solo que 'no regresó a la torre'.",
+   "escena_3d": "Nave entrando en la atmósfera envuelta en plasma, maniobra de giro a vertical, motores encendidos y los dos brazos de la torre cerrándose; contador de 14 órbitas y 22.5 h.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-    "https://earthsky.org/earth/traces-of-dinosaur-blood-fossil-1st-time/"
+    "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+    "https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time"
    ]
   },
   {
    "numero": 2,
+   "tema": "La Tierra tiene una miniluna temporal: 2026 QQ8",
+   "gancho": "Ahora mismo la Tierra tiene dos lunas… pero una se va antes de que acabe el año.",
+   "por_que_viral": "'Segunda luna' es un gancho que rompe lo que todos saben y es temporal (urgencia). Se compartió mucho el 13 y 14 nov.",
+   "dato_principal": "2026 QQ8, una roca diminuta (1–2 m según la fuente) capturada temporalmente por la gravedad de la Tierra, gira a cerca de 1.5 veces la distancia de la Luna. La descubrió el astrónomo húngaro K. Sárneczky en agosto y el Minor Planet Center la anunció el 29 oct. Se iría entre mediados de diciembre y enero (las fuentes difieren: dar 'antes de 2027 o poco después'). Es inofensiva y no se ve a simple vista.",
+   "escena_3d": "Tierra y órbita de la Luna como escala; una piedrita gris entra, da vueltas en lazos irregulares y luego escapa; comparación de tamaño con un auto.",
+   "fuentes": [
+    "https://www.livescience.com/space/meteoroids/astronomers-confirm-a-tiny-new-moon-is-orbiting-earth-and-itll-stick-around-for-the-holidays",
+    "https://www.discovermagazine.com/a-tiny-object-thought-to-be-space-junk-is-earth-s-newest-mini-moon-but-2026-qq8-isn-t-sticking-around-49952"
+   ]
+  },
+  {
+   "numero": 3,
    "tema": "Los cuervos deciden el doble de rápido que tú: 235 milisegundos (Universidad de Tübingen, Science)",
    "gancho": "Un cuervo toma una decisión en 235 milisegundos… el doble de rápido que tú.",
    "por_que_viral": "Comparación directa animal contra humano ('el doble de rápido que tú') + animal que todos conocen y que ya tiene fama de listo: provoca comentarios y compartidos. Salió en Science y ScienceDaily lo difundió el 12 nov.",
@@ -28,31 +40,7 @@
    ]
   },
   {
-   "numero": 3,
-   "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
-   "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
-   "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
-   "dato_principal": "TOI-2535 b, un Júpiter caliente a unos 1,000 años luz que da la vuelta a su estrella en 8.25 días. TESS lo vio transitar de abril de 2019 a marzo de 2026: sus tránsitos se adelantaban o atrasaban hasta 6 horas, se hicieron más cortos y dejaron de verse en 2026. Un planeta vecino invisible, con órbita inclinada, lo hace 'bambolearse como trompo'. Volvería a verse en 30 a 50 años (UCLA, The Astrophysical Journal Letters). Aclarar: el planeta sigue ahí, solo dejó de pasar frente a nosotros.",
-   "escena_3d": "Estrella con un gigante gaseoso que pasa por delante y hace bajar una curva de luz; la órbita se inclina poco a poco como trompo hasta que el planeta ya no cruza; aparece el vecino oculto en sombra; contador de años 2019 → 2026 → 2056.",
-   "fuentes": [
-    "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
-    "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
-   ]
-  },
-  {
    "numero": 4,
-   "tema": "Una bomba nuclear podría salvarnos de un asteroide… pero solo si le pegas del lado correcto (Sandia)",
-   "gancho": "Si un asteroide viene hacia la Tierra, una bomba nuclear podría desviarlo… o casi no moverlo. Depende de dónde le pegues.",
-   "por_que_viral": "Fin del mundo + bomba nuclear + giro inesperado: gancho de alto riesgo que se comparte. Conecta con el video 09 (Hera y DART), que ya conoce la audiencia. Estudio de Icarus difundido el 3–8 nov.",
-   "dato_principal": "Simulaciones de Sandia National Laboratories (Nathan Moore, revista Icarus, 2026) con asteroides irregulares: en uno, el empujón fue de 3.9 mm/s desde un ángulo y solo 0.8 mm/s desde otro (casi 5 veces menos); en otro, el giro cambió hasta 17 veces según el lado. El nuevo método calcula 1,600 veces más rápido. Decir que es una simulación, no una prueba real.",
-   "escena_3d": "Asteroide con forma de papa girando; destello de rayos X de un lado y vapor de roca que sale disparado; comparación lado A (flecha larga, 3.9 mm/s) contra lado B (flecha corta, 0.8); la trayectoria se desvía o no de la Tierra.",
-   "fuentes": [
-    "https://www.eurekalert.org/news-releases/1150320",
-    "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
-   ]
-  },
-  {
-   "numero": 5,
    "tema": "El telescopio Hubble se está cayendo y la NASA busca quién lo rescate",
    "gancho": "El Hubble se está cayendo… y la NASA tiene hasta 2032 para salvarlo.",
    "por_que_viral": "Repite la fórmula del video 14 (Swift cae a la Tierra), que salió el día récord, con el telescopio más famoso del mundo. La NASA recibe propuestas hasta el 30 de noviembre.",
@@ -64,39 +52,51 @@
    ]
   },
   {
-   "numero": 6,
-   "tema": "La Tierra fabricó su propia agua: piedras ardientes + hidrógeno = cientos de océanos (sin cometas)",
-   "gancho": "Te dijeron que el agua de la Tierra la trajeron cometas… un experimento dice que la Tierra la fabricó sola.",
-   "por_que_viral": "Rompe una creencia escolar y responde una pregunta que todos se hicieron: ¿de dónde salió el agua? Otro estudio de esta semana (ScienceDaily, 10 nov) dice además que los cometas pudieron destruir ingredientes de la vida en lugar de traerlos: dos noticias que apuntan al mismo giro.",
-   "dato_principal": "Susmita Garai y Zachary Sharp (Universidad de Nuevo México, Nature Geoscience) calentaron rocas a 1,200–1,400 °C en hidrógeno: casi el 80 % del óxido de hierro se volvió hierro metálico y soltó vapor de agua (en helio no pasó nada). En la Tierra joven, con más de 3,000 K y 200 bares, una lluvia de piedritas pudo producir de decenas a varios cientos de océanos de agua. Es una estimación máxima de laboratorio: decir que los cometas pudieron aportar parte.",
-   "escena_3d": "Tierra joven al rojo vivo bajo una atmósfera de hidrógeno; lluvia de piedritas incandescentes que al caer sueltan vapor; zoom a una piedra donde el hierro brilla metálico; el vapor se condensa en océanos azules.",
+   "numero": 5,
+   "tema": "Euclid publica el mapa más grande del universo oscuro: 900 millones de galaxias (DR1, 12 nov)",
+   "gancho": "Este telescopio acaba de fotografiar 900 millones de galaxias… y apenas lleva el 14 % de su trabajo.",
+   "por_que_viral": "Número enorme + materia oscura (misterio) + vuelo 3D entre galaxias, muy atractivo visualmente. Es del 12 nov.",
+   "dato_principal": "La primera gran publicación de datos de Euclid (ESA) incluye más de 900 millones de galaxias en unos 1,900 grados cuadrados de cielo (como 9,500 lunas llenas) y cerca de 1.7 millones de GB de datos. Es solo ~14 % del mapeo planeado; su meta es medir cómo la materia y la energía oscuras moldean el universo.",
+   "escena_3d": "La cámara sale del telescopio Euclid y vuela por un mapa 3D de galaxias; contador que sube a 900,000,000; barra de progreso que se queda en 14 %.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
-    "https://universetoday.com/articles/no-comets-required-how-the-growing-earth-may-have-created-its-own-water"
+    "https://www.cosmos.esa.int/web/euclid/euclid-dr1",
+    "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky"
+   ]
+  },
+  {
+   "numero": 6,
+   "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
+   "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
+   "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
+   "dato_principal": "TOI-2535 b, un Júpiter caliente a unos 1,000 años luz que da la vuelta a su estrella en 8.25 días. TESS lo vio transitar de abril de 2019 a marzo de 2026: sus tránsitos se adelantaban o atrasaban hasta 6 horas, se hicieron más cortos y dejaron de verse en 2026. Un planeta vecino invisible, con órbita inclinada, lo hace 'bambolearse como trompo'. Volvería a verse en 30 a 50 años (UCLA, The Astrophysical Journal Letters). Aclarar: el planeta sigue ahí, solo dejó de pasar frente a nosotros.",
+   "escena_3d": "Estrella con un gigante gaseoso que pasa por delante y hace bajar una curva de luz; la órbita se inclina poco a poco como trompo hasta que el planeta ya no cruza; aparece el vecino oculto en sombra; contador de años 2019 → 2026 → 2056.",
+   "fuentes": [
+    "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
+    "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
    ]
   },
   {
    "numero": 7,
-   "tema": "Dos planetas enanos chocaron y dejaron una 'cola de gato' de 150,000 millones de km (Beta Pictoris)",
-   "gancho": "A 63 años luz, dos mundos del tamaño de Plutón chocaron… y dejaron una cola de polvo mil veces más larga que la distancia de la Tierra al Sol.",
-   "por_que_viral": "Choque de mundos + tamaño absurdo + nombre simpático ('cola de gato'): muy visual en 3D. Hubble lo vio por fin en luz visible; ScienceDaily lo difundió el 10 nov.",
-   "dato_principal": "La 'cola de gato' de Beta Pictoris (63 años luz, estrella de solo 23 millones de años) mide unas 1,000 unidades astronómicas (~150,000 millones de km). JWST la vio en 2024 y ahora el Hubble en luz visible: casi negra, de material orgánico con carbono. Los autores (Universidad de Arizona, ApJL) la explican con el choque de dos cuerpos de 600–800 km de radio, como Caronte o Makemake. Es una interpretación del modelo: decirlo.",
-   "escena_3d": "Disco de polvo alrededor de una estrella joven; dos planetas enanos helados se acercan y chocan; nube oscura que se estira en una cola curva; regla con la órbita de Neptuno para comparar el tamaño.",
+   "tema": "Los ingredientes de la vida se cocinaron en 'barrios' distintos del sistema solar (muestra del asteroide Bennu)",
+   "gancho": "La NASA trajo polvo de un asteroide… y descubrió que los ingredientes de la vida no nacieron en un solo lugar.",
+   "por_que_viral": "Origen de la vida + misión famosa (OSIRIS-REx) + giro inesperado. Es del 12 nov (Penn State).",
+   "dato_principal": "La beta-alanina (un aminoácido) de la muestra de Bennu tiene una firma de isótopos de carbono muy distinta a la del mismo aminoácido en el meteorito Murchison, aunque sus promedios generales casi coinciden: apunta a lugares de origen distintos en el sistema solar joven (Penn State, Communications Earth & Environment). Bennu ya tiene 14 de los 20 aminoácidos de las proteínas.",
+   "escena_3d": "Cápsula de OSIRIS-REx que se abre; zoom al polvo negro hasta una molécula con átomos de carbono que brillan en dos colores; mapa del sistema solar joven con dos 'barrios' encendidos.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
-    "https://universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long"
+    "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
+    "https://www.nature.com/articles/s43247-026-04084-9"
    ]
   },
   {
    "numero": 8,
-   "tema": "42 años buscando algo que pasa 1 vez en 10,000 millones: el CERN por fin lo vio (LHCb)",
-   "gancho": "Hay algo que pasa una vez cada diez mil millones de veces… y los físicos lo buscaron durante 42 años.",
-   "por_que_viral": "Número imposible + paciencia épica: historia de récord fácil de entender. Tecnología gigante (el LHC) que luce en 3D. Es del 9 nov.",
-   "dato_principal": "El experimento LHCb del CERN encontró la primera evidencia en un solo experimento de un mesón B neutro que se desintegra en un muon y un antimuon, algo que pasa cerca de 1 vez en 10,000 millones. La búsqueda empezó en 1984 (CLEO) y la sensibilidad mejoró unas dos millones de veces; esperaban solo ~26 casos y los separaron con aprendizaje automático. Es 3.2 sigma (evidencia, no descubrimiento: se pide 5) y confirma el Modelo Estándar, no es física nueva.",
-   "escena_3d": "Túnel del LHC con haces que chocan; explosión de partículas en el detector; un contador que corre hasta 10,000,000,000 y solo una partícula se ilumina en amarillo y se parte en dos muones.",
+   "tema": "Una bomba nuclear podría salvarnos de un asteroide… pero solo si le pegas del lado correcto (Sandia)",
+   "gancho": "Si un asteroide viene hacia la Tierra, una bomba nuclear podría desviarlo… o casi no moverlo. Depende de dónde le pegues.",
+   "por_que_viral": "Fin del mundo + bomba nuclear + giro inesperado: gancho de alto riesgo que se comparte. Conecta con el video 09 (Hera y DART), que ya conoce la audiencia. Estudio de Icarus difundido el 3–8 nov.",
+   "dato_principal": "Simulaciones de Sandia National Laboratories (Nathan Moore, revista Icarus, 2026) con asteroides irregulares: en uno, el empujón fue de 3.9 mm/s desde un ángulo y solo 0.8 mm/s desde otro (casi 5 veces menos); en otro, el giro cambió hasta 17 veces según el lado. El nuevo método calcula 1,600 veces más rápido. Decir que es una simulación, no una prueba real.",
+   "escena_3d": "Asteroide con forma de papa girando; destello de rayos X de un lado y vapor de roca que sale disparado; comparación lado A (flecha larga, 3.9 mm/s) contra lado B (flecha corta, 0.8); la trayectoria se desvía o no de la Tierra.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-    "https://universemagazine.com/en/the-evidence-of-an-extremely-rare-particle-decay-was-found-after-42-years-of-searching"
+    "https://www.eurekalert.org/news-releases/1150320",
+    "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
    ]
   }
  ]
