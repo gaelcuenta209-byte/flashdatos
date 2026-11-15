@@ -1,0 +1,112 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 43.47,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 5.69,
+   "say": "Una nave cayó desde el espacio… y una torre la atrapó en el aire con dos brazos.",
+   "parts": [
+    [
+     0.1,
+     5.69,
+     "Una NAVE cayó desde el ESPACIO… y una TORRE la ATRAPÓ con dos BRAZOS."
+    ]
+   ]
+  },
+  {
+   "id": "quien",
+   "t0": 6.39,
+   "t1": 9.57,
+   "say": "Fue la Starship de SpaceX, este sábado en Texas.",
+   "parts": [
+    [
+     6.39,
+     9.57,
+     "Fue la STARSHIP de SpaceX, este SÁBADO en TEXAS."
+    ]
+   ]
+  },
+  {
+   "id": "orbita",
+   "t0": 10.17,
+   "t1": 15.22,
+   "say": "Antes dio catorce vueltas a la Tierra y soltó veintiséis satélites Starlink.",
+   "parts": [
+    [
+     10.17,
+     15.22,
+     "Antes dio 14 VUELTAS a la Tierra y soltó 26 satélites STARLINK."
+    ]
+   ]
+  },
+  {
+   "id": "reentrada",
+   "t0": 15.87,
+   "t1": 20.69,
+   "say": "Después de veintidós horas y media, frenó y entró a la atmósfera envuelta en fuego.",
+   "parts": [
+    [
+     15.87,
+     20.69,
+     "Después de 22.5 HORAS, FRENÓ y entró a la ATMÓSFERA envuelta en FUEGO."
+    ]
+   ]
+  },
+  {
+   "id": "atrapada",
+   "t0": 21.35,
+   "t1": 27.32,
+   "say": "Se puso vertical, prendió motores… y los brazos de la torre se cerraron como palillos chinos.",
+   "parts": [
+    [
+     21.35,
+     27.32,
+     "Se puso VERTICAL, prendió MOTORES… y los BRAZOS de la torre se cerraron como PALILLOS CHINOS."
+    ]
+   ]
+  },
+  {
+   "id": "primera",
+   "t0": 28.05,
+   "t1": 32.53,
+   "say": "Es la primera vez que una nave vuelve de la órbita y la atrapan donde despegó.",
+   "parts": [
+    [
+     28.05,
+     32.53,
+     "Es la PRIMERA VEZ que una nave vuelve de la ÓRBITA y la atrapan DONDE DESPEGÓ."
+    ]
+   ]
+  },
+  {
+   "id": "propulsor",
+   "t0": 33.21,
+   "t1": 37.84,
+   "say": "Eso sí, el propulsor no volvió a la torre: cayó en el golfo de México.",
+   "parts": [
+    [
+     33.21,
+     37.84,
+     "Eso sí, el PROPULSOR no volvió a la torre: cayó en el GOLFO DE MÉXICO."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 38.59,
+   "t1": 43.38,
+   "say": "Y una nave que vuelve entera desde la órbita es una nave que puede volver a volar.",
+   "parts": [
+    [
+     38.59,
+     43.38,
+     "Y una nave que vuelve ENTERA desde la órbita es una nave que puede VOLVER A VOLAR."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 45.3
+}
