@@ -721,9 +721,14 @@
    "titulo_tiktok": "⚡ Una torre atrapó una nave que volvía del espacio 🚀",
    "descripcion": "⚡ El sábado 14 de noviembre, los brazos de la torre de Starbase (Texas) atraparon la Starship de SpaceX después de 22.5 horas en el espacio y 14 vueltas a la Tierra. Es la primera vez que una nave vuelve de la órbita y la atrapan en el mismo lugar desde donde despegó. El propulsor no regresó a la torre y cayó en el golfo de México.\nFuentes: SpacePolicyOnline y Space.com (14 nov 2026).\n#spacex #starship #espacio #ciencia #cohetes #datoscuriosos",
    "fecha_programada": "2026-11-15 17:00 (CDMX)",
-   "estado": "esperando aprobación",
+   "estado": "programado",
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-34/FlashDatos_34.mp4",
-   "nota": "Video del día del 2026-11-15 (idea 1 del reporte). 45.3 s. Metricool sigue en el límite del plan Free hasta el 1 de diciembre y Buffer aún no tiene BUFFER_API_KEY."
+   "nota": "Video del día del 2026-11-15 (idea 1 del reporte). 45.3 s. El dueño lo aprobó en el chat el 2026-11-15; programado en Metricool para las 17:00 (CDMX) en YouTube, Instagram y TikTok.",
+   "metricool": {
+    "id": 428990093,
+    "uuid": "5963597736203274033",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=5963597736203274033"
+   }
   }
  ]
 }
