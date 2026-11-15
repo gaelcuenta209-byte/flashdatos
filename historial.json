@@ -712,6 +712,18 @@
    "estado": "aprobado, esperando Buffer",
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-33/FlashDatos_33.mp4",
    "nota": "Video del día del 2026-11-14 (idea 1 del reporte). 53.7 s. Metricool sigue en el límite del plan Free hasta el 1 de diciembre; Buffer aún sin BUFFER_API_KEY: si se aprueba, programarlo probablemente fallará. 2026-11-15: el dueño aprobó el video, el título y la descripción en el chat y pidió publicarlo con Buffer. Falta que configure Buffer (BUFFER_API_KEY); después subir publicar.json."
+  },
+  {
+   "numero": 34,
+   "tema": "La torre de SpaceX atrapó por primera vez una Starship que volvía de la órbita (vuelo 15, Ship 42, sábado 14 nov 2026); el propulsor cayó en el golfo de México",
+   "carpeta": "videos/34-starship-atrapada",
+   "titulo": "⚡ Una torre ATRAPÓ una nave que volvía del espacio 🚀 #shorts",
+   "titulo_tiktok": "⚡ Una torre atrapó una nave que volvía del espacio 🚀",
+   "descripcion": "⚡ El sábado 14 de noviembre, los brazos de la torre de Starbase (Texas) atraparon la Starship de SpaceX después de 22.5 horas en el espacio y 14 vueltas a la Tierra. Es la primera vez que una nave vuelve de la órbita y la atrapan en el mismo lugar desde donde despegó. El propulsor no regresó a la torre y cayó en el golfo de México.\nFuentes: SpacePolicyOnline y Space.com (14 nov 2026).\n#spacex #starship #espacio #ciencia #cohetes #datoscuriosos",
+   "fecha_programada": "2026-11-15 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-34/FlashDatos_34.mp4",
+   "nota": "Video del día del 2026-11-15 (idea 1 del reporte). 45.3 s. Metricool sigue en el límite del plan Free hasta el 1 de diciembre y Buffer aún no tiene BUFFER_API_KEY."
   }
  ]
 }
