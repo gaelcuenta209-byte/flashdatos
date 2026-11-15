@@ -1,0 +1,78 @@
+{
+ "id": "34",
+ "title": "Una torre atrapó una nave que volvía del espacio",
+ "segments": [
+  {
+   "id": "gancho",
+   "parts": [
+    {
+     "say": "Una nave cayó desde el espacio… y una torre la atrapó en el aire con dos brazos.",
+     "cap": "Una NAVE cayó desde el ESPACIO… y una TORRE la ATRAPÓ con dos BRAZOS."
+    }
+   ]
+  },
+  {
+   "id": "quien",
+   "parts": [
+    {
+     "say": "Fue la Starship de SpaceX, este sábado en Texas.",
+     "cap": "Fue la STARSHIP de SpaceX, este SÁBADO en TEXAS."
+    }
+   ]
+  },
+  {
+   "id": "orbita",
+   "parts": [
+    {
+     "say": "Antes dio catorce vueltas a la Tierra y soltó veintiséis satélites Starlink.",
+     "cap": "Antes dio 14 VUELTAS a la Tierra y soltó 26 satélites STARLINK."
+    }
+   ]
+  },
+  {
+   "id": "reentrada",
+   "parts": [
+    {
+     "say": "Después de veintidós horas y media, frenó y entró a la atmósfera envuelta en fuego.",
+     "cap": "Después de 22.5 HORAS, FRENÓ y entró a la ATMÓSFERA envuelta en FUEGO."
+    }
+   ]
+  },
+  {
+   "id": "atrapada",
+   "parts": [
+    {
+     "say": "Se puso vertical, prendió motores… y los brazos de la torre se cerraron como palillos chinos.",
+     "cap": "Se puso VERTICAL, prendió MOTORES… y los BRAZOS de la torre se cerraron como PALILLOS CHINOS."
+    }
+   ]
+  },
+  {
+   "id": "primera",
+   "parts": [
+    {
+     "say": "Es la primera vez que una nave vuelve de la órbita y la atrapan donde despegó.",
+     "cap": "Es la PRIMERA VEZ que una nave vuelve de la ÓRBITA y la atrapan DONDE DESPEGÓ."
+    }
+   ]
+  },
+  {
+   "id": "propulsor",
+   "parts": [
+    {
+     "say": "Eso sí, el propulsor no volvió a la torre: cayó en el golfo de México.",
+     "cap": "Eso sí, el PROPULSOR no volvió a la torre: cayó en el GOLFO DE MÉXICO."
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Y una nave que vuelve entera desde la órbita es una nave que puede volver a volar.",
+     "cap": "Y una nave que vuelve ENTERA desde la órbita es una nave que puede VOLVER A VOLAR."
+    }
+   ]
+  }
+ ]
+}
