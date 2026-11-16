@@ -730,6 +730,19 @@
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=5963597736203274033"
    },
    "error": "2026-11-15 17:00: Metricool marcó ERROR en YouTube, Instagram y TikTok: 'You have reached your Metricool account limit.' (límite del plan Free, 20 posts/mes, se reinicia el 1 de diciembre). No se publicó en ninguna red; el post sigue en el planificador. Detectado en la verificación de las 17:23."
+  },
+  {
+   "numero": 35,
+   "tema": "El cohete Vulcan de ULA falló a los 10 minutos y se perdieron 40 satélites de Amazon Leo (domingo 15 nov 2026, Cabo Cañaveral)",
+   "carpeta": "videos/35-vulcan-falla",
+   "titulo": "⚡ 40 satélites de Amazon despegaron… y NINGUNO llegó a la órbita 🚀 #shorts",
+   "titulo_tiktok": "⚡ 40 satélites de Amazon despegaron… y ninguno llegó a la órbita 🚀",
+   "descripcion": "⚡ El domingo 15 de noviembre, el cohete Vulcan de ULA despegó de Cabo Cañaveral con 40 satélites de internet Amazon Leo. A los 10 minutos, la etapa superior Centaur tuvo una anomalía y ningún satélite llegó a la órbita. La causa aún se investiga.\nFuentes: Space.com y Spaceflight Now (15 nov 2026).\n#amazon #cohetes #espacio #ciencia #starlink #satelites",
+   "fecha_programada": "2026-11-16 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-35/FlashDatos_35.mp4",
+   "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-35/FlashDatos_35_portada.jpg",
+   "nota": "Video del día del 2026-11-16 (idea 1 del reporte). 49.6 s. Voz: ElevenLabs flow WxFWP4EmK3p1P740f2Zs, toma 1 (acelerada 1.12x). Se quitó 'primera falla total de ULA' por tener una sola fuente."
   }
  ]
 }
