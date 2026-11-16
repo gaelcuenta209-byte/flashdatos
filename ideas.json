@@ -1,25 +1,49 @@
 {
- "actualizado": "2026-11-15",
+ "actualizado": "2026-11-16",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Starship atrapada desde la órbita: la torre cachó la nave por primera vez (vuelo 15, 14 nov)",
-   "gancho": "Una nave de 52 metros cayó desde el espacio… y una torre la atrapó con dos brazos.",
-   "por_que_viral": "Hito histórico de ayer, imágenes espectaculares y concepto fácil de entender ('atrapar un rascacielos que cae del espacio'). Es la noticia espacial más compartida del fin de semana. Sustituye al video 30, que quedó desactualizado.",
-   "dato_principal": "El sábado 14 nov, hacia las 3:20 p. m. (hora de Texas), los brazos de la torre de Starbase atraparon la nave Ship 42 tras unas 22.5 horas y 14 vueltas a la Tierra a unos 265 km; antes soltó 26 satélites Starlink V3. Es la primera nave atrapada al volver de órbita. El propulsor no se atrapó (alarma en el sistema de combustible): las fuentes difieren en si amerizó o explotó, así que decir solo que 'no regresó a la torre'.",
-   "escena_3d": "Nave entrando en la atmósfera envuelta en plasma, maniobra de giro a vertical, motores encendidos y los dos brazos de la torre cerrándose; contador de 14 órbitas y 22.5 h.",
+   "tema": "El cohete Vulcan falló a los 10 minutos y se perdieron 40 satélites de Amazon (15 nov)",
+   "gancho": "Ayer, 40 satélites de Amazon salieron hacia el espacio… y ninguno llegó.",
+   "por_que_viral": "Noticia de ayer, primer fracaso total en la historia de ULA y rivalidad Amazon contra Starlink de Elon Musk (dos marcas que todos conocen). Contraste fuerte con el éxito de Starship del sábado (video 34). Sigue vigente varios días, así que no caduca aunque la publicación se atrase.",
+   "dato_principal": "El domingo 15 nov a las 12:40 p. m. (hora del este de EE. UU.; 11:40 a. m. CDMX) despegó de Cabo Cañaveral el Vulcan de ULA con 40 satélites de internet Amazon Leo. Unos 10 minutos después hubo una 'anomalía' en la etapa superior Centaur y los satélites no llegaron a órbita. Es la primera falla total de ULA. Era el quinto vuelo del Vulcan y el primero en unos nueve meses (regreso tras problemas en toberas en 2024 y feb 2026). Amazon tenía unos 400 satélites arriba y necesita más de 3,200. Aún no se sabe la causa: no inventarla.",
+   "escena_3d": "Cohete despegando con seis propulsores laterales que se apagan al minuto 1:40; separación de etapas; la etapa superior gira de forma extraña; contador 40 satélites que se apaga uno por uno; comparación en una Tierra de ~400 satélites de Amazon contra la meta de 3,200.",
    "fuentes": [
-    "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
-    "https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time"
+    "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+    "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch"
    ]
   },
   {
    "numero": 2,
+   "tema": "Lluvia de estrellas Leónidas: máximo la noche del martes 17 al miércoles 18 nov",
+   "gancho": "Mañana en la noche caen piedras del espacio a 71 kilómetros por segundo… y las puedes ver desde tu casa.",
+   "por_que_viral": "Evento que el público puede ver él mismo (llamado a la acción, se guarda y se comparte) con la Luna ya puesta después de medianoche. Historia espectacular: en 1833 hubo hasta unas 150,000 por hora. CADUCA: sirve solo si sale hoy o mañana temprano.",
+   "dato_principal": "Máximo previsto: 17 nov a las 23:45 UTC (5:45 p. m. CDMX) según Space.com; 0:00 UTC del 18 según EarthSky; lo mejor es de medianoche al amanecer del 17 y del 18. Unas 10–15 por hora con cielo oscuro. Entran a unos 71 km/s. Vienen del cometa 55P/Tempel-Tuttle, que vuelve cada ~33 años (próximo en 2031). Luna en cuarto creciente que se pone cerca de medianoche. No se espera tormenta este año. Diferencia con el video 11: aquel explicaba que se derriten; este es la guía para verlas y la historia de las tormentas.",
+   "escena_3d": "Órbita del cometa Tempel-Tuttle dejando un río de polvo; la Tierra lo cruza; granos que entran a 71 km/s y se encienden; cielo nocturno con el radiante en Leo (con Marte y Júpiter cerca) y un reloj que marca medianoche–amanecer; flashback a 1833 con lluvia masiva.",
+   "fuentes": [
+    "https://www.space.com/leonid-meteor-shower",
+    "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-leonid-meteor-shower/"
+   ]
+  },
+  {
+   "numero": 3,
+   "tema": "La NASA advierte: el 'monstruoso' El Niño de 2026 podría ser más grande que el legendario de 1997",
+   "gancho": "La NASA ve desde el espacio un 'bulto' en el océano Pacífico… igual al de 1997, el peor El Niño de la historia moderna.",
+   "por_que_viral": "Afecta directamente a México y Latinoamérica (lluvias, sequías, clima del invierno): tema cercano que la gente comparte con la familia. Comparación 1997 vs 2026 muy visual.",
+   "dato_principal": "Mapas de altura del mar del satélite Sentinel-6 Michael Freilich (12 oct 2026) comparados con TOPEX/Poseidon (13 oct 1997) muestran un patrón parecido de agua caliente llegando a Sudamérica; según Josh Willis (JPL de la NASA) 'va camino a ser aún más grande'. NOAA declaró El Niño el 11 jun 2026 y el 8 oct dio 83 % de probabilidad de que sea fuerte o muy fuerte en enero–marzo 2027. El de 2015-16 trajo inundaciones en México. Decir que los efectos concretos de 2026 aún son inciertos; no dar cifras en cm que las fuentes no dan.",
+   "escena_3d": "Globo terrestre con el Pacífico que se abomba en rojo; pantalla dividida 1997 vs 2026 con el satélite pasando; ondas de agua caliente que viajan de Asia a Sudamérica; nubes de lluvia sobre México.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261114202227.htm",
+    "https://scitechdaily.com/nasa-satellites-spot-a-powerful-el-nino-building-beneath-the-pacific/"
+   ]
+  },
+  {
+   "numero": 4,
    "tema": "La Tierra tiene una miniluna temporal: 2026 QQ8",
    "gancho": "Ahora mismo la Tierra tiene dos lunas… pero una se va antes de que acabe el año.",
-   "por_que_viral": "'Segunda luna' es un gancho que rompe lo que todos saben y es temporal (urgencia). Se compartió mucho el 13 y 14 nov.",
+   "por_que_viral": "'Segunda luna' es un gancho que rompe lo que todos saben y es temporal (urgencia). Se compartió mucho el 13 y 14 nov. Sigue vigente: se va a mediados de diciembre o enero.",
    "dato_principal": "2026 QQ8, una roca diminuta (1–2 m según la fuente) capturada temporalmente por la gravedad de la Tierra, gira a cerca de 1.5 veces la distancia de la Luna. La descubrió el astrónomo húngaro K. Sárneczky en agosto y el Minor Planet Center la anunció el 29 oct. Se iría entre mediados de diciembre y enero (las fuentes difieren: dar 'antes de 2027 o poco después'). Es inofensiva y no se ve a simple vista.",
    "escena_3d": "Tierra y órbita de la Luna como escala; una piedrita gris entra, da vueltas en lazos irregulares y luego escapa; comparación de tamaño con un auto.",
    "fuentes": [
@@ -28,7 +52,19 @@
    ]
   },
   {
-   "numero": 3,
+   "numero": 5,
+   "tema": "Una estrella muerta manda señales de radio cada 8 minutos… y su pareja se parece al Sol (GPM J071507−114153)",
+   "gancho": "Desde hace años, algo en el espacio nos manda una señal de radio cada ocho minutos… y ya sabemos qué es.",
+   "por_que_viral": "'Señal misteriosa cada 8 minutos' evoca extraterrestres (clic seguro), con respuesta científica sorprendente. Es la primera vez que se ve en una pareja con una estrella como el Sol.",
+   "dato_principal": "GPM J071507−114153: una enana blanca (estrella muerta) que gira con una estrella tipo Sol a más de 5,000 años luz y emite pulsos de radio cada unos 8 minutos. Primera vez que estos pulsos se ven en una enana blanca con compañera parecida al Sol (antes, sobre todo con enanas rojas). Detectada con el radiotelescopio MWA (Australia), ubicada con MeerKAT (Sudáfrica) y confirmada con el telescopio Keck (Hawái); más de 100 h de datos. Nature Astronomy, nov 2026 (Sam McSweeney, ICRAR/Curtin). Aclarar que no son extraterrestres y que el mecanismo exacto aún se estudia.",
+   "escena_3d": "Dos estrellas girando: una amarilla como el Sol y una diminuta blanca y brillante; cada 8 s (acelerado) sale un haz de radio como faro; antenas del MWA en el desierto 'escuchando'; reloj que marca 8:00 min.",
+   "fuentes": [
+    "https://www.icrar.org/binary-lpt/",
+    "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+   ]
+  },
+  {
+   "numero": 6,
    "tema": "Los cuervos deciden el doble de rápido que tú: 235 milisegundos (Universidad de Tübingen, Science)",
    "gancho": "Un cuervo toma una decisión en 235 milisegundos… el doble de rápido que tú.",
    "por_que_viral": "Comparación directa animal contra humano ('el doble de rápido que tú') + animal que todos conocen y que ya tiene fama de listo: provoca comentarios y compartidos. Salió en Science y ScienceDaily lo difundió el 12 nov.",
@@ -40,10 +76,10 @@
    ]
   },
   {
-   "numero": 4,
+   "numero": 7,
    "tema": "El telescopio Hubble se está cayendo y la NASA busca quién lo rescate",
    "gancho": "El Hubble se está cayendo… y la NASA tiene hasta 2032 para salvarlo.",
-   "por_que_viral": "Repite la fórmula del video 14 (Swift cae a la Tierra), que salió el día récord, con el telescopio más famoso del mundo. La NASA recibe propuestas hasta el 30 de noviembre.",
+   "por_que_viral": "Repite la fórmula del video 14 (Swift cae a la Tierra), que salió el día récord, con el telescopio más famoso del mundo. La NASA recibe propuestas hasta el 30 de noviembre. Plazo de propuestas: 30 nov.",
    "dato_principal": "Hubble no tiene motores. El último empujón fue del transbordador Columbia en 2002, a 583 km; hoy va a unos 470 km y reentraría en 2033–2034. Un rescate tendría que subirlo a 600 km antes de 2032.",
    "escena_3d": "Hubble en órbita baja dejando una estela de brillo atmosférico; un contador de altura que baja de 583 a 470 km; una nave de servicio se acopla y lo empuja hacia arriba.",
    "fuentes": [
@@ -52,19 +88,7 @@
    ]
   },
   {
-   "numero": 5,
-   "tema": "Euclid publica el mapa más grande del universo oscuro: 900 millones de galaxias (DR1, 12 nov)",
-   "gancho": "Este telescopio acaba de fotografiar 900 millones de galaxias… y apenas lleva el 14 % de su trabajo.",
-   "por_que_viral": "Número enorme + materia oscura (misterio) + vuelo 3D entre galaxias, muy atractivo visualmente. Es del 12 nov.",
-   "dato_principal": "La primera gran publicación de datos de Euclid (ESA) incluye más de 900 millones de galaxias en unos 1,900 grados cuadrados de cielo (como 9,500 lunas llenas) y cerca de 1.7 millones de GB de datos. Es solo ~14 % del mapeo planeado; su meta es medir cómo la materia y la energía oscuras moldean el universo.",
-   "escena_3d": "La cámara sale del telescopio Euclid y vuela por un mapa 3D de galaxias; contador que sube a 900,000,000; barra de progreso que se queda en 14 %.",
-   "fuentes": [
-    "https://www.cosmos.esa.int/web/euclid/euclid-dr1",
-    "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky"
-   ]
-  },
-  {
-   "numero": 6,
+   "numero": 8,
    "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
    "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
    "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
@@ -73,30 +97,6 @@
    "fuentes": [
     "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
     "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
-   ]
-  },
-  {
-   "numero": 7,
-   "tema": "Los ingredientes de la vida se cocinaron en 'barrios' distintos del sistema solar (muestra del asteroide Bennu)",
-   "gancho": "La NASA trajo polvo de un asteroide… y descubrió que los ingredientes de la vida no nacieron en un solo lugar.",
-   "por_que_viral": "Origen de la vida + misión famosa (OSIRIS-REx) + giro inesperado. Es del 12 nov (Penn State).",
-   "dato_principal": "La beta-alanina (un aminoácido) de la muestra de Bennu tiene una firma de isótopos de carbono muy distinta a la del mismo aminoácido en el meteorito Murchison, aunque sus promedios generales casi coinciden: apunta a lugares de origen distintos en el sistema solar joven (Penn State, Communications Earth & Environment). Bennu ya tiene 14 de los 20 aminoácidos de las proteínas.",
-   "escena_3d": "Cápsula de OSIRIS-REx que se abre; zoom al polvo negro hasta una molécula con átomos de carbono que brillan en dos colores; mapa del sistema solar joven con dos 'barrios' encendidos.",
-   "fuentes": [
-    "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
-    "https://www.nature.com/articles/s43247-026-04084-9"
-   ]
-  },
-  {
-   "numero": 8,
-   "tema": "Una bomba nuclear podría salvarnos de un asteroide… pero solo si le pegas del lado correcto (Sandia)",
-   "gancho": "Si un asteroide viene hacia la Tierra, una bomba nuclear podría desviarlo… o casi no moverlo. Depende de dónde le pegues.",
-   "por_que_viral": "Fin del mundo + bomba nuclear + giro inesperado: gancho de alto riesgo que se comparte. Conecta con el video 09 (Hera y DART), que ya conoce la audiencia. Estudio de Icarus difundido el 3–8 nov.",
-   "dato_principal": "Simulaciones de Sandia National Laboratories (Nathan Moore, revista Icarus, 2026) con asteroides irregulares: en uno, el empujón fue de 3.9 mm/s desde un ángulo y solo 0.8 mm/s desde otro (casi 5 veces menos); en otro, el giro cambió hasta 17 veces según el lado. El nuevo método calcula 1,600 veces más rápido. Decir que es una simulación, no una prueba real.",
-   "escena_3d": "Asteroide con forma de papa girando; destello de rayos X de un lado y vapor de roca que sale disparado; comparación lado A (flecha larga, 3.9 mm/s) contra lado B (flecha corta, 0.8); la trayectoria se desvía o no de la Tierra.",
-   "fuentes": [
-    "https://www.eurekalert.org/news-releases/1150320",
-    "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
    ]
   }
  ]
