@@ -1,0 +1,78 @@
+{
+ "id": "35",
+ "title": "40 satélites de Amazon despegaron… y ninguno llegó",
+ "segments": [
+  {
+   "id": "gancho",
+   "parts": [
+    {
+     "say": "Este domingo, cuarenta satélites de Amazon salieron hacia el espacio… y ninguno llegó.",
+     "cap": "Este DOMINGO, 40 satélites de AMAZON salieron al ESPACIO… y NINGUNO llegó."
+    }
+   ]
+  },
+  {
+   "id": "cohete",
+   "parts": [
+    {
+     "say": "Iban en el Vulcan, el cohete nuevo de ULA, que despegó de Florida con seis propulsores laterales.",
+     "cap": "Iban en el VULCAN, el cohete nuevo de ULA, que despegó de FLORIDA con 6 PROPULSORES."
+    }
+   ]
+  },
+  {
+   "id": "normal",
+   "parts": [
+    {
+     "say": "Al minuto y cuarenta segundos, los propulsores se soltaron. Todo parecía normal.",
+     "cap": "Al minuto 1:40, los PROPULSORES se soltaron. Todo parecía NORMAL."
+    }
+   ]
+  },
+  {
+   "id": "falla",
+   "parts": [
+    {
+     "say": "Pero la etapa superior, la Centaur, empezó a girar de forma extraña… y a los diez minutos, algo salió mal.",
+     "cap": "Pero la etapa CENTAUR empezó a GIRAR raro… y a los 10 MINUTOS, algo FALLÓ."
+    }
+   ]
+  },
+  {
+   "id": "perdida",
+   "parts": [
+    {
+     "say": "Los cuarenta satélites nunca llegaron a la órbita.",
+     "cap": "Los 40 SATÉLITES nunca llegaron a la ÓRBITA."
+    }
+   ]
+  },
+  {
+   "id": "primera",
+   "parts": [
+    {
+     "say": "Era apenas el quinto vuelo del Vulcan, y el primero en nueve meses, después de arreglar fallas en sus propulsores.",
+     "cap": "Era apenas el 5.º VUELO del Vulcan, y el primero en 9 MESES, tras arreglar fallas en sus PROPULSORES."
+    }
+   ]
+  },
+  {
+   "id": "amazon",
+   "parts": [
+    {
+     "say": "Amazon tenía unos cuatrocientos satélites arriba, y necesita más de tres mil doscientos para competir con Starlink.",
+     "cap": "Amazon tenía unos 400 satélites ARRIBA y necesita más de 3,200 para competir con STARLINK."
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "La causa todavía se investiga. Por ahora, la carrera del internet desde el espacio la sigue ganando Starlink.",
+     "cap": "La CAUSA aún se investiga. Por ahora, la carrera del INTERNET ESPACIAL la sigue ganando STARLINK."
+    }
+   ]
+  }
+ ]
+}
