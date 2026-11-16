@@ -1,0 +1,112 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 47.75,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 5.5,
+   "say": "Este domingo, cuarenta satélites de Amazon salieron hacia el espacio… y ninguno llegó.",
+   "parts": [
+    [
+     0.1,
+     5.5,
+     "Este DOMINGO, 40 satélites de AMAZON salieron al ESPACIO… y NINGUNO llegó."
+    ]
+   ]
+  },
+  {
+   "id": "cohete",
+   "t0": 6.1,
+   "t1": 11.97,
+   "say": "Iban en el Vulcan, el cohete nuevo de ULA, que despegó de Florida con seis propulsores laterales.",
+   "parts": [
+    [
+     6.1,
+     11.97,
+     "Iban en el VULCAN, el cohete nuevo de ULA, que despegó de FLORIDA con 6 PROPULSORES."
+    ]
+   ]
+  },
+  {
+   "id": "normal",
+   "t0": 12.58,
+   "t1": 16.97,
+   "say": "Al minuto y cuarenta segundos, los propulsores se soltaron. Todo parecía normal.",
+   "parts": [
+    [
+     12.58,
+     16.97,
+     "Al minuto 1:40, los PROPULSORES se soltaron. Todo parecía NORMAL."
+    ]
+   ]
+  },
+  {
+   "id": "falla",
+   "t0": 17.62,
+   "t1": 24.39,
+   "say": "Pero la etapa superior, la Centaur, empezó a girar de forma extraña… y a los diez minutos, algo salió mal.",
+   "parts": [
+    [
+     17.62,
+     24.39,
+     "Pero la etapa CENTAUR empezó a GIRAR raro… y a los 10 MINUTOS, algo FALLÓ."
+    ]
+   ]
+  },
+  {
+   "id": "perdida",
+   "t0": 24.94,
+   "t1": 27.7,
+   "say": "Los cuarenta satélites nunca llegaron a la órbita.",
+   "parts": [
+    [
+     24.94,
+     27.7,
+     "Los 40 SATÉLITES nunca llegaron a la ÓRBITA."
+    ]
+   ]
+  },
+  {
+   "id": "primera",
+   "t0": 28.24,
+   "t1": 33.97,
+   "say": "Era apenas el quinto vuelo del Vulcan, y el primero en nueve meses, después de arreglar fallas en sus propulsores.",
+   "parts": [
+    [
+     28.24,
+     33.97,
+     "Era apenas el 5.º VUELO del Vulcan, y el primero en 9 MESES, tras arreglar fallas en sus PROPULSORES."
+    ]
+   ]
+  },
+  {
+   "id": "amazon",
+   "t0": 34.62,
+   "t1": 40.92,
+   "say": "Amazon tenía unos cuatrocientos satélites arriba, y necesita más de tres mil doscientos para competir con Starlink.",
+   "parts": [
+    [
+     34.62,
+     40.92,
+     "Amazon tenía unos 400 satélites ARRIBA y necesita más de 3,200 para competir con STARLINK."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 41.45,
+   "t1": 47.68,
+   "say": "La causa todavía se investiga. Por ahora, la carrera del internet desde el espacio la sigue ganando Starlink.",
+   "parts": [
+    [
+     41.45,
+     47.68,
+     "La CAUSA aún se investiga. Por ahora, la carrera del INTERNET ESPACIAL la sigue ganando STARLINK."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 49.58
+}
