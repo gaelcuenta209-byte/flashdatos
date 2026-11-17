@@ -743,6 +743,19 @@
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-35/FlashDatos_35.mp4",
    "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-35/FlashDatos_35_portada.jpg",
    "nota": "Video del día del 2026-11-16 (idea 1 del reporte). 49.6 s. Voz: ElevenLabs flow WxFWP4EmK3p1P740f2Zs, toma 1 (acelerada 1.12x). Se quitó 'primera falla total de ULA' por tener una sola fuente."
+  },
+  {
+   "numero": 36,
+   "tema": "Starship V4: la nave de SpaceX pasaría de 52 a unos 70 m (≈40 % más larga), de 6 a 9 motores (3 Raptor de vacío más) y más de 60 % más combustible (publicación de Musk, 15 nov 2026)",
+   "carpeta": "videos/36-starship-v4",
+   "titulo": "⚡ La nave más grande del mundo va a crecer 40 % MÁS 🚀 #shorts",
+   "titulo_tiktok": "⚡ La nave más grande del mundo va a crecer 40 % más 🚀",
+   "descripcion": "⚡ Un día después de que una torre atrapara por primera vez una Starship que volvía de la órbita, Elon Musk anunció la V4: una nave de unos 70 m (casi 40 % más larga), con 9 motores Raptor en lugar de 6 y más de 60 % más combustible. Por ahora es un plan sin fecha de vuelo.\nFuentes: publicación de Elon Musk en X (15 nov 2026), Teslarati y TeslaNorth.\n#spacex #starship #elonmusk #cohetes #espacio #ciencia",
+   "fecha_programada": "2026-11-17 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-36/FlashDatos_36.mp4",
+   "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-36/FlashDatos_36_portada.jpg",
+   "nota": "Video del día del 2026-11-17 (idea 1 del reporte). 51.8 s. Voz: ElevenLabs flow MCvZDywSQc5a2QbuUQlA, toma 1 (acelerada 1.12x). No se usó la altura total '~150 m' (una sola fuente)."
   }
  ]
 }
