@@ -1,0 +1,14 @@
+{
+ "id": "36",
+ "title": "La nave más grande del mundo va a crecer todavía más",
+ "segments": [
+  {"id": "gancho", "parts": [{"say": "El sábado, una torre atrapó a la nave más grande del mundo… y Elon Musk ya anunció que la va a hacer todavía más grande.", "cap": "El SÁBADO, una TORRE atrapó a la nave más GRANDE del mundo… y MUSK ya anunció que la hará MÁS GRANDE."}]},
+  {"id": "hoy", "parts": [{"say": "Hoy, la nave Starship mide unos cincuenta y dos metros y tiene seis motores Raptor.", "cap": "Hoy, la nave STARSHIP mide unos 52 METROS y tiene 6 MOTORES Raptor."}]},
+  {"id": "v4", "parts": [{"say": "La nueva versión, la V cuatro, mediría unos setenta metros: casi cuarenta por ciento más larga.", "cap": "La nueva versión, la V4, mediría unos 70 METROS: casi 40 % más LARGA."}]},
+  {"id": "edificio", "parts": [{"say": "Eso es como un edificio de veintitrés pisos… y es solo la parte de arriba del cohete.", "cap": "Eso es como un EDIFICIO de 23 PISOS… y es solo la parte de ARRIBA del cohete."}]},
+  {"id": "motores", "parts": [{"say": "Pasaría de seis a nueve motores: tres Raptor de vacío más, y todos más potentes.", "cap": "Pasaría de 6 a 9 MOTORES: 3 Raptor de VACÍO más, y todos más POTENTES."}]},
+  {"id": "combustible", "parts": [{"say": "Y podría cargar más de sesenta por ciento más combustible.", "cap": "Y podría cargar más de 60 % más COMBUSTIBLE."}]},
+  {"id": "luna", "parts": [{"say": "Con más combustible en cada viaje, harían falta menos vuelos para llenar los tanques que necesita una misión a la Luna.", "cap": "Con más COMBUSTIBLE por viaje, harían falta MENOS VUELOS para llenar los tanques de una misión a la LUNA."}]},
+  {"id": "cierre", "parts": [{"say": "Por ahora es solo un plan, y Musk no dio fecha para su primer vuelo. Pero si se cumple, el cohete más grande de la historia será todavía más grande.", "cap": "Por ahora es solo un PLAN, sin FECHA de vuelo. Pero si se cumple, el cohete más GRANDE de la historia será todavía MÁS GRANDE."}]}
+ ]
+}
