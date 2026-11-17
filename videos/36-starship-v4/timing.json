@@ -1,0 +1,112 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 49.97,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 7.64,
+   "say": "El sábado, una torre atrapó a la nave más grande del mundo… y Elon Musk ya anunció que la va a hacer todavía más grande.",
+   "parts": [
+    [
+     0.1,
+     7.64,
+     "El SÁBADO, una TORRE atrapó a la nave más GRANDE del mundo… y MUSK ya anunció que la hará MÁS GRANDE."
+    ]
+   ]
+  },
+  {
+   "id": "hoy",
+   "t0": 8.19,
+   "t1": 12.94,
+   "say": "Hoy, la nave Starship mide unos cincuenta y dos metros y tiene seis motores Raptor.",
+   "parts": [
+    [
+     8.19,
+     12.94,
+     "Hoy, la nave STARSHIP mide unos 52 METROS y tiene 6 MOTORES Raptor."
+    ]
+   ]
+  },
+  {
+   "id": "v4",
+   "t0": 13.42,
+   "t1": 19.61,
+   "say": "La nueva versión, la V cuatro, mediría unos setenta metros: casi cuarenta por ciento más larga.",
+   "parts": [
+    [
+     13.42,
+     19.61,
+     "La nueva versión, la V4, mediría unos 70 METROS: casi 40 % más LARGA."
+    ]
+   ]
+  },
+  {
+   "id": "edificio",
+   "t0": 20.0,
+   "t1": 24.77,
+   "say": "Eso es como un edificio de veintitrés pisos… y es solo la parte de arriba del cohete.",
+   "parts": [
+    [
+     20.0,
+     24.77,
+     "Eso es como un EDIFICIO de 23 PISOS… y es solo la parte de ARRIBA del cohete."
+    ]
+   ]
+  },
+  {
+   "id": "motores",
+   "t0": 25.33,
+   "t1": 30.7,
+   "say": "Pasaría de seis a nueve motores: tres Raptor de vacío más, y todos más potentes.",
+   "parts": [
+    [
+     25.33,
+     30.7,
+     "Pasaría de 6 a 9 MOTORES: 3 Raptor de VACÍO más, y todos más POTENTES."
+    ]
+   ]
+  },
+  {
+   "id": "combustible",
+   "t0": 31.03,
+   "t1": 34.36,
+   "say": "Y podría cargar más de sesenta por ciento más combustible.",
+   "parts": [
+    [
+     31.03,
+     34.36,
+     "Y podría cargar más de 60 % más COMBUSTIBLE."
+    ]
+   ]
+  },
+  {
+   "id": "luna",
+   "t0": 34.83,
+   "t1": 40.62,
+   "say": "Con más combustible en cada viaje, harían falta menos vuelos para llenar los tanques que necesita una misión a la Luna.",
+   "parts": [
+    [
+     34.83,
+     40.62,
+     "Con más COMBUSTIBLE por viaje, harían falta MENOS VUELOS para llenar los tanques de una misión a la LUNA."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 41.04,
+   "t1": 49.91,
+   "say": "Por ahora es solo un plan, y Musk no dio fecha para su primer vuelo. Pero si se cumple, el cohete más grande de la historia será todavía más grande.",
+   "parts": [
+    [
+     41.04,
+     49.91,
+     "Por ahora es solo un PLAN, sin FECHA de vuelo. Pero si se cumple, el cohete más GRANDE de la historia será todavía MÁS GRANDE."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 51.8
+}
