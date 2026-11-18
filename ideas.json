@@ -1,42 +1,42 @@
 {
- "actualizado": "2026-11-17",
+ "actualizado": "2026-11-18",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Starship V4: la nave más grande del mundo va a crecer 40 % más y tendrá 9 motores (anuncio de Musk, 15 nov)",
-   "gancho": "El cohete más grande de la historia acaba de ser atrapado por una torre… y ya lo van a hacer 40 % más grande.",
-   "por_que_viral": "Llega justo después de la primera Starship atrapada al volver de órbita (14 nov), con números enormes y fáciles de comparar (70 m, 150 m de altura, 9 motores). SpaceX y Musk son de lo que más se busca en tecnología; provoca debate en comentarios. No caduca en días.",
-   "dato_principal": "Musk publicó en X el domingo 15 nov que la nave Starship V4 medirá unos 70 m (≈40 % más larga) y cargará más de 60 % más propelente; pasará de 6 a 9 motores (3 Raptor de vacío más, versión V4 de mayor empuje). Todo el cohete sería 'probablemente cerca de 150 m'. Hoy (V3): 124 m apilado, nave de 52 m con 6 Raptor y propulsor con 33. Debut previsto en 2027 (plan de ago 2025). Decirlo como plan anunciado, no como hecho.",
-   "escena_3d": "La Starship V3 de pie junto a la torre; se 'estira' por secciones hasta la V4 con regla de altura (124 → 150 m) junto a la Estatua de la Libertad y la Torre Latinoamericana; vista inferior con 6 motores que pasan a 9 encendiéndose uno a uno.",
-   "fuentes": [
-    "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
-    "https://x.com/elonmusk/status/2122141019894383027"
-   ]
-  },
-  {
-   "numero": 2,
-   "tema": "Lluvia de estrellas Leónidas: máximo la noche del martes 17 al miércoles 18 nov",
-   "gancho": "Esta noche caen piedras del espacio a 71 kilómetros por segundo… y las puedes ver desde tu casa.",
-   "por_que_viral": "Evento que el público puede ver él mismo (llamado a la acción, se guarda y se comparte), con la Luna ya puesta después de medianoche. Historia espectacular: en 1833 hubo hasta unas 150,000 por hora. CADUCA HOY: el máximo es esta noche (17 al 18 nov); solo sirve si sale hoy.",
-   "dato_principal": "Máximo previsto: 17 nov a las 23:45 UTC (5:45 p. m. CDMX) según Space.com; 0:00 UTC del 18 según EarthSky; lo mejor es de medianoche al amanecer del 17 y del 18. Unas 10–15 por hora con cielo oscuro. Entran a unos 71 km/s. Vienen del cometa 55P/Tempel-Tuttle, que vuelve cada ~33 años (próximo en 2031). Luna en cuarto creciente que se pone cerca de medianoche. No se espera tormenta este año. Diferencia con el video 11: aquel explicaba que se derriten; este es la guía para verlas y la historia de las tormentas.",
-   "escena_3d": "Órbita del cometa Tempel-Tuttle dejando un río de polvo; la Tierra lo cruza; granos que entran a 71 km/s y se encienden; cielo nocturno con el radiante en Leo (con Marte y Júpiter cerca) y un reloj que marca medianoche–amanecer; flashback a 1833 con lluvia masiva.",
-   "fuentes": [
-    "https://www.space.com/leonid-meteor-shower",
-    "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-leonid-meteor-shower/"
-   ]
-  },
-  {
-   "numero": 3,
    "tema": "La Tierra tiene una miniluna temporal: 2026 QQ8",
    "gancho": "Ahora mismo la Tierra tiene dos lunas… pero una se va antes de que acabe el año.",
-   "por_que_viral": "'Segunda luna' es un gancho que rompe lo que todos saben y es temporal (urgencia). Se compartió mucho el 13 y 14 nov. Sigue vigente: se va a mediados de diciembre o enero.",
+   "por_que_viral": "'Segunda luna' rompe lo que todos saben y es temporal (urgencia: se va en unas semanas). Se compartió mucho el 13 y 14 nov y sigue vigente hasta diciembre o enero.",
    "dato_principal": "2026 QQ8, una roca diminuta (1–2 m según la fuente) capturada temporalmente por la gravedad de la Tierra, gira a cerca de 1.5 veces la distancia de la Luna. La descubrió el astrónomo húngaro K. Sárneczky en agosto y el Minor Planet Center la anunció el 29 oct. Se iría entre mediados de diciembre y enero (las fuentes difieren: dar 'antes de 2027 o poco después'). Es inofensiva y no se ve a simple vista.",
    "escena_3d": "Tierra y órbita de la Luna como escala; una piedrita gris entra, da vueltas en lazos irregulares y luego escapa; comparación de tamaño con un auto.",
    "fuentes": [
     "https://www.livescience.com/space/meteoroids/astronomers-confirm-a-tiny-new-moon-is-orbiting-earth-and-itll-stick-around-for-the-holidays",
     "https://www.discovermagazine.com/a-tiny-object-thought-to-be-space-junk-is-earth-s-newest-mini-moon-but-2026-qq8-isn-t-sticking-around-49952"
+   ]
+  },
+  {
+   "numero": 2,
+   "tema": "La NASA advierte: el 'monstruoso' El Niño de 2026 podría ser más grande que el legendario de 1997",
+   "gancho": "La NASA ve desde el espacio un 'bulto' en el océano Pacífico… igual al de 1997, el peor El Niño de la historia moderna.",
+   "por_que_viral": "Afecta directamente a México y Latinoamérica (lluvias, sequías, clima del invierno): tema cercano que la gente comparte con la familia. Comparación 1997 vs 2026 muy visual.",
+   "dato_principal": "Mapas de altura del mar del satélite Sentinel-6 Michael Freilich (12 oct 2026) comparados con TOPEX/Poseidon (13 oct 1997) muestran un patrón parecido de agua caliente llegando a Sudamérica; según Josh Willis (JPL de la NASA) 'va camino a ser aún más grande'. NOAA declaró El Niño el 11 jun 2026 y el 8 oct dio 83 % de probabilidad de que sea fuerte o muy fuerte en enero–marzo 2027. El de 2015-16 trajo inundaciones en México. Decir que los efectos concretos de 2026 aún son inciertos; no dar cifras en cm que las fuentes no dan.",
+   "escena_3d": "Globo terrestre con el Pacífico que se abomba en rojo; pantalla dividida 1997 vs 2026 con el satélite pasando; ondas de agua caliente que viajan de Asia a Sudamérica; nubes de lluvia sobre México.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261114202227.htm",
+    "https://scitechdaily.com/nasa-satellites-spot-a-powerful-el-nino-building-beneath-the-pacific/"
+   ]
+  },
+  {
+   "numero": 3,
+   "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
+   "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
+   "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
+   "dato_principal": "TOI-2535 b, un Júpiter caliente a unos 1,000 años luz que da la vuelta a su estrella en 8.25 días. TESS lo vio transitar de abril de 2019 a marzo de 2026: sus tránsitos se adelantaban o atrasaban hasta 6 horas, se hicieron más cortos y dejaron de verse en 2026. Un planeta vecino invisible, con órbita inclinada, lo hace 'bambolearse como trompo'. Volvería a verse en 30 a 50 años (UCLA, The Astrophysical Journal Letters). Aclarar: el planeta sigue ahí, solo dejó de pasar frente a nosotros.",
+   "escena_3d": "Estrella con un gigante gaseoso que pasa por delante y hace bajar una curva de luz; la órbita se inclina poco a poco como trompo hasta que el planeta ya no cruza; aparece el vecino oculto en sombra; contador de años 2019 → 2026 → 2056.",
+   "fuentes": [
+    "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
+    "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
    ]
   },
   {
@@ -53,18 +53,30 @@
   },
   {
    "numero": 5,
-   "tema": "La NASA advierte: el 'monstruoso' El Niño de 2026 podría ser más grande que el legendario de 1997",
-   "gancho": "La NASA ve desde el espacio un 'bulto' en el océano Pacífico… igual al de 1997, el peor El Niño de la historia moderna.",
-   "por_que_viral": "Afecta directamente a México y Latinoamérica (lluvias, sequías, clima del invierno): tema cercano que la gente comparte con la familia. Comparación 1997 vs 2026 muy visual.",
-   "dato_principal": "Mapas de altura del mar del satélite Sentinel-6 Michael Freilich (12 oct 2026) comparados con TOPEX/Poseidon (13 oct 1997) muestran un patrón parecido de agua caliente llegando a Sudamérica; según Josh Willis (JPL de la NASA) 'va camino a ser aún más grande'. NOAA declaró El Niño el 11 jun 2026 y el 8 oct dio 83 % de probabilidad de que sea fuerte o muy fuerte en enero–marzo 2027. El de 2015-16 trajo inundaciones en México. Decir que los efectos concretos de 2026 aún son inciertos; no dar cifras en cm que las fuentes no dan.",
-   "escena_3d": "Globo terrestre con el Pacífico que se abomba en rojo; pantalla dividida 1997 vs 2026 con el satélite pasando; ondas de agua caliente que viajan de Asia a Sudamérica; nubes de lluvia sobre México.",
+   "tema": "China quiere aterrizar en Calisto, una luna de Júpiter: abrió el concurso de instrumentos de la misión Tianwen-4 (13 nov 2026)",
+   "gancho": "China quiere poner una nave en una luna de Júpiter… donde una orden desde la Tierra tarda casi una hora en llegar.",
+   "por_que_viral": "Carrera espacial China vs. NASA (genera debate), destino que casi nadie conoce y un reto extremo fácil de entender: la nave tendrá que aterrizar sola. Noticia fresca (13–17 nov).",
+   "dato_principal": "El 13 nov 2026 la agencia espacial china (CNSA) abrió la convocatoria de instrumentos para Tianwen-4: 10 en el orbitador y 2 en el módulo de aterrizaje (un espectrómetro Raman para analizar el suelo y un magnetómetro); propuestas hasta el 31 dic. Lanzamiento previsto hacia 2029 en un Larga Marcha 5; el plan de 2020 llegaba a Júpiter en 2035 y a la órbita de Calisto en 2038 (decir que las fechas pueden cambiar). Calisto es la tercera luna más grande del sistema solar, la galileana más lejana de Júpiter (menos radiación) y podría tener un océano salado bajo el hielo (no confirmado). La señal tarda unos 35–50 min de ida: el aterrizaje debe ser autónomo.",
+   "escena_3d": "Júpiter gigante y sus cuatro lunas galileanas; la cámara viaja a Calisto, llena de cráteres; reloj de luz que tarda 35–50 min desde la Tierra; el módulo desciende solo y se posa; corte del hielo con un posible océano debajo.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261114202227.htm",
-    "https://scitechdaily.com/nasa-satellites-spot-a-powerful-el-nino-building-beneath-the-pacific/"
+    "https://www.universetoday.com/articles/china-signals-its-intention-to-land-on-jupiters-moon-callisto",
+    "https://newspaceeconomy.ca/2026/11/14/china-tianwen-4-payload-competition-callisto/"
    ]
   },
   {
    "numero": 6,
+   "tema": "Euclid encontró los dos quásares más antiguos del universo: brillan como un billón de soles (13,000 millones de años luz)",
+   "gancho": "Esta luz salió hace más de 13,000 millones de años… y brilla como un billón de soles juntos.",
+   "por_que_viral": "Números gigantes y récord ('lo más antiguo jamás visto'), hoyos negros monstruosos y la idea de mirar al pasado: muy compartible. ScienceDaily lo volvió a difundir el 14 nov. No caduca.",
+   "dato_principal": "El telescopio Euclid de la ESA descubrió 31 quásares nuevos (12 de ellos de los primeros 770 millones de años del universo). Los dos récord, EUCL J172902.75+641018.1 (z = 7.77) y EUCL J125308.55+705432.3 (z = 7.69), están a poco más de 13,000 millones de años luz y los vemos como eran en los primeros 670 millones de años, cuando el universo tenía ~5 % de su edad. Cada uno brilla como un billón (10^12) de soles. Récord anterior: z = 7.64 (2021). Yang et al. (Universidad de Leiden), Astronomy & Astrophysics, publicado el 6 jul 2026. Aclarar que el estudio es de julio y que no dan la masa de los hoyos negros.",
+   "escena_3d": "Viaje hacia atrás en el tiempo: galaxias que se hacen más pequeñas y jóvenes; al fondo un disco de gas brillante girando alrededor de un hoyo negro con chorros; contador de luz '1 billón de soles' y línea del tiempo 13,800 → 670 millones de años.",
+   "fuentes": [
+    "https://www.esa.int/Science_Exploration/Space_Science/Euclid_discovers_the_most_ancient_quasar_in_the_Universe",
+    "https://www.livescience.com/space/black-holes/euclid-telescope-discovers-the-2-most-ancient-monster-black-holes-in-the-universe-each-brighter-than-a-trillion-suns"
+   ]
+  },
+  {
+   "numero": 7,
    "tema": "Una estrella muerta manda señales de radio cada 8 minutos… y su pareja se parece al Sol (GPM J071507−114153)",
    "gancho": "Desde hace años, algo en el espacio nos manda una señal de radio cada ocho minutos… y ya sabemos qué es.",
    "por_que_viral": "'Señal misteriosa cada 8 minutos' evoca extraterrestres (clic seguro), con respuesta científica sorprendente. Es la primera vez que se ve en una pareja con una estrella como el Sol.",
@@ -73,18 +85,6 @@
    "fuentes": [
     "https://www.icrar.org/binary-lpt/",
     "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
-   ]
-  },
-  {
-   "numero": 7,
-   "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
-   "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
-   "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
-   "dato_principal": "TOI-2535 b, un Júpiter caliente a unos 1,000 años luz que da la vuelta a su estrella en 8.25 días. TESS lo vio transitar de abril de 2019 a marzo de 2026: sus tránsitos se adelantaban o atrasaban hasta 6 horas, se hicieron más cortos y dejaron de verse en 2026. Un planeta vecino invisible, con órbita inclinada, lo hace 'bambolearse como trompo'. Volvería a verse en 30 a 50 años (UCLA, The Astrophysical Journal Letters). Aclarar: el planeta sigue ahí, solo dejó de pasar frente a nosotros.",
-   "escena_3d": "Estrella con un gigante gaseoso que pasa por delante y hace bajar una curva de luz; la órbita se inclina poco a poco como trompo hasta que el planeta ya no cruza; aparece el vecino oculto en sombra; contador de años 2019 → 2026 → 2056.",
-   "fuentes": [
-    "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
-    "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
    ]
   },
   {
