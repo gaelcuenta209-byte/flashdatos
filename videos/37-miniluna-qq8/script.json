@@ -1,0 +1,78 @@
+{
+ "id": "37",
+ "title": "La Tierra tiene una segunda luna… pero ya se va",
+ "segments": [
+  {
+   "id": "gancho",
+   "parts": [
+    {
+     "say": "Ahora mismo, la Tierra tiene dos lunas… pero una de ellas está a punto de irse.",
+     "cap": "Ahora mismo, la TIERRA tiene DOS LUNAS… pero una está a punto de IRSE."
+    }
+   ]
+  },
+  {
+   "id": "quien",
+   "parts": [
+    {
+     "say": "Se llama dos mil veintiséis Q Q ocho: una roca de uno o dos metros, más chica que un auto.",
+     "cap": "Se llama 2026 QQ8: una ROCA de 1 a 2 METROS, más chica que un AUTO."
+    }
+   ]
+  },
+  {
+   "id": "captura",
+   "parts": [
+    {
+     "say": "En abril, la gravedad de la Tierra la atrapó.",
+     "cap": "En ABRIL, la GRAVEDAD de la Tierra la ATRAPÓ."
+    }
+   ]
+  },
+  {
+   "id": "basura",
+   "parts": [
+    {
+     "say": "Al principio creyeron que era basura espacial… pero es una roca natural.",
+     "cap": "Parecía BASURA ESPACIAL… pero es una ROCA NATURAL."
+    }
+   ]
+  },
+  {
+   "id": "distancia",
+   "parts": [
+    {
+     "say": "Gira a una vez y media la distancia de la Luna.",
+     "cap": "Gira a 1.5 veces la distancia de la LUNA."
+    }
+   ]
+  },
+  {
+   "id": "peligro",
+   "parts": [
+    {
+     "say": "No es peligrosa, y no se ve ni con telescopio de aficionado.",
+     "cap": "NO es peligrosa, y no se ve ni con TELESCOPIO de aficionado."
+    }
+   ]
+  },
+  {
+   "id": "salida",
+   "parts": [
+    {
+     "say": "Entre diciembre y enero se escapará, y no volverá a acercarse así hasta dos mil cincuenta y ocho.",
+     "cap": "Entre DICIEMBRE y ENERO se ESCAPA, y no volverá así hasta 2058."
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Así que, por unas semanas más, la Tierra tiene dos lunas: la de siempre y una pequeña roca de visita.",
+     "cap": "Por unas SEMANAS más, la Tierra tiene DOS LUNAS: la de siempre y una ROCA de VISITA."
+    }
+   ]
+  }
+ ]
+}
