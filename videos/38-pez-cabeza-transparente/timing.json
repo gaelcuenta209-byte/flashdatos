@@ -1,0 +1,125 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 51.38,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 5.23,
+   "say": "Este pez tiene la cabeza transparente… y lo que parecen sus ojos, no son sus ojos.",
+   "parts": [
+    [
+     0.1,
+     5.23,
+     "Este PEZ tiene la CABEZA TRANSPARENTE… y lo que parecen sus OJOS, NO son sus ojos."
+    ]
+   ]
+  },
+  {
+   "id": "donde",
+   "t0": 5.49,
+   "t1": 12.85,
+   "say": "Es un pez ojos de barril, y un robot submarino lo filmó el veinte de octubre, a seiscientos metros de profundidad frente a California.",
+   "parts": [
+    [
+     5.49,
+     12.85,
+     "Es un pez OJOS DE BARRIL: un ROBOT lo filmó el 20 de OCTUBRE a 600 METROS de profundidad."
+    ]
+   ]
+  },
+  {
+   "id": "raro",
+   "t0": 13.47,
+   "t1": 18.49,
+   "say": "Es tan raro que, en casi cuarenta años y unas siete mil inmersiones, solo lo han visto once veces.",
+   "parts": [
+    [
+     13.47,
+     18.49,
+     "En casi 40 AÑOS y unas 7,000 inmersiones, solo lo han visto 11 VECES."
+    ]
+   ]
+  },
+  {
+   "id": "manchas",
+   "t0": 18.64,
+   "t1": 24.28,
+   "say": "Esas dos manchas oscuras de su cara no son ojos: son sus órganos del olfato, como fosas nasales.",
+   "parts": [
+    [
+     18.64,
+     24.28,
+     "Esas dos MANCHAS no son ojos: son su OLFATO, como NARICES."
+    ]
+   ]
+  },
+  {
+   "id": "ojos",
+   "t0": 24.5,
+   "t1": 31.0,
+   "say": "Sus verdaderos ojos son estos dos tubos verdes, escondidos dentro de la cabeza transparente.",
+   "parts": [
+    [
+     24.5,
+     31.0,
+     "Sus verdaderos OJOS son estos dos TUBOS VERDES, dentro de la cabeza."
+    ]
+   ]
+  },
+  {
+   "id": "giran",
+   "t0": 31.5,
+   "t1": 36.15,
+   "say": "Y pueden girar: miran hacia arriba para buscar comida, y al frente cuando van a atraparla.",
+   "parts": [
+    [
+     31.5,
+     36.15,
+     "Y GIRAN: miran ARRIBA para buscar comida, y al FRENTE para atraparla."
+    ]
+   ]
+  },
+  {
+   "id": "robo",
+   "t0": 36.75,
+   "t1": 41.45,
+   "say": "Se cree que les roba presas a los sifonóforos, parientes de las medusas con tentáculos que pican.",
+   "parts": [
+    [
+     36.75,
+     41.45,
+     "Se cree que les ROBA presas a los SIFONÓFOROS, parientes de las MEDUSAS."
+    ]
+   ]
+  },
+  {
+   "id": "video",
+   "t0": 42.16,
+   "t1": 47.44,
+   "say": "Esta vez lo grabaron unos veinte minutos en cuatro ka, y después hasta en tres D.",
+   "parts": [
+    [
+     42.16,
+     47.44,
+     "Lo grabaron unos 20 MINUTOS en 4K… y luego en 3D."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 47.95,
+   "t1": 51.27,
+   "say": "Así que sí: allá abajo vive un pez que mira a través de su propia cabeza.",
+   "parts": [
+    [
+     47.95,
+     51.27,
+     "Allá abajo vive un PEZ que MIRA a través de su propia CABEZA."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 53.27
+}
