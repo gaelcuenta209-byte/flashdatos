@@ -1,0 +1,15 @@
+{
+ "id": "38",
+ "title": "Este pez tiene la cabeza transparente",
+ "segments": [
+  {"id": "gancho", "parts": [{"say": "Este pez tiene la cabeza transparente… y lo que parecen sus ojos, no son sus ojos.", "cap": "Este PEZ tiene la CABEZA TRANSPARENTE… y lo que parecen sus OJOS, NO son sus ojos."}]},
+  {"id": "donde", "parts": [{"say": "Es un pez ojos de barril, y un robot submarino lo filmó el veinte de octubre, a seiscientos metros de profundidad frente a California.", "cap": "Es un pez OJOS DE BARRIL: un ROBOT lo filmó el 20 de OCTUBRE a 600 METROS de profundidad."}]},
+  {"id": "raro", "parts": [{"say": "Es tan raro que, en casi cuarenta años y unas siete mil inmersiones, solo lo han visto once veces.", "cap": "En casi 40 AÑOS y unas 7,000 inmersiones, solo lo han visto 11 VECES."}]},
+  {"id": "manchas", "parts": [{"say": "Esas dos manchas oscuras de su cara no son ojos: son sus órganos del olfato, como fosas nasales.", "cap": "Esas dos MANCHAS no son ojos: son su OLFATO, como NARICES."}]},
+  {"id": "ojos", "parts": [{"say": "Sus verdaderos ojos son estos dos tubos verdes, escondidos dentro de la cabeza transparente.", "cap": "Sus verdaderos OJOS son estos dos TUBOS VERDES, dentro de la cabeza."}]},
+  {"id": "giran", "parts": [{"say": "Y pueden girar: miran hacia arriba para buscar comida, y al frente cuando van a atraparla.", "cap": "Y GIRAN: miran ARRIBA para buscar comida, y al FRENTE para atraparla."}]},
+  {"id": "robo", "parts": [{"say": "Se cree que les roba presas a los sifonóforos, parientes de las medusas con tentáculos que pican.", "cap": "Se cree que les ROBA presas a los SIFONÓFOROS, parientes de las MEDUSAS."}]},
+  {"id": "video", "parts": [{"say": "Esta vez lo grabaron unos veinte minutos en cuatro ka, y después hasta en tres D.", "cap": "Lo grabaron unos 20 MINUTOS en 4K… y luego en 3D."}]},
+  {"id": "cierre", "parts": [{"say": "Así que sí: allá abajo vive un pez que mira a través de su propia cabeza.", "cap": "Allá abajo vive un PEZ que MIRA a través de su propia CABEZA."}]}
+ ]
+}
