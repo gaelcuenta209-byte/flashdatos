@@ -1,18 +1,18 @@
 {
- "actualizado": "2026-11-18",
+ "actualizado": "2026-11-19",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "La Tierra tiene una miniluna temporal: 2026 QQ8",
-   "gancho": "Ahora mismo la Tierra tiene dos lunas… pero una se va antes de que acabe el año.",
-   "por_que_viral": "'Segunda luna' rompe lo que todos saben y es temporal (urgencia: se va en unas semanas). Se compartió mucho el 13 y 14 nov y sigue vigente hasta diciembre o enero.",
-   "dato_principal": "2026 QQ8, una roca diminuta (1–2 m según la fuente) capturada temporalmente por la gravedad de la Tierra, gira a cerca de 1.5 veces la distancia de la Luna. La descubrió el astrónomo húngaro K. Sárneczky en agosto y el Minor Planet Center la anunció el 29 oct. Se iría entre mediados de diciembre y enero (las fuentes difieren: dar 'antes de 2027 o poco después'). Es inofensiva y no se ve a simple vista.",
-   "escena_3d": "Tierra y órbita de la Luna como escala; una piedrita gris entra, da vueltas en lazos irregulares y luego escapa; comparación de tamaño con un auto.",
+   "tema": "Filman en 4K un pez con la cabeza transparente: se le ven los ojos girando por dentro (barreleye, MBARI)",
+   "gancho": "Este pez tiene la cabeza transparente… y lo que parecen sus ojos, no son sus ojos.",
+   "por_que_viral": "Animal real que parece efecto especial: imagen que se detiene el scroll en el primer segundo, giro sorpresa (los 'ojos' son órganos del olfato) y rareza extrema (11 avistamientos en ~40 años). No caduca y se presta a 'mándaselo a alguien'.",
+   "dato_principal": "Macropinna microstoma (pez barreleye), de unos 15 cm. El MBARI lo filmó el 20 oct 2026 a unos 600 m de profundidad en el cañón de Monterey (California), a ~90 km de la costa, con el robot submarino Doc Ricketts: ~20 min en 4K y luego en 3D estéreo. Es el avistamiento 11 del MBARI en unos 40 años y ~7,000 inmersiones (el anterior, en 2021). Sus ojos son dos tubos verdes que giran dentro de la cúpula transparente para mirar hacia arriba o al frente; las dos manchas oscuras de 'la cara' son órganos del olfato. Aclarar que su forma de comer (robar presas de sifonóforos) es una hipótesis.",
+   "escena_3d": "Descenso en la oscuridad con partículas de 'nieve marina'; aparece el pez con cúpula de vidrio; la cámara entra a la cabeza y los ojos-tubo verdes giran 90° hacia arriba; etiqueta 'NO SON SUS OJOS' sobre las manchas; medidor de profundidad 0 → 600 m.",
    "fuentes": [
-    "https://www.livescience.com/space/meteoroids/astronomers-confirm-a-tiny-new-moon-is-orbiting-earth-and-itll-stick-around-for-the-holidays",
-    "https://www.discovermagazine.com/a-tiny-object-thought-to-be-space-junk-is-earth-s-newest-mini-moon-but-2026-qq8-isn-t-sticking-around-49952"
+    "https://www.natureworldnews.com/articles/73726/20261104/watch-barreleye-fish-peer-through-its-transparent-head-nearly-2000-feet-below-california-coast.htm",
+    "https://dailygalaxy.com/2026/11/deep-sea-fish-transparent-head-filmed-4k/"
    ]
   },
   {
@@ -29,6 +29,18 @@
   },
   {
    "numero": 3,
+   "tema": "Perseverance encontró el carbono más complejo visto en Marte, casi en la superficie (Jezero, Science Advances)",
+   "gancho": "En Marte acaban de encontrar el tipo de carbono que en la Tierra suele dejar la vida… a unas micras de la superficie.",
+   "por_que_viral": "'¿Hubo vida en Marte?' es de las preguntas que más se comparten; ScienceDaily lo difundió el 12 nov. Tiene debate natural en comentarios (¿vida o química?).",
+   "dato_principal": "El instrumento SHERLOC del rover Perseverance detectó carbono macromolecular (grandes redes de carbono, cientos de detecciones) en dos rocas de lodo de la formación Bright Angel, en Neretva Vallis, cráter Jezero: un antiguo río. Sobrevivió a solo unas micras bajo la superficie, la detección más superficial de este tipo en Marte. Estudio de Ashley Murphy (Planetary Science Institute) y Kyle Uckert (subinvestigador principal de SHERLOC), Science Advances, vol. 12 (2026). IMPORTANTE: no prueba vida; ese carbono también puede formarse sin vida (meteoritos o agua caliente). El estudio salió a mediados de 2026; la difusión es del 12 nov.",
+   "escena_3d": "Rover Perseverance en un cauce seco rojizo; brazo con láser ultravioleta sobre una roca; zoom microscópico a una red de átomos de carbono que se ilumina; pantalla dividida 'vida' vs 'química' con signo de interrogación.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+    "https://skyatnightmagazine.com/news/case-life-mars-stronger-rover-finds-organic-carbon-ancient-river-rocks"
+   ]
+  },
+  {
+   "numero": 4,
    "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
    "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
    "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
@@ -40,7 +52,19 @@
    ]
   },
   {
-   "numero": 4,
+   "numero": 5,
+   "tema": "Por primera vez, un robot construyó solo una estructura en el espacio (ASTRA de Caltech, financiado por DARPA)",
+   "gancho": "Allá arriba, a cientos de kilómetros, un robot está armando una antena… sin ningún humano que lo ayude.",
+   "por_que_viral": "Robots + espacio + 'primera vez en la historia': tecnología que se entiende al instante y abre la pregunta de cómo construiremos telescopios gigantes. Noticia del 9–13 nov.",
+   "dato_principal": "ASTRA (Autonomous In-Space Tensioned Reflector Assembly), de Sergio Pellegrino en Caltech y financiado por el programa NOM4D de DARPA, despegó el 30 mar 2026 en el Transporter-16 de SpaceX (dentro del Vigoride 7 de Momentus), en una caja de ~1 m³. Desplegó dos módulos de armazón ya armados y ensambló solo un tercero: según Caltech, la primera estructura construida de forma autónoma en el espacio. La meta es una antena de 1.4 m que necesita 11 módulos; el equipo no espera terminarla antes de que la misión acabe en diciembre de 2026. Solo hay 7–8 contactos diarios de ~15 min con la Tierra.",
+   "escena_3d": "Tierra de fondo; una caja se abre en órbita y despliega brazos; tubos de fibra se encajan en uniones de aluminio formando una celosía hexagonal; contador 'módulo 3 de 11'; al final una película plateada se tensa como antena.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
+    "https://interestingengineering.com/ai-robotics/caltech-darpa-astra-robot"
+   ]
+  },
+  {
+   "numero": 6,
    "tema": "Encuentran 245 animales viviendo dentro de una sola roca del fondo del mar (nódulos del Pacífico, MARUM)",
    "gancho": "Esta piedra del fondo del mar parece una papa… pero adentro vivían 245 animales.",
    "por_que_viral": "Descubrimiento sorprendente y muy visual ('un mundo escondido dentro de una piedra'), con el conflicto de la minería submarina por baterías (níquel y cobalto): tema que provoca comentarios. Salió el 11 nov (Scientific Reports) y ScienceDaily lo difundió el 16.",
@@ -52,51 +76,27 @@
    ]
   },
   {
-   "numero": 5,
-   "tema": "China quiere aterrizar en Calisto, una luna de Júpiter: abrió el concurso de instrumentos de la misión Tianwen-4 (13 nov 2026)",
-   "gancho": "China quiere poner una nave en una luna de Júpiter… donde una orden desde la Tierra tarda casi una hora en llegar.",
-   "por_que_viral": "Carrera espacial China vs. NASA (genera debate), destino que casi nadie conoce y un reto extremo fácil de entender: la nave tendrá que aterrizar sola. Noticia fresca (13–17 nov).",
-   "dato_principal": "El 13 nov 2026 la agencia espacial china (CNSA) abrió la convocatoria de instrumentos para Tianwen-4: 10 en el orbitador y 2 en el módulo de aterrizaje (un espectrómetro Raman para analizar el suelo y un magnetómetro); propuestas hasta el 31 dic. Lanzamiento previsto hacia 2029 en un Larga Marcha 5; el plan de 2020 llegaba a Júpiter en 2035 y a la órbita de Calisto en 2038 (decir que las fechas pueden cambiar). Calisto es la tercera luna más grande del sistema solar, la galileana más lejana de Júpiter (menos radiación) y podría tener un océano salado bajo el hielo (no confirmado). La señal tarda unos 35–50 min de ida: el aterrizaje debe ser autónomo.",
-   "escena_3d": "Júpiter gigante y sus cuatro lunas galileanas; la cámara viaja a Calisto, llena de cráteres; reloj de luz que tarda 35–50 min desde la Tierra; el módulo desciende solo y se posa; corte del hielo con un posible océano debajo.",
-   "fuentes": [
-    "https://www.universetoday.com/articles/china-signals-its-intention-to-land-on-jupiters-moon-callisto",
-    "https://newspaceeconomy.ca/2026/11/14/china-tianwen-4-payload-competition-callisto/"
-   ]
-  },
-  {
-   "numero": 6,
-   "tema": "Euclid encontró los dos quásares más antiguos del universo: brillan como un billón de soles (13,000 millones de años luz)",
-   "gancho": "Esta luz salió hace más de 13,000 millones de años… y brilla como un billón de soles juntos.",
-   "por_que_viral": "Números gigantes y récord ('lo más antiguo jamás visto'), hoyos negros monstruosos y la idea de mirar al pasado: muy compartible. ScienceDaily lo volvió a difundir el 14 nov. No caduca.",
-   "dato_principal": "El telescopio Euclid de la ESA descubrió 31 quásares nuevos (12 de ellos de los primeros 770 millones de años del universo). Los dos récord, EUCL J172902.75+641018.1 (z = 7.77) y EUCL J125308.55+705432.3 (z = 7.69), están a poco más de 13,000 millones de años luz y los vemos como eran en los primeros 670 millones de años, cuando el universo tenía ~5 % de su edad. Cada uno brilla como un billón (10^12) de soles. Récord anterior: z = 7.64 (2021). Yang et al. (Universidad de Leiden), Astronomy & Astrophysics, publicado el 6 jul 2026. Aclarar que el estudio es de julio y que no dan la masa de los hoyos negros.",
-   "escena_3d": "Viaje hacia atrás en el tiempo: galaxias que se hacen más pequeñas y jóvenes; al fondo un disco de gas brillante girando alrededor de un hoyo negro con chorros; contador de luz '1 billón de soles' y línea del tiempo 13,800 → 670 millones de años.",
-   "fuentes": [
-    "https://www.esa.int/Science_Exploration/Space_Science/Euclid_discovers_the_most_ancient_quasar_in_the_Universe",
-    "https://www.livescience.com/space/black-holes/euclid-telescope-discovers-the-2-most-ancient-monster-black-holes-in-the-universe-each-brighter-than-a-trillion-suns"
-   ]
-  },
-  {
    "numero": 7,
-   "tema": "Una estrella muerta manda señales de radio cada 8 minutos… y su pareja se parece al Sol (GPM J071507−114153)",
-   "gancho": "Desde hace años, algo en el espacio nos manda una señal de radio cada ocho minutos… y ya sabemos qué es.",
-   "por_que_viral": "'Señal misteriosa cada 8 minutos' evoca extraterrestres (clic seguro), con respuesta científica sorprendente. Es la primera vez que se ve en una pareja con una estrella como el Sol.",
-   "dato_principal": "GPM J071507−114153: una enana blanca (estrella muerta) que gira con una estrella tipo Sol a más de 5,000 años luz y emite pulsos de radio cada unos 8 minutos. Primera vez que estos pulsos se ven en una enana blanca con compañera parecida al Sol (antes, sobre todo con enanas rojas). Detectada con el radiotelescopio MWA (Australia), ubicada con MeerKAT (Sudáfrica) y confirmada con el telescopio Keck (Hawái); más de 100 h de datos. Nature Astronomy, nov 2026 (Sam McSweeney, ICRAR/Curtin). Aclarar que no son extraterrestres y que el mecanismo exacto aún se estudia.",
-   "escena_3d": "Dos estrellas girando: una amarilla como el Sol y una diminuta blanca y brillante; cada 8 s (acelerado) sale un haz de radio como faro; antenas del MWA en el desierto 'escuchando'; reloj que marca 8:00 min.",
+   "tema": "¿La energía oscura cambió de signo? Un modelo dice que hace 9,500 millones de años era 'negativa' (Istanbul Technical University)",
+   "gancho": "La fuerza que está separando el universo… al principio habría empujado al revés.",
+   "por_que_viral": "Misterio cósmico con giro ('el universo cambió de opinión'), y se conecta con el debate actual sobre si la energía oscura cambia (datos de DESI). Difundido el 13 nov.",
+   "dato_principal": "Equipo de Özgür Akarsu (Universidad Técnica de Estambul) con colegas de la Universidad Doğuş y de Kioto, en Physical Review D (vol. 112, 2025), usando una variante de gravedad 'teleparalela f(T)': la densidad efectiva de la energía oscura habría sido negativa al inicio, cruzó cero hacia el corrimiento al rojo 1.5 (hace ~9,500 millones de años) y desde entonces es positiva. Es un modelo, no un descubrimiento: los propios autores dicen que los datos de DESI aún no bastan y falta probarlo con el catálogo completo. ScienceDaily lo difundió el 13 nov 2026. No mezclar con la idea del 'universo de 26,700 millones de años' (video 31).",
+   "escena_3d": "Universo como red de galaxias que primero se frena (flechas hacia dentro, en rojo) y luego se acelera (flechas hacia fuera, en cian); línea del tiempo con el cruce en 9,500 millones de años; gráfica que pasa de negativo a positivo.",
    "fuentes": [
-    "https://www.icrar.org/binary-lpt/",
-    "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+    "https://www.eurekalert.org/multimedia/1155956"
    ]
   },
   {
    "numero": 8,
-   "tema": "Los cuervos deciden el doble de rápido que tú: 235 milisegundos (Universidad de Tübingen, Science)",
-   "gancho": "Un cuervo toma una decisión en 235 milisegundos… el doble de rápido que tú.",
-   "por_que_viral": "Comparación directa animal contra humano ('el doble de rápido que tú') + animal que todos conocen y que ya tiene fama de listo: provoca comentarios y compartidos. Salió en Science y ScienceDaily lo difundió el 12 nov.",
-   "dato_principal": "Dos cornejas negras (Corvus corone) vieron en una pantalla táctil puntos que se movían a izquierda o derecha y picaban el lado correcto: en promedio 235 ms para decidir y responder, con casi 100 % de acierto cuando la señal era clara; los autores dicen que es unas dos veces más rápido que humanos y monos. Sus neuronas del nidopallium caudolaterale (parecido a nuestra corteza prefrontal) 'eligieron' unos 70 ms después de ver los puntos (Schmidbauer y Nieder, Universidad de Tübingen, Science, 'Ultrarapid decision-making in an avian brain'). Aclarar que fueron solo dos aves y que aún no se sabe el mecanismo; no dar cifra en ms para humanos si no se verifica.",
-   "escena_3d": "Un cuervo frente a una pantalla con nube de puntos que se mueven; cronómetro en milisegundos que se detiene en 235 junto a una mano humana que todavía no reacciona; zoom al cerebro del ave con una ráfaga de neuronas que se encienden a los 70 ms.",
+   "tema": "Bajo la selva del Amazonas había miles de construcciones gigantes: el láser encontró 432 donde solo se conocían 36 (pueblo Aquiry, Nature)",
+   "gancho": "Debajo de la selva del Amazonas había figuras gigantes hechas por humanos… y apenas encontramos una de cada 50.",
+   "por_que_viral": "'Civilización escondida bajo la selva' engancha siempre, es en Latinoamérica (Brasil, Bolivia, Perú) y la tecnología (láser que 'atraviesa' árboles) es muy visual. Se volvió a difundir esta semana.",
+   "dato_principal": "Con lidar (láser desde avión) sobre Acre y Amazonas, Brasil, un equipo de Martti Pärssinen y colegas encontró 432 obras de tierra (zanjas geométricas, plazas, caminos), 396 nuevas: antes solo se conocían 36. Calculan que en el suroeste del Amazonas habría de 24,000 a 30,000, unas dos terceras partes del pueblo Aquiry (≈600 a. C. – 850 d. C.), en ~183,000 km². Nature, 2026 ('Over 20,000 precolonial earthworks in the Southwest Amazonia'). La población de 1.2–3 millones es una estimación; un experto externo pide no llamarlo 'civilización perdida'. El estudio es de julio–agosto 2026.",
+   "escena_3d": "Vuelo sobre una selva densa; un barrido láser verde 'borra' los árboles y revela círculos y cuadrados perfectos en el suelo; contador 36 → 432 → 30,000; mapa que se ilumina sobre Brasil, Bolivia y Perú.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-    "https://civis.eu/en/the-civis-newsroom/crows-make-decisions-twice-as-fast-as-humans-and-monkeys"
+    "https://www.sciencealert.com/completely-transformed-my-understanding-scientists-uncover-hundreds-of-hidden-structures-beneath-the-amazon",
+    "https://www.theartnewspaper.com/2026/08/06/ancient-earthworks-amazonian-earthworks-aquiry-civilisation-lidar-brazil"
    ]
   }
  ]
