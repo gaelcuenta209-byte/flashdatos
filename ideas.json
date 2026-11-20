@@ -1,102 +1,102 @@
 {
- "actualizado": "2026-11-19",
+ "actualizado": "2026-11-20",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Filman en 4K un pez con la cabeza transparente: se le ven los ojos girando por dentro (barreleye, MBARI)",
-   "gancho": "Este pez tiene la cabeza transparente… y lo que parecen sus ojos, no son sus ojos.",
-   "por_que_viral": "Animal real que parece efecto especial: imagen que se detiene el scroll en el primer segundo, giro sorpresa (los 'ojos' son órganos del olfato) y rareza extrema (11 avistamientos en ~40 años). No caduca y se presta a 'mándaselo a alguien'.",
-   "dato_principal": "Macropinna microstoma (pez barreleye), de unos 15 cm. El MBARI lo filmó el 20 oct 2026 a unos 600 m de profundidad en el cañón de Monterey (California), a ~90 km de la costa, con el robot submarino Doc Ricketts: ~20 min en 4K y luego en 3D estéreo. Es el avistamiento 11 del MBARI en unos 40 años y ~7,000 inmersiones (el anterior, en 2021). Sus ojos son dos tubos verdes que giran dentro de la cúpula transparente para mirar hacia arriba o al frente; las dos manchas oscuras de 'la cara' son órganos del olfato. Aclarar que su forma de comer (robar presas de sifonóforos) es una hipótesis.",
-   "escena_3d": "Descenso en la oscuridad con partículas de 'nieve marina'; aparece el pez con cúpula de vidrio; la cámara entra a la cabeza y los ojos-tubo verdes giran 90° hacia arriba; etiqueta 'NO SON SUS OJOS' sobre las manchas; medidor de profundidad 0 → 600 m.",
+   "tema": "Una supernova está llegando a su brillo máximo ESTA semana: SN 2026ahvu, en la galaxia NGC 1433 (a unos 50 millones de años luz)",
+   "gancho": "Una estrella explotó hace 50 millones de años… y su luz está llegando a su punto más brillante justo esta semana.",
+   "por_que_viral": "Está pasando ahora mismo (máximo esperado del 18 al 23 nov) y se puede ver con un telescopio pequeño: urgencia + invitación a salir a verla. Las explosiones estelares son de lo que más retiene en Shorts de espacio.",
+   "dato_principal": "Supernova tipo Ia (una enana blanca que le roba materia a su compañera hasta explotar) en la galaxia espiral barrada NGC 1433, constelación Horologium, a unos 50 millones de años luz (NOIRLab aclara que las estimaciones de distancia varían). La descubrió el sondeo ATLAS el 2 nov 2026; Keck la confirmó el 3 nov. Pasó de magnitud ~17 a ~13.5 en pocos días; se espera un máximo de magnitud 10.5–12 entre el 18 y el 23 nov. La siguen DECam y Gemini Sur (NOIRLab), que pide a los aficionados observarla. Ojo: desde México se ve muy baja al sur; mejor desde Sudamérica.",
+   "escena_3d": "Galaxia espiral de partículas; zoom a un sistema binario donde una enana blanca roba gas con un disco de acreción; destello y onda de choque esférica; rayo de luz que viaja a una Tierra diminuta con contador '50 millones de años'.",
    "fuentes": [
-    "https://www.natureworldnews.com/articles/73726/20261104/watch-barreleye-fish-peer-through-its-transparent-head-nearly-2000-feet-below-california-coast.htm",
-    "https://dailygalaxy.com/2026/11/deep-sea-fish-transparent-head-filmed-4k/"
+    "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
+    "https://www.newswise.com/articles/nsf-noirlab-operated-facilities-capture-brightening-nearby-supernova"
    ]
   },
   {
    "numero": 2,
-   "tema": "La NASA advierte: el 'monstruoso' El Niño de 2026 podría ser más grande que el legendario de 1997",
-   "gancho": "La NASA ve desde el espacio un 'bulto' en el océano Pacífico… igual al de 1997, el peor El Niño de la historia moderna.",
-   "por_que_viral": "Afecta directamente a México y Latinoamérica (lluvias, sequías, clima del invierno): tema cercano que la gente comparte con la familia. Comparación 1997 vs 2026 muy visual.",
-   "dato_principal": "Mapas de altura del mar del satélite Sentinel-6 Michael Freilich (12 oct 2026) comparados con TOPEX/Poseidon (13 oct 1997) muestran un patrón parecido de agua caliente llegando a Sudamérica; según Josh Willis (JPL de la NASA) 'va camino a ser aún más grande'. NOAA declaró El Niño el 11 jun 2026 y el 8 oct dio 83 % de probabilidad de que sea fuerte o muy fuerte en enero–marzo 2027. El de 2015-16 trajo inundaciones en México. Decir que los efectos concretos de 2026 aún son inciertos; no dar cifras en cm que las fuentes no dan.",
-   "escena_3d": "Globo terrestre con el Pacífico que se abomba en rojo; pantalla dividida 1997 vs 2026 con el satélite pasando; ondas de agua caliente que viajan de Asia a Sudamérica; nubes de lluvia sobre México.",
+   "tema": "Una señal de radio que se repite cada 8 minutos: una estrella muerta que gira como faro junto a una estrella parecida al Sol (GPM J0715−1141, Nature Astronomy)",
+   "gancho": "A más de 5,000 años luz hay una señal de radio que se repite cada 8 minutos… y por fin sabemos qué es.",
+   "por_que_viral": "'Señal misteriosa que se repite' engancha al instante y abre el debate de los aliens en comentarios, pero con explicación real. Es de esta semana (12–15 nov).",
+   "dato_principal": "GPM J071507−114153: una enana blanca que gira ~cada 8 minutos (algunos medios dicen 7.9) y manda pulsos de radio, a más de 5,000 años luz. Es el primer 'transitorio de periodo largo' (LPT) con una compañera tipo G, parecida al Sol (los anteriores tenían enanas rojas); se vieron fulguraciones en la compañera. Equipo de ICRAR-Curtin (Samuel McSweeney, Natasha Hurley-Walker) con MWA (Australia), MeerKAT (Sudáfrica) y Keck; más de 100 horas de datos. Desde 2021 se conoce alrededor de una docena de LPT. Nature Astronomy, 12 nov 2026.",
+   "escena_3d": "Enana blanca girando como faro con haces de radio en barrido; estrella amarilla al lado con fulguraciones; onda de radio que viaja hasta una antena en el desierto; reloj 8:00 en bucle.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261114202227.htm",
-    "https://scitechdaily.com/nasa-satellites-spot-a-powerful-el-nino-building-beneath-the-pacific/"
+    "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+    "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star"
    ]
   },
   {
    "numero": 3,
-   "tema": "Perseverance encontró el carbono más complejo visto en Marte, casi en la superficie (Jezero, Science Advances)",
-   "gancho": "En Marte acaban de encontrar el tipo de carbono que en la Tierra suele dejar la vida… a unas micras de la superficie.",
-   "por_que_viral": "'¿Hubo vida en Marte?' es de las preguntas que más se comparten; ScienceDaily lo difundió el 12 nov. Tiene debate natural en comentarios (¿vida o química?).",
-   "dato_principal": "El instrumento SHERLOC del rover Perseverance detectó carbono macromolecular (grandes redes de carbono, cientos de detecciones) en dos rocas de lodo de la formación Bright Angel, en Neretva Vallis, cráter Jezero: un antiguo río. Sobrevivió a solo unas micras bajo la superficie, la detección más superficial de este tipo en Marte. Estudio de Ashley Murphy (Planetary Science Institute) y Kyle Uckert (subinvestigador principal de SHERLOC), Science Advances, vol. 12 (2026). IMPORTANTE: no prueba vida; ese carbono también puede formarse sin vida (meteoritos o agua caliente). El estudio salió a mediados de 2026; la difusión es del 12 nov.",
-   "escena_3d": "Rover Perseverance en un cauce seco rojizo; brazo con láser ultravioleta sobre una roca; zoom microscópico a una red de átomos de carbono que se ilumina; pantalla dividida 'vida' vs 'química' con signo de interrogación.",
+   "tema": "Estrellas que se 'apagan' sin explotar: pistas de agujeros negros nacidos de supernovas fallidas (LIGO-Virgo-KAGRA, Caltech)",
+   "gancho": "Algunas estrellas gigantes no mueren con una explosión… simplemente desaparecen.",
+   "por_que_viral": "La imagen de una estrella que se desvanece es inquietante y contradice lo que casi todos creen (que toda estrella gigante termina en supernova). Difundido el 10–17 nov.",
+   "dato_principal": "Katerina Chatziioannou (Caltech) e Isaac Legred (UIUC) analizaron 257 fusiones de agujeros negros detectadas por LIGO-Virgo-KAGRA: hay un pico en ~10 masas solares (cerca de 3/4 de la muestra), con giros parecidos, y un hueco inesperado entre 12 y 16 masas solares. Es consistente con estrellas que colapsan directo a agujero negro sin explotar. Advertencia: no es prueba directa de supernovas fallidas, solo encaja con la idea. Physical Review D, 2026.",
+   "escena_3d": "Supergigante roja que colapsa hacia dentro sin destello y se apaga; queda un agujero negro con lente gravitacional; dos agujeros negros en espiral se fusionan y deforman una malla (ondas gravitacionales).",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
-    "https://skyatnightmagazine.com/news/case-life-mars-stronger-rover-finds-organic-carbon-ancient-river-rocks"
+    "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
+    "https://www.eurekalert.org/news-releases/1151330"
    ]
   },
   {
    "numero": 4,
-   "tema": "Un planeta 'desapareció': lo vimos pasar frente a su estrella 7 años y de repente dejó de verse (TOI-2535 b)",
-   "gancho": "Durante siete años vimos este planeta pasar frente a su estrella… y este año, simplemente, desapareció.",
-   "por_que_viral": "Misterio con respuesta sorprendente (un planeta invisible lo inclina como un trompo) y es la primera vez que pasa: 'primera vez en la historia' + misterio = retención y comentarios. Es del 9 nov.",
-   "dato_principal": "TOI-2535 b, un Júpiter caliente a unos 1,000 años luz que da la vuelta a su estrella en 8.25 días. TESS lo vio transitar de abril de 2019 a marzo de 2026: sus tránsitos se adelantaban o atrasaban hasta 6 horas, se hicieron más cortos y dejaron de verse en 2026. Un planeta vecino invisible, con órbita inclinada, lo hace 'bambolearse como trompo'. Volvería a verse en 30 a 50 años (UCLA, The Astrophysical Journal Letters). Aclarar: el planeta sigue ahí, solo dejó de pasar frente a nosotros.",
-   "escena_3d": "Estrella con un gigante gaseoso que pasa por delante y hace bajar una curva de luz; la órbita se inclina poco a poco como trompo hasta que el planeta ya no cruza; aparece el vecino oculto en sombra; contador de años 2019 → 2026 → 2056.",
+   "tema": "La ballena 'huachafa' de Perú: el cráneo más chueco de todos los mamíferos (Scaphokogia huachafo, Communications Biology)",
+   "gancho": "Hace 6 millones de años, en Perú, nadaba una ballena con la cara completamente chueca.",
+   "por_que_viral": "Historia latinoamericana con nombre en jerga peruana ('huachafo' = estrafalario), divertida y muy visual: ideal para compartir y comentar. ScienceDaily la difundió el 19 nov.",
+   "dato_principal": "Scaphokogia huachafo, un cachalote pigmeo extinto de ~2.7 m que vivió hace ~6.3–5.6 millones de años (Formación Pisco, sur de Perú). Las dos narinas están del lado izquierdo y su cráneo es posiblemente el más asimétrico de cualquier mamífero. El hocico macizo se inclina 31° hacia abajo y la cabeza podía bajar otros 55°: comía por succión en el fondo (pulpos, calamares). El fósil estuvo años sin identificar en el Museo de Historia Natural de Lima. Autor principal: Aldo Benites-Palomino (UZH/FAU). No dar el año en que se halló (las fuentes no coinciden).",
+   "escena_3d": "Cráneo que gira 360° mostrando la asimetría; se 'viste' de ballena y nada pegada a un fondo arenoso con partículas; ángulos de 31° y 55° anotados; mapa de Perú con la Formación Pisco.",
    "fuentes": [
-    "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
-    "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
+    "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+    "https://www.eurekalert.org/news-releases/1151630"
    ]
   },
   {
    "numero": 5,
-   "tema": "Por primera vez, un robot construyó solo una estructura en el espacio (ASTRA de Caltech, financiado por DARPA)",
-   "gancho": "Allá arriba, a cientos de kilómetros, un robot está armando una antena… sin ningún humano que lo ayude.",
-   "por_que_viral": "Robots + espacio + 'primera vez en la historia': tecnología que se entiende al instante y abre la pregunta de cómo construiremos telescopios gigantes. Noticia del 9–13 nov.",
-   "dato_principal": "ASTRA (Autonomous In-Space Tensioned Reflector Assembly), de Sergio Pellegrino en Caltech y financiado por el programa NOM4D de DARPA, despegó el 30 mar 2026 en el Transporter-16 de SpaceX (dentro del Vigoride 7 de Momentus), en una caja de ~1 m³. Desplegó dos módulos de armazón ya armados y ensambló solo un tercero: según Caltech, la primera estructura construida de forma autónoma en el espacio. La meta es una antena de 1.4 m que necesita 11 módulos; el equipo no espera terminarla antes de que la misión acabe en diciembre de 2026. Solo hay 7–8 contactos diarios de ~15 min con la Tierra.",
-   "escena_3d": "Tierra de fondo; una caja se abre en órbita y despliega brazos; tubos de fibra se encajan en uniones de aluminio formando una celosía hexagonal; contador 'módulo 3 de 11'; al final una película plateada se tensa como antena.",
+   "tema": "A la Tierra le faltan mil millones de años de historia: el misterio de la Gran Discordancia del Gran Cañón (Nature, Universidad de Wollongong)",
+   "gancho": "En el Gran Cañón hay una capa de roca donde faltan… mil millones de años.",
+   "por_que_viral": "Misterio geológico en un lugar icónico, con una explicación muy visual (continentes que suben, se erosionan y se hunden). Difundido el 18 nov.",
+   "dato_principal": "En la Gran Discordancia faltan ~200 millones de años de registro en algunos sitios y más de mil millones en otros. Santosh Dhungana y Nicolas Flament (U. de Wollongong) proponen en Nature que la convección lenta del manto levantó los núcleos continentales en el Neoproterozoico (~1,000–540 millones de años), la erosión borró la roca y luego el mar los cubrió de sedimento nuevo. Estudiaron Laurentia, Báltica y el norte de China. No demuestra que sea la única causa.",
+   "escena_3d": "Bloque de corteza en corte con el manto convectando como flujo de partículas; el continente sube, sus capas se borran, se hunde bajo el agua y se apilan capas nuevas en time-lapse; contador de millones de años.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
-    "https://interestingengineering.com/ai-robotics/caltech-darpa-astra-robot"
+    "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+    "https://www.uow.edu.au/media/2026/earths-geological-record-is-missing-hundreds-of-millions-of-years-uow-scientists-think-they-know-why.php"
    ]
   },
   {
    "numero": 6,
-   "tema": "Encuentran 245 animales viviendo dentro de una sola roca del fondo del mar (nódulos del Pacífico, MARUM)",
-   "gancho": "Esta piedra del fondo del mar parece una papa… pero adentro vivían 245 animales.",
-   "por_que_viral": "Descubrimiento sorprendente y muy visual ('un mundo escondido dentro de una piedra'), con el conflicto de la minería submarina por baterías (níquel y cobalto): tema que provoca comentarios. Salió el 11 nov (Scientific Reports) y ScienceDaily lo difundió el 16.",
-   "dato_principal": "En 244 nódulos polimetálicos de la zona Clarion-Clipperton (Pacífico central, a 4,000–6,000 m de profundidad) encontraron 4,139 animales diminutos: 17 por nódulo en promedio y hasta 245 en uno solo. Viven en las grietas y son distintos de los del sedimento. Los nódulos son del tamaño de un puño y crecen unos milímetros por millón de años; la minería los quitaría. Estudio de Tanja Stratmann (MARUM, Universidad de Bremen) y NIOZ, Scientific Reports, 11 nov 2026. Aclarar que son animales microscópicos (meiofauna).",
-   "escena_3d": "Descenso en la oscuridad hasta un fondo marino lleno de 'papas' negras; la cámara entra por una grieta de un nódulo y se encienden diminutos nemátodos y copépodos como luces; contador que sube hasta 245; al final una máquina minera se acerca.",
+   "tema": "Urano, en su mejor punto del año el 25 nov… y su imán interno está completamente torcido (oposición + estudio de UT Austin)",
+   "gancho": "El 25 de noviembre Urano estará en su mejor punto del año… y su imán interno está completamente torcido.",
+   "por_que_viral": "Evento en el cielo con fecha cercana + 'planeta raro' con avance científico nuevo. Se puede publicar antes del 25 nov.",
+   "dato_principal": "Oposición de Urano el 25 nov 2026 (magnitud +5.6, en Tauro). Su campo magnético está inclinado 59° respecto a su eje y descentrado; el de Neptuno, 47°; el de la Tierra, ~11° (mediciones de la Voyager 2, 1986 y 1989). Simulaciones de Chi Yan (UT Austin) con Tom Stallard (Northumbria), en Communications Physics (nov 2026): a gran presión el agua se rompe en iones y se vuelve más conductora con la profundidad, lo que reproduce esos campos raros. Urano además está inclinado ~97°.",
+   "escena_3d": "Urano 'acostado' con anillos; líneas de campo magnético inclinadas y desplazadas junto a las de la Tierra; corte transversal con capas de agua iónica brillando; fecha 25 NOV.",
    "fuentes": [
-    "https://www.eurekalert.org/news-releases/1151260",
-    "https://www.sciencedaily.com/releases/2026/11/261114202133.htm"
+    "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune",
+    "https://www.skyatnightmagazine.com/news/uranus-november-2026"
    ]
   },
   {
    "numero": 7,
-   "tema": "¿La energía oscura cambió de signo? Un modelo dice que hace 9,500 millones de años era 'negativa' (Istanbul Technical University)",
-   "gancho": "La fuerza que está separando el universo… al principio habría empujado al revés.",
-   "por_que_viral": "Misterio cósmico con giro ('el universo cambió de opinión'), y se conecta con el debate actual sobre si la energía oscura cambia (datos de DESI). Difundido el 13 nov.",
-   "dato_principal": "Equipo de Özgür Akarsu (Universidad Técnica de Estambul) con colegas de la Universidad Doğuş y de Kioto, en Physical Review D (vol. 112, 2025), usando una variante de gravedad 'teleparalela f(T)': la densidad efectiva de la energía oscura habría sido negativa al inicio, cruzó cero hacia el corrimiento al rojo 1.5 (hace ~9,500 millones de años) y desde entonces es positiva. Es un modelo, no un descubrimiento: los propios autores dicen que los datos de DESI aún no bastan y falta probarlo con el catálogo completo. ScienceDaily lo difundió el 13 nov 2026. No mezclar con la idea del 'universo de 26,700 millones de años' (video 31).",
-   "escena_3d": "Universo como red de galaxias que primero se frena (flechas hacia dentro, en rojo) y luego se acelera (flechas hacia fuera, en cian); línea del tiempo con el cruce en 9,500 millones de años; gráfica que pasa de negativo a positivo.",
+   "tema": "Fuego casi invisible: las llamas de hidrógeno se vuelven naranjas por la sal del mar que flota en el aire (Adelaide University, Next Energy)",
+   "gancho": "Existe un fuego que casi no puedes ver… y lo que lo hace visible es la sal del mar.",
+   "por_que_viral": "'Fuego invisible' despierta curiosidad y un poco de miedo, y se conecta con las estufas y la energía del futuro. Difundido el 17–19 nov.",
+   "dato_principal": "Con el mismo quemador y los mismos ajustes, una llama de hidrógeno puede verse naranja brillante o casi invisible: la causa es el sodio en el aire, en buena parte sal marina. En dos semanas la señal del sodio varió más de 28 veces; el aire que pasó sobre el océano daba llamas más naranjas. Aun así, una estufa de hidrógeno emite menos luz visible que una de gas natural, por eso recomiendan sensores UV, infrarrojos o de temperatura. Equipo de Paul Medwell (Adelaide University), UNSW y GIRA, revista Next Energy.",
+   "escena_3d": "Quemador con una llama casi transparente, apenas azul; partículas de sal que llegan desde un océano estilizado y, al tocarla, la vuelven naranja; medidor que oscila de 1× a 28×.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
-    "https://www.eurekalert.org/multimedia/1155956"
+    "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+    "https://www.eurekalert.org/news-releases/1152346"
    ]
   },
   {
    "numero": 8,
-   "tema": "Bajo la selva del Amazonas había miles de construcciones gigantes: el láser encontró 432 donde solo se conocían 36 (pueblo Aquiry, Nature)",
-   "gancho": "Debajo de la selva del Amazonas había figuras gigantes hechas por humanos… y apenas encontramos una de cada 50.",
-   "por_que_viral": "'Civilización escondida bajo la selva' engancha siempre, es en Latinoamérica (Brasil, Bolivia, Perú) y la tecnología (láser que 'atraviesa' árboles) es muy visual. Se volvió a difundir esta semana.",
-   "dato_principal": "Con lidar (láser desde avión) sobre Acre y Amazonas, Brasil, un equipo de Martti Pärssinen y colegas encontró 432 obras de tierra (zanjas geométricas, plazas, caminos), 396 nuevas: antes solo se conocían 36. Calculan que en el suroeste del Amazonas habría de 24,000 a 30,000, unas dos terceras partes del pueblo Aquiry (≈600 a. C. – 850 d. C.), en ~183,000 km². Nature, 2026 ('Over 20,000 precolonial earthworks in the Southwest Amazonia'). La población de 1.2–3 millones es una estimación; un experto externo pide no llamarlo 'civilización perdida'. El estudio es de julio–agosto 2026.",
-   "escena_3d": "Vuelo sobre una selva densa; un barrido láser verde 'borra' los árboles y revela círculos y cuadrados perfectos en el suelo; contador 36 → 432 → 30,000; mapa que se ilumina sobre Brasil, Bolivia y Perú.",
+   "tema": "Gemínidas 2026 (13–14 dic): la mejor lluvia de estrellas del año la deja un asteroide, no un cometa (3200 Faetón)",
+   "gancho": "La mejor lluvia de estrellas del año no la deja un cometa… la deja una roca.",
+   "por_que_viral": "Evento en el cielo con fecha fija y un dato poco conocido; este año la Luna casi no estorba. Se puede publicar con anticipación y repostear cerca del 13 dic.",
+   "dato_principal": "Máximo calculado para el 14 dic 2026 hacia las 05:44 UTC; se ve toda la noche del 13 al 14, mejor hacia las 2 a. m. Hasta 120 meteoros por hora en condiciones ideales (≥50 con cielo oscuro). La Luna será un creciente delgado. Su origen es el asteroide 3200 Faetón, quizá un cometa apagado.",
+   "escena_3d": "Asteroide Faetón en su órbita soltando una estela de polvo; la Tierra cruza la estela; partículas que se encienden al entrar a la atmósfera desde el radiante en Géminis; contador '120 por hora'.",
    "fuentes": [
-    "https://www.sciencealert.com/completely-transformed-my-understanding-scientists-uncover-hundreds-of-hidden-structures-beneath-the-amazon",
-    "https://www.theartnewspaper.com/2026/08/06/ancient-earthworks-amazonian-earthworks-aquiry-civilisation-lidar-brazil"
+    "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-geminid-meteor-shower",
+    "https://www.almanac.com/best-skywatching-events-2026"
    ]
   }
  ]
