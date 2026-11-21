@@ -1,18 +1,18 @@
 {
- "actualizado": "2026-11-20",
+ "actualizado": "2026-11-21",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Una supernova está llegando a su brillo máximo ESTA semana: SN 2026ahvu, en la galaxia NGC 1433 (a unos 50 millones de años luz)",
-   "gancho": "Una estrella explotó hace 50 millones de años… y su luz está llegando a su punto más brillante justo esta semana.",
-   "por_que_viral": "Está pasando ahora mismo (máximo esperado del 18 al 23 nov) y se puede ver con un telescopio pequeño: urgencia + invitación a salir a verla. Las explosiones estelares son de lo que más retiene en Shorts de espacio.",
-   "dato_principal": "Supernova tipo Ia (una enana blanca que le roba materia a su compañera hasta explotar) en la galaxia espiral barrada NGC 1433, constelación Horologium, a unos 50 millones de años luz (NOIRLab aclara que las estimaciones de distancia varían). La descubrió el sondeo ATLAS el 2 nov 2026; Keck la confirmó el 3 nov. Pasó de magnitud ~17 a ~13.5 en pocos días; se espera un máximo de magnitud 10.5–12 entre el 18 y el 23 nov. La siguen DECam y Gemini Sur (NOIRLab), que pide a los aficionados observarla. Ojo: desde México se ve muy baja al sur; mejor desde Sudamérica.",
-   "escena_3d": "Galaxia espiral de partículas; zoom a un sistema binario donde una enana blanca roba gas con un disco de acreción; destello y onda de choque esférica; rayo de luz que viaja a una Tierra diminuta con contador '50 millones de años'.",
+   "tema": "Un asteroide de casi 1 km, 1999 AN10, pasará el 7 de agosto de 2027 a ~390,000 km: prácticamente a la distancia de la Luna, y se podrá ver con binoculares",
+   "gancho": "Una roca del tamaño de una montaña va a pasar casi tan cerca como la Luna… y ya tiene fecha.",
+   "por_que_viral": "'Asteroide gigante cerca de la Tierra' es de los temas que más se comparten en Shorts de espacio; tiene fecha concreta, se podrá ver con binoculares y la respuesta tranquiliza (no va a chocar), lo que provoca comentarios.",
+   "dato_principal": "(137108) 1999 AN10 mide entre 800 y 1,800 m. El 7 ago 2027 (~07:11 UTC) pasará a unos 389,900 km del centro de la Tierra, ~1.02 distancias lunares; la incertidumbre de esa distancia es de solo ±160 km, así que no hay riesgo de impacto en 2027. Llegará a magnitud ~7.3: visible con binoculares. En 1999 se calculó por un tiempo una probabilidad mínima de impacto en 2039, descartada después con más observaciones (CNEOS/JPL).",
+   "escena_3d": "Tierra y Luna a escala con la órbita lunar marcada; el asteroide rocoso pasa justo por fuera de la órbita lunar; comparación de tamaño con una montaña; regla '1.02 distancias lunares'; fecha 7 AGO 2027.",
    "fuentes": [
-    "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
-    "https://www.newswise.com/articles/nsf-noirlab-operated-facilities-capture-brightening-nearby-supernova"
+    "https://en.wikipedia.org/wiki/(137108)_1999_AN10",
+    "https://cneos.jpl.nasa.gov/news/news018a.html"
    ]
   },
   {
@@ -29,42 +29,18 @@
   },
   {
    "numero": 3,
-   "tema": "Estrellas que se 'apagan' sin explotar: pistas de agujeros negros nacidos de supernovas fallidas (LIGO-Virgo-KAGRA, Caltech)",
-   "gancho": "Algunas estrellas gigantes no mueren con una explosión… simplemente desaparecen.",
-   "por_que_viral": "La imagen de una estrella que se desvanece es inquietante y contradice lo que casi todos creen (que toda estrella gigante termina en supernova). Difundido el 10–17 nov.",
-   "dato_principal": "Katerina Chatziioannou (Caltech) e Isaac Legred (UIUC) analizaron 257 fusiones de agujeros negros detectadas por LIGO-Virgo-KAGRA: hay un pico en ~10 masas solares (cerca de 3/4 de la muestra), con giros parecidos, y un hueco inesperado entre 12 y 16 masas solares. Es consistente con estrellas que colapsan directo a agujero negro sin explotar. Advertencia: no es prueba directa de supernovas fallidas, solo encaja con la idea. Physical Review D, 2026.",
-   "escena_3d": "Supergigante roja que colapsa hacia dentro sin destello y se apaga; queda un agujero negro con lente gravitacional; dos agujeros negros en espiral se fusionan y deforman una malla (ondas gravitacionales).",
+   "tema": "La pareja de cuásares más antigua: dos agujeros negros gigantes encendidos solo 900 millones de años después del Big Bang (Nāpōwawāʻenakaulua, JWST + Gemini Norte)",
+   "gancho": "Al principio del universo había dos monstruos devorándolo todo… uno junto al otro.",
+   "por_que_viral": "Récord + agujeros negros + JWST, la combinación que más retiene en ciencia; el nombre hawaiano es curioso y los agujeros negros 'no deberían existir tan pronto', un misterio que genera debate.",
+   "dato_principal": "J1602+4228AB, apodado Nāpōwawāʻenakaulua: dos cuásares separados ~18,100 años luz (≈1/5 del diámetro de la Vía Láctea), vistos ~900 millones de años después del Big Bang. Sus agujeros negros tienen 1,500 y 400 millones de masas solares, cuando se pensaba que se necesitaban al menos 1,000 millones de años para crecer tanto. JWST (sondeo Aether, NIRSpec) y Gemini Norte (Maunakea); The Astrophysical Journal Letters, 10 nov 2026; líder: Silvia Onorato (NOIRLab).",
+   "escena_3d": "Universo joven oscuro con filamentos; dos discos de acreción brillantes con chorros, en órbita mutua dentro de galaxias que se fusionan; regla de 18,100 años luz y silueta de la Vía Láctea para comparar; reloj cósmico '900 millones de años'.",
    "fuentes": [
-    "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
-    "https://www.eurekalert.org/news-releases/1151330"
+    "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
+    "https://www.eurekalert.org/news-releases/1151327"
    ]
   },
   {
    "numero": 4,
-   "tema": "La ballena 'huachafa' de Perú: el cráneo más chueco de todos los mamíferos (Scaphokogia huachafo, Communications Biology)",
-   "gancho": "Hace 6 millones de años, en Perú, nadaba una ballena con la cara completamente chueca.",
-   "por_que_viral": "Historia latinoamericana con nombre en jerga peruana ('huachafo' = estrafalario), divertida y muy visual: ideal para compartir y comentar. ScienceDaily la difundió el 19 nov.",
-   "dato_principal": "Scaphokogia huachafo, un cachalote pigmeo extinto de ~2.7 m que vivió hace ~6.3–5.6 millones de años (Formación Pisco, sur de Perú). Las dos narinas están del lado izquierdo y su cráneo es posiblemente el más asimétrico de cualquier mamífero. El hocico macizo se inclina 31° hacia abajo y la cabeza podía bajar otros 55°: comía por succión en el fondo (pulpos, calamares). El fósil estuvo años sin identificar en el Museo de Historia Natural de Lima. Autor principal: Aldo Benites-Palomino (UZH/FAU). No dar el año en que se halló (las fuentes no coinciden).",
-   "escena_3d": "Cráneo que gira 360° mostrando la asimetría; se 'viste' de ballena y nada pegada a un fondo arenoso con partículas; ángulos de 31° y 55° anotados; mapa de Perú con la Formación Pisco.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-    "https://www.eurekalert.org/news-releases/1151630"
-   ]
-  },
-  {
-   "numero": 5,
-   "tema": "A la Tierra le faltan mil millones de años de historia: el misterio de la Gran Discordancia del Gran Cañón (Nature, Universidad de Wollongong)",
-   "gancho": "En el Gran Cañón hay una capa de roca donde faltan… mil millones de años.",
-   "por_que_viral": "Misterio geológico en un lugar icónico, con una explicación muy visual (continentes que suben, se erosionan y se hunden). Difundido el 18 nov.",
-   "dato_principal": "En la Gran Discordancia faltan ~200 millones de años de registro en algunos sitios y más de mil millones en otros. Santosh Dhungana y Nicolas Flament (U. de Wollongong) proponen en Nature que la convección lenta del manto levantó los núcleos continentales en el Neoproterozoico (~1,000–540 millones de años), la erosión borró la roca y luego el mar los cubrió de sedimento nuevo. Estudiaron Laurentia, Báltica y el norte de China. No demuestra que sea la única causa.",
-   "escena_3d": "Bloque de corteza en corte con el manto convectando como flujo de partículas; el continente sube, sus capas se borran, se hunde bajo el agua y se apilan capas nuevas en time-lapse; contador de millones de años.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
-    "https://www.uow.edu.au/media/2026/earths-geological-record-is-missing-hundreds-of-millions-of-years-uow-scientists-think-they-know-why.php"
-   ]
-  },
-  {
-   "numero": 6,
    "tema": "Urano, en su mejor punto del año el 25 nov… y su imán interno está completamente torcido (oposición + estudio de UT Austin)",
    "gancho": "El 25 de noviembre Urano estará en su mejor punto del año… y su imán interno está completamente torcido.",
    "por_que_viral": "Evento en el cielo con fecha cercana + 'planeta raro' con avance científico nuevo. Se puede publicar antes del 25 nov.",
@@ -76,27 +52,51 @@
    ]
   },
   {
-   "numero": 7,
-   "tema": "Fuego casi invisible: las llamas de hidrógeno se vuelven naranjas por la sal del mar que flota en el aire (Adelaide University, Next Energy)",
-   "gancho": "Existe un fuego que casi no puedes ver… y lo que lo hace visible es la sal del mar.",
-   "por_que_viral": "'Fuego invisible' despierta curiosidad y un poco de miedo, y se conecta con las estufas y la energía del futuro. Difundido el 17–19 nov.",
-   "dato_principal": "Con el mismo quemador y los mismos ajustes, una llama de hidrógeno puede verse naranja brillante o casi invisible: la causa es el sodio en el aire, en buena parte sal marina. En dos semanas la señal del sodio varió más de 28 veces; el aire que pasó sobre el océano daba llamas más naranjas. Aun así, una estufa de hidrógeno emite menos luz visible que una de gas natural, por eso recomiendan sensores UV, infrarrojos o de temperatura. Equipo de Paul Medwell (Adelaide University), UNSW y GIRA, revista Next Energy.",
-   "escena_3d": "Quemador con una llama casi transparente, apenas azul; partículas de sal que llegan desde un océano estilizado y, al tocarla, la vuelven naranja; medidor que oscila de 1× a 28×.",
+   "numero": 5,
+   "tema": "Hayabusa2 se quedó sin motores: la sonda japonesa que trajo pedazos del asteroide Ryugu ya no podrá aterrizar en 1998 KY26 y cambia de destino",
+   "gancho": "La nave que trajo pedazos de un asteroide a la Tierra acaba de perder su último motor… pero no se rinde.",
+   "por_que_viral": "Historia de 'héroe que no se rinde', noticia de esta semana (JAXA, 17 nov) y misión muy querida; drama con final esperanzador.",
+   "dato_principal": "De sus 4 motores de iones, el último que funcionaba falló a mediados de agosto de 2026; también se detectó erosión inesperada en su superficie. JAXA canceló el aterrizaje en 1998 KY26 (un asteroide de ~11 m, previsto para 2031) y en su lugar hará un sobrevuelo rápido de 2015 BM510 (tipo D) en abril de 2028. Lanzada en 2014, trajo muestras de Ryugu en diciembre de 2020 y en julio de 2026 pasó junto a Torifune (~840 × 340 m).",
+   "escena_3d": "Sonda con paneles solares y 4 motores de iones azules que se apagan uno a uno; trayectoria original a 1998 KY26 que se borra y nueva hacia 2015 BM510; flashback de la cápsula de Ryugu entrando a la atmósfera.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
-    "https://www.eurekalert.org/news-releases/1152346"
+    "https://space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+    "https://www.nippon.com/en/articles/-/57606"
+   ]
+  },
+  {
+   "numero": 6,
+   "tema": "Estrellas que se 'apagan' sin explotar: pistas de agujeros negros nacidos de supernovas fallidas (LIGO-Virgo-KAGRA, Caltech)",
+   "gancho": "Algunas estrellas gigantes no mueren con una explosión… simplemente desaparecen.",
+   "por_que_viral": "La imagen de una estrella que se desvanece es inquietante y contradice lo que casi todos creen (que toda estrella gigante termina en supernova). Difundido el 10–17 nov.",
+   "dato_principal": "Katerina Chatziioannou (Caltech) e Isaac Legred (UIUC) analizaron 257 fusiones de agujeros negros detectadas por LIGO-Virgo-KAGRA: hay un pico en ~10 masas solares (cerca de 3/4 de la muestra), con giros parecidos, y un hueco inesperado entre 12 y 16 masas solares. Es consistente con estrellas que colapsan directo a agujero negro sin explotar. Advertencia: no es prueba directa de supernovas fallidas, solo encaja con la idea. Physical Review D, 2026.",
+   "escena_3d": "Supergigante roja que colapsa hacia dentro sin destello y se apaga; queda un agujero negro con lente gravitacional; dos agujeros negros en espiral se fusionan y deforman una malla (ondas gravitacionales).",
+   "fuentes": [
+    "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
+    "https://www.eurekalert.org/news-releases/1151330"
+   ]
+  },
+  {
+   "numero": 7,
+   "tema": "La ballena 'huachafa' de Perú: el cráneo más chueco de todos los mamíferos (Scaphokogia huachafo, Communications Biology)",
+   "gancho": "Hace 6 millones de años, en Perú, nadaba una ballena con la cara completamente chueca.",
+   "por_que_viral": "Historia latinoamericana con nombre en jerga peruana ('huachafo' = estrafalario), divertida y muy visual: ideal para compartir y comentar. ScienceDaily la difundió el 19 nov.",
+   "dato_principal": "Scaphokogia huachafo, un cachalote pigmeo extinto de ~2.7 m que vivió hace ~6.3–5.6 millones de años (Formación Pisco, sur de Perú). Las dos narinas están del lado izquierdo y su cráneo es posiblemente el más asimétrico de cualquier mamífero. El hocico macizo se inclina 31° hacia abajo y la cabeza podía bajar otros 55°: comía por succión en el fondo (pulpos, calamares). El fósil estuvo años sin identificar en el Museo de Historia Natural de Lima. Autor principal: Aldo Benites-Palomino (UZH/FAU). No dar el año en que se halló (las fuentes no coinciden).",
+   "escena_3d": "Cráneo que gira 360° mostrando la asimetría; se 'viste' de ballena y nada pegada a un fondo arenoso con partículas; ángulos de 31° y 55° anotados; mapa de Perú con la Formación Pisco.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+    "https://www.eurekalert.org/news-releases/1151630"
    ]
   },
   {
    "numero": 8,
-   "tema": "Gemínidas 2026 (13–14 dic): la mejor lluvia de estrellas del año la deja un asteroide, no un cometa (3200 Faetón)",
-   "gancho": "La mejor lluvia de estrellas del año no la deja un cometa… la deja una roca.",
-   "por_que_viral": "Evento en el cielo con fecha fija y un dato poco conocido; este año la Luna casi no estorba. Se puede publicar con anticipación y repostear cerca del 13 dic.",
-   "dato_principal": "Máximo calculado para el 14 dic 2026 hacia las 05:44 UTC; se ve toda la noche del 13 al 14, mejor hacia las 2 a. m. Hasta 120 meteoros por hora en condiciones ideales (≥50 con cielo oscuro). La Luna será un creciente delgado. Su origen es el asteroide 3200 Faetón, quizá un cometa apagado.",
-   "escena_3d": "Asteroide Faetón en su órbita soltando una estela de polvo; la Tierra cruza la estela; partículas que se encienden al entrar a la atmósfera desde el radiante en Géminis; contador '120 por hora'.",
+   "tema": "A la Tierra le faltan mil millones de años de historia: el misterio de la Gran Discordancia del Gran Cañón (Nature, Universidad de Wollongong)",
+   "gancho": "En el Gran Cañón hay una capa de roca donde faltan… mil millones de años.",
+   "por_que_viral": "Misterio geológico en un lugar icónico, con una explicación muy visual (continentes que suben, se erosionan y se hunden). Difundido el 18 nov.",
+   "dato_principal": "En la Gran Discordancia faltan ~200 millones de años de registro en algunos sitios y más de mil millones en otros. Santosh Dhungana y Nicolas Flament (U. de Wollongong) proponen en Nature que la convección lenta del manto levantó los núcleos continentales en el Neoproterozoico (~1,000–540 millones de años), la erosión borró la roca y luego el mar los cubrió de sedimento nuevo. Estudiaron Laurentia, Báltica y el norte de China. No demuestra que sea la única causa.",
+   "escena_3d": "Bloque de corteza en corte con el manto convectando como flujo de partículas; el continente sube, sus capas se borran, se hunde bajo el agua y se apilan capas nuevas en time-lapse; contador de millones de años.",
    "fuentes": [
-    "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-geminid-meteor-shower",
-    "https://www.almanac.com/best-skywatching-events-2026"
+    "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+    "https://www.uow.edu.au/media/2026/earths-geological-record-is-missing-hundreds-of-millions-of-years-uow-scientists-think-they-know-why.php"
    ]
   }
  ]
