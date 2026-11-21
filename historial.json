@@ -782,6 +782,19 @@
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-38/FlashDatos_38.mp4",
    "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-38/FlashDatos_38_portada.jpg",
    "nota": "Video del día del 2026-11-19 (idea 1 del reporte). 53.3 s. Voz: ElevenLabs flow RrACCNI95USAVRa2qH81, toma 1 (acelerada 1.15x). No se usó el tamaño de 15 cm (una sola fuente)."
+  },
+  {
+   "numero": 39,
+   "tema": "Asteroide (137108) 1999 AN10, de 800–1,800 m, pasará el 7 ago 2027 a ~389,900 km de la Tierra (1.02 distancias lunares, margen ±160 km); magnitud ~7.3, visible con binoculares",
+   "carpeta": "videos/39-asteroide-1999-an10",
+   "titulo": "⚡ Una MONTAÑA del espacio pasará casi tan cerca como la Luna… y ya tiene fecha ☄️ #shorts",
+   "titulo_tiktok": "⚡ Una montaña del espacio pasará casi tan cerca como la Luna ☄️",
+   "descripcion": "⚡ El asteroide 1999 AN10 mide entre 800 m y casi 2 km, y el 7 de agosto de 2027 pasará a unos 390,000 km de la Tierra: casi la distancia a la Luna. Su paso está calculado con un margen de solo 160 km, así que no hay riesgo de choque, y se podrá ver con binoculares, sobre todo desde América.\nFuentes: NASA/JPL (CNEOS) y EarthSky.\n#asteroide #espacio #astronomia #ciencia #NASA #universo",
+   "fecha_programada": "2026-11-21 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-39/FlashDatos_39.mp4",
+   "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-39/FlashDatos_39_portada.jpg",
+   "nota": "Video del día del 2026-11-21 (idea 1 del reporte). 46.6 s. Voz: ElevenLabs flow ITBYTxoKqE6CWjsxYhLT, toma 1 (acelerada 1.13x). No se usó la velocidad del paso ni la historia del riesgo de 2039 (no verificables con dos fuentes)."
   }
  ]
 }
