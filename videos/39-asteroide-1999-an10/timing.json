@@ -1,0 +1,99 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 44.67,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 4.39,
+   "say": "Una roca del tamaño de una montaña va a pasar casi tan cerca como la Luna… y ya tiene fecha.",
+   "parts": [
+    [
+     0.1,
+     4.39,
+     "Una ROCA del tamaño de una MONTAÑA pasará casi tan cerca como la LUNA… y ya tiene FECHA."
+    ]
+   ]
+  },
+  {
+   "id": "nombre",
+   "t0": 4.87,
+   "t1": 11.92,
+   "say": "Es el asteroide mil novecientos noventa y nueve A, ene, diez, y mide entre ochocientos metros y casi dos kilómetros.",
+   "parts": [
+    [
+     4.87,
+     11.92,
+     "Es el asteroide 1999 AN10: mide entre 800 METROS y casi 2 KILÓMETROS."
+    ]
+   ]
+  },
+  {
+   "id": "fecha",
+   "t0": 12.01,
+   "t1": 19.43,
+   "say": "El siete de agosto de dos mil veintisiete pasará a unos trescientos noventa mil kilómetros de la Tierra.",
+   "parts": [
+    [
+     12.01,
+     19.43,
+     "El 7 de AGOSTO de 2027 pasará a unos 390,000 KM de la Tierra."
+    ]
+   ]
+  },
+  {
+   "id": "luna",
+   "t0": 19.97,
+   "t1": 24.25,
+   "say": "Eso es prácticamente la distancia a la Luna: apenas un dos por ciento más lejos.",
+   "parts": [
+    [
+     19.97,
+     24.25,
+     "Es casi la DISTANCIA a la LUNA: apenas un 2 % más lejos."
+    ]
+   ]
+  },
+  {
+   "id": "seguro",
+   "t0": 24.75,
+   "t1": 31.87,
+   "say": "Pero tranquilo: su paso está calculado con un margen de solo ciento sesenta kilómetros, así que no hay ninguna posibilidad de choque.",
+   "parts": [
+    [
+     24.75,
+     31.87,
+     "Tranquilo: su paso está calculado con un margen de solo 160 KM. NO va a chocar."
+    ]
+   ]
+  },
+  {
+   "id": "binoculares",
+   "t0": 32.34,
+   "t1": 37.12,
+   "say": "Y lo mejor: brillará lo suficiente para verse con binoculares, sobre todo desde América.",
+   "parts": [
+    [
+     32.34,
+     37.12,
+     "Lo mejor: se podrá ver con BINOCULARES, sobre todo desde AMÉRICA."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 37.62,
+   "t1": 44.77,
+   "say": "Así que apunta la fecha: el siete de agosto de dos mil veintisiete, una montaña del espacio pasará junto a la Tierra.",
+   "parts": [
+    [
+     37.62,
+     44.77,
+     "Apunta la fecha: el 7 de AGOSTO de 2027, una MONTAÑA del espacio pasará junto a la TIERRA."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 46.6
+}
