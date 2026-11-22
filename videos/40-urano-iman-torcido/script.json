@@ -1,0 +1,30 @@
+{
+ "id": "40",
+ "title": "Urano tiene el imán más torcido del sistema solar",
+ "segments": [
+  {"id": "gancho", "parts": [{
+   "say": "Este miércoles Urano estará en su mejor punto del año… y su imán interno está completamente torcido.",
+   "cap": "Este MIÉRCOLES Urano estará en su MEJOR punto del año… y su IMÁN está completamente TORCIDO."}]},
+  {"id": "oposicion", "parts": [{
+   "say": "El veinticinco de noviembre la Tierra queda justo entre el Sol y Urano: es su oposición, cuando se ve más grande y brillante.",
+   "cap": "El 25 de NOVIEMBRE la Tierra queda entre el SOL y URANO: es su OPOSICIÓN."}]},
+  {"id": "acostado", "parts": [{
+   "say": "Y ya de por sí es raro: Urano gira acostado, inclinado unos noventa y siete grados.",
+   "cap": "Urano ya es RARO: gira ACOSTADO, inclinado unos 97°."}]},
+  {"id": "iman", "parts": [{
+   "say": "Pero su campo magnético está todavía peor: desviado cincuenta y nueve grados de su eje, y ni siquiera sale del centro del planeta.",
+   "cap": "Su campo MAGNÉTICO está desviado 59° de su eje… y ni siquiera sale del CENTRO."}]},
+  {"id": "tierra", "parts": [{
+   "say": "El de la Tierra apenas se inclina once grados. El de Neptuno, cuarenta y siete.",
+   "cap": "El de la TIERRA se inclina apenas 11°. El de NEPTUNO, 47°."}]},
+  {"id": "agua", "parts": [{
+   "say": "Ahora, simulaciones de la Universidad de Texas sugieren por qué: a presiones enormes, el agua de su interior se rompe en iones y conduce cada vez mejor la electricidad.",
+   "cap": "Simulaciones de la Universidad de TEXAS: a presiones enormes, el AGUA se rompe en IONES y conduce la ELECTRICIDAD."}]},
+  {"id": "resultado", "parts": [{
+   "say": "Y esa capa de agua eléctrica reproduce los campos torcidos que midió la sonda Voyager dos.",
+   "cap": "Esa capa de agua ELÉCTRICA reproduce los campos TORCIDOS que midió la VOYAGER 2."}]},
+  {"id": "cierre", "parts": [{
+   "say": "Así que esta semana, con binoculares y cielo oscuro, busca en Tauro un puntito verdoso: es el planeta con el imán más torcido del sistema solar.",
+   "cap": "Esta semana busca en TAURO un puntito VERDOSO: es el planeta con el IMÁN más TORCIDO del sistema solar."}]}
+ ]
+}
