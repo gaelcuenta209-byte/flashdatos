@@ -1,0 +1,112 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 51.77,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 5.94,
+   "say": "Este miércoles Urano estará en su mejor punto del año… y su imán interno está completamente torcido.",
+   "parts": [
+    [
+     0.1,
+     5.94,
+     "Este MIÉRCOLES Urano estará en su MEJOR punto del año… y su IMÁN está completamente TORCIDO."
+    ]
+   ]
+  },
+  {
+   "id": "oposicion",
+   "t0": 6.53,
+   "t1": 13.21,
+   "say": "El veinticinco de noviembre la Tierra queda justo entre el Sol y Urano: es su oposición, cuando se ve más grande y brillante.",
+   "parts": [
+    [
+     6.53,
+     13.21,
+     "El 25 de NOVIEMBRE la Tierra queda entre el SOL y URANO: es su OPOSICIÓN."
+    ]
+   ]
+  },
+  {
+   "id": "acostado",
+   "t0": 13.58,
+   "t1": 18.12,
+   "say": "Y ya de por sí es raro: Urano gira acostado, inclinado unos noventa y siete grados.",
+   "parts": [
+    [
+     13.58,
+     18.12,
+     "Urano ya es RARO: gira ACOSTADO, inclinado unos 97°."
+    ]
+   ]
+  },
+  {
+   "id": "iman",
+   "t0": 18.48,
+   "t1": 25.04,
+   "say": "Pero su campo magnético está todavía peor: desviado cincuenta y nueve grados de su eje, y ni siquiera sale del centro del planeta.",
+   "parts": [
+    [
+     18.48,
+     25.04,
+     "Su campo MAGNÉTICO está desviado 59° de su eje… y ni siquiera sale del CENTRO."
+    ]
+   ]
+  },
+  {
+   "id": "tierra",
+   "t0": 25.45,
+   "t1": 29.34,
+   "say": "El de la Tierra apenas se inclina once grados. El de Neptuno, cuarenta y siete.",
+   "parts": [
+    [
+     25.45,
+     29.34,
+     "El de la TIERRA se inclina apenas 11°. El de NEPTUNO, 47°."
+    ]
+   ]
+  },
+  {
+   "id": "agua",
+   "t0": 29.75,
+   "t1": 38.45,
+   "say": "Ahora, simulaciones de la Universidad de Texas sugieren por qué: a presiones enormes, el agua de su interior se rompe en iones y conduce cada vez mejor la electricidad.",
+   "parts": [
+    [
+     29.75,
+     38.45,
+     "Simulaciones de la Universidad de TEXAS: a presiones enormes, el AGUA se rompe en IONES y conduce la ELECTRICIDAD."
+    ]
+   ]
+  },
+  {
+   "id": "resultado",
+   "t0": 38.85,
+   "t1": 43.2,
+   "say": "Y esa capa de agua eléctrica reproduce los campos torcidos que midió la sonda Voyager dos.",
+   "parts": [
+    [
+     38.85,
+     43.2,
+     "Esa capa de agua ELÉCTRICA reproduce los campos TORCIDOS que midió la VOYAGER 2."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 43.6,
+   "t1": 51.67,
+   "say": "Así que esta semana, con binoculares y cielo oscuro, busca en Tauro un puntito verdoso: es el planeta con el imán más torcido del sistema solar.",
+   "parts": [
+    [
+     43.6,
+     51.67,
+     "Esta semana busca en TAURO un puntito VERDOSO: es el planeta con el IMÁN más TORCIDO del sistema solar."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 53.57
+}
