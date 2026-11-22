@@ -1,46 +1,10 @@
 {
- "actualizado": "2026-11-21",
+ "actualizado": "2026-11-22",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Un asteroide de casi 1 km, 1999 AN10, pasará el 7 de agosto de 2027 a ~390,000 km: prácticamente a la distancia de la Luna, y se podrá ver con binoculares",
-   "gancho": "Una roca del tamaño de una montaña va a pasar casi tan cerca como la Luna… y ya tiene fecha.",
-   "por_que_viral": "'Asteroide gigante cerca de la Tierra' es de los temas que más se comparten en Shorts de espacio; tiene fecha concreta, se podrá ver con binoculares y la respuesta tranquiliza (no va a chocar), lo que provoca comentarios.",
-   "dato_principal": "(137108) 1999 AN10 mide entre 800 y 1,800 m. El 7 ago 2027 (~07:11 UTC) pasará a unos 389,900 km del centro de la Tierra, ~1.02 distancias lunares; la incertidumbre de esa distancia es de solo ±160 km, así que no hay riesgo de impacto en 2027. Llegará a magnitud ~7.3: visible con binoculares. En 1999 se calculó por un tiempo una probabilidad mínima de impacto en 2039, descartada después con más observaciones (CNEOS/JPL).",
-   "escena_3d": "Tierra y Luna a escala con la órbita lunar marcada; el asteroide rocoso pasa justo por fuera de la órbita lunar; comparación de tamaño con una montaña; regla '1.02 distancias lunares'; fecha 7 AGO 2027.",
-   "fuentes": [
-    "https://en.wikipedia.org/wiki/(137108)_1999_AN10",
-    "https://cneos.jpl.nasa.gov/news/news018a.html"
-   ]
-  },
-  {
-   "numero": 2,
-   "tema": "Una señal de radio que se repite cada 8 minutos: una estrella muerta que gira como faro junto a una estrella parecida al Sol (GPM J0715−1141, Nature Astronomy)",
-   "gancho": "A más de 5,000 años luz hay una señal de radio que se repite cada 8 minutos… y por fin sabemos qué es.",
-   "por_que_viral": "'Señal misteriosa que se repite' engancha al instante y abre el debate de los aliens en comentarios, pero con explicación real. Es de esta semana (12–15 nov).",
-   "dato_principal": "GPM J071507−114153: una enana blanca que gira ~cada 8 minutos (algunos medios dicen 7.9) y manda pulsos de radio, a más de 5,000 años luz. Es el primer 'transitorio de periodo largo' (LPT) con una compañera tipo G, parecida al Sol (los anteriores tenían enanas rojas); se vieron fulguraciones en la compañera. Equipo de ICRAR-Curtin (Samuel McSweeney, Natasha Hurley-Walker) con MWA (Australia), MeerKAT (Sudáfrica) y Keck; más de 100 horas de datos. Desde 2021 se conoce alrededor de una docena de LPT. Nature Astronomy, 12 nov 2026.",
-   "escena_3d": "Enana blanca girando como faro con haces de radio en barrido; estrella amarilla al lado con fulguraciones; onda de radio que viaja hasta una antena en el desierto; reloj 8:00 en bucle.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
-    "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star"
-   ]
-  },
-  {
-   "numero": 3,
-   "tema": "La pareja de cuásares más antigua: dos agujeros negros gigantes encendidos solo 900 millones de años después del Big Bang (Nāpōwawāʻenakaulua, JWST + Gemini Norte)",
-   "gancho": "Al principio del universo había dos monstruos devorándolo todo… uno junto al otro.",
-   "por_que_viral": "Récord + agujeros negros + JWST, la combinación que más retiene en ciencia; el nombre hawaiano es curioso y los agujeros negros 'no deberían existir tan pronto', un misterio que genera debate.",
-   "dato_principal": "J1602+4228AB, apodado Nāpōwawāʻenakaulua: dos cuásares separados ~18,100 años luz (≈1/5 del diámetro de la Vía Láctea), vistos ~900 millones de años después del Big Bang. Sus agujeros negros tienen 1,500 y 400 millones de masas solares, cuando se pensaba que se necesitaban al menos 1,000 millones de años para crecer tanto. JWST (sondeo Aether, NIRSpec) y Gemini Norte (Maunakea); The Astrophysical Journal Letters, 10 nov 2026; líder: Silvia Onorato (NOIRLab).",
-   "escena_3d": "Universo joven oscuro con filamentos; dos discos de acreción brillantes con chorros, en órbita mutua dentro de galaxias que se fusionan; regla de 18,100 años luz y silueta de la Vía Láctea para comparar; reloj cósmico '900 millones de años'.",
-   "fuentes": [
-    "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
-    "https://www.eurekalert.org/news-releases/1151327"
-   ]
-  },
-  {
-   "numero": 4,
    "tema": "Urano, en su mejor punto del año el 25 nov… y su imán interno está completamente torcido (oposición + estudio de UT Austin)",
    "gancho": "El 25 de noviembre Urano estará en su mejor punto del año… y su imán interno está completamente torcido.",
    "por_que_viral": "Evento en el cielo con fecha cercana + 'planeta raro' con avance científico nuevo. Se puede publicar antes del 25 nov.",
@@ -52,7 +16,55 @@
    ]
   },
   {
+   "numero": 2,
+   "tema": "Una estrella gigante se tragó a su compañera en Andrómeda y el telescopio James Webb lo vio casi en vivo (AT 2025abao, 'Bao', Nature, nov 2026)",
+   "gancho": "En la galaxia de al lado, una estrella gigante acaba de tragarse a otra… y el James Webb lo vio.",
+   "por_que_viral": "'Estrella devora estrella' es una imagen brutal y fácil de entender; es noticia de esta semana (NASA, 18 nov), tiene un apodo pegajoso ('Bao') y es la primera vez que se sigue algo así casi en tiempo real.",
+   "dato_principal": "'Big Bao', una supergigante de ~7 masas solares, 350 veces el radio del Sol y 18,000 veces más brillante, absorbió a 'Little Bao' (~0.7 masas solares) en solo ~7 órbitas (unos 7 años); otras fusiones tardan miles de órbitas. La erupción la detectó el Zwicky Transient Facility el 17 oct 2025, llegó a su máximo en una semana y Webb la observó 47 días después del pico. También participaron NEOWISE, SPHEREx, WINTER, Swift y Gemini Norte. Karambelkar et al. (Columbia), Nature, 2026. Cuidado: decir 'casi en vivo', no 'en vivo', y no afirmar en qué se convertirá.",
+   "escena_3d": "Supergigante roja inflada con una estrella pequeña amarilla en espiral cada vez más cerrada (contador de órbitas 1→7); destello y nube de polvo infrarrojo; silueta de Andrómeda para ubicarla; etiquetas 7 vs 0.7 masas solares.",
+   "fuentes": [
+    "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+    "https://www.sci.news/astronomy/webb-star-merger-andromeda-galaxy-15207.html"
+   ]
+  },
+  {
+   "numero": 3,
+   "tema": "Una señal de radio que se repite cada 8 minutos: una estrella muerta que gira como faro junto a una estrella parecida al Sol (GPM J0715−1141, Nature Astronomy)",
+   "gancho": "A más de 5,000 años luz hay una señal de radio que se repite cada 8 minutos… y por fin sabemos qué es.",
+   "por_que_viral": "'Señal misteriosa que se repite' engancha al instante y abre el debate de los aliens en comentarios, pero con explicación real. Es de esta semana (12–15 nov).",
+   "dato_principal": "GPM J071507−114153: una enana blanca que gira ~cada 8 minutos (algunos medios dicen 7.9) y manda pulsos de radio, a más de 5,000 años luz. Es el primer 'transitorio de periodo largo' (LPT) con una compañera tipo G, parecida al Sol (los anteriores tenían enanas rojas); se vieron fulguraciones en la compañera. Equipo de ICRAR-Curtin (Samuel McSweeney, Natasha Hurley-Walker) con MWA (Australia), MeerKAT (Sudáfrica) y Keck; más de 100 horas de datos. Desde 2021 se conoce alrededor de una docena de LPT. Nature Astronomy, 12 nov 2026.",
+   "escena_3d": "Enana blanca girando como faro con haces de radio en barrido; estrella amarilla al lado con fulguraciones; onda de radio que viaja hasta una antena en el desierto; reloj 8:00 en bucle.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+    "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star"
+   ]
+  },
+  {
+   "numero": 4,
+   "tema": "La pareja de cuásares más antigua: dos agujeros negros gigantes encendidos solo 900 millones de años después del Big Bang (Nāpōwawāʻenakaulua, JWST + Gemini Norte)",
+   "gancho": "Al principio del universo había dos monstruos devorándolo todo… uno junto al otro.",
+   "por_que_viral": "Récord + agujeros negros + JWST, la combinación que más retiene en ciencia; el nombre hawaiano es curioso y los agujeros negros 'no deberían existir tan pronto', un misterio que genera debate.",
+   "dato_principal": "J1602+4228AB, apodado Nāpōwawāʻenakaulua: dos cuásares separados ~18,100 años luz (≈1/5 del diámetro de la Vía Láctea), vistos ~900 millones de años después del Big Bang. Sus agujeros negros tienen 1,500 y 400 millones de masas solares, cuando se pensaba que se necesitaban al menos 1,000 millones de años para crecer tanto. JWST (sondeo Aether, NIRSpec) y Gemini Norte (Maunakea); The Astrophysical Journal Letters, 10 nov 2026; líder: Silvia Onorato (NOIRLab).",
+   "escena_3d": "Universo joven oscuro con filamentos; dos discos de acreción brillantes con chorros, en órbita mutua dentro de galaxias que se fusionan; regla de 18,100 años luz y silueta de la Vía Láctea para comparar; reloj cósmico '900 millones de años'.",
+   "fuentes": [
+    "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
+    "https://www.eurekalert.org/news-releases/1151327"
+   ]
+  },
+  {
    "numero": 5,
+   "tema": "Cuando Arabia era verde: hipopótamos junto a un lago en pleno desierto y puntas de piedra con rastros de veneno hace ~125,000 años (Mundafan, revista Science)",
+   "gancho": "Hace 125,000 años, en uno de los desiertos más secos del planeta, había hipopótamos… y humanos cazándolos con veneno.",
+   "por_que_viral": "Contraste brutal (desierto hoy, lago con hipopótamos ayer) y 'armas envenenadas' de la prehistoria: muy compartible. Publicado en Science el 12 nov y difundido toda la semana.",
+   "dato_principal": "En Uruq al-Julaybah, a orillas del antiguo lago Mundafan (~340 km², hasta 29 m de profundidad) en el Rub' al-Jali, Arabia Saudita, se hallaron 5,511 herramientas de piedra y más de 500 fósiles: hipopótamos, búfalos extintos de cuernos largos, avestruces, camellos, gacelas y órices. Varias puntas tienen biomarcadores de Acokanthera schimperi, un árbol usado para veneno de flechas, además de daños de impacto y restos de resina. Liderado por la Comisión de Patrimonio saudí, KAUST y Griffith (Chris Clarkson). Cuidado: los 125,000 años son la fecha del lago (las herramientas estaban en la superficie) y el veneno es 'posible', no seguro.",
+   "escena_3d": "Time-lapse del mismo paisaje: dunas actuales que se transforman en lago verde con palmeras y juncos; hipopótamos en el agua; punta de piedra que gira en primer plano con brillo en el residuo; mapa de Arabia con el lago marcado.",
+   "fuentes": [
+    "https://www.smithsonianmag.com/smart-news/ancient-humans-may-have-hunted-hippos-with-poisoned-spear-tips-on-the-arabian-peninsula-125000-years-ago-180989880/",
+    "https://www.eurekalert.org/news-releases/1151234"
+   ]
+  },
+  {
+   "numero": 6,
    "tema": "Hayabusa2 se quedó sin motores: la sonda japonesa que trajo pedazos del asteroide Ryugu ya no podrá aterrizar en 1998 KY26 y cambia de destino",
    "gancho": "La nave que trajo pedazos de un asteroide a la Tierra acaba de perder su último motor… pero no se rinde.",
    "por_que_viral": "Historia de 'héroe que no se rinde', noticia de esta semana (JAXA, 17 nov) y misión muy querida; drama con final esperanzador.",
@@ -61,18 +73,6 @@
    "fuentes": [
     "https://space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
     "https://www.nippon.com/en/articles/-/57606"
-   ]
-  },
-  {
-   "numero": 6,
-   "tema": "Estrellas que se 'apagan' sin explotar: pistas de agujeros negros nacidos de supernovas fallidas (LIGO-Virgo-KAGRA, Caltech)",
-   "gancho": "Algunas estrellas gigantes no mueren con una explosión… simplemente desaparecen.",
-   "por_que_viral": "La imagen de una estrella que se desvanece es inquietante y contradice lo que casi todos creen (que toda estrella gigante termina en supernova). Difundido el 10–17 nov.",
-   "dato_principal": "Katerina Chatziioannou (Caltech) e Isaac Legred (UIUC) analizaron 257 fusiones de agujeros negros detectadas por LIGO-Virgo-KAGRA: hay un pico en ~10 masas solares (cerca de 3/4 de la muestra), con giros parecidos, y un hueco inesperado entre 12 y 16 masas solares. Es consistente con estrellas que colapsan directo a agujero negro sin explotar. Advertencia: no es prueba directa de supernovas fallidas, solo encaja con la idea. Physical Review D, 2026.",
-   "escena_3d": "Supergigante roja que colapsa hacia dentro sin destello y se apaga; queda un agujero negro con lente gravitacional; dos agujeros negros en espiral se fusionan y deforman una malla (ondas gravitacionales).",
-   "fuentes": [
-    "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
-    "https://www.eurekalert.org/news-releases/1151330"
    ]
   },
   {
@@ -89,14 +89,14 @@
   },
   {
    "numero": 8,
-   "tema": "A la Tierra le faltan mil millones de años de historia: el misterio de la Gran Discordancia del Gran Cañón (Nature, Universidad de Wollongong)",
-   "gancho": "En el Gran Cañón hay una capa de roca donde faltan… mil millones de años.",
-   "por_que_viral": "Misterio geológico en un lugar icónico, con una explicación muy visual (continentes que suben, se erosionan y se hunden). Difundido el 18 nov.",
-   "dato_principal": "En la Gran Discordancia faltan ~200 millones de años de registro en algunos sitios y más de mil millones en otros. Santosh Dhungana y Nicolas Flament (U. de Wollongong) proponen en Nature que la convección lenta del manto levantó los núcleos continentales en el Neoproterozoico (~1,000–540 millones de años), la erosión borró la roca y luego el mar los cubrió de sedimento nuevo. Estudiaron Laurentia, Báltica y el norte de China. No demuestra que sea la única causa.",
-   "escena_3d": "Bloque de corteza en corte con el manto convectando como flujo de partículas; el continente sube, sus capas se borran, se hunde bajo el agua y se apilan capas nuevas en time-lapse; contador de millones de años.",
+   "tema": "Estrellas que se 'apagan' sin explotar: pistas de agujeros negros nacidos de supernovas fallidas (LIGO-Virgo-KAGRA, Caltech)",
+   "gancho": "Algunas estrellas gigantes no mueren con una explosión… simplemente desaparecen.",
+   "por_que_viral": "La imagen de una estrella que se desvanece es inquietante y contradice lo que casi todos creen (que toda estrella gigante termina en supernova). Difundido el 10–17 nov.",
+   "dato_principal": "Katerina Chatziioannou (Caltech) e Isaac Legred (UIUC) analizaron 257 fusiones de agujeros negros detectadas por LIGO-Virgo-KAGRA: hay un pico en ~10 masas solares (cerca de 3/4 de la muestra), con giros parecidos, y un hueco inesperado entre 12 y 16 masas solares. Es consistente con estrellas que colapsan directo a agujero negro sin explotar. Advertencia: no es prueba directa de supernovas fallidas, solo encaja con la idea. Physical Review D, 2026.",
+   "escena_3d": "Supergigante roja que colapsa hacia dentro sin destello y se apaga; queda un agujero negro con lente gravitacional; dos agujeros negros en espiral se fusionan y deforman una malla (ondas gravitacionales).",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
-    "https://www.uow.edu.au/media/2026/earths-geological-record-is-missing-hundreds-of-millions-of-years-uow-scientists-think-they-know-why.php"
+    "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
+    "https://www.eurekalert.org/news-releases/1151330"
    ]
   }
  ]
