@@ -795,6 +795,19 @@
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-39/FlashDatos_39.mp4",
    "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-39/FlashDatos_39_portada.jpg",
    "nota": "Video del día del 2026-11-21 (idea 1 del reporte). 46.6 s. Voz: ElevenLabs flow ITBYTxoKqE6CWjsxYhLT, toma 1 (acelerada 1.13x). No se usó la velocidad del paso ni la historia del riesgo de 2039 (no verificables con dos fuentes)."
+  },
+  {
+   "numero": 40,
+   "tema": "Urano en oposición el 25 nov 2026 (mag. ~5.6, en Tauro) y su campo magnético torcido: 59° respecto a su eje y descentrado (Neptuno 47°, Tierra 11°); simulaciones de Chi Yan (UT Austin) y Tom Stallard (Northumbria), Communications Physics, 3 nov 2026: el agua se rompe en iones a gran presión",
+   "carpeta": "videos/40-urano-iman-torcido",
+   "titulo": "⚡ Urano tiene el IMÁN más torcido del sistema solar… y este miércoles se ve mejor que nunca 🪐 #shorts",
+   "titulo_tiktok": "⚡ Urano tiene el imán más torcido del sistema solar 🪐",
+   "descripcion": "⚡ El 25 de noviembre Urano llega a su oposición: la Tierra queda entre el Sol y Urano y el planeta se ve en su mejor punto del año, en Tauro, como un puntito verdoso con binoculares. Su campo magnético está desviado 59° de su eje y ni siquiera sale del centro; nuevas simulaciones de la Universidad de Texas sugieren que se debe al agua que, a presiones enormes, se rompe en iones.\nFuentes: Communications Physics / Space.com y BBC Sky at Night.\n#urano #espacio #astronomia #ciencia #planetas #universo",
+   "fecha_programada": "2026-11-22 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-40/FlashDatos_40.mp4",
+   "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-40/FlashDatos_40_portada.jpg",
+   "nota": "Video del día del 2026-11-22 (idea 1 del reporte; elegida = null). 53.6 s. Voz: ElevenLabs flow nkJDuzPqRa7LgNIfYmkM, toma 1 (acelerada 1.22x). No se usó que la inclinación del campo cambia decenas de grados en décadas (una sola fuente)."
   }
  ]
 }
