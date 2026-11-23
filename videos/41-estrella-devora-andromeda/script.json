@@ -1,0 +1,69 @@
+{
+ "id": "41",
+ "title": "Una estrella gigante se tragó a su compañera en Andrómeda",
+ "segments": [
+  {
+   "id": "gancho",
+   "parts": [
+    {
+     "say": "En la galaxia de al lado, una estrella gigante se tragó a su compañera… y la vimos casi en vivo.",
+     "cap": "En la galaxia de al LADO, una estrella GIGANTE se tragó a su COMPAÑERA… y la vimos casi EN VIVO."
+    }
+   ]
+  },
+  {
+   "id": "andromeda",
+   "parts": [
+    {
+     "say": "Pasó en Andrómeda. La gigante, Big Bao, tiene unas siete veces la masa del Sol.",
+     "cap": "Pasó en ANDRÓMEDA. La gigante, BIG BAO, tiene 7 veces la masa del SOL."
+    }
+   ]
+  },
+  {
+   "id": "compania",
+   "parts": [
+    {
+     "say": "Su compañera, Little Bao, tenía menos de una masa solar y giraba cada vez más pegada.",
+     "cap": "Su compañera, LITTLE BAO, apenas 0.7 masas SOLARES, giraba cada vez más PEGADA."
+    }
+   ]
+  },
+  {
+   "id": "orbitas",
+   "parts": [
+    {
+     "say": "En solo siete vueltas, unos siete años, cayó en espiral. Otras fusiones tardaron miles de órbitas.",
+     "cap": "En solo 7 VUELTAS, unos 7 AÑOS, cayó en ESPIRAL. Otras fusiones tardaron MILES de órbitas."
+    }
+   ]
+  },
+  {
+   "id": "webb",
+   "parts": [
+    {
+     "say": "En octubre de dos mil veinticinco el sistema estalló en brillo, y el telescopio James Webb lo observó en infrarrojo.",
+     "cap": "En OCTUBRE de 2025 estalló en BRILLO, y el JAMES WEBB lo observó en INFRARROJO."
+    }
+   ]
+  },
+  {
+   "id": "polvo",
+   "parts": [
+    {
+     "say": "Vio el polvo que la gigante soltó durante siglos: la pista para reconstruir el choque.",
+     "cap": "Vio el POLVO que la gigante soltó durante SIGLOS: la pista para reconstruir el CHOQUE."
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Donde había dos estrellas ahora queda una sola, y es la primera vez que vemos una fusión así casi en tiempo real.",
+     "cap": "Donde había DOS estrellas ahora queda UNA, y es la primera vez que vemos una FUSIÓN así casi en TIEMPO REAL."
+    }
+   ]
+  }
+ ]
+}
