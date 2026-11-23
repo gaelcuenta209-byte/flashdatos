@@ -1,0 +1,99 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 50.21,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 6.46,
+   "say": "En la galaxia de al lado, una estrella gigante se tragó a su compañera… y la vimos casi en vivo.",
+   "parts": [
+    [
+     0.1,
+     6.46,
+     "En la galaxia de al LADO, una estrella GIGANTE se tragó a su COMPAÑERA… y la vimos casi EN VIVO."
+    ]
+   ]
+  },
+  {
+   "id": "andromeda",
+   "t0": 7.1,
+   "t1": 12.96,
+   "say": "Pasó en Andrómeda. La gigante, Big Bao, tiene unas siete veces la masa del Sol.",
+   "parts": [
+    [
+     7.1,
+     12.96,
+     "Pasó en ANDRÓMEDA. La gigante, BIG BAO, tiene 7 veces la masa del SOL."
+    ]
+   ]
+  },
+  {
+   "id": "compania",
+   "t0": 13.52,
+   "t1": 19.65,
+   "say": "Su compañera, Little Bao, tenía menos de una masa solar y giraba cada vez más pegada.",
+   "parts": [
+    [
+     13.52,
+     19.65,
+     "Su compañera, LITTLE BAO, apenas 0.7 masas SOLARES, giraba cada vez más PEGADA."
+    ]
+   ]
+  },
+  {
+   "id": "orbitas",
+   "t0": 20.38,
+   "t1": 27.78,
+   "say": "En solo siete vueltas, unos siete años, cayó en espiral. Otras fusiones tardaron miles de órbitas.",
+   "parts": [
+    [
+     20.38,
+     27.78,
+     "En solo 7 VUELTAS, unos 7 AÑOS, cayó en ESPIRAL. Otras fusiones tardaron MILES de órbitas."
+    ]
+   ]
+  },
+  {
+   "id": "webb",
+   "t0": 28.46,
+   "t1": 35.48,
+   "say": "En octubre de dos mil veinticinco el sistema estalló en brillo, y el telescopio James Webb lo observó en infrarrojo.",
+   "parts": [
+    [
+     28.46,
+     35.48,
+     "En OCTUBRE de 2025 estalló en BRILLO, y el JAMES WEBB lo observó en INFRARROJO."
+    ]
+   ]
+  },
+  {
+   "id": "polvo",
+   "t0": 36.3,
+   "t1": 41.74,
+   "say": "Vio el polvo que la gigante soltó durante siglos: la pista para reconstruir el choque.",
+   "parts": [
+    [
+     36.3,
+     41.74,
+     "Vio el POLVO que la gigante soltó durante SIGLOS: la pista para reconstruir el CHOQUE."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 42.57,
+   "t1": 50.31,
+   "say": "Donde había dos estrellas ahora queda una sola, y es la primera vez que vemos una fusión así casi en tiempo real.",
+   "parts": [
+    [
+     42.57,
+     50.31,
+     "Donde había DOS estrellas ahora queda UNA, y es la primera vez que vemos una FUSIÓN así casi en TIEMPO REAL."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 51.14
+}
