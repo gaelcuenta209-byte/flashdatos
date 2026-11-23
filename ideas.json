@@ -1,22 +1,10 @@
 {
- "actualizado": "2026-11-22",
+ "actualizado": "2026-11-23",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Urano, en su mejor punto del año el 25 nov… y su imán interno está completamente torcido (oposición + estudio de UT Austin)",
-   "gancho": "El 25 de noviembre Urano estará en su mejor punto del año… y su imán interno está completamente torcido.",
-   "por_que_viral": "Evento en el cielo con fecha cercana + 'planeta raro' con avance científico nuevo. Se puede publicar antes del 25 nov.",
-   "dato_principal": "Oposición de Urano el 25 nov 2026 (magnitud +5.6, en Tauro). Su campo magnético está inclinado 59° respecto a su eje y descentrado; el de Neptuno, 47°; el de la Tierra, ~11° (mediciones de la Voyager 2, 1986 y 1989). Simulaciones de Chi Yan (UT Austin) con Tom Stallard (Northumbria), en Communications Physics (nov 2026): a gran presión el agua se rompe en iones y se vuelve más conductora con la profundidad, lo que reproduce esos campos raros. Urano además está inclinado ~97°.",
-   "escena_3d": "Urano 'acostado' con anillos; líneas de campo magnético inclinadas y desplazadas junto a las de la Tierra; corte transversal con capas de agua iónica brillando; fecha 25 NOV.",
-   "fuentes": [
-    "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune",
-    "https://www.skyatnightmagazine.com/news/uranus-november-2026"
-   ]
-  },
-  {
-   "numero": 2,
    "tema": "Una estrella gigante se tragó a su compañera en Andrómeda y el telescopio James Webb lo vio casi en vivo (AT 2025abao, 'Bao', Nature, nov 2026)",
    "gancho": "En la galaxia de al lado, una estrella gigante acaba de tragarse a otra… y el James Webb lo vio.",
    "por_que_viral": "'Estrella devora estrella' es una imagen brutal y fácil de entender; es noticia de esta semana (NASA, 18 nov), tiene un apodo pegajoso ('Bao') y es la primera vez que se sigue algo así casi en tiempo real.",
@@ -28,7 +16,7 @@
    ]
   },
   {
-   "numero": 3,
+   "numero": 2,
    "tema": "Una señal de radio que se repite cada 8 minutos: una estrella muerta que gira como faro junto a una estrella parecida al Sol (GPM J0715−1141, Nature Astronomy)",
    "gancho": "A más de 5,000 años luz hay una señal de radio que se repite cada 8 minutos… y por fin sabemos qué es.",
    "por_que_viral": "'Señal misteriosa que se repite' engancha al instante y abre el debate de los aliens en comentarios, pero con explicación real. Es de esta semana (12–15 nov).",
@@ -37,6 +25,18 @@
    "fuentes": [
     "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
     "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star"
+   ]
+  },
+  {
+   "numero": 3,
+   "tema": "Jonathan, la tortuga de 194 años: el animal terrestre vivo más viejo del mundo guarda 'interruptores' genéticos que casi no han envejecido (Science Advances, oct 2026)",
+   "gancho": "Esta tortuga nació en 1832, antes de que existiera el foco… y su ADN todavía se porta como si fuera joven.",
+   "por_que_viral": "Animal entrañable con récord mundial + promesa de 'secreto contra el envejecimiento': la gente lo comparte y comenta su edad. ScienceDaily volvió a difundir el estudio el 22 nov, así que está circulando ahora.",
+   "dato_principal": "Jonathan, tortuga gigante de Aldabra (Aldabrachelys gigantea), tiene ~194 años (nacida hacia 1832) y vive en la isla de Santa Elena, en el Atlántico Sur, en los jardines de Plantation House; llegó de las Seychelles en 1882 ya adulta. El estudio (Science Advances, 7 oct 2026; Vaisvil, Gerlach, Clark y otros; organización Kallel y Peterhouse, Cambridge) halló 287 variantes genéticas propias en genes de reparación del ADN, telómeros, inflamación y cáncer; además, la metilación (los 'interruptores' químicos) de genes de las mitocondrias está más ordenada de lo esperado para su edad. Cuidado: es un solo animal, el ADN salió de raspados de mejilla y no prueba causa; decir 'podría explicar', no 'el secreto es'.",
+   "escena_3d": "Tortuga gigante 3D caminando mientras detrás pasa una línea del tiempo (1832 → foco 1879 → llega a Santa Elena 1882 → Apolo 11 1969 → hoy); zoom a una célula y una doble hélice con 'interruptores' que se encienden y apagan; contador 194 AÑOS y 287 VARIANTES.",
+   "fuentes": [
+    "https://www.livescience.com/animals/turtles-tortoises/scientists-discover-the-genetic-secrets-that-may-have-helped-jonathan-the-tortoise-live-to-194-years-old",
+    "https://scitechdaily.com/the-worlds-oldest-land-animal-has-a-remarkable-anti-aging-secret-hidden-in-its-dna/"
    ]
   },
   {
@@ -91,12 +91,12 @@
    "numero": 8,
    "tema": "Estrellas que se 'apagan' sin explotar: pistas de agujeros negros nacidos de supernovas fallidas (LIGO-Virgo-KAGRA, Caltech)",
    "gancho": "Algunas estrellas gigantes no mueren con una explosión… simplemente desaparecen.",
-   "por_que_viral": "La imagen de una estrella que se desvanece es inquietante y contradice lo que casi todos creen (que toda estrella gigante termina en supernova). Difundido el 10–17 nov.",
+   "por_que_viral": "La imagen de una estrella que se desvanece es inquietante y contradice lo que casi todos creen (que toda estrella gigante termina en supernova). Difundido el 10–17 nov; ScienceDaily lo volvió a publicar el 22 nov.",
    "dato_principal": "Katerina Chatziioannou (Caltech) e Isaac Legred (UIUC) analizaron 257 fusiones de agujeros negros detectadas por LIGO-Virgo-KAGRA: hay un pico en ~10 masas solares (cerca de 3/4 de la muestra), con giros parecidos, y un hueco inesperado entre 12 y 16 masas solares. Es consistente con estrellas que colapsan directo a agujero negro sin explotar. Advertencia: no es prueba directa de supernovas fallidas, solo encaja con la idea. Physical Review D, 2026.",
    "escena_3d": "Supergigante roja que colapsa hacia dentro sin destello y se apaga; queda un agujero negro con lente gravitacional; dos agujeros negros en espiral se fusionan y deforman una malla (ondas gravitacionales).",
    "fuentes": [
     "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
-    "https://www.eurekalert.org/news-releases/1151330"
+    "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
    ]
   }
  ]
