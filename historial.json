@@ -808,6 +808,19 @@
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-40/FlashDatos_40.mp4",
    "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-40/FlashDatos_40_portada.jpg",
    "nota": "Video del día del 2026-11-22 (idea 1 del reporte; elegida = null). 53.6 s. Voz: ElevenLabs flow nkJDuzPqRa7LgNIfYmkM, toma 1 (acelerada 1.22x). No se usó que la inclinación del campo cambia decenas de grados en décadas (una sola fuente)."
+  },
+  {
+   "numero": 41,
+   "tema": "AT 2025abao ('Bao'): en Andrómeda la supergigante Big Bao (~7 masas solares, 350 radios solares) se tragó a Little Bao (~0.7) en solo ~7 órbitas (~7 años); erupción detectada por ZTF el 17 oct 2025 y observada por Webb en infrarrojo medio; primera fusión estelar seguida casi en tiempo real (Karambelkar et al., Nature, 18 nov 2026)",
+   "carpeta": "videos/41-estrella-devora-andromeda",
+   "titulo": "⚡ Una estrella GIGANTE se tragó a su compañera… y la vimos casi en vivo 🌟 #shorts",
+   "titulo_tiktok": "⚡ Una estrella gigante se tragó a otra en Andrómeda 🌟",
+   "descripcion": "⚡ En la galaxia de Andrómeda, la supergigante Big Bao (unas 7 veces la masa del Sol) se tragó a su compañera Little Bao en solo 7 vueltas, unos 7 años. El telescopio James Webb vio en infrarrojo el polvo que soltó durante siglos: es la primera fusión de estrellas seguida casi en tiempo real.\nFuentes: NASA y Karambelkar et al., revista Nature (nov 2026).\n#ciencia #espacio #astronomia #jameswebb #andromeda #universo",
+   "fecha_programada": "2026-11-23 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-41/FlashDatos_41.mp4",
+   "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-41/FlashDatos_41_portada.jpg",
+   "nota": "Video del día del 2026-11-23 (idea 1 del reporte; elegida = null). 51.1 s. Voz: ElevenLabs flow 2CfzHuUx5OjpoaPhQRqc, toma 1 (Ix5ZWMYgb5HIEE3XJtbt), sin acelerar. Datos de masas/radio solo de NASA y Sci.News; el resto confirmado también por Science News."
   }
  ]
 }
