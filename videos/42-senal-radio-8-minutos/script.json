@@ -1,0 +1,69 @@
+{
+ "id": "42",
+ "title": "Una señal de radio que se repite cada 8 minutos",
+ "segments": [
+  {
+   "id": "gancho",
+   "parts": [
+    {
+     "say": "Hay una señal de radio que se repite casi cada ocho minutos… y por fin sabemos de dónde viene.",
+     "cap": "Hay una SEÑAL de radio que se repite casi cada 8 MINUTOS… y por fin sabemos de DÓNDE viene."
+    }
+   ]
+  },
+  {
+   "id": "distancia",
+   "parts": [
+    {
+     "say": "Viaja más de cinco mil años luz, y la captó un radiotelescopio en Australia.",
+     "cap": "Viaja más de 5,000 AÑOS LUZ, y la captó un RADIOTELESCOPIO en AUSTRALIA."
+    }
+   ]
+  },
+  {
+   "id": "enana",
+   "parts": [
+    {
+     "say": "La fuente es una enana blanca: el núcleo muerto de una estrella, que gira y manda un pulso en cada vuelta.",
+     "cap": "La fuente es una ENANA BLANCA: el núcleo MUERTO de una estrella, que gira y manda un PULSO en cada vuelta."
+    }
+   ]
+  },
+  {
+   "id": "pareja",
+   "parts": [
+    {
+     "say": "Y a su lado hay una estrella parecida al Sol. Es la primera vez que una señal así sale de una pareja como esta.",
+     "cap": "Y a su lado hay una estrella parecida al SOL. Es la PRIMERA vez que una señal así sale de una pareja como esta."
+    }
+   ]
+  },
+  {
+   "id": "docena",
+   "parts": [
+    {
+     "say": "Se conocen apenas una docena de señales así, y las parejas vistas antes eran enanas rojas.",
+     "cap": "Se conocen apenas una DOCENA de señales así, y las parejas vistas antes eran ENANAS ROJAS."
+    }
+   ]
+  },
+  {
+   "id": "llamaradas",
+   "parts": [
+    {
+     "say": "Con esos pulsos como linterna, hasta detectaron llamaradas en la estrella vecina.",
+     "cap": "Con esos PULSOS como linterna, hasta detectaron LLAMARADAS en la estrella vecina."
+    }
+   ]
+  },
+  {
+   "id": "cierre",
+   "parts": [
+    {
+     "say": "Así que la señal misteriosa no son extraterrestres: es una estrella muerta girando junto a un Sol.",
+     "cap": "Así que la señal MISTERIOSA no son EXTRATERRESTRES: es una estrella MUERTA girando junto a un SOL."
+    }
+   ]
+  }
+ ]
+}
