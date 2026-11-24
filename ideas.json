@@ -1,22 +1,10 @@
 {
- "actualizado": "2026-11-23",
+ "actualizado": "2026-11-24",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Una estrella gigante se tragó a su compañera en Andrómeda y el telescopio James Webb lo vio casi en vivo (AT 2025abao, 'Bao', Nature, nov 2026)",
-   "gancho": "En la galaxia de al lado, una estrella gigante acaba de tragarse a otra… y el James Webb lo vio.",
-   "por_que_viral": "'Estrella devora estrella' es una imagen brutal y fácil de entender; es noticia de esta semana (NASA, 18 nov), tiene un apodo pegajoso ('Bao') y es la primera vez que se sigue algo así casi en tiempo real.",
-   "dato_principal": "'Big Bao', una supergigante de ~7 masas solares, 350 veces el radio del Sol y 18,000 veces más brillante, absorbió a 'Little Bao' (~0.7 masas solares) en solo ~7 órbitas (unos 7 años); otras fusiones tardan miles de órbitas. La erupción la detectó el Zwicky Transient Facility el 17 oct 2025, llegó a su máximo en una semana y Webb la observó 47 días después del pico. También participaron NEOWISE, SPHEREx, WINTER, Swift y Gemini Norte. Karambelkar et al. (Columbia), Nature, 2026. Cuidado: decir 'casi en vivo', no 'en vivo', y no afirmar en qué se convertirá.",
-   "escena_3d": "Supergigante roja inflada con una estrella pequeña amarilla en espiral cada vez más cerrada (contador de órbitas 1→7); destello y nube de polvo infrarrojo; silueta de Andrómeda para ubicarla; etiquetas 7 vs 0.7 masas solares.",
-   "fuentes": [
-    "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
-    "https://www.sci.news/astronomy/webb-star-merger-andromeda-galaxy-15207.html"
-   ]
-  },
-  {
-   "numero": 2,
    "tema": "Una señal de radio que se repite cada 8 minutos: una estrella muerta que gira como faro junto a una estrella parecida al Sol (GPM J0715−1141, Nature Astronomy)",
    "gancho": "A más de 5,000 años luz hay una señal de radio que se repite cada 8 minutos… y por fin sabemos qué es.",
    "por_que_viral": "'Señal misteriosa que se repite' engancha al instante y abre el debate de los aliens en comentarios, pero con explicación real. Es de esta semana (12–15 nov).",
@@ -28,7 +16,7 @@
    ]
   },
   {
-   "numero": 3,
+   "numero": 2,
    "tema": "Jonathan, la tortuga de 194 años: el animal terrestre vivo más viejo del mundo guarda 'interruptores' genéticos que casi no han envejecido (Science Advances, oct 2026)",
    "gancho": "Esta tortuga nació en 1832, antes de que existiera el foco… y su ADN todavía se porta como si fuera joven.",
    "por_que_viral": "Animal entrañable con récord mundial + promesa de 'secreto contra el envejecimiento': la gente lo comparte y comenta su edad. ScienceDaily volvió a difundir el estudio el 22 nov, así que está circulando ahora.",
@@ -40,10 +28,10 @@
    ]
   },
   {
-   "numero": 4,
+   "numero": 3,
    "tema": "La pareja de cuásares más antigua: dos agujeros negros gigantes encendidos solo 900 millones de años después del Big Bang (Nāpōwawāʻenakaulua, JWST + Gemini Norte)",
    "gancho": "Al principio del universo había dos monstruos devorándolo todo… uno junto al otro.",
-   "por_que_viral": "Récord + agujeros negros + JWST, la combinación que más retiene en ciencia; el nombre hawaiano es curioso y los agujeros negros 'no deberían existir tan pronto', un misterio que genera debate.",
+   "por_que_viral": "Récord + agujeros negros + JWST, la combinación que más retiene en ciencia; el nombre hawaiano es curioso y los agujeros negros 'no deberían existir tan pronto', un misterio que genera debate. ScienceDaily lo volvió a difundir el 23 nov.",
    "dato_principal": "J1602+4228AB, apodado Nāpōwawāʻenakaulua: dos cuásares separados ~18,100 años luz (≈1/5 del diámetro de la Vía Láctea), vistos ~900 millones de años después del Big Bang. Sus agujeros negros tienen 1,500 y 400 millones de masas solares, cuando se pensaba que se necesitaban al menos 1,000 millones de años para crecer tanto. JWST (sondeo Aether, NIRSpec) y Gemini Norte (Maunakea); The Astrophysical Journal Letters, 10 nov 2026; líder: Silvia Onorato (NOIRLab).",
    "escena_3d": "Universo joven oscuro con filamentos; dos discos de acreción brillantes con chorros, en órbita mutua dentro de galaxias que se fusionan; regla de 18,100 años luz y silueta de la Vía Láctea para comparar; reloj cósmico '900 millones de años'.",
    "fuentes": [
@@ -52,7 +40,7 @@
    ]
   },
   {
-   "numero": 5,
+   "numero": 4,
    "tema": "Cuando Arabia era verde: hipopótamos junto a un lago en pleno desierto y puntas de piedra con rastros de veneno hace ~125,000 años (Mundafan, revista Science)",
    "gancho": "Hace 125,000 años, en uno de los desiertos más secos del planeta, había hipopótamos… y humanos cazándolos con veneno.",
    "por_que_viral": "Contraste brutal (desierto hoy, lago con hipopótamos ayer) y 'armas envenenadas' de la prehistoria: muy compartible. Publicado en Science el 12 nov y difundido toda la semana.",
@@ -64,7 +52,7 @@
    ]
   },
   {
-   "numero": 6,
+   "numero": 5,
    "tema": "Hayabusa2 se quedó sin motores: la sonda japonesa que trajo pedazos del asteroide Ryugu ya no podrá aterrizar en 1998 KY26 y cambia de destino",
    "gancho": "La nave que trajo pedazos de un asteroide a la Tierra acaba de perder su último motor… pero no se rinde.",
    "por_que_viral": "Historia de 'héroe que no se rinde', noticia de esta semana (JAXA, 17 nov) y misión muy querida; drama con final esperanzador.",
@@ -76,7 +64,7 @@
    ]
   },
   {
-   "numero": 7,
+   "numero": 6,
    "tema": "La ballena 'huachafa' de Perú: el cráneo más chueco de todos los mamíferos (Scaphokogia huachafo, Communications Biology)",
    "gancho": "Hace 6 millones de años, en Perú, nadaba una ballena con la cara completamente chueca.",
    "por_que_viral": "Historia latinoamericana con nombre en jerga peruana ('huachafo' = estrafalario), divertida y muy visual: ideal para compartir y comentar. ScienceDaily la difundió el 19 nov.",
@@ -88,7 +76,7 @@
    ]
   },
   {
-   "numero": 8,
+   "numero": 7,
    "tema": "Estrellas que se 'apagan' sin explotar: pistas de agujeros negros nacidos de supernovas fallidas (LIGO-Virgo-KAGRA, Caltech)",
    "gancho": "Algunas estrellas gigantes no mueren con una explosión… simplemente desaparecen.",
    "por_que_viral": "La imagen de una estrella que se desvanece es inquietante y contradice lo que casi todos creen (que toda estrella gigante termina en supernova). Difundido el 10–17 nov; ScienceDaily lo volvió a publicar el 22 nov.",
@@ -97,6 +85,18 @@
    "fuentes": [
     "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
     "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
+   ]
+  },
+  {
+   "numero": 8,
+   "tema": "Ladrillos tipo LEGO hechos con polvo lunar: un láser derrite el polvo y salen piezas que encajan, sin pegamento traído de la Tierra (Universidad de Arkansas, npj Advanced Manufacturing)",
+   "gancho": "Para construir en la Luna no habrá que llevar ladrillos… vamos a imprimirlos con su propio polvo, como si fueran LEGO.",
+   "por_que_viral": "LEGO + Luna es una mezcla irresistible y muy visual; lo hizo un estudiante universitario (historia inspiradora) y ScienceDaily lo difundió el 20 nov.",
+   "dato_principal": "Con fusión láser en lecho de polvo y sin aglutinante, el equipo de Wan Shou (Universidad de Arkansas; primer autor Cole McCallum, entonces estudiante de licenciatura) sinterizó simulante de regolito de las tierras altas lunares (LHS-1) en bloques de pocos centímetros en forma de cruz y de H que encajan entre sí. Hasta ahora se usaban aglutinantes que habría que mandar desde la Tierra. npj Advanced Manufacturing (en línea 29 ago 2026; nota de prensa 11 nov). Cuidado: son más porosos y débiles que los impresos con aglutinante, falta probarlos en vacío y microgravedad, y la resistencia de ~3.4 MPa solo la da una fuente (no usarla).",
+   "escena_3d": "Superficie lunar gris; un haz láser recorre una capa de polvo y aparece una pieza en forma de H; las piezas se ensamblan solas en un muro y luego en un domo con la Tierra en el cielo; etiqueta 'SIN PEGAMENTO'.",
+   "fuentes": [
+    "https://www.eurekalert.org/news-releases/1151551",
+    "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
    ]
   }
  ]
