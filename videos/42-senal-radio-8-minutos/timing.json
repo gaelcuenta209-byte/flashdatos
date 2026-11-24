@@ -1,0 +1,99 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 45.95,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 6.67,
+   "say": "Hay una señal de radio que se repite casi cada ocho minutos… y por fin sabemos de dónde viene.",
+   "parts": [
+    [
+     0.1,
+     6.67,
+     "Hay una SEÑAL de radio que se repite casi cada 8 MINUTOS… y por fin sabemos de DÓNDE viene."
+    ]
+   ]
+  },
+  {
+   "id": "distancia",
+   "t0": 7.35,
+   "t1": 12.49,
+   "say": "Viaja más de cinco mil años luz, y la captó un radiotelescopio en Australia.",
+   "parts": [
+    [
+     7.35,
+     12.49,
+     "Viaja más de 5,000 AÑOS LUZ, y la captó un RADIOTELESCOPIO en AUSTRALIA."
+    ]
+   ]
+  },
+  {
+   "id": "enana",
+   "t0": 13.12,
+   "t1": 20.13,
+   "say": "La fuente es una enana blanca: el núcleo muerto de una estrella, que gira y manda un pulso en cada vuelta.",
+   "parts": [
+    [
+     13.12,
+     20.13,
+     "La fuente es una ENANA BLANCA: el núcleo MUERTO de una estrella, que gira y manda un PULSO en cada vuelta."
+    ]
+   ]
+  },
+  {
+   "id": "pareja",
+   "t0": 20.76,
+   "t1": 27.72,
+   "say": "Y a su lado hay una estrella parecida al Sol. Es la primera vez que una señal así sale de una pareja como esta.",
+   "parts": [
+    [
+     20.76,
+     27.72,
+     "Y a su lado hay una estrella parecida al SOL. Es la PRIMERA vez que una señal así sale de una pareja como esta."
+    ]
+   ]
+  },
+  {
+   "id": "docena",
+   "t0": 28.23,
+   "t1": 34.05,
+   "say": "Se conocen apenas una docena de señales así, y las parejas vistas antes eran enanas rojas.",
+   "parts": [
+    [
+     28.23,
+     34.05,
+     "Se conocen apenas una DOCENA de señales así, y las parejas vistas antes eran ENANAS ROJAS."
+    ]
+   ]
+  },
+  {
+   "id": "llamaradas",
+   "t0": 34.71,
+   "t1": 39.19,
+   "say": "Con esos pulsos como linterna, hasta detectaron llamaradas en la estrella vecina.",
+   "parts": [
+    [
+     34.71,
+     39.19,
+     "Con esos PULSOS como linterna, hasta detectaron LLAMARADAS en la estrella vecina."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 39.76,
+   "t1": 45.81,
+   "say": "Así que la señal misteriosa no son extraterrestres: es una estrella muerta girando junto a un Sol.",
+   "parts": [
+    [
+     39.76,
+     45.81,
+     "Así que la señal MISTERIOSA no son EXTRATERRESTRES: es una estrella MUERTA girando junto a un SOL."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 47.41
+}
