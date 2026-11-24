@@ -830,10 +830,16 @@
    "titulo_tiktok": "⚡ La señal de radio que se repite cada 8 minutos 📡",
    "descripcion": "⚡ A más de 5,000 años luz, una enana blanca (el núcleo muerto de una estrella) gira como un faro y nos manda un pulso de radio casi cada 8 minutos. Es la primera vez que una señal así sale de una pareja con una estrella parecida al Sol, y sus pulsos hasta revelaron llamaradas en su vecina.\nFuentes: Universidad Curtin (ICRAR) y McSweeney et al., revista Nature Astronomy (nov 2026).\n#ciencia #espacio #astronomia #estrellas #radioastronomia #universo",
    "fecha_programada": "2026-11-24 17:00 (CDMX)",
-   "estado": "esperando aprobación",
+   "estado": "programado",
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-42/FlashDatos_42.mp4",
    "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-42/FlashDatos_42_portada.jpg",
-   "nota": "Video del día del 2026-11-24 (idea 1 del reporte; elegida = null). 47.4 s. Voz: ElevenLabs flow VOmkv6Elatp4Wyy4K4bA, toma 1 (kvKIRdEmlch4qCs8SAiW). Distancia: 'más de 5,000 años luz' (Curtin, Space.com, Sci.News; IFLScience sugiere el doble). No se menciona el tamaño de la compañera (las fuentes no coinciden)."
+   "nota": "Video del día del 2026-11-24 (idea 1 del reporte; elegida = null). 47.4 s. Voz: ElevenLabs flow VOmkv6Elatp4Wyy4K4bA, toma 1 (kvKIRdEmlch4qCs8SAiW). Distancia: 'más de 5,000 años luz' (Curtin, Space.com, Sci.News; IFLScience sugiere el doble). No se menciona el tamaño de la compañera (las fuentes no coinciden).",
+   "metricool": {
+    "id": 441006906,
+    "uuid": "-2371803717041894807",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7723504&openWithPostUuid=-2371803717041894807"
+   },
+   "aprobado": "2026-11-24 16:43 (CDMX), \"Si\" del dueño en el chat"
   }
  ]
 }
