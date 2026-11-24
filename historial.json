@@ -821,6 +821,19 @@
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-41/FlashDatos_41.mp4",
    "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-41/FlashDatos_41_portada.jpg",
    "nota": "Video del día del 2026-11-23 (idea 1 del reporte; elegida = null). 51.1 s. Voz: ElevenLabs flow 2CfzHuUx5OjpoaPhQRqc, toma 1 (Ix5ZWMYgb5HIEE3XJtbt), sin acelerar. Datos de masas/radio solo de NASA y Sci.News; el resto confirmado también por Science News."
+  },
+  {
+   "numero": 42,
+   "tema": "GPM J071507−114153: transitorio de radio de periodo largo; una enana blanca manda pulsos de radio casi cada 8 minutos (7.9) a más de 5,000 años luz y tiene una compañera tipo Sol (tipo G), la primera así (las anteriores, enanas rojas); ~una docena de LPT conocidos desde 2021; los pulsos revelaron llamaradas en la compañera; MWA, MeerKAT y Keck (McSweeney et al., Nature Astronomy, 12 nov 2026)",
+   "carpeta": "videos/42-senal-radio-8-minutos",
+   "titulo": "⚡ Una señal de radio se repite cada 8 MINUTOS… y ya sabemos de dónde viene 📡 #shorts",
+   "titulo_tiktok": "⚡ La señal de radio que se repite cada 8 minutos 📡",
+   "descripcion": "⚡ A más de 5,000 años luz, una enana blanca (el núcleo muerto de una estrella) gira como un faro y nos manda un pulso de radio casi cada 8 minutos. Es la primera vez que una señal así sale de una pareja con una estrella parecida al Sol, y sus pulsos hasta revelaron llamaradas en su vecina.\nFuentes: Universidad Curtin (ICRAR) y McSweeney et al., revista Nature Astronomy (nov 2026).\n#ciencia #espacio #astronomia #estrellas #radioastronomia #universo",
+   "fecha_programada": "2026-11-24 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-42/FlashDatos_42.mp4",
+   "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-42/FlashDatos_42_portada.jpg",
+   "nota": "Video del día del 2026-11-24 (idea 1 del reporte; elegida = null). 47.4 s. Voz: ElevenLabs flow VOmkv6Elatp4Wyy4K4bA, toma 1 (kvKIRdEmlch4qCs8SAiW). Distancia: 'más de 5,000 años luz' (Curtin, Space.com, Sci.News; IFLScience sugiere el doble). No se menciona el tamaño de la compañera (las fuentes no coinciden)."
   }
  ]
 }
