@@ -1,18 +1,18 @@
 {
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-25",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Una señal de radio que se repite cada 8 minutos: una estrella muerta que gira como faro junto a una estrella parecida al Sol (GPM J0715−1141, Nature Astronomy)",
-   "gancho": "A más de 5,000 años luz hay una señal de radio que se repite cada 8 minutos… y por fin sabemos qué es.",
-   "por_que_viral": "'Señal misteriosa que se repite' engancha al instante y abre el debate de los aliens en comentarios, pero con explicación real. Es de esta semana (12–15 nov).",
-   "dato_principal": "GPM J071507−114153: una enana blanca que gira ~cada 8 minutos (algunos medios dicen 7.9) y manda pulsos de radio, a más de 5,000 años luz. Es el primer 'transitorio de periodo largo' (LPT) con una compañera tipo G, parecida al Sol (los anteriores tenían enanas rojas); se vieron fulguraciones en la compañera. Equipo de ICRAR-Curtin (Samuel McSweeney, Natasha Hurley-Walker) con MWA (Australia), MeerKAT (Sudáfrica) y Keck; más de 100 horas de datos. Desde 2021 se conoce alrededor de una docena de LPT. Nature Astronomy, 12 nov 2026.",
-   "escena_3d": "Enana blanca girando como faro con haces de radio en barrido; estrella amarilla al lado con fulguraciones; onda de radio que viaja hasta una antena en el desierto; reloj 8:00 en bucle.",
+   "tema": "Agujeros negros del tamaño de un átomo podrían estar comiéndose estrellas desde adentro (MIT, The Astrophysical Journal, 19 nov 2026)",
+   "gancho": "Un agujero negro más pequeño que un átomo podría estar escondido dentro de una estrella… y comérsela desde adentro.",
+   "por_que_viral": "Imagen inquietante y fácil de entender ('el monstruo invisible adentro'), contraste de tamaños (átomo vs. estrella) y conexión con la materia oscura, el misterio que más comentarios genera. Es de esta semana (MIT, 19 nov) y Live Science lo está difundiendo.",
+   "dato_principal": "Ore Gottlieb (MIT) con Matteo Cantiello (Flatiron), Cameron Norton y Matthew Kleban (NYU) y Ken Van Tilburg (Stanford) modelaron qué pasa si una estrella como el Sol captura un agujero negro primordial (nacido poco después del Big Bang) del tamaño de un átomo y con la masa de un asteroide (~una millonésima de la masa de la Tierra). Para capturarlo hace falta una estrella o planeta compañero; la órbita decae en miles a millones de años. En varios millones de años se come ~1 % de la estrella; si la estrella gira rápido se forma un disco y chorros que la revientan en unas decenas de segundos, con un destello azul/ultravioleta, rayos X y gamma que los telescopios actuales podrían ver. Si se detectan, podrían ser parte de la materia oscura. Cuidado: es teoría, nadie ha visto uno; otro estudio (Bellinger, Max Planck, Live Science) predice que la estrella se infla como 'rezagada roja' en lugar de explotar. Decir 'podría', no 'está pasando'.",
+   "escena_3d": "Estrella amarilla en corte transversal; punto negro diminuto con lente gravitacional que cae en espiral hasta el núcleo; escala átomo → asteroide → estrella; disco brillante y dos chorros que perforan la superficie; destello azul y fragmentos.",
    "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
-    "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star"
+    "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
+    "https://www.livescience.com/space/black-holes/atom-size-black-holes-from-the-dawn-of-time-could-be-devouring-stars-from-the-inside-out-new-research-suggests"
    ]
   },
   {
@@ -29,6 +29,18 @@
   },
   {
    "numero": 3,
+   "tema": "BepiColombo por fin orbita Mercurio: 8 años de viaje, un fallo en el último frenado y aun así lo logró (ESA y JAXA, 21 nov 2026)",
+   "gancho": "Llegar a Mercurio es más difícil que salir del sistema solar… y esta nave lo acaba de lograr después de 8 años.",
+   "por_que_viral": "Noticia de hace 4 días con drama (falla del motor en el último momento y modo seguro) y final feliz; contraintuitivo ('cuesta más frenar hacia el Sol que escapar'); misión europeo-japonesa poco contada en español.",
+   "dato_principal": "BepiColombo (ESA y JAXA, lanzada el 20 oct 2018) entró en órbita de Mercurio el 21 nov 2026 desde las 18:24 UTC, la primera vez que se usa una 'captura de estabilidad débil' para entrar en órbita de otro planeta. Un error de software cortó antes de tiempo el encendido y la nave entró en modo seguro: quedó en una órbita de 75 horas en vez de 58, pero ESA dice que no afecta la misión. El 9–10 dic se separan sus dos naves (MPO, europea, y Mio, japonesa); la ciencia empieza en abril de 2027. Hizo 9 sobrevuelos (1 de la Tierra, 2 de Venus y 6 de Mercurio) para frenar. Cuidado: confirmar el número de sobrevuelos con ESA antes del guion (la página en vivo de ESA habla del 'quinto paso' en el tramo final).",
+   "escena_3d": "Mercurio gris lleno de cráteres con el Sol enorme al fondo; nave con paneles y escudo térmico que llega en espiral; motor que se apaga antes de tiempo (alerta roja 'MODO SEGURO'); órbita que se dibuja larga (75 h vs. 58 h); separación de las dos sondas.",
+   "fuentes": [
+    "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+    "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival"
+   ]
+  },
+  {
+   "numero": 4,
    "tema": "La pareja de cuásares más antigua: dos agujeros negros gigantes encendidos solo 900 millones de años después del Big Bang (Nāpōwawāʻenakaulua, JWST + Gemini Norte)",
    "gancho": "Al principio del universo había dos monstruos devorándolo todo… uno junto al otro.",
    "por_que_viral": "Récord + agujeros negros + JWST, la combinación que más retiene en ciencia; el nombre hawaiano es curioso y los agujeros negros 'no deberían existir tan pronto', un misterio que genera debate. ScienceDaily lo volvió a difundir el 23 nov.",
@@ -40,7 +52,7 @@
    ]
   },
   {
-   "numero": 4,
+   "numero": 5,
    "tema": "Cuando Arabia era verde: hipopótamos junto a un lago en pleno desierto y puntas de piedra con rastros de veneno hace ~125,000 años (Mundafan, revista Science)",
    "gancho": "Hace 125,000 años, en uno de los desiertos más secos del planeta, había hipopótamos… y humanos cazándolos con veneno.",
    "por_que_viral": "Contraste brutal (desierto hoy, lago con hipopótamos ayer) y 'armas envenenadas' de la prehistoria: muy compartible. Publicado en Science el 12 nov y difundido toda la semana.",
@@ -52,19 +64,19 @@
    ]
   },
   {
-   "numero": 5,
-   "tema": "Hayabusa2 se quedó sin motores: la sonda japonesa que trajo pedazos del asteroide Ryugu ya no podrá aterrizar en 1998 KY26 y cambia de destino",
-   "gancho": "La nave que trajo pedazos de un asteroide a la Tierra acaba de perder su último motor… pero no se rinde.",
-   "por_que_viral": "Historia de 'héroe que no se rinde', noticia de esta semana (JAXA, 17 nov) y misión muy querida; drama con final esperanzador.",
-   "dato_principal": "De sus 4 motores de iones, el último que funcionaba falló a mediados de agosto de 2026; también se detectó erosión inesperada en su superficie. JAXA canceló el aterrizaje en 1998 KY26 (un asteroide de ~11 m, previsto para 2031) y en su lugar hará un sobrevuelo rápido de 2015 BM510 (tipo D) en abril de 2028. Lanzada en 2014, trajo muestras de Ryugu en diciembre de 2020 y en julio de 2026 pasó junto a Torifune (~840 × 340 m).",
-   "escena_3d": "Sonda con paneles solares y 4 motores de iones azules que se apagan uno a uno; trayectoria original a 1998 KY26 que se borra y nueva hacia 2015 BM510; flashback de la cápsula de Ryugu entrando a la atmósfera.",
+   "numero": 6,
+   "tema": "NASA rompió la barrera del sonido con las hélices del próximo helicóptero de Marte (JPL, Mach 1.08, +30 % de sustentación)",
+   "gancho": "En Marte el aire es tan delgado que para volar hay que girar las hélices más rápido que el sonido… y la NASA ya lo logró.",
+   "por_que_viral": "'Más rápido que el sonido' + Marte + sucesor de Ingenuity: muy visual y fácil de explicar. ScienceDaily lo volvió a difundir el 17 nov.",
+   "dato_principal": "En el simulador espacial de 25 pies del JPL, lleno de CO₂ como Marte, un rotor de 3 palas a 3,750 rpm llegó a Mach 0.98 y las puntas alcanzaron Mach 1.08 sin daños (137 pruebas, marzo de 2026). JPL dice que esto da ~30 % más sustentación. Ingenuity (72 vuelos desde el 19 abr 2021) giraba a menos de 2,700 rpm, con puntas a ~Mach 0.7. El aire de Marte tiene ~1 % de la densidad del de la Tierra y el sonido viaja ahí a ~870 km/h (vs. ~1,220 km/h aquí). El proyecto SkyFall planea mandar 3 helicópteros nuevos en diciembre de 2028. Cuidado: los resultados aún se analizan; decir 'hasta 30 %'.",
+   "escena_3d": "Helicóptero marciano sobre dunas rojas; zoom a la punta de la pala con anillo de choque al pasar Mach 1; comparación lado a lado con Ingenuity; velocímetro que cruza 'MACH 1'; tres helicópteros que bajan de un aeroshell.",
    "fuentes": [
-    "https://space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
-    "https://www.nippon.com/en/articles/-/57606"
+    "https://www.jpl.nasa.gov/news/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
+    "https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video"
    ]
   },
   {
-   "numero": 6,
+   "numero": 7,
    "tema": "La ballena 'huachafa' de Perú: el cráneo más chueco de todos los mamíferos (Scaphokogia huachafo, Communications Biology)",
    "gancho": "Hace 6 millones de años, en Perú, nadaba una ballena con la cara completamente chueca.",
    "por_que_viral": "Historia latinoamericana con nombre en jerga peruana ('huachafo' = estrafalario), divertida y muy visual: ideal para compartir y comentar. ScienceDaily la difundió el 19 nov.",
@@ -76,27 +88,15 @@
    ]
   },
   {
-   "numero": 7,
-   "tema": "Estrellas que se 'apagan' sin explotar: pistas de agujeros negros nacidos de supernovas fallidas (LIGO-Virgo-KAGRA, Caltech)",
-   "gancho": "Algunas estrellas gigantes no mueren con una explosión… simplemente desaparecen.",
-   "por_que_viral": "La imagen de una estrella que se desvanece es inquietante y contradice lo que casi todos creen (que toda estrella gigante termina en supernova). Difundido el 10–17 nov; ScienceDaily lo volvió a publicar el 22 nov.",
-   "dato_principal": "Katerina Chatziioannou (Caltech) e Isaac Legred (UIUC) analizaron 257 fusiones de agujeros negros detectadas por LIGO-Virgo-KAGRA: hay un pico en ~10 masas solares (cerca de 3/4 de la muestra), con giros parecidos, y un hueco inesperado entre 12 y 16 masas solares. Es consistente con estrellas que colapsan directo a agujero negro sin explotar. Advertencia: no es prueba directa de supernovas fallidas, solo encaja con la idea. Physical Review D, 2026.",
-   "escena_3d": "Supergigante roja que colapsa hacia dentro sin destello y se apaga; queda un agujero negro con lente gravitacional; dos agujeros negros en espiral se fusionan y deforman una malla (ondas gravitacionales).",
-   "fuentes": [
-    "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
-    "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
-   ]
-  },
-  {
    "numero": 8,
-   "tema": "Ladrillos tipo LEGO hechos con polvo lunar: un láser derrite el polvo y salen piezas que encajan, sin pegamento traído de la Tierra (Universidad de Arkansas, npj Advanced Manufacturing)",
-   "gancho": "Para construir en la Luna no habrá que llevar ladrillos… vamos a imprimirlos con su propio polvo, como si fueran LEGO.",
-   "por_que_viral": "LEGO + Luna es una mezcla irresistible y muy visual; lo hizo un estudiante universitario (historia inspiradora) y ScienceDaily lo difundió el 20 nov.",
-   "dato_principal": "Con fusión láser en lecho de polvo y sin aglutinante, el equipo de Wan Shou (Universidad de Arkansas; primer autor Cole McCallum, entonces estudiante de licenciatura) sinterizó simulante de regolito de las tierras altas lunares (LHS-1) en bloques de pocos centímetros en forma de cruz y de H que encajan entre sí. Hasta ahora se usaban aglutinantes que habría que mandar desde la Tierra. npj Advanced Manufacturing (en línea 29 ago 2026; nota de prensa 11 nov). Cuidado: son más porosos y débiles que los impresos con aglutinante, falta probarlos en vacío y microgravedad, y la resistencia de ~3.4 MPa solo la da una fuente (no usarla).",
-   "escena_3d": "Superficie lunar gris; un haz láser recorre una capa de polvo y aparece una pieza en forma de H; las piezas se ensamblan solas en un muro y luego en un domo con la Tierra en el cielo; etiqueta 'SIN PEGAMENTO'.",
+   "tema": "Hayabusa2 se quedó sin motores: la sonda japonesa que trajo pedazos del asteroide Ryugu ya no podrá aterrizar en 1998 KY26 y cambia de destino",
+   "gancho": "La nave que trajo pedazos de un asteroide a la Tierra acaba de perder su último motor… pero no se rinde.",
+   "por_que_viral": "Historia de 'héroe que no se rinde', noticia de esta semana (JAXA, 17 nov) y misión muy querida; drama con final esperanzador.",
+   "dato_principal": "De sus 4 motores de iones, el último que funcionaba falló a mediados de agosto de 2026; también se detectó erosión inesperada en su superficie. JAXA canceló el aterrizaje en 1998 KY26 (un asteroide de ~11 m, previsto para 2031) y en su lugar hará un sobrevuelo rápido de 2015 BM510 (tipo D) en abril de 2028. Lanzada en 2014, trajo muestras de Ryugu en diciembre de 2020 y en julio de 2026 pasó junto a Torifune (~840 × 340 m).",
+   "escena_3d": "Sonda con paneles solares y 4 motores de iones azules que se apagan uno a uno; trayectoria original a 1998 KY26 que se borra y nueva hacia 2015 BM510; flashback de la cápsula de Ryugu entrando a la atmósfera.",
    "fuentes": [
-    "https://www.eurekalert.org/news-releases/1151551",
-    "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+    "https://space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+    "https://www.nippon.com/en/articles/-/57606"
    ]
   }
  ]
