@@ -1,0 +1,14 @@
+{
+ "id": "43",
+ "title": "Un agujero negro más pequeño que un átomo dentro de una estrella",
+ "segments": [
+  {"id": "gancho", "parts": [{"say": "Un agujero negro más pequeño que un átomo podría estar escondido dentro de una estrella… y comérsela desde adentro.", "cap": "Un AGUJERO NEGRO más pequeño que un ÁTOMO podría estar escondido dentro de una ESTRELLA… y comérsela desde ADENTRO."}]},
+  {"id": "origen", "parts": [{"say": "Se llaman agujeros negros primordiales: habrían nacido poco después del Big Bang, con la masa de un asteroide.", "cap": "Se llaman agujeros negros PRIMORDIALES: habrían nacido poco después del BIG BANG, con la masa de un ASTEROIDE."}]},
+  {"id": "captura", "parts": [{"say": "Una estrella sola no puede atraparlo. Pero si tiene un planeta o una estrella compañera, el agujero negro puede quedar atrapado.", "cap": "Una estrella SOLA no puede atraparlo. Pero si tiene un PLANETA o una estrella COMPAÑERA, el agujero negro puede quedar ATRAPADO."}]},
+  {"id": "caida", "parts": [{"say": "Cada vez que la atraviesa, frena un poco, hasta que cae al centro.", "cap": "Cada vez que la ATRAVIESA, frena un poco, hasta que cae al CENTRO."}]},
+  {"id": "come", "parts": [{"say": "Ahí se la va comiendo por dentro durante millones de años.", "cap": "Ahí se la va COMIENDO por dentro durante MILLONES de años."}]},
+  {"id": "chorros", "parts": [{"say": "Y si la estrella gira rápido, se forma un disco y dos chorros que la revientan, con un destello de rayos X y luz azul.", "cap": "Y si la estrella GIRA rápido, se forma un DISCO y dos CHORROS que la revientan, con un destello de RAYOS X y luz AZUL."}]},
+  {"id": "materia", "parts": [{"say": "Nadie ha visto uno todavía, pero si existen, podrían ser parte de la materia oscura.", "cap": "Nadie ha visto uno TODAVÍA, pero si existen, podrían ser parte de la MATERIA OSCURA."}]},
+  {"id": "cierre", "parts": [{"say": "Así que algunas estrellas podrían morir por culpa de un monstruo más pequeño que un átomo.", "cap": "Así que algunas estrellas podrían MORIR por culpa de un MONSTRUO más pequeño que un ÁTOMO."}]}
+ ]
+}
