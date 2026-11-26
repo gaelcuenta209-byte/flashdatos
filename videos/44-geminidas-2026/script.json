@@ -7,7 +7,7 @@
   {"id": "rastro", "parts": [{"say": "Faetón pasa muy cerca del Sol y va dejando en su órbita un rastro de polvo y roca.", "cap": "Faetón pasa muy cerca del SOL y va dejando en su órbita un RASTRO de polvo y roca."}]},
   {"id": "cruce", "parts": [{"say": "Cada diciembre, la Tierra atraviesa ese rastro. Los granitos entran a treinta y cinco kilómetros por segundo y se encienden.", "cap": "Cada DICIEMBRE, la Tierra atraviesa ese rastro. Los granitos entran a 35 KM POR SEGUNDO y se ENCIENDEN."}]},
   {"id": "luna", "parts": [{"say": "Y este año la Luna casi no estorba: será una rebanada delgada que se mete temprano.", "cap": "Y este año la LUNA casi no estorba: será una rebanada DELGADA que se mete TEMPRANO."}]},
-  {"id": "hora", "parts": [{"say": "El mejor momento es la madrugada del catorce, hacia las dos de la mañana, lejos de las luces de la ciudad.", "cap": "El mejor momento es la madrugada del 14, hacia las 2 A. M., LEJOS de las luces de la ciudad."}]},
+  {"id": "hora", "parts": [{"say": "El mejor momento es la madrugada del catorce, hacia las dos de la mañana, lejos de las luces de la ciudad.", "cap": "El mejor momento es la madrugada del 14, hacia las 2 A.M., LEJOS de las luces de la ciudad."}]},
   {"id": "cierre", "parts": [{"say": "Así que esa noche, cada luz que cruce el cielo será un pedacito de asteroide encendiéndose sobre ti.", "cap": "Así que esa noche, cada luz que cruce el cielo será un PEDACITO DE ASTEROIDE encendiéndose sobre TI."}]}
  ]
 }

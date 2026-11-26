@@ -1,0 +1,99 @@
+{
+ "voice_offset": 0.1,
+ "voice_duration": 47.83,
+ "segments": [
+  {
+   "id": "gancho",
+   "t0": 0.1,
+   "t1": 6.7,
+   "say": "La noche del trece de diciembre podrías ver más de cien estrellas fugaces en una hora… y no vienen de un cometa.",
+   "parts": [
+    [
+     0.1,
+     6.7,
+     "La noche del 13 de DICIEMBRE podrías ver más de 100 ESTRELLAS FUGACES en una hora… y no vienen de un COMETA."
+    ]
+   ]
+  },
+  {
+   "id": "origen",
+   "t0": 7.25,
+   "t1": 15.7,
+   "say": "Son las Gemínidas, una de las lluvias de estrellas más intensas del año. Casi todas nacen de cometas, pero estas vienen de un asteroide: Faetón.",
+   "parts": [
+    [
+     7.25,
+     15.7,
+     "Son las GEMÍNIDAS, una de las lluvias de estrellas más INTENSAS del año. Casi todas nacen de COMETAS, pero estas vienen de un ASTEROIDE: FAETÓN."
+    ]
+   ]
+  },
+  {
+   "id": "rastro",
+   "t0": 16.08,
+   "t1": 22.07,
+   "say": "Faetón pasa muy cerca del Sol y va dejando en su órbita un rastro de polvo y roca.",
+   "parts": [
+    [
+     16.08,
+     22.07,
+     "Faetón pasa muy cerca del SOL y va dejando en su órbita un RASTRO de polvo y roca."
+    ]
+   ]
+  },
+  {
+   "id": "cruce",
+   "t0": 22.73,
+   "t1": 28.9,
+   "say": "Cada diciembre, la Tierra atraviesa ese rastro. Los granitos entran a treinta y cinco kilómetros por segundo y se encienden.",
+   "parts": [
+    [
+     22.73,
+     28.9,
+     "Cada DICIEMBRE, la Tierra atraviesa ese rastro. Los granitos entran a 35 KM POR SEGUNDO y se ENCIENDEN."
+    ]
+   ]
+  },
+  {
+   "id": "luna",
+   "t0": 29.02,
+   "t1": 35.07,
+   "say": "Y este año la Luna casi no estorba: será una rebanada delgada que se mete temprano.",
+   "parts": [
+    [
+     29.02,
+     35.07,
+     "Y este año la LUNA casi no estorba: será una rebanada DELGADA que se mete TEMPRANO."
+    ]
+   ]
+  },
+  {
+   "id": "hora",
+   "t0": 35.66,
+   "t1": 41.06,
+   "say": "El mejor momento es la madrugada del catorce, hacia las dos de la mañana, lejos de las luces de la ciudad.",
+   "parts": [
+    [
+     35.66,
+     41.06,
+     "El mejor momento es la madrugada del 14, hacia las 2 A.M., LEJOS de las luces de la ciudad."
+    ]
+   ]
+  },
+  {
+   "id": "cierre",
+   "t0": 41.69,
+   "t1": 47.65,
+   "say": "Así que esa noche, cada luz que cruce el cielo será un pedacito de asteroide encendiéndose sobre ti.",
+   "parts": [
+    [
+     41.69,
+     47.65,
+     "Así que esa noche, cada luz que cruce el cielo será un PEDACITO DE ASTEROIDE encendiéndose sobre TI."
+    ]
+   ]
+  }
+ ],
+ "rings": [],
+ "end": 49.6
+}
