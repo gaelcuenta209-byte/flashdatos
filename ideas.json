@@ -1,18 +1,18 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Agujeros negros del tamaño de un átomo podrían estar comiéndose estrellas desde adentro (MIT, The Astrophysical Journal, 19 nov 2026)",
-   "gancho": "Un agujero negro más pequeño que un átomo podría estar escondido dentro de una estrella… y comérsela desde adentro.",
-   "por_que_viral": "Imagen inquietante y fácil de entender ('el monstruo invisible adentro'), contraste de tamaños (átomo vs. estrella) y conexión con la materia oscura, el misterio que más comentarios genera. Es de esta semana (MIT, 19 nov) y Live Science lo está difundiendo.",
-   "dato_principal": "Ore Gottlieb (MIT) con Matteo Cantiello (Flatiron), Cameron Norton y Matthew Kleban (NYU) y Ken Van Tilburg (Stanford) modelaron qué pasa si una estrella como el Sol captura un agujero negro primordial (nacido poco después del Big Bang) del tamaño de un átomo y con la masa de un asteroide (~una millonésima de la masa de la Tierra). Para capturarlo hace falta una estrella o planeta compañero; la órbita decae en miles a millones de años. En varios millones de años se come ~1 % de la estrella; si la estrella gira rápido se forma un disco y chorros que la revientan en unas decenas de segundos, con un destello azul/ultravioleta, rayos X y gamma que los telescopios actuales podrían ver. Si se detectan, podrían ser parte de la materia oscura. Cuidado: es teoría, nadie ha visto uno; otro estudio (Bellinger, Max Planck, Live Science) predice que la estrella se infla como 'rezagada roja' en lugar de explotar. Decir 'podría', no 'está pasando'.",
-   "escena_3d": "Estrella amarilla en corte transversal; punto negro diminuto con lente gravitacional que cae en espiral hasta el núcleo; escala átomo → asteroide → estrella; disco brillante y dos chorros que perforan la superficie; destello azul y fragmentos.",
+   "tema": "Gemínidas 2026: la mejor lluvia de estrellas del año llega a su máximo la noche del 13 al 14 de diciembre, con poca Luna",
+   "gancho": "El 13 de diciembre podrías ver hasta 150 estrellas fugaces en una hora… y no vienen de un cometa.",
+   "por_que_viral": "Evento que el público puede ver en menos de 3 semanas: se guarda y se comparte para planear la noche. El giro de que nace de un asteroide (Faetón) y no de un cometa sorprende. En TikTok funcionan las noticias con fecha (Swift 5,331 vistas, Voyager 4,693).",
+   "dato_principal": "Activa del 4 al 17 de diciembre (Star Walk; del 4 al 20 según el Royal Observatory Greenwich). Máximo hacia las 14:00 GMT del 14 de diciembre (IMO), con actividad alta desde las 21:00 GMT del 13: en México, la mejor noche es la del 13 al 14, hacia las 2 a. m. Hasta 120–150 meteoros por hora en cielo ideal. La Luna es un creciente al 20 % que se pone hacia las 21:20, así que casi no estorba. Las partículas vienen del asteroide 3200 Faetón (~6 km), que da una vuelta cada ~1.4 años en una órbita muy alargada. Cuidado: 120–150 por hora es con cielo oscuro perfecto; en la ciudad se ven muchas menos. Hay debate sobre si Faetón es asteroide o 'cometa de roca'.",
+   "escena_3d": "Faetón pasa rozando el Sol y deja una estela de polvo; la Tierra cruza la estela; la cámara baja a un cielo nocturno mexicano lleno de meteoros que salen de Géminis; reloj '13–14 DIC · 2 A. M.'.",
    "fuentes": [
-    "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
-    "https://www.livescience.com/space/black-holes/atom-size-black-holes-from-the-dawn-of-time-could-be-devouring-stars-from-the-inside-out-new-research-suggests"
+    "https://starwalk.space/en/news/66D7B9E5-6774-F3A1-8478-732832D52E24",
+    "https://www.rmg.co.uk/discover/explore/geminid-meteor-shower-when-and-where-see-it-uk"
    ]
   },
   {
@@ -29,18 +29,30 @@
   },
   {
    "numero": 3,
-   "tema": "BepiColombo por fin orbita Mercurio: 8 años de viaje, un fallo en el último frenado y aun así lo logró (ESA y JAXA, 21 nov 2026)",
-   "gancho": "Llegar a Mercurio es más difícil que salir del sistema solar… y esta nave lo acaba de lograr después de 8 años.",
-   "por_que_viral": "Noticia de hace 4 días con drama (falla del motor en el último momento y modo seguro) y final feliz; contraintuitivo ('cuesta más frenar hacia el Sol que escapar'); misión europeo-japonesa poco contada en español.",
-   "dato_principal": "BepiColombo (ESA y JAXA, lanzada el 20 oct 2018) entró en órbita de Mercurio el 21 nov 2026 desde las 18:24 UTC, la primera vez que se usa una 'captura de estabilidad débil' para entrar en órbita de otro planeta. Un error de software cortó antes de tiempo el encendido y la nave entró en modo seguro: quedó en una órbita de 75 horas en vez de 58, pero ESA dice que no afecta la misión. El 9–10 dic se separan sus dos naves (MPO, europea, y Mio, japonesa); la ciencia empieza en abril de 2027. Hizo 9 sobrevuelos (1 de la Tierra, 2 de Venus y 6 de Mercurio) para frenar. Cuidado: confirmar el número de sobrevuelos con ESA antes del guion (la página en vivo de ESA habla del 'quinto paso' en el tramo final).",
-   "escena_3d": "Mercurio gris lleno de cráteres con el Sol enorme al fondo; nave con paneles y escudo térmico que llega en espiral; motor que se apaga antes de tiempo (alerta roja 'MODO SEGURO'); órbita que se dibuja larga (75 h vs. 58 h); separación de las dos sondas.",
+   "tema": "Mandaron un mensaje a través de una pared usando solo gravedad: un contrapeso de elevador de 1.8 toneladas y un gravímetro en un baño (Universidad de Queensland, Science Advances, 19 nov 2026)",
+   "gancho": "Este elevador viejo acaba de mandar un mensaje que ninguna pared del mundo puede bloquear.",
+   "por_que_viral": "Suena a ciencia ficción ('comunicación imposible de bloquear'), la imagen es absurda y memorable (elevador viejo y sensor en un baño) y el contraste de cifras engancha: una hora para mandar una palabra.",
+   "dato_principal": "Un contrapeso de elevador de 1.8 toneladas subía y bajaba entre dos posiciones para escribir unos y ceros con cambios diminutos en la gravedad. Un gravímetro en un baño, del otro lado de una pared de ladrillo, leyó la palabra 'Gravity' a 1 bit por minuto (≈1 hora por palabra). Sus modelos dicen que con sensores cuánticos se podría llegar a ~500 m y ~15 bits por minuto. Universidad de Queensland, Science Advances (comunicado 18 nov, artículo 19 nov 2026). Cuidado: los 500 m y 15 bits/min son proyecciones, no se han demostrado; no se publicó la distancia real del experimento.",
+   "escena_3d": "Corte tipo rayos X de un edificio: el contrapeso sube y baja, ondas de gravedad atraviesan la pared de ladrillo como si no existiera y llegan al sensor, donde se escriben letra por letra G-R-A-V-I-T-Y; contador '1 BIT/MIN'.",
    "fuentes": [
-    "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
-    "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival"
+    "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+    "https://www.eurekalert.org/news-releases/1152152"
    ]
   },
   {
    "numero": 4,
+   "tema": "BepiColombo ya orbita Mercurio: 8 años de viaje, 9 sobrevuelos y un fallo en el último frenado, y aun así lo logró (ESA y JAXA, 21 nov 2026)",
+   "gancho": "Llegar a Mercurio es más difícil que salir del sistema solar… y esta nave lo acaba de lograr después de 8 años.",
+   "por_que_viral": "Drama con final feliz (el motor se apagó antes de tiempo y entró en modo seguro, pero quedó en órbita estable), dato contraintuitivo ('cuesta más frenar hacia el Sol que escapar') y fecha próxima: las dos naves se separan hacia el 9 de diciembre. Misión europeo-japonesa poco contada en español.",
+   "dato_principal": "Lanzada el 20 oct 2018, BepiColombo (ESA y JAXA) hizo 9 sobrevuelos para frenar (1 de la Tierra, 2 de Venus y 6 de Mercurio). El 21 nov 2026 empezó a las 18:24 GMT un encendido de 37 minutos para entrar en órbita; un fallo de software lo cortó tras ~3/4 de lo planeado y la nave entró en modo seguro, pero quedó en órbita (75 h en vez de 58 h). El 23 nov ESA dijo que está 'a salvo y en una órbita estable'. Hacia el 9 dic se separan Mio (japonesa) y MPO (europea); MPO llega a su órbita polar final el 10 mar 2027 y la ciencia empieza el 6 abr 2027. Cuidado: la página en vivo de ESA no se pudo abrir hoy; los sobrevuelos y el 23 nov salen de Space.com y EarthSky.",
+   "escena_3d": "Mercurio gris lleno de cráteres con el Sol enorme al fondo; nave con paneles y escudo térmico que llega en espiral; motor que se apaga antes de tiempo (alerta roja 'MODO SEGURO'); órbita que se dibuja larga (75 h vs. 58 h); separación de las dos sondas.",
+   "fuentes": [
+    "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+    "https://earthsky.org/space/bepicolombo-mission-mercury/"
+   ]
+  },
+  {
+   "numero": 5,
    "tema": "La pareja de cuásares más antigua: dos agujeros negros gigantes encendidos solo 900 millones de años después del Big Bang (Nāpōwawāʻenakaulua, JWST + Gemini Norte)",
    "gancho": "Al principio del universo había dos monstruos devorándolo todo… uno junto al otro.",
    "por_que_viral": "Récord + agujeros negros + JWST, la combinación que más retiene en ciencia; el nombre hawaiano es curioso y los agujeros negros 'no deberían existir tan pronto', un misterio que genera debate. ScienceDaily lo volvió a difundir el 23 nov.",
@@ -52,7 +64,7 @@
    ]
   },
   {
-   "numero": 5,
+   "numero": 6,
    "tema": "Cuando Arabia era verde: hipopótamos junto a un lago en pleno desierto y puntas de piedra con rastros de veneno hace ~125,000 años (Mundafan, revista Science)",
    "gancho": "Hace 125,000 años, en uno de los desiertos más secos del planeta, había hipopótamos… y humanos cazándolos con veneno.",
    "por_que_viral": "Contraste brutal (desierto hoy, lago con hipopótamos ayer) y 'armas envenenadas' de la prehistoria: muy compartible. Publicado en Science el 12 nov y difundido toda la semana.",
@@ -64,7 +76,7 @@
    ]
   },
   {
-   "numero": 6,
+   "numero": 7,
    "tema": "NASA rompió la barrera del sonido con las hélices del próximo helicóptero de Marte (JPL, Mach 1.08, +30 % de sustentación)",
    "gancho": "En Marte el aire es tan delgado que para volar hay que girar las hélices más rápido que el sonido… y la NASA ya lo logró.",
    "por_que_viral": "'Más rápido que el sonido' + Marte + sucesor de Ingenuity: muy visual y fácil de explicar. ScienceDaily lo volvió a difundir el 17 nov.",
@@ -76,27 +88,15 @@
    ]
   },
   {
-   "numero": 7,
-   "tema": "La ballena 'huachafa' de Perú: el cráneo más chueco de todos los mamíferos (Scaphokogia huachafo, Communications Biology)",
-   "gancho": "Hace 6 millones de años, en Perú, nadaba una ballena con la cara completamente chueca.",
-   "por_que_viral": "Historia latinoamericana con nombre en jerga peruana ('huachafo' = estrafalario), divertida y muy visual: ideal para compartir y comentar. ScienceDaily la difundió el 19 nov.",
-   "dato_principal": "Scaphokogia huachafo, un cachalote pigmeo extinto de ~2.7 m que vivió hace ~6.3–5.6 millones de años (Formación Pisco, sur de Perú). Las dos narinas están del lado izquierdo y su cráneo es posiblemente el más asimétrico de cualquier mamífero. El hocico macizo se inclina 31° hacia abajo y la cabeza podía bajar otros 55°: comía por succión en el fondo (pulpos, calamares). El fósil estuvo años sin identificar en el Museo de Historia Natural de Lima. Autor principal: Aldo Benites-Palomino (UZH/FAU). No dar el año en que se halló (las fuentes no coinciden).",
-   "escena_3d": "Cráneo que gira 360° mostrando la asimetría; se 'viste' de ballena y nada pegada a un fondo arenoso con partículas; ángulos de 31° y 55° anotados; mapa de Perú con la Formación Pisco.",
-   "fuentes": [
-    "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-    "https://www.eurekalert.org/news-releases/1151630"
-   ]
-  },
-  {
    "numero": 8,
-   "tema": "Hayabusa2 se quedó sin motores: la sonda japonesa que trajo pedazos del asteroide Ryugu ya no podrá aterrizar en 1998 KY26 y cambia de destino",
-   "gancho": "La nave que trajo pedazos de un asteroide a la Tierra acaba de perder su último motor… pero no se rinde.",
-   "por_que_viral": "Historia de 'héroe que no se rinde', noticia de esta semana (JAXA, 17 nov) y misión muy querida; drama con final esperanzador.",
-   "dato_principal": "De sus 4 motores de iones, el último que funcionaba falló a mediados de agosto de 2026; también se detectó erosión inesperada en su superficie. JAXA canceló el aterrizaje en 1998 KY26 (un asteroide de ~11 m, previsto para 2031) y en su lugar hará un sobrevuelo rápido de 2015 BM510 (tipo D) en abril de 2028. Lanzada en 2014, trajo muestras de Ryugu en diciembre de 2020 y en julio de 2026 pasó junto a Torifune (~840 × 340 m).",
-   "escena_3d": "Sonda con paneles solares y 4 motores de iones azules que se apagan uno a uno; trayectoria original a 1998 KY26 que se borra y nueva hacia 2015 BM510; flashback de la cápsula de Ryugu entrando a la atmósfera.",
+   "tema": "Euclid, el telescopio que busca materia oscura, descubrió por casualidad su primer cometa: C/2026 S1 (Euclid), hallado por un estudiante de doctorado con su propio software",
+   "gancho": "Un telescopio hecho para buscar materia oscura encontró algo que nadie esperaba: un cometa nuevo.",
+   "por_que_viral": "Giro de 'buscaban una cosa y encontraron otra', héroe joven (un estudiante con su propio programa) y cometas que se ven increíbles en 3D. ESA y ScienceDaily lo difundieron el 24–25 nov.",
+   "dato_principal": "Las imágenes son del 16 al 24 de septiembre de 2026: 16 exposiciones en 5 campos del Euclid Deep Field North. El Minor Planet Center lo confirmó el 8 de octubre. Lo detectó Mikko Pöntinen, estudiante de doctorado de la Universidad de Helsinki, con un software que él creó. Está a ~1,300 millones de km de la Tierra, muy por encima del plano de los planetas, y su órbita dura miles de años. Cuidado: el periodo aún se afina, no hay artículo revisado por pares y la confirmación es de octubre (la difusión es de esta semana).",
+   "escena_3d": "Euclid flotando en el espacio profundo; entre miles de galaxias una manchita borrosa se mueve cuadro a cuadro hasta convertirse en un cometa con cola; órbita inclinada que sale del plano de los planetas.",
    "fuentes": [
-    "https://space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
-    "https://www.nippon.com/en/articles/-/57606"
+    "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+    "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
    ]
   }
  ]
