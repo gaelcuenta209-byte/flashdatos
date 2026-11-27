@@ -1,34 +1,22 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Gemínidas 2026: la mejor lluvia de estrellas del año llega a su máximo la noche del 13 al 14 de diciembre, con poca Luna",
-   "gancho": "El 13 de diciembre podrías ver hasta 150 estrellas fugaces en una hora… y no vienen de un cometa.",
-   "por_que_viral": "Evento que el público puede ver en menos de 3 semanas: se guarda y se comparte para planear la noche. El giro de que nace de un asteroide (Faetón) y no de un cometa sorprende. En TikTok funcionan las noticias con fecha (Swift 5,331 vistas, Voyager 4,693).",
-   "dato_principal": "Activa del 4 al 17 de diciembre (Star Walk; del 4 al 20 según el Royal Observatory Greenwich). Máximo hacia las 14:00 GMT del 14 de diciembre (IMO), con actividad alta desde las 21:00 GMT del 13: en México, la mejor noche es la del 13 al 14, hacia las 2 a. m. Hasta 120–150 meteoros por hora en cielo ideal. La Luna es un creciente al 20 % que se pone hacia las 21:20, así que casi no estorba. Las partículas vienen del asteroide 3200 Faetón (~6 km), que da una vuelta cada ~1.4 años en una órbita muy alargada. Cuidado: 120–150 por hora es con cielo oscuro perfecto; en la ciudad se ven muchas menos. Hay debate sobre si Faetón es asteroide o 'cometa de roca'.",
-   "escena_3d": "Faetón pasa rozando el Sol y deja una estela de polvo; la Tierra cruza la estela; la cámara baja a un cielo nocturno mexicano lleno de meteoros que salen de Géminis; reloj '13–14 DIC · 2 A. M.'.",
+   "tema": "Europa Clipper pasa rozando la Tierra el 3 de diciembre de 2026: a ~3,200 km, más cerca que muchos satélites, para tomar impulso hacia Júpiter (NASA)",
+   "gancho": "El jueves 3 de diciembre una nave de la NASA va a pasar más cerca de la Tierra que muchos satélites… y no se va a quedar.",
+   "por_que_viral": "Evento con fecha dentro de una semana (en TikTok las noticias con fecha son las que mejor nos van: Swift 5,332, Voyager 4,694, Hera 4,284). La 'resortera gravitacional' es contraintuitiva y muy visual, y va a buscar vida en un océano escondido bajo el hielo de Europa.",
+   "dato_principal": "Acercamiento máximo el 3 dic 2026 sobre África Occidental, a unos 3,200 km (NASA; Universe Today da 3,140–3,450 km). Junto con el sobrevuelo de Marte (1 mar 2025, a 884 km) le da la energía para llegar a Júpiter; entra en órbita en abril de 2030 (11 abr según Wikipedia). Los 11 instrumentos se encienden para calibrarse con la Tierra. Lanzada en octubre de 2024. Cuidado: la hora no coincide entre fuentes (3:14 p. m. EST según Universe Today, 4:15 p. m. EST según Wikipedia; o sea 14:14 o 15:15 en CDMX); la NASA no da hora. Solo se vería con telescopio desde África y el sur de Europa, no desde México.",
+   "escena_3d": "Tierra 3D de día con la nave (paneles enormes de 30 m) llegando en curva; la trayectoria se dobla al pasar sobre África y la nave sale disparada; contador '3,200 KM' y comparación con la órbita de satélites; corte a Júpiter y la luna Europa con grietas de hielo y océano debajo; fecha '3 DIC'.",
    "fuentes": [
-    "https://starwalk.space/en/news/66D7B9E5-6774-F3A1-8478-732832D52E24",
-    "https://www.rmg.co.uk/discover/explore/geminid-meteor-shower-when-and-where-see-it-uk"
+    "https://science.nasa.gov/mission/europa-clipper/mission-timeline",
+    "https://www.universetoday.com/articles/slingshot-earth-nasas-europa-clipper-will-gain-speed-and-tests-its-instruments-during-its-earth-flyb"
    ]
   },
   {
    "numero": 2,
-   "tema": "Jonathan, la tortuga de 194 años: el animal terrestre vivo más viejo del mundo guarda 'interruptores' genéticos que casi no han envejecido (Science Advances, oct 2026)",
-   "gancho": "Esta tortuga nació en 1832, antes de que existiera el foco… y su ADN todavía se porta como si fuera joven.",
-   "por_que_viral": "Animal entrañable con récord mundial + promesa de 'secreto contra el envejecimiento': la gente lo comparte y comenta su edad. ScienceDaily volvió a difundir el estudio el 22 nov, así que está circulando ahora.",
-   "dato_principal": "Jonathan, tortuga gigante de Aldabra (Aldabrachelys gigantea), tiene ~194 años (nacida hacia 1832) y vive en la isla de Santa Elena, en el Atlántico Sur, en los jardines de Plantation House; llegó de las Seychelles en 1882 ya adulta. El estudio (Science Advances, 7 oct 2026; Vaisvil, Gerlach, Clark y otros; organización Kallel y Peterhouse, Cambridge) halló 287 variantes genéticas propias en genes de reparación del ADN, telómeros, inflamación y cáncer; además, la metilación (los 'interruptores' químicos) de genes de las mitocondrias está más ordenada de lo esperado para su edad. Cuidado: es un solo animal, el ADN salió de raspados de mejilla y no prueba causa; decir 'podría explicar', no 'el secreto es'.",
-   "escena_3d": "Tortuga gigante 3D caminando mientras detrás pasa una línea del tiempo (1832 → foco 1879 → llega a Santa Elena 1882 → Apolo 11 1969 → hoy); zoom a una célula y una doble hélice con 'interruptores' que se encienden y apagan; contador 194 AÑOS y 287 VARIANTES.",
-   "fuentes": [
-    "https://www.livescience.com/animals/turtles-tortoises/scientists-discover-the-genetic-secrets-that-may-have-helped-jonathan-the-tortoise-live-to-194-years-old",
-    "https://scitechdaily.com/the-worlds-oldest-land-animal-has-a-remarkable-anti-aging-secret-hidden-in-its-dna/"
-   ]
-  },
-  {
-   "numero": 3,
    "tema": "Mandaron un mensaje a través de una pared usando solo gravedad: un contrapeso de elevador de 1.8 toneladas y un gravímetro en un baño (Universidad de Queensland, Science Advances, 19 nov 2026)",
    "gancho": "Este elevador viejo acaba de mandar un mensaje que ninguna pared del mundo puede bloquear.",
    "por_que_viral": "Suena a ciencia ficción ('comunicación imposible de bloquear'), la imagen es absurda y memorable (elevador viejo y sensor en un baño) y el contraste de cifras engancha: una hora para mandar una palabra.",
@@ -40,7 +28,43 @@
    ]
   },
   {
+   "numero": 3,
+   "tema": "Jonathan, la tortuga de 194 años: el animal terrestre vivo más viejo del mundo guarda 'interruptores' genéticos que casi no han envejecido (Science Advances, oct 2026)",
+   "gancho": "Esta tortuga nació en 1832, antes de que existiera el foco… y su ADN todavía se porta como si fuera joven.",
+   "por_que_viral": "Animal entrañable con récord mundial + promesa de 'secreto contra el envejecimiento': la gente lo comparte y comenta su edad. ScienceDaily volvió a difundir el estudio el 22 nov, así que está circulando ahora.",
+   "dato_principal": "Jonathan, tortuga gigante de Aldabra (Aldabrachelys gigantea), tiene ~194 años (nacida hacia 1832) y vive en la isla de Santa Elena, en el Atlántico Sur, en los jardines de Plantation House; llegó de las Seychelles en 1882 ya adulta. El estudio (Science Advances, 7 oct 2026; Vaisvil, Gerlach, Clark y otros; organización Kallel y Peterhouse, Cambridge) halló 287 variantes genéticas propias en genes de reparación del ADN, telómeros, inflamación y cáncer; además, la metilación (los 'interruptores' químicos) de genes de las mitocondrias está más ordenada de lo esperado para su edad. Cuidado: es un solo animal, el ADN salió de raspados de mejilla y no prueba causa; decir 'podría explicar', no 'el secreto es'.",
+   "escena_3d": "Tortuga gigante 3D caminando mientras detrás pasa una línea del tiempo (1832 → foco 1879 → llega a Santa Elena 1882 → Apolo 11 1969 → hoy); zoom a una célula y una doble hélice con 'interruptores' que se encienden y apagan; contador 194 AÑOS y 287 VARIANTES.",
+   "fuentes": [
+    "https://www.livescience.com/animals/turtles-tortoises/scientists-discover-the-genetic-secrets-that-may-have-helped-jonathan-the-tortoise-live-to-194-years-old",
+    "https://scitechdaily.com/the-worlds-oldest-land-animal-has-a-remarkable-anti-aging-secret-hidden-in-its-dna/"
+   ]
+  },
+  {
    "numero": 4,
+   "tema": "Los 'lagos de la muerte' del fondo del mar Rojo: albercas de salmuera a 1,770 m donde cualquier animal que entra queda aturdido o muere (Universidad de Miami, NEOM Brine Pools)",
+   "gancho": "En el fondo del mar Rojo hay lagos… dentro del mar. Y el pez que se mete, no sale.",
+   "por_que_viral": "'Lago bajo el mar' es una imagen que la gente no cree que exista, con un toque de terror (animales que mueren al entrar) y depredadores que lo usan para cazar. ScienceDaily lo volvió a difundir el 25 nov 2026, así que está circulando.",
+   "dato_principal": "En el golfo de Aqaba (extremo norte del mar Rojo), a más de 1,770 m de profundidad y a solo ~2 km de la costa, hay albercas de salmuera muy salada y sin oxígeno; la más grande mide ~10,000 m². Las encontró un robot submarino del buque OceanXplorer; equipo de Sam Purkis (Universidad de Miami) con KAUST y otros. Purkis: cualquier animal que se mete 'queda aturdido o muere'; peces, camarones y anguilas cazan en la orilla. Sus sedimentos guardan el registro de 1,000 años: grandes inundaciones cada ~25 años y tsunamis cada ~100. Cuidado: el estudio es de 2022 (Communications Earth & Environment); no presentarlo como descubrimiento de esta semana. No hay cifras de salinidad en las fuentes.",
+   "escena_3d": "Descenso en la oscuridad del mar con la luz de un robot; aparece un 'lago' brillante con orilla y pequeñas olas en el fondo marino; un pez entra y se queda inmóvil; camarones esperando en la orilla; corte a capas de sedimento con marcas de tsunamis; profundímetro '1,770 M'.",
+   "fuentes": [
+    "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+    "https://www.livescience.com/new-brine-pools-found-in-red-sea"
+   ]
+  },
+  {
+   "numero": 5,
+   "tema": "Cultivaron papas en 'tierra de la Luna' y salieron igual que en la Tierra… con un truco: composta de lombriz (Oregon State University, npj Microgravity, 19 nov 2026)",
+   "gancho": "Los astronautas del futuro van a comer papas sembradas en la Luna… y ya sabemos que crecen.",
+   "por_que_viral": "La papa es un alimento que todos conocen en Latinoamérica (y viene de los Andes); la referencia a 'The Martian' es inmediata; dato práctico con giro: la tierra lunar sola las enferma, pero con composta de lombriz rinden igual que en la Tierra.",
+   "dato_principal": "Oregon State University (David Handy y Aymeric Goyer, con apoyo de la NASA) sembró papas en 5 simulantes de suelo lunar (mares de basalto y tierras altas). Solas, las plantas se atrofian (el regolito no tiene nitrógeno y trae metales; hubo acumulación de cobre). Con 30 % de composta de lombriz, el crecimiento y el rendimiento fueron comparables a los de tierra de Oregón. Los glicoalcaloides tóxicos (solanina) no subieron de forma significativa. Revista npj Microgravity, 19 nov 2026. Cuidado: es suelo simulado, no lunar real; los tubérculos fueron chicos (<10 g, macetas pequeñas) y Goyer dijo que 'todavía no las han probado'.",
+   "escena_3d": "Invernadero en un cráter lunar con la Tierra en el cielo; corte del suelo gris donde crecen raíces y aparecen tubérculos; comparación lado a lado: maceta solo con regolito (planta marchita, alerta 'COBRE') vs. maceta con 30 % de composta (planta sana); una papa gira en primer plano.",
+   "fuentes": [
+    "https://www.eurekalert.org/news-releases/1151844",
+    "https://sci.news/biology/moon-potatoes-15211.html"
+   ]
+  },
+  {
+   "numero": 6,
    "tema": "BepiColombo ya orbita Mercurio: 8 años de viaje, 9 sobrevuelos y un fallo en el último frenado, y aun así lo logró (ESA y JAXA, 21 nov 2026)",
    "gancho": "Llegar a Mercurio es más difícil que salir del sistema solar… y esta nave lo acaba de lograr después de 8 años.",
    "por_que_viral": "Drama con final feliz (el motor se apagó antes de tiempo y entró en modo seguro, pero quedó en órbita estable), dato contraintuitivo ('cuesta más frenar hacia el Sol que escapar') y fecha próxima: las dos naves se separan hacia el 9 de diciembre. Misión europeo-japonesa poco contada en español.",
@@ -52,7 +76,7 @@
    ]
   },
   {
-   "numero": 5,
+   "numero": 7,
    "tema": "La pareja de cuásares más antigua: dos agujeros negros gigantes encendidos solo 900 millones de años después del Big Bang (Nāpōwawāʻenakaulua, JWST + Gemini Norte)",
    "gancho": "Al principio del universo había dos monstruos devorándolo todo… uno junto al otro.",
    "por_que_viral": "Récord + agujeros negros + JWST, la combinación que más retiene en ciencia; el nombre hawaiano es curioso y los agujeros negros 'no deberían existir tan pronto', un misterio que genera debate. ScienceDaily lo volvió a difundir el 23 nov.",
@@ -64,19 +88,7 @@
    ]
   },
   {
-   "numero": 6,
-   "tema": "Cuando Arabia era verde: hipopótamos junto a un lago en pleno desierto y puntas de piedra con rastros de veneno hace ~125,000 años (Mundafan, revista Science)",
-   "gancho": "Hace 125,000 años, en uno de los desiertos más secos del planeta, había hipopótamos… y humanos cazándolos con veneno.",
-   "por_que_viral": "Contraste brutal (desierto hoy, lago con hipopótamos ayer) y 'armas envenenadas' de la prehistoria: muy compartible. Publicado en Science el 12 nov y difundido toda la semana.",
-   "dato_principal": "En Uruq al-Julaybah, a orillas del antiguo lago Mundafan (~340 km², hasta 29 m de profundidad) en el Rub' al-Jali, Arabia Saudita, se hallaron 5,511 herramientas de piedra y más de 500 fósiles: hipopótamos, búfalos extintos de cuernos largos, avestruces, camellos, gacelas y órices. Varias puntas tienen biomarcadores de Acokanthera schimperi, un árbol usado para veneno de flechas, además de daños de impacto y restos de resina. Liderado por la Comisión de Patrimonio saudí, KAUST y Griffith (Chris Clarkson). Cuidado: los 125,000 años son la fecha del lago (las herramientas estaban en la superficie) y el veneno es 'posible', no seguro.",
-   "escena_3d": "Time-lapse del mismo paisaje: dunas actuales que se transforman en lago verde con palmeras y juncos; hipopótamos en el agua; punta de piedra que gira en primer plano con brillo en el residuo; mapa de Arabia con el lago marcado.",
-   "fuentes": [
-    "https://www.smithsonianmag.com/smart-news/ancient-humans-may-have-hunted-hippos-with-poisoned-spear-tips-on-the-arabian-peninsula-125000-years-ago-180989880/",
-    "https://www.eurekalert.org/news-releases/1151234"
-   ]
-  },
-  {
-   "numero": 7,
+   "numero": 8,
    "tema": "NASA rompió la barrera del sonido con las hélices del próximo helicóptero de Marte (JPL, Mach 1.08, +30 % de sustentación)",
    "gancho": "En Marte el aire es tan delgado que para volar hay que girar las hélices más rápido que el sonido… y la NASA ya lo logró.",
    "por_que_viral": "'Más rápido que el sonido' + Marte + sucesor de Ingenuity: muy visual y fácil de explicar. ScienceDaily lo volvió a difundir el 17 nov.",
@@ -85,18 +97,6 @@
    "fuentes": [
     "https://www.jpl.nasa.gov/news/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/",
     "https://www.space.com/astronomy/mars/watch-nasas-new-mars-helicopter-rotor-break-the-speed-of-sound-video"
-   ]
-  },
-  {
-   "numero": 8,
-   "tema": "Euclid, el telescopio que busca materia oscura, descubrió por casualidad su primer cometa: C/2026 S1 (Euclid), hallado por un estudiante de doctorado con su propio software",
-   "gancho": "Un telescopio hecho para buscar materia oscura encontró algo que nadie esperaba: un cometa nuevo.",
-   "por_que_viral": "Giro de 'buscaban una cosa y encontraron otra', héroe joven (un estudiante con su propio programa) y cometas que se ven increíbles en 3D. ESA y ScienceDaily lo difundieron el 24–25 nov.",
-   "dato_principal": "Las imágenes son del 16 al 24 de septiembre de 2026: 16 exposiciones en 5 campos del Euclid Deep Field North. El Minor Planet Center lo confirmó el 8 de octubre. Lo detectó Mikko Pöntinen, estudiante de doctorado de la Universidad de Helsinki, con un software que él creó. Está a ~1,300 millones de km de la Tierra, muy por encima del plano de los planetas, y su órbita dura miles de años. Cuidado: el periodo aún se afina, no hay artículo revisado por pares y la confirmación es de octubre (la difusión es de esta semana).",
-   "escena_3d": "Euclid flotando en el espacio profundo; entre miles de galaxias una manchita borrosa se mueve cuadro a cuadro hasta convertirse en un cometa con cola; órbita inclinada que sale del plano de los planetas.",
-   "fuentes": [
-    "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-    "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
    ]
   }
  ]
