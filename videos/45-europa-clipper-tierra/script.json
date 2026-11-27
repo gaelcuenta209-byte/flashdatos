@@ -1,0 +1,12 @@
+{
+ "id": "45",
+ "title": "Europa Clipper pasa rozando la Tierra rumbo a Júpiter",
+ "segments": [
+  {"id": "gancho", "parts": [{"say": "Este jueves tres de diciembre, una nave de la NASA va a pasar más cerca de la Tierra que muchos satélites… y no se va a quedar.", "cap": "Este jueves 3 de DICIEMBRE, una nave de la NASA va a pasar más cerca de la Tierra que muchos SATÉLITES… y no se va a QUEDAR."}]},
+  {"id": "nave", "parts": [{"say": "Es Europa Clipper, va rumbo a Júpiter, y para llegar necesita un empujón.", "cap": "Es EUROPA CLIPPER, va rumbo a JÚPITER, y para llegar necesita un EMPUJÓN."}]},
+  {"id": "resortera", "parts": [{"say": "Pasará a unos tres mil doscientos kilómetros, y la gravedad de la Tierra la lanzará como una resortera: sale más rápido y ahorra combustible.", "cap": "Pasará a unos 3,200 KM, y la gravedad de la Tierra la lanzará como una RESORTERA: sale más RÁPIDO y ahorra combustible."}]},
+  {"id": "marte", "parts": [{"say": "Ya lo hizo con Marte en dos mil veinticinco. Este será su último empujón.", "cap": "Ya lo hizo con MARTE en 2025. Este será su ÚLTIMO empujón."}]},
+  {"id": "destino", "parts": [{"say": "En dos mil treinta llegará a Júpiter para estudiar Europa, una luna con un océano de agua salada bajo el hielo.", "cap": "En 2030 llegará a JÚPITER para estudiar EUROPA, una luna con un OCÉANO de agua salada bajo el HIELO."}]},
+  {"id": "cierre", "parts": [{"say": "Es uno de los mejores lugares para buscar vida fuera de la Tierra, y para llegar ahí, primero tiene que pasar por aquí.", "cap": "Es uno de los mejores lugares para buscar VIDA fuera de la Tierra, y para llegar ahí, primero tiene que pasar por AQUÍ."}]}
+ ]
+}
