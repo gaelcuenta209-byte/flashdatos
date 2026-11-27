@@ -867,6 +867,20 @@
    "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-44/FlashDatos_44.mp4",
    "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-44/FlashDatos_44_portada.jpg",
    "nota": "Video del día del 2026-11-26 (idea 1 del reporte; elegida = null). 49.6 s. Voz: ElevenLabs flow FzWAjM6tIuIujlxqLfc3, toma 1 (132w8ypf96uyR4VskcUn), acelerada 1.1x. No se usó el tamaño de Faetón (5 vs 6 km según la fuente). Metricool sigue con el límite del plan Free hasta el 1 dic."
+  },
+  {
+   "numero": 45,
+   "tema": "Europa Clipper (NASA) pasa el jueves 3 dic 2026 a ~3,200 km de la Tierra (más cerca que los satélites GPS, a 20,200 km) en su segunda y última asistencia gravitatoria (la primera fue Marte, 1 mar 2025); lanzada en oct 2024, llega a Júpiter en abril de 2030 para estudiar Europa y su océano de agua salada bajo el hielo",
+   "carpeta": "videos/45-europa-clipper-tierra",
+   "titulo": "⚡ Una nave de la NASA pasará más cerca que los SATÉLITES… y no se va a quedar 🚀 #shorts",
+   "titulo_tiktok": "⚡ Una nave de la NASA rozará la Tierra este jueves 🚀",
+   "descripcion": "⚡ Este jueves 3 de diciembre, la nave Europa Clipper de la NASA pasará a unos 3,200 km de la Tierra, más cerca que muchos satélites. Usará nuestra gravedad como resortera para ganar velocidad rumbo a Júpiter, donde en 2030 estudiará Europa, una luna con un océano de agua salada bajo el hielo.\nFuente: NASA (science.nasa.gov/mission/europa-clipper/earth-flyby).\n#ciencia #espacio #NASA #EuropaClipper #jupiter #astronomia",
+   "fecha_programada": "2026-11-27 17:00 (CDMX)",
+   "estado": "esperando aprobación",
+   "media_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-45/FlashDatos_45.mp4",
+   "portada_url": "https://github.com/gaelcuenta209-byte/flashdatos/releases/download/video-45/FlashDatos_45_portada.jpg",
+   "serie": null,
+   "nota": "Video del día del 2026-11-27 (idea 1 del reporte; elegida = null). 41.2 s. Voz: ElevenLabs flow VjvLL0tMZSlepif3Aj8b, toma 1 (r4xJZV8XWoty2P5dS1vB), acelerada 1.1x. No se usó la hora del acercamiento (las fuentes no coinciden) ni el número de instrumentos. Metricool sigue con el límite del plan Free hasta el 1 dic."
   }
  ]
 }
