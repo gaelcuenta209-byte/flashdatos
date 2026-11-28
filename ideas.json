@@ -1,18 +1,18 @@
 {
- "actualizado": "2026-11-27",
+ "actualizado": "2026-11-28",
  "pedidos": [],
  "elegida": null,
  "ideas": [
   {
    "numero": 1,
-   "tema": "Europa Clipper pasa rozando la Tierra el 3 de diciembre de 2026: a ~3,200 km, más cerca que muchos satélites, para tomar impulso hacia Júpiter (NASA)",
-   "gancho": "El jueves 3 de diciembre una nave de la NASA va a pasar más cerca de la Tierra que muchos satélites… y no se va a quedar.",
-   "por_que_viral": "Evento con fecha dentro de una semana (en TikTok las noticias con fecha son las que mejor nos van: Swift 5,332, Voyager 4,694, Hera 4,284). La 'resortera gravitacional' es contraintuitiva y muy visual, y va a buscar vida en un océano escondido bajo el hielo de Europa.",
-   "dato_principal": "Acercamiento máximo el 3 dic 2026 sobre África Occidental, a unos 3,200 km (NASA; Universe Today da 3,140–3,450 km). Junto con el sobrevuelo de Marte (1 mar 2025, a 884 km) le da la energía para llegar a Júpiter; entra en órbita en abril de 2030 (11 abr según Wikipedia). Los 11 instrumentos se encienden para calibrarse con la Tierra. Lanzada en octubre de 2024. Cuidado: la hora no coincide entre fuentes (3:14 p. m. EST según Universe Today, 4:15 p. m. EST según Wikipedia; o sea 14:14 o 15:15 en CDMX); la NASA no da hora. Solo se vería con telescopio desde África y el sur de Europa, no desde México.",
-   "escena_3d": "Tierra 3D de día con la nave (paneles enormes de 30 m) llegando en curva; la trayectoria se dobla al pasar sobre África y la nave sale disparada; contador '3,200 KM' y comparación con la órbita de satélites; corte a Júpiter y la luna Europa con grietas de hielo y océano debajo; fecha '3 DIC'.",
+   "tema": "El telescopio Roman de la NASA muestra sus primeras imágenes el lunes 7 de diciembre de 2026: campo infrarrojo 100 veces mayor que el del Hubble, cámara de 300 megapíxeles y puedes 'adoptar' un píxel (NASA, AGU San Francisco)",
+   "gancho": "El 7 de diciembre la NASA va a enseñar las primeras fotos de un telescopio que ve 100 veces más cielo que el Hubble… y uno de esos píxeles puede ser tuyo.",
+   "por_que_viral": "Evento con fecha dentro de 9 días (en TikTok las noticias con fecha son las que mejor nos van: Swift 5,332, Voyager 4,694, Hera 4,284). Tiene algo para hacer ('adopta un píxel', llamada a la acción para comentar y compartir) y el contraste Hubble vs. Roman se entiende al instante. Sale antes de las imágenes, así que el video llega cuando la gente empieza a buscar.",
+   "dato_principal": "La NASA presenta las primeras imágenes del Nancy Grace Roman el lunes 7 dic 2026 a las 3:30 p. m. ET (14:30 en CDMX) en la reunión de la AGU en San Francisco, con transmisión en vivo; se publican en nasa.gov/RomanFirstImages (anuncio del 17 nov). Despegó el 30 ago 2026 en un Falcon Heavy desde Kennedy y opera cerca del punto L2, a ~1.5 millones de km. Su campo infrarrojo es 100 veces mayor que el del instrumento infrarrojo del Hubble. Estudia la energía oscura, la materia oscura y los exoplanetas, y lleva un coronógrafo de prueba. 'Adopta un píxel': se deja un correo en la página de la NASA (un píxel por correo) y al salir las imágenes recibes tu número de píxel y una tarjeta digital. Cuidado: los 300 megapíxeles, el costo (~4,300 millones de dólares) y la meta de ~100,000 planetas vienen de títulos de PetaPixel y Live Science, no de las dos fuentes principales; verificarlos con la NASA antes de usarlos. No mostrar imágenes 'reales' antes del 7 dic: animar el telescopio, no inventar sus fotos.",
+   "escena_3d": "El telescopio Roman 3D (espejo de 2.4 m, parasol plateado) flotando cerca de L2 con la Tierra pequeña al fondo; un recuadro chico 'HUBBLE' se expande 100 veces hasta 'ROMAN' sobre un campo de galaxias; zoom a una cuadrícula de píxeles donde uno se ilumina en amarillo con 'TU PÍXEL'; fecha '7 DIC'.",
    "fuentes": [
-    "https://science.nasa.gov/mission/europa-clipper/mission-timeline",
-    "https://www.universetoday.com/articles/slingshot-earth-nasas-europa-clipper-will-gain-speed-and-tests-its-instruments-during-its-earth-flyb"
+    "https://dailygalaxy.com/2026/11/nasas-telescope-to-reveal-its-first-images/",
+    "https://www.karmactive.com/nasa-roman-space-telescope-first-images-dec-7-2026/"
    ]
   },
   {
@@ -29,6 +29,18 @@
   },
   {
    "numero": 3,
+   "tema": "BepiColombo ya orbita Mercurio: 8 años de viaje, 9 sobrevuelos y un fallo en el último frenado, y aun así lo logró (ESA y JAXA, 21 nov 2026)",
+   "gancho": "Llegar a Mercurio es más difícil que salir del sistema solar… y esta nave lo acaba de lograr después de 8 años.",
+   "por_que_viral": "Drama con final feliz (el motor se apagó antes de tiempo y entró en modo seguro, pero quedó en órbita estable), dato contraintuitivo ('cuesta más frenar hacia el Sol que escapar') y fecha próxima: las dos naves se separan hacia el 9 de diciembre. Misión europeo-japonesa poco contada en español.",
+   "dato_principal": "Lanzada el 20 oct 2018, BepiColombo (ESA y JAXA) hizo 9 sobrevuelos para frenar (1 de la Tierra, 2 de Venus y 6 de Mercurio). El 21 nov 2026 empezó a las 18:24 GMT un encendido de 37 minutos para entrar en órbita; un fallo de software lo cortó tras ~3/4 de lo planeado y la nave entró en modo seguro, pero quedó en órbita (75 h en vez de 58 h). El 23 nov ESA dijo que está 'a salvo y en una órbita estable'. Hacia el 9 dic se separan Mio (japonesa) y MPO (europea); MPO llega a su órbita polar final el 10 mar 2027 y la ciencia empieza el 6 abr 2027. Cuidado: la página en vivo de ESA no se pudo abrir hoy; los sobrevuelos y el 23 nov salen de Space.com y EarthSky.",
+   "escena_3d": "Mercurio gris lleno de cráteres con el Sol enorme al fondo; nave con paneles y escudo térmico que llega en espiral; motor que se apaga antes de tiempo (alerta roja 'MODO SEGURO'); órbita que se dibuja larga (75 h vs. 58 h); separación de las dos sondas.",
+   "fuentes": [
+    "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+    "https://earthsky.org/space/bepicolombo-mission-mercury/"
+   ]
+  },
+  {
+   "numero": 4,
    "tema": "Jonathan, la tortuga de 194 años: el animal terrestre vivo más viejo del mundo guarda 'interruptores' genéticos que casi no han envejecido (Science Advances, oct 2026)",
    "gancho": "Esta tortuga nació en 1832, antes de que existiera el foco… y su ADN todavía se porta como si fuera joven.",
    "por_que_viral": "Animal entrañable con récord mundial + promesa de 'secreto contra el envejecimiento': la gente lo comparte y comenta su edad. ScienceDaily volvió a difundir el estudio el 22 nov, así que está circulando ahora.",
@@ -40,7 +52,7 @@
    ]
   },
   {
-   "numero": 4,
+   "numero": 5,
    "tema": "Los 'lagos de la muerte' del fondo del mar Rojo: albercas de salmuera a 1,770 m donde cualquier animal que entra queda aturdido o muere (Universidad de Miami, NEOM Brine Pools)",
    "gancho": "En el fondo del mar Rojo hay lagos… dentro del mar. Y el pez que se mete, no sale.",
    "por_que_viral": "'Lago bajo el mar' es una imagen que la gente no cree que exista, con un toque de terror (animales que mueren al entrar) y depredadores que lo usan para cazar. ScienceDaily lo volvió a difundir el 25 nov 2026, así que está circulando.",
@@ -52,7 +64,7 @@
    ]
   },
   {
-   "numero": 5,
+   "numero": 6,
    "tema": "Cultivaron papas en 'tierra de la Luna' y salieron igual que en la Tierra… con un truco: composta de lombriz (Oregon State University, npj Microgravity, 19 nov 2026)",
    "gancho": "Los astronautas del futuro van a comer papas sembradas en la Luna… y ya sabemos que crecen.",
    "por_que_viral": "La papa es un alimento que todos conocen en Latinoamérica (y viene de los Andes); la referencia a 'The Martian' es inmediata; dato práctico con giro: la tierra lunar sola las enferma, pero con composta de lombriz rinden igual que en la Tierra.",
@@ -61,18 +73,6 @@
    "fuentes": [
     "https://www.eurekalert.org/news-releases/1151844",
     "https://sci.news/biology/moon-potatoes-15211.html"
-   ]
-  },
-  {
-   "numero": 6,
-   "tema": "BepiColombo ya orbita Mercurio: 8 años de viaje, 9 sobrevuelos y un fallo en el último frenado, y aun así lo logró (ESA y JAXA, 21 nov 2026)",
-   "gancho": "Llegar a Mercurio es más difícil que salir del sistema solar… y esta nave lo acaba de lograr después de 8 años.",
-   "por_que_viral": "Drama con final feliz (el motor se apagó antes de tiempo y entró en modo seguro, pero quedó en órbita estable), dato contraintuitivo ('cuesta más frenar hacia el Sol que escapar') y fecha próxima: las dos naves se separan hacia el 9 de diciembre. Misión europeo-japonesa poco contada en español.",
-   "dato_principal": "Lanzada el 20 oct 2018, BepiColombo (ESA y JAXA) hizo 9 sobrevuelos para frenar (1 de la Tierra, 2 de Venus y 6 de Mercurio). El 21 nov 2026 empezó a las 18:24 GMT un encendido de 37 minutos para entrar en órbita; un fallo de software lo cortó tras ~3/4 de lo planeado y la nave entró en modo seguro, pero quedó en órbita (75 h en vez de 58 h). El 23 nov ESA dijo que está 'a salvo y en una órbita estable'. Hacia el 9 dic se separan Mio (japonesa) y MPO (europea); MPO llega a su órbita polar final el 10 mar 2027 y la ciencia empieza el 6 abr 2027. Cuidado: la página en vivo de ESA no se pudo abrir hoy; los sobrevuelos y el 23 nov salen de Space.com y EarthSky.",
-   "escena_3d": "Mercurio gris lleno de cráteres con el Sol enorme al fondo; nave con paneles y escudo térmico que llega en espiral; motor que se apaga antes de tiempo (alerta roja 'MODO SEGURO'); órbita que se dibuja larga (75 h vs. 58 h); separación de las dos sondas.",
-   "fuentes": [
-    "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
-    "https://earthsky.org/space/bepicolombo-mission-mercury/"
    ]
   },
   {
