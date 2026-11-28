@@ -1,0 +1,12 @@
+{
+ "id": "46",
+ "title": "El telescopio Roman enseña sus primeras imágenes el 7 de diciembre",
+ "segments": [
+  {"id": "gancho", "parts": [{"say": "El siete de diciembre, la NASA va a enseñar las primeras fotos de un telescopio que ve cien veces más cielo que el Hubble… y uno de esos píxeles puede ser tuyo.", "cap": "El 7 de DICIEMBRE, la NASA va a enseñar las primeras fotos de un telescopio que ve 100 VECES más cielo que el HUBBLE… y uno de esos PÍXELES puede ser TUYO."}]},
+  {"id": "roman", "parts": [{"say": "Se llama Roman. Despegó en agosto en un Falcon Heavy y ya está a un millón y medio de kilómetros de la Tierra.", "cap": "Se llama ROMAN. Despegó en AGOSTO en un Falcon Heavy y ya está a 1.5 MILLONES de km de la Tierra."}]},
+  {"id": "camara", "parts": [{"say": "Su espejo mide lo mismo que el del Hubble, dos metros cuarenta, pero su cámara de trescientos megapíxeles capta en una sola foto el detalle de cien fotos del Hubble.", "cap": "Su espejo mide lo mismo que el del Hubble, 2.4 METROS, pero su cámara de 300 MEGAPÍXELES capta en UNA sola foto el detalle de 100 FOTOS del Hubble."}]},
+  {"id": "mision", "parts": [{"say": "Va a buscar pistas de la energía oscura, lo que hace que el universo se expanda cada vez más rápido.", "cap": "Va a buscar pistas de la ENERGÍA OSCURA, lo que hace que el universo se expanda cada vez más RÁPIDO."}]},
+  {"id": "pixel", "parts": [{"say": "Y la NASA te deja adoptar un píxel: te registras en su página y, cuando salgan las imágenes, recibes un certificado con el número de tu píxel.", "cap": "Y la NASA te deja ADOPTAR UN PÍXEL: te registras en su página y, cuando salgan las imágenes, recibes un CERTIFICADO con el número de tu píxel."}]},
+  {"id": "cierre", "parts": [{"say": "Así que el siete de diciembre, cuando el universo aparezca en esa foto, un pedacito de él será tuyo.", "cap": "Así que el 7 de DICIEMBRE, cuando el universo aparezca en esa foto, un PEDACITO de él será TUYO."}]}
+ ]
+}
